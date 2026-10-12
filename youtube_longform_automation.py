@@ -183,6 +183,52 @@ def calculate_phrases_needed(target_minutes: int) -> int:
     return int(total_seconds / avg_phrase_duration)
 
 
+def repair_and_parse_json(content: str):
+    """Robustly parse JSON from LLM output with truncation repair and regex recovery."""
+    import re
+    cleaned = content.strip()
+    if "```json" in cleaned:
+        cleaned = cleaned.split("```json", 1)[1].split("```", 1)[0].strip()
+    elif "```" in cleaned:
+        cleaned = cleaned.split("```", 1)[1].split("```", 1)[0].strip()
+    
+    try:
+        return json.loads(cleaned)
+    except Exception:
+        pass
+
+    start = cleaned.find("[")
+    end = cleaned.rfind("]")
+    if start != -1 and end != -1 and end > start:
+        try:
+            return json.loads(cleaned[start:end+1])
+        except Exception:
+            pass
+
+    if start != -1:
+        sub = cleaned[start:]
+        last_brace = sub.rfind("}")
+        if last_brace != -1:
+            try:
+                return json.loads(sub[:last_brace+1] + "]")
+            except Exception:
+                pass
+
+    matches = re.findall(r'\{[^{}]*\"english\"[^{}]*\}', cleaned)
+    results = []
+    for m in matches:
+        try:
+            obj = json.loads(m)
+            if isinstance(obj, dict) and "english" in obj:
+                results.append(obj)
+        except Exception:
+            continue
+    if results:
+        return results
+
+    raise ValueError("Could not parse or repair JSON from content")
+
+
 def generate_phrases_for_longform(category_english: str, num_phrases: int) -> list:
     category_bengali = CATEGORIES_BENGALI[category_english]
     history = load_phrase_history()
@@ -269,7 +315,7 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion
                 elif "```" in content:
                     content = content.split("```")[1].split("```")[0].strip()
 
-                phrases = json.loads(content)
+                phrases = repair_and_parse_json(content)
                 filtered_phrases = filter_similar_phrases(phrases, history)
                 unique_phrases = []
                 for phrase in filtered_phrases:
@@ -287,6 +333,16 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion
         if len(all_phrases) < num_phrases:
             import time
             time.sleep(1)
+
+    if not all_phrases:
+        print(f"[content] AI generation produced 0 phrases. Loading fresh fallback phrases for '{category_english}'...")
+        all_phrases = get_fresh_fallback_phrases(category_english, num_phrases)
+    elif len(all_phrases) < num_phrases:
+        print(f"[content] Only {len(all_phrases)} phrases generated. Padding with fresh fallback phrases...")
+        extras = get_fresh_fallback_phrases(category_english, num_phrases - len(all_phrases))
+        for ex in extras:
+            if ex not in all_phrases:
+                all_phrases.append(ex)
 
     final_phrases = all_phrases[:num_phrases]
     if final_phrases:
@@ -458,15 +514,69 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
 
 # ============== AUDIO GENERATION ==============
 
-async def generate_single_audio(text: str, voice: str, output_path: str):
-    try:
-        import edge_tts
-        communicate = edge_tts.Communicate(text, voice)
-        await communicate.save(output_path)
-        return True
-    except Exception as e:
-        print(f"  TTS error: {e}")
+def generate_google_tts(text: str, voice_or_lang: str, output_path: str) -> bool:
+    """Fallback TTS using Google Translate TTS if Edge TTS fails."""
+    import urllib.request
+    import urllib.parse
+
+    lang_code = "en"
+    voice_lower = str(voice_or_lang).lower()
+    if voice_lower.startswith("en"):
+        lang_code = "en"
+    elif "-" in str(voice_or_lang):
+        part = str(voice_or_lang).split("-")[0].lower()
+        if part == "zh":
+            lang_code = "zh-CN"
+        elif part == "fil":
+            lang_code = "tl"
+        elif part == "nb":
+            lang_code = "no"
+        else:
+            lang_code = part
+    else:
+        lang_code = voice_lower
+
+    clean_text = text.replace("*", "").replace("#", "").strip()
+    if not clean_text:
         return False
+
+    try:
+        url = f"https://translate.google.com/translate_tts?ie=UTF-8&q={urllib.parse.quote(clean_text)}&tl={lang_code}&client=tw-ob"
+        req = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            }
+        )
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = resp.read()
+        if len(data) > 200:
+            with open(output_path, "wb") as f:
+                f.write(data)
+            return True
+    except Exception as e:
+        print(f"  Google TTS fallback error ({lang_code}): {e}")
+    return False
+
+
+async def generate_single_audio(text: str, voice: str, output_path: str, retries: int = 2):
+    """Generate audio using Edge TTS with automatic Google TTS fallback"""
+    import edge_tts
+    for attempt in range(retries):
+        try:
+            communicate = edge_tts.Communicate(text, voice)
+            await communicate.save(output_path)
+            if Path(output_path).exists() and Path(output_path).stat().st_size > 300:
+                return True
+        except Exception as e:
+            if attempt == retries - 1:
+                print(f"  Edge TTS notice ({e}), switching to Google TTS fallback...")
+
+    # Fallback to Google TTS
+    if generate_google_tts(text, voice, output_path):
+        return True
+
+    return False
 
 
 def generate_all_audio(phrases: list, output_dir: str):
@@ -502,7 +612,7 @@ def generate_all_audio(phrases: list, output_dir: str):
             "ffmpeg", "-y",
             "-i", str(english_file),
             "-i", str(lang_file),
-            "-filter_complex", f"[0:a][1:a]concat=n=2:v=0:a=1[out]",
+            "-filter_complex", f"[0:a]apad=pad_dur=0.5[a0];[a0][1:a]concat=n=2:v=0:a=1[out]",
             "-map", "[out]",
             str(combined_file)
         ]
