@@ -40,7 +40,6 @@ TARGET_DURATION_MINUTES = 20  # Target ~20-minute videos (120 unique phrases wit
 TARGET_PHRASES = 120  # Number of unique phrases to generate
 
 # English category names
-CATEGORIES_ENGLISH = list(CATEGORIES_BENGALI.keys())
 
 # Bengali translations
 CATEGORIES_BENGALI = {
@@ -98,6 +97,9 @@ CATEGORIES_BENGALI = {
     "Cultural Traditions": "সাংস্কৃতিক ঐতিহ্য",
 }
 
+
+# English category names (dynamic)
+CATEGORIES_ENGLISH = list(CATEGORIES_BENGALI.keys())
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
 LANG_VOICE = "bn-BD-NabanitaNeural"
