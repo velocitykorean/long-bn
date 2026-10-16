@@ -36,8 +36,8 @@ for d in [OUTPUT_DIR, IMAGES_DIR, AUDIO_DIR, VIDEO_DIR, HISTORY_DIR, LONGFORM_DI
 VIDEO_WIDTH = 1920
 VIDEO_HEIGHT = 1080
 FPS = 30
-TARGET_DURATION_MINUTES = 5
-TARGET_PHRASES = 120
+TARGET_DURATION_MINUTES = 20  # Target ~20-minute videos (120 unique phrases with natural pedagogical pauses)
+TARGET_PHRASES = 120  # Number of unique phrases to generate
 
 # English category names
 CATEGORIES_ENGLISH = [
@@ -99,86 +99,95 @@ VIRAL_STYLES = [
 ]
 
 # AI Model
-AI_MODEL = os.getenv("AI_MODEL")
-
-if not AI_MODEL:
-    raise ValueError(
-        "AI_MODEL not set! Please add 'AI_MODEL=gemini-fast' to your .env file."
-    )
+AI_MODEL = os.getenv("AI_MODEL") or "gemini-fast"
 
 
-# ============== PHRASE HISTORY MANAGEMENT ==============
+# ============== PHRASE HISTORY MANAGEMENT & DEDUPLICATION ==============
+
+def normalize_phrase_text(text: str) -> str:
+    """Normalize phrase text for strict duplicate detection (lowercase, alphanumeric only)."""
+    import re
+    return re.sub(r'[^a-z0-9\s]', '', text.lower()).strip()
+
+
+def get_phrase_words(text: str) -> set:
+    """Extract set of words for similarity check, ignoring trivial single-letter words."""
+    import re
+    words = set(re.findall(r'\b[a-z0-9]+\b', text.lower()))
+    return {w for w in words if len(w) > 1}
+
+
+def is_phrase_similar_fast(cand_words: set, reference_words_list: list, threshold: float = 0.65) -> bool:
+    """Fast similarity check using Jaccard word overlap to prevent rephrased duplicates."""
+    if not cand_words:
+        return False
+    cand_len = len(cand_words)
+    for ref_words in reference_words_list:
+        if not ref_words:
+            continue
+        intersection_len = len(cand_words.intersection(ref_words))
+        if intersection_len == 0:
+            continue
+        union_len = cand_len + len(ref_words) - intersection_len
+        if union_len > 0 and (intersection_len / union_len) >= threshold:
+            return True
+    return False
+
 
 def load_phrase_history():
+    """Load all previously generated phrases"""
     if PHRASE_HISTORY_FILE.exists():
-        with open(PHRASE_HISTORY_FILE, "r", encoding="utf-8-sig") as f:
-            return json.load(f)
+        try:
+            with open(PHRASE_HISTORY_FILE, "r", encoding="utf-8-sig") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"[history] Warning: Could not read history file ({e}), initializing fresh.")
     return {"phrases": [], "last_updated": None}
 
 
 def save_phrase_history(data):
+    """Save phrase history"""
     data["last_updated"] = datetime.now().isoformat()
     with open(PHRASE_HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 
-def is_phrase_used(english_phrase):
-    history = load_phrase_history()
-    english_lower = english_phrase.lower().strip()
-    for p in history.get("phrases", []):
-        if p.get("english", "").lower().strip() == english_lower:
-            return True
-    return False
-
-
-def is_phrase_similar(new_phrase, used_phrases, similarity_threshold=0.6):
-    new_words = set(new_phrase.lower().split())
-    if len(new_words) < 3:
-        for used in used_phrases:
-            if new_phrase.lower() in used.lower() or used.lower() in new_phrase.lower():
-                return True
-        return False
-    for used in used_phrases:
-        used_words = set(used.lower().split())
-        if len(new_words) == 0 or len(used_words) == 0:
-            continue
-        intersection = len(new_words.intersection(used_words))
-        union = len(new_words.union(used_words))
-        similarity = intersection / union if union > 0 else 0
-        if similarity >= similarity_threshold:
-            return True
-    return False
-
-
-def filter_similar_phrases(phrases, history, similarity_threshold=0.6):
-    used_phrases = [p.get("english", "") for p in history.get("phrases", [])]
-    unique_phrases = []
-    for phrase in phrases:
-        english_text = phrase.get("english", "")
-        if not is_phrase_similar(english_text, used_phrases, similarity_threshold):
-            unique_phrases.append(phrase)
-        else:
-            print(f"[filter] Skipping similar: {english_text[:50]}...")
-    return unique_phrases
-
-
 def add_phrases_to_history(phrases, category):
+    """Add new unique phrases to permanent history"""
     history = load_phrase_history()
+    existing_normalized = {
+        normalize_phrase_text(p.get("english", ""))
+        for p in history.get("phrases", [])
+        if p.get("english")
+    }
+    
+    added_count = 0
     for phrase in phrases:
-        history["phrases"].append({
-            "english": phrase["english"],
-            "bengali": phrase["bengali"],
-            "category": category,
-            "generated_at": datetime.now().isoformat()
-        })
+        norm = normalize_phrase_text(phrase.get("english", ""))
+        if norm and norm not in existing_normalized:
+            existing_normalized.add(norm)
+            foreign_val = phrase.get("bengali") or phrase.get("target") or phrase.get("foreign") or ""
+            history["phrases"].append({
+                "english": phrase["english"],
+                "bengali": foreign_val,
+                "category": category,
+                "generated_at": datetime.now().isoformat()
+            })
+            added_count += 1
+            
     save_phrase_history(history)
-    print(f"[history] Added {len(phrases)} phrases to history (total: {len(history['phrases'])})")
+    print(f"[history] Added {added_count} unique phrases to permanent history (total: {len(history['phrases'])})")
 
 
 # ============== CONTENT GENERATION ==============
 
 def calculate_phrases_needed(target_minutes: int) -> int:
-    avg_phrase_duration = 5.0
+    """
+    Calculate how many phrases needed for target video duration.
+    With pedagogical pauses (English ~2.5s + 1.2s pause + Foreign ~3.0s + 2.0s pause = ~8.7-10.0s per phrase):
+    For 20 minutes (1200 seconds): 1200 / 10 = ~120 phrases.
+    """
+    avg_phrase_duration = 10.0  # seconds
     total_seconds = target_minutes * 60
     return int(total_seconds / avg_phrase_duration)
 
@@ -214,7 +223,7 @@ def repair_and_parse_json(content: str):
             except Exception:
                 pass
 
-    matches = re.findall(r'\{[^{}]*\"english\"[^{}]*\}', cleaned)
+    matches = re.findall(r'\{[^{}]*"english"[^{}]*\}', cleaned)
     results = []
     for m in matches:
         try:
@@ -229,79 +238,124 @@ def repair_and_parse_json(content: str):
     raise ValueError("Could not parse or repair JSON from content")
 
 
-def generate_phrases_for_longform(category_english: str, num_phrases: int) -> list:
-    category_bengali = CATEGORIES_BENGALI[category_english]
-    history = load_phrase_history()
-    used_phrases = [p.get("english", "") for p in history.get("phrases", [])]
-    viral_style = random.choice(VIRAL_STYLES)
-    all_phrases = []
-    batch_size = 20
-    max_attempts = 5
+# Sub-themes to guarantee rich vocabulary variety and completely prevent repetitive phrasing
+SUBTHEMES = [
+    ("Everyday Essentials & Reactions", "Focus on high-frequency everyday expressions, quick reactions, and essential conversational starters"),
+    ("Questions & Interactive Dialogue", "Focus on asking questions, polite inquiries, seeking advice, and two-way conversations"),
+    ("Mindset & Encouragement", "Focus on motivating thoughts, affirmations, giving praise, and positive mindset"),
+    ("Native Idioms & Cultural Sayings", "Focus on natural idioms, colloquial expressions, common sayings, and local phrasing"),
+    ("Reflections & Emotional Honesty", "Focus on expressing personal feelings, sincere reflections, patience, and deeper thoughts"),
+    ("Practical Life Situations & Tips", "Focus on daily habits, real-world social scenarios, practical problem-solving, and actionable advice")
+]
 
-    for batch_num in range((num_phrases + batch_size - 1) // batch_size):
-        remaining = num_phrases - len(all_phrases)
-        current_batch_size = min(batch_size, remaining)
-        if current_batch_size <= 0:
+
+def generate_phrases_for_longform(category_english: str, num_phrases: int = TARGET_PHRASES) -> list:
+    """
+    Generate 100% unique bilingual phrases for a ~20-minute long-form video.
+    Guarantees NO repetition within the video and NO repetition across past videos.
+    """
+    import requests
+    import time
+
+    category_foreign = CATEGORIES_BENGALI[category_english]
+    history = load_phrase_history()
+    
+    # Pre-index all past phrases in history
+    history_phrases = history.get("phrases", [])
+    history_norm_set = {
+        normalize_phrase_text(p.get("english", ""))
+        for p in history_phrases
+        if p.get("english")
+    }
+    history_words_list = [
+        get_phrase_words(p.get("english", ""))
+        for p in history_phrases
+        if p.get("english")
+    ]
+    
+    # Category-specific past phrases (to feed directly into LLM exclusion prompts)
+    category_past_english = [
+        p.get("english", "")
+        for p in history_phrases
+        if p.get("category") == category_english and p.get("english")
+    ]
+
+    all_phrases = []
+    current_video_norm_set = set()
+    current_video_words_list = []
+
+    num_batches = len(SUBTHEMES)
+    target_per_batch = (num_phrases + num_batches - 1) // num_batches
+    max_batch_attempts = 4
+
+    print(f"[content] Starting generation of {num_phrases} UNIQUE phrases for '{category_english}' ({category_foreign})...")
+
+    for batch_idx, (theme_name, theme_guidance) in enumerate(SUBTHEMES):
+        remaining_needed = num_phrases - len(all_phrases)
+        if remaining_needed <= 0:
             break
-        for attempt in range(max_attempts):
+
+        batch_target = min(target_per_batch, remaining_needed)
+        request_count = min(30, batch_target + 10)
+        temp = round(0.85 + (batch_idx * 0.05), 2)
+        viral_style = random.choice(VIRAL_STYLES)
+
+        for attempt in range(max_batch_attempts):
+            remaining_for_batch = batch_target - (len(all_phrases) - (batch_idx * target_per_batch))
+            if remaining_for_batch <= 0 and len(all_phrases) >= (batch_idx + 1) * target_per_batch:
+                break
+
             try:
-                import requests
+                # Dynamic exclusion list:
+                # 1. Phrases generated in THIS video run (prevents repeating across batches!)
+                # 2. Recent phrases from past history for this category
+                current_generated_en = [p["english"] for p in all_phrases[-40:]]
+                recent_cat_past = category_past_english[-25:] if category_past_english else []
+                combined_exclusions = list(dict.fromkeys(current_generated_en + recent_cat_past))
+                
+                exclusion_note = ""
+                if combined_exclusions:
+                    exclusion_note = (
+                        f"\n\nCRITICAL: DO NOT use, repeat, or slightly rephrase any of these phrases:\n"
+                        + "\n".join(f"- {p}" for p in combined_exclusions[:40])
+                    )
+
+                prompt = f"""Create {request_count} UNIQUE {category_english} phrases for English speakers learning Bengali.
+
+Thematic Section {batch_idx + 1}/{num_batches}: {theme_name}
+Focus: {theme_guidance} related to {category_english}.
+Style: Natural, authentic {viral_style} format - phrasing real native speakers use.
+
+RULES FOR CLEAR, NATURAL SPEECH:
+1. Length: Short and clear (4 to 12 words per phrase).
+2. Natural pauses: Use commas (,) to indicate natural pauses for speaking practice (e.g. "Dream big, start small").
+3. Everyday vocabulary: Practical, high-frequency, modern conversational vocabulary.
+4. Variety: Varied grammatical forms (imperatives, questions, observations, short idioms).
+5. NO REPETITION: Every phrase must express a distinct idea.{exclusion_note}
+
+For each phrase provide:
+1. "english": English phrase with commas for natural pauses
+2. "bengali": Natural Bengali translation
+3. "pronunciation": Pronunciation guide (phonetic spelling for English speakers, e.g. "Hej, hur mår du?")
+
+Return STRICTLY a JSON array:
+[{"english": "...", "bengali": "...", "pronunciation": "..."}]"""
+
                 url = "https://gen.pollinations.ai/v1/chat/completions"
                 headers = {
                     "Authorization": f"Bearer {POLLINATIONS_API_KEY}",
                     "Content-Type": "application/json"
                 }
-                exclusion_note = ""
-                if used_phrases:
-                    recent = used_phrases[-30:] if len(used_phrases) > 30 else used_phrases
-                    exclusion_note = f"\n\nAVOID these phrases (already used): {recent}"
-
-                prompt = f"""Create {current_batch_size * 2} unique {category_english} phrases for English speakers learning Bengali.
-
-Style: Make each phrase feel like a {viral_style} - something people would want to share!
-
-CRITICAL RULE - ABSOLUTELY ZERO Bengali IN ENGLISH FIELD:
-The "english" field must contain ONLY English words. NO Bengali words at all.
-The "bengali" field contains the Bengali translation.
-The "pronunciation" field is phonetic English spelling approximating Bengali sounds.
-
-These are INSPIRATIONAL PHRASES about the topic, NOT language-learning tips.
-
-WRONG (teaching tip with Bengali words): {{"english": "Don't say 'kemon acho,' it means more than 'hello.'", ...}}
-WRONG (Bengali word in english): {{"english": "Use 'dhonnobad' for thank you", ...}}
-WRONG (lesson tip): {{"english": "Say 'nomoskar' for greeting", ...}}
-CORRECT (pure english phrase): {{"english": "Knowledge is the key to wisdom.", "bengali": "জ্ঞানই শক্তির চাবিকাঠি।", "pronunciation": "gyan-i shok-tir cha-bi-ka-thi"}}
-CORRECT: {{"english": "A wise person listens more than they speak.", "bengali": "জ্ঞানী ব্যক্তি কথা বলার চেয়ে বেশি শোনেন।", "pronunciation": "gyani bek-ti ko-tha bo-lar che-ye be-shi sho-nen"}}
-
-The english field MUST be 100% English words only. Absolutely NO Bengali words in the english field.
-
-IMPORTANT RULES FOR NATURAL SPEECH:
-1. Keep phrases SHORT (5-12 words max per language)
-2. Add NATURAL PAUSES using commas (e.g., "Dream big, start small")
-3. Use punctuation for breathing room in TTS
-4. Avoid long run-on sentences
-5. Each phrase should be speakable in 3-5 seconds
-6. Use everyday vocabulary - avoid exotic or rare words
-7. Avoid complex grammar - keep it simple and practical
-8. Vary sentence structure for natural flow
-
-For each phrase:
-1. English phrase (pure English, zero Bengali words) with commas for natural pauses
-2. Bengali translation
-3. Pronunciation guide (phonetic English spelling)
-
-Return as JSON array:
-[{{"english": "...", "bengali": "...", "pronunciation": "..."}}]
-
-IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion_note}"""
-
                 payload = {
                     "model": AI_MODEL,
                     "messages": [
-                        {"role": "system", "content": "You create INSPIRATIONAL PHRASES for YouTube language learning videos. CRITICAL: The 'english' field must be PURE ENGLISH with ZERO Bengali words - no Bengali words at all. These are universal inspirational phrases, NOT language learning tips. Bengali goes ONLY in the 'bengali' field."},
+                        {
+                            "role": "system",
+                            "content": f"You are an expert native Bengali language instructor creating viral, high-retention educational lessons for YouTube. Always return clean, valid JSON with fresh, non-repeating phrases."
+                        },
                         {"role": "user", "content": prompt}
                     ],
-                    "temperature": 1.0
+                    "temperature": temp
                 }
 
                 response = requests.post(url, headers=headers, json=payload, timeout=90)
@@ -309,210 +363,151 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion
 
                 data = response.json()
                 content = data["choices"][0]["message"]["content"].strip()
+                candidates = repair_and_parse_json(content)
 
-                if "```json" in content:
-                    content = content.split("```json")[1].split("```")[0].strip()
-                elif "```" in content:
-                    content = content.split("```")[1].split("```")[0].strip()
+                accepted_in_batch = 0
+                for cand in candidates:
+                    if len(all_phrases) >= num_phrases:
+                        break
 
-                phrases = repair_and_parse_json(content)
-                filtered_phrases = filter_similar_phrases(phrases, history)
-                unique_phrases = []
-                for phrase in filtered_phrases:
-                    if len(phrase["english"].split()) > 15:
+                    en_text = cand.get("english", "").strip()
+                    foreign_text = (cand.get("bengali") or cand.get("target") or cand.get("foreign") or "").strip()
+                    pron_text = (cand.get("pronunciation") or cand.get("pronunciation") or cand.get("pinyin") or cand.get("romaji") or cand.get("phonetic") or "").strip()
+
+                    if not en_text or not foreign_text:
                         continue
-                    if not is_phrase_used(phrase["english"]):
-                        unique_phrases.append(phrase)
-                for phrase in unique_phrases:
-                    if len(all_phrases) < num_phrases:
-                        all_phrases.append(phrase)
+
+                    # Word count constraints (avoid single words or long run-ons)
+                    words_count = len(en_text.split())
+                    if words_count < 2 or words_count > 15:
+                        continue
+
+                    norm_en = normalize_phrase_text(en_text)
+                    if not norm_en:
+                        continue
+
+                    # 1. Check exact match in current video (STRICT ZERO DUPLICATES in same video!)
+                    if norm_en in current_video_norm_set:
+                        continue
+
+                    # 2. Check exact match in past history
+                    if norm_en in history_norm_set:
+                        continue
+
+                    # 3. Check similarity against phrases already accepted in THIS video (prevents rephrasing)
+                    cand_words = get_phrase_words(en_text)
+                    if is_phrase_similar_fast(cand_words, current_video_words_list, threshold=0.65):
+                        continue
+
+                    # 4. Check similarity against past history
+                    if is_phrase_similar_fast(cand_words, history_words_list, threshold=0.70):
+                        continue
+
+                    # Candidate is verified 100% unique!
+                    valid_phrase = {
+                        "english": en_text,
+                        "bengali": foreign_text,
+                        "pronunciation": pron_text
+                    }
+                    current_video_norm_set.add(norm_en)
+                    current_video_words_list.append(cand_words)
+                    history_norm_set.add(norm_en)
+                    history_words_list.append(cand_words)
+                    all_phrases.append(valid_phrase)
+                    accepted_in_batch += 1
+
+                print(f"  [batch {batch_idx + 1}/{num_batches} '{theme_name}'] Added {accepted_in_batch} unique phrases (progress: {len(all_phrases)}/{num_phrases})")
+
+                if len(all_phrases) >= (batch_idx + 1) * target_per_batch or len(all_phrases) >= num_phrases:
+                    break
+
+            except Exception as e:
+                print(f"  [batch {batch_idx + 1}, attempt {attempt + 1}] Notice: {e}")
+                time.sleep(2)
+
+        time.sleep(0.5)
+
+    # Secondary booster pass: if any slots remain to reach num_phrases, generate fresh conversational phrases
+    attempts_booster = 0
+    while len(all_phrases) < num_phrases and attempts_booster < 4:
+        attempts_booster += 1
+        needed = num_phrases - len(all_phrases)
+        print(f"[content] Booster pass {attempts_booster}: Generating {needed} additional unique phrases...")
+        try:
+            current_generated_en = [p["english"] for p in all_phrases[-40:]]
+            prompt = f"""Generate {needed + 8} FRESH, UNIQUE conversational phrases for English speakers learning Bengali.
+Theme: Practical life, emotional intelligence, and interpersonal communication related to {category_english}.
+
+RULES:
+1. 3 to 12 words per phrase. Natural commas for pauses.
+2. DO NOT REPEAT ANY OF THESE:\n""" + "\n".join(f"- {p}" for p in current_generated_en) + f"""
+
+Return STRICTLY a JSON array:
+[{"english": "...", "bengali": "...", "pronunciation": "..."}]"""
+
+            url = "https://gen.pollinations.ai/v1/chat/completions"
+            headers = {"Authorization": f"Bearer {POLLINATIONS_API_KEY}", "Content-Type": "application/json"}
+            payload = {
+                "model": AI_MODEL,
+                "messages": [
+                    {"role": "system", "content": f"You are a native Bengali tutor. Return only valid JSON array of unique phrases."},
+                    {"role": "user", "content": prompt}
+                ],
+                "temperature": 1.05
+            }
+            resp = requests.post(url, headers=headers, json=payload, timeout=90)
+            resp.raise_for_status()
+            candidates = repair_and_parse_json(resp.json()["choices"][0]["message"]["content"])
+            
+            for cand in candidates:
                 if len(all_phrases) >= num_phrases:
                     break
-            except Exception as e:
-                print(f"[content] Batch {batch_num + 1}, Attempt {attempt + 1} failed: {e}")
-        if len(all_phrases) < num_phrases:
-            import time
-            time.sleep(1)
-
-    if not all_phrases:
-        print(f"[content] AI generation produced 0 phrases. Loading fresh fallback phrases for '{category_english}'...")
-        all_phrases = get_fresh_fallback_phrases(category_english, num_phrases)
-    elif len(all_phrases) < num_phrases:
-        print(f"[content] Only {len(all_phrases)} phrases generated. Padding with fresh fallback phrases...")
-        extras = get_fresh_fallback_phrases(category_english, num_phrases - len(all_phrases))
-        for ex in extras:
-            if ex not in all_phrases:
-                all_phrases.append(ex)
+                en_text = cand.get("english", "").strip()
+                foreign_text = (cand.get("bengali") or cand.get("target") or cand.get("foreign") or "").strip()
+                pron_text = (cand.get("pronunciation") or cand.get("pronunciation") or cand.get("pinyin") or cand.get("romaji") or cand.get("phonetic") or "").strip()
+                if not en_text or not foreign_text:
+                    continue
+                norm_en = normalize_phrase_text(en_text)
+                if not norm_en or norm_en in current_video_norm_set or norm_en in history_norm_set:
+                    continue
+                cand_words = get_phrase_words(en_text)
+                if is_phrase_similar_fast(cand_words, current_video_words_list, threshold=0.65):
+                    continue
+                
+                valid_phrase = {"english": en_text, "bengali": foreign_text, "pronunciation": pron_text}
+                current_video_norm_set.add(norm_en)
+                current_video_words_list.append(cand_words)
+                history_norm_set.add(norm_en)
+                history_words_list.append(cand_words)
+                all_phrases.append(valid_phrase)
+        except Exception as e:
+            print(f"  [booster attempt {attempts_booster}] Error: {e}")
+            time.sleep(2)
 
     final_phrases = all_phrases[:num_phrases]
     if final_phrases:
         add_phrases_to_history(final_phrases, category_english)
-    print(f"[content] Generated {len(final_phrases)} phrases for long-form video")
+
+    print(f"\n[content] Successfully generated {len(final_phrases)} 100% UNIQUE phrases for '{category_english}'")
     return final_phrases
 
-
-def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
-    all_fallbacks = {
-        "Motivation": [
-            {"english": "Believe in yourself.", "bengali": "নিজের উপর বিশ্বাস রাখো।", "pronunciation": "ni-jer u-por bi-shash ra-kho"},
-            {"english": "You are capable of amazing things.", "bengali": "তুমি অসাধারণ কিছু করতে সক্ষম।", "pronunciation": "tu-mi o-sa-dha-ron ki-chu kor-te sok-khom"},
-            {"english": "Dream big, start small.", "bengali": "বড় স্বপ্ন দেখো, ছোট থেকে শুরু করো।", "pronunciation": "bo-ro shop-no de-kho, chho-to the-ke shu-ru ko-ro"},
-            {"english": "Your future is created by your actions.", "bengali": "তোমার ভবিষ্যৎ তোমার কাজের দ্বারা তৈরি হয়।", "pronunciation": "to-mar bho-bi-shshot to-mar ka-jer do-ra ta-ri hoy"},
-            {"english": "Never give up on your dreams.", "bengali": "তোমার স্বপ্ন কখনো ছেড়ো না।", "pronunciation": "to-mar shop-no ko-kho-no chhe-ro na"},
-            {"english": "Small steps lead to big changes.", "bengali": "ছোট পদক্ষেপ বড় পরিবর্তন আনে।", "pronunciation": "chho-to po-dok-khep bo-ro po-ri-bor-ton a-ne"},
-            {"english": "You are stronger than you think.", "bengali": "তুমি যতটা ভাবো তার চেয়ে অনেক শক্তিশালী।", "pronunciation": "tu-mi jot-ta bha-bo tar che-ye o-nek shok-ti-sha-li"},
-        ],
-        "Love": [
-            {"english": "Love yourself first.", "bengali": "প্রথমে নিজেকে ভালোবাসো।", "pronunciation": "pro-tho-me ni-je-ke bha-lo-ba-so"},
-            {"english": "Love makes everything possible.", "bengali": "ভালোবাসা সবকিছু সম্ভব করে।", "pronunciation": "bha-lo-ba-sho kob-ki-chu shom-bhob ko-re"},
-            {"english": "My heart beats for you.", "bengali": "আমার হৃদয় তোমার জন্য স্পন্দিত হয়।", "pronunciation": "a-mar hri-doy to-mar jon-no spon-di-to hoy"},
-            {"english": "You are my everything.", "bengali": "তুমিই আমার সবকিছু।", "pronunciation": "tu-mi-i a-mar sob-ki-chu"},
-            {"english": "Together forever, hand in hand.", "bengali": "চিরদিন একসাথে, হাতে হাতে।", "pronunciation": "chi-ro-din ek-sa-the, ha-te ha-te"},
-        ],
-        "Success": [
-            {"english": "Success comes from hard work.", "bengali": "সাফল্য কঠোর পরিশ্রম থেকে আসে।", "pronunciation": "sa-phol-lo ko-thor po-ri-shrom the-ke a-she"},
-            {"english": "Keep going, you're getting there.", "bengali": "চলতে থাকো, তুমি সেখানে পৌঁছে যাচ্ছো।", "pronunciation": "chol-te tha-ko, tu-mi she-kha-ne pou-chhe ja-chho"},
-            {"english": "Winners never quit.", "bengali": "বিজয়ীরা কখনো হাল ছাড়ে না।", "pronunciation": "bi-jo-yi-ra ko-kho-no hal chha-re na"},
-            {"english": "Your effort will pay off.", "bengali": "তোমার প্রচেষ্টা ফল দেবে।", "pronunciation": "to-mar pro-chesh-ta phol de-be"},
-        ],
-        "Wisdom": [
-            {"english": "Knowledge is power.", "bengali": "জ্ঞানই শক্তি।", "pronunciation": "gyan-i shok-ti"},
-            {"english": "Learn from yesterday, live for today.", "bengali": "গতকাল থেকে শেখো, আজকের জন্য বাঁচো।", "pronunciation": "go-tokal the-ke she-kho, aj-ker jon-no ba-cho"},
-            {"english": "Think before you act.", "bengali": "কাজ করার আগে ভাবো।", "pronunciation": "kaj ko-rar a-ge bha-bo"},
-            {"english": "Experience is the best teacher.", "bengali": "অভিজ্ঞতা সেরা শিক্ষক।", "pronunciation": "o-bhig-gota she-ra shik-shok"},
-        ],
-        "Happiness": [
-            {"english": "Happiness is a choice.", "bengali": "সুখ একটি পছন্দ।", "pronunciation": "sukh e-ka-ta po-chon-do"},
-            {"english": "Find joy in the little things.", "bengali": "ছোট জিনিসে আনন্দ খুঁজে নাও।", "pronunciation": "chho-to ji-ni-she a-non-do khun-je na-o"},
-            {"english": "Smile, it makes others happy.", "bengali": "হাসো, এটি অন্যদের খুশি করে।", "pronunciation": "ha-so, e-ti on-no-der khu-shi ko-re"},
-            {"english": "Today is a gift.", "bengali": "আজ একটি উপহার।", "pronunciation": "aj e-ka-ta u-pa-har"},
-        ],
-        "Self Improvement": [
-            {"english": "Be better than yesterday.", "bengali": "গতকালের চেয়ে ভালো হও।", "pronunciation": "go-to-ka-ler che-ye bha-lo ho-o"},
-            {"english": "Grow through what you go through.", "bengali": "যা কিছু অতিক্রম করো, তা দিয়ে বেড়ে ওঠো।", "pronunciation": "ja ki-chu o-ti-krom ko-ro, ta di-ye be-re o-tho"},
-            {"english": "Invest in yourself daily.", "bengali": "প্রতিদিন নিজের মধ্যে বিনিয়োগ করো।", "pronunciation": "pro-ti-din ni-jer mo-dhye bi-ni-yog ko-ro"},
-        ],
-        "Gratitude": [
-            {"english": "Thank you for everything.", "bengali": "সবকিছুর জন্য ধন্যবাদ।", "pronunciation": "sob-ki-chur jon-no dhon-no-bad"},
-            {"english": "I appreciate your help.", "bengali": "আমি তোমার সাহায্যের প্রশংসা করি।", "pronunciation": "a-mi to-mar sa-haj-jer pro-shon-sa ko-ri"},
-            {"english": "Grateful for this moment.", "bengali": "এই মুহূর্তটির জন্য কৃতজ্ঞ।", "pronunciation": "e-i mu-hur-to-tir jon-no kri-tog-go"},
-        ],
-        "Friendship": [
-            {"english": "Friends forever, no matter what.", "bengali": "চিরকাল বন্ধু, যাই হোক না কেন।", "pronunciation": "chi-ro-kal bon-dhu, ja-i hok na ken"},
-            {"english": "You are my best friend.", "bengali": "তুমি আমার সেরা বন্ধু।", "pronunciation": "tu-mi a-mar she-ra bon-dhu"},
-            {"english": "True friends stick together.", "bengali": "সত্যিকারের বন্ধুরা একসাথে থাকে।", "pronunciation": "sot-ti-ka-rer bon-dhu-ra ek-sa-the tha-ke"},
-        ],
-        "Hope": [
-            {"english": "There is always hope.", "bengali": "সবসময় আশা থাকে।", "pronunciation": "sob-som-oy a-sha tha-ke"},
-            {"english": "Better days are coming.", "bengali": "ভালো দিন আসছে।", "pronunciation": "bha-lo din a-she-chhe"},
-            {"english": "Keep faith, keep going.", "bengali": "বিশ্বাস রাখো, চলতে থাকো।", "pronunciation": "bi-shash ra-kho, chol-te tha-ko"},
-        ],
-        "Creativity": [
-            {"english": "Create something beautiful today.", "bengali": "আজ কিছু সুন্দর সৃষ্টি করো।", "pronunciation": "aj ki-chu sun-dor shrish-ti ko-ro"},
-            {"english": "Your imagination is unlimited.", "bengali": "তোমার কল্পনার কোনো সীমা নেই।", "pronunciation": "to-mar kol-po-nar ko-no si-ma nei"},
-            {"english": "Art comes from the heart.", "bengali": "শিল্প হৃদয় থেকে আসে।", "pronunciation": "shil-po hri-doy the-ke a-she"},
-            {"english": "Express yourself freely.", "bengali": "নিজেকে মুক্তভাবে প্রকাশ করো।", "pronunciation": "ni-je-ke muk-to-bha-be pro-kash ko-ro"},
-            {"english": "Innovation starts with curiosity.", "bengali": "নবাচার শুরু হয় কৌতূহল দিয়ে।", "pronunciation": "no-ba-bar shu-ru hoy kou-tu-hol di-ye"},
-        ],
-        "Inner Peace": [
-            {"english": "Find peace within yourself.", "bengali": "নিজের ভিতরে শান্তি খুঁজে নাও।", "pronunciation": "ni-jer bhi-to-re shan-ti khun-je na-o"},
-            {"english": "Breathe, relax, let go.", "bengali": "শ্বাস নাও, আরাম করো, ছেড়ে দাও।", "pronunciation": "shash na-o, a-ram ko-ro, chhe-re da-o"},
-            {"english": "Calm mind, happy heart.", "bengali": "শান্ত মন, সুখী হৃদয়।", "pronunciation": "shan-to mon, su-khi hri-doy"},
-        ],
-        "Confidence": [
-            {"english": "You are enough, just as you are.", "bengali": "তুমি যেমন আছো, তেমনই যথেষ্ট।", "pronunciation": "tu-mi je-mon a-cho, te-mon-i jo-thesh-to"},
-            {"english": "Stand tall, speak up.", "bengali": "সোজা হয়ে দাঁড়াও, জোরে কথা বলো।", "pronunciation": "so-ja ho-ye da-ra-o, jo-re ko-tha bo-lo"},
-            {"english": "Believe in your abilities.", "bengali": "তোমার দক্ষতায় বিশ্বাস রাখো।", "pronunciation": "to-mar dok-kho-ta-yo bi-shash ra-kho"},
-        ],
-        "Perseverance": [
-            {"english": "Never give up, keep pushing.", "bengali": "কখনো হাল ছেড়ো না, চেষ্টা চালিয়ে যাও।", "pronunciation": "ko-kho-no hal chhe-ro na, cheshta cha-li-ye ja-o"},
-            {"english": "Storms make trees take deeper roots.", "bengali": "ঝড় গাছের শিকড়কে গভীর করে।", "pronunciation": "jhor ga-chher shi-kor-ke go-bhir ko-re"},
-            {"english": "Patience and persistence win.", "bengali": "ধৈর্য ও অধ্যবসায় জয়ী হয়।", "pronunciation": "dhoir-jo o od-dho-bo-sha-yo jo-yi hoy"},
-        ],
-        "Inspiration": [
-            {"english": "Let your light shine bright.", "bengali": "তোমার আলো উজ্জ্বলভাবে জ্বলুক।", "pronunciation": "to-mar a-lo uj-jol-bha-be jol-uk"},
-            {"english": "Inspire others by your actions.", "bengali": "তোমার কাজ দিয়ে অন্যদের অনুপ্রাণিত করো।", "pronunciation": "to-mar kaj di-ye on-no-der o-nu-pra-ni-to ko-ro"},
-            {"english": "Be the change you want to see.", "bengali": "তুমিই সেই পরিবর্তন হও যা তুমি দেখতে চাও।", "pronunciation": "tu-mi-i se-i po-ri-bor-ton ho-o ja tu-mi dekh-te cha-o"},
-        ],
-        "Positive Life": [
-            {"english": "Choose positivity every day.", "bengali": "প্রতিদিন ইতিবাচকতা বেছে নাও।", "pronunciation": "pro-ti-din i-ti-bach-ko-ta be-che na-o"},
-            {"english": "Good vibes only.", "bengali": "শুধু ইতিবাচক শক্তি।", "pronunciation": "shu-dhu i-ti-bach-ko shok-ti"},
-            {"english": "Life is what you make it.", "bengali": "জীবন সেটাই যা তুমি তৈরি করো।", "pronunciation": "ji-bon se-tai ja tu-mi ta-ri ko-ro"},
-        ],
-        "Courage": [
-            {"english": "Be brave, take the first step.", "bengali": "সাহসী হও, প্রথম পদক্ষেপ নাও।", "pronunciation": "sah-ho-si ho-o, pro-thom po-dok-khep na-o"},
-            {"english": "Courage is not the absence of fear.", "bengali": "সাহস মানে ভয়ের অনুপস্থিতি নয়।", "pronunciation": "sah-ho-sa ma-ne bho-yer o-nu-po-sthi-ti noy"},
-            {"english": "Face your fears head on.", "bengali": "তোমার ভয়ের মুখোমুখি সরাসরি হও।", "pronunciation": "to-mar bho-yer mu-kho-mu-khi so-ra-shi ho-o"},
-        ],
-        "Kindness": [
-            {"english": "Be kind to everyone you meet.", "bengali": "যার সাথে দেখা হয় সবার সাথে দয়ালু হও।", "pronunciation": "jar sa-the de-kha hoy so-bar sa-the do-ya-lu ho-o"},
-            {"english": "Kindness costs nothing, means everything.", "bengali": "দয়ার কোনো মূল্য নেই, কিন্তু অর্থ সবকিছু।", "pronunciation": "do-yar ko-no mul-lo nei, ki-n-tu ortho sob-ki-chu"},
-            {"english": "Spread kindness wherever you go.", "bengali": "যেখানেই যাও, দয়া ছড়িয়ে দাও।", "pronunciation": "je-kha-ne-i ja-o, do-ya chho-ri-ye da-o"},
-        ],
-        "Patience": [
-            {"english": "Good things take time.", "bengali": "ভালো জিনিস সময় নেয়।", "pronunciation": "bha-lo ji-nis so-moy ne-y"},
-            {"english": "Wait patiently, trust the process.", "bengali": "ধৈর্য ধরে অপেক্ষা করো, প্রক্রিয়ার উপর আস্থা রাখো।", "pronunciation": "dhoir-jo dho-re o-pek-kha ko-ro, prok-ki-yar u-por a-stha ra-kho"},
-            {"english": "Rome wasn't built in a day.", "bengali": "রোম একদিনে তৈরি হয়নি।", "pronunciation": "Rom ek-di-ne ta-ri hoy-ni"},
-        ],
-        "Forgiveness": [
-            {"english": "Forgive and set yourself free.", "bengali": "ক্ষমা করো এবং নিজেকে মুক্ত করো।", "pronunciation": "kho-ma ko-ro o ebong ni-je-ke muk-to ko-ro"},
-            {"english": "Let go of grudges, find peace.", "bengali": "ক্ষোভ ছেড়ে দাও, শান্তি খুঁজে নাও।", "pronunciation": "khobh chhe-re da-o, shan-ti khun-je na-o"},
-            {"english": "Forgiveness is a gift to yourself.", "bengali": "ক্ষমা নিজের জন্য একটি উপহার।", "pronunciation": "kho-ma ni-jer jon-no e-ka-ta u-pa-har"},
-        ],
-        "Strength": [
-            {"english": "You are stronger than you know.", "bengali": "তুমি যতটা জানো তার চেয়ে অনেক শক্তিশালী।", "pronunciation": "tu-mi jot-ta ja-no tar che-ye o-nek shok-ti-sha-li"},
-            {"english": "Inner strength comes from within.", "bengali": "আভ্যন্তরীণ শক্তি ভেতর থেকে আসে।", "pronunciation": "ab-bon-to-rin shok-ti bhe-tor the-ke a-she"},
-            {"english": "Challenges make you stronger.", "bengali": "চ্যালেঞ্জ তোমাকে শক্তিশালী করে।", "pronunciation": "chha-lenj to-ma-ke shok-ti-sha-li ko-re"},
-        ],
-        "Joy": [
-            {"english": "Find joy in every moment.", "bengali": "প্রতিটি মুহূর্তে আনন্দ খুঁজে নাও।", "pronunciation": "pro-ti-ti mu-hur-te a-non-do khun-je na-o"},
-            {"english": "Joy is contagious, spread it.", "bengali": "আনন্দ সংক্রামক, এটি ছড়িয়ে দাও।", "pronunciation": "a-non-do shong-kra-mok, e-ti chho-ri-ye da-o"},
-            {"english": "Dance like nobody's watching.", "bengali": "এমনভাবে নাচো যেন কেউ দেখছে না।", "pronunciation": "e-mon-bha-be na-cho jen ke-u dekh-chhe na"},
-        ],
-        "Balance": [
-            {"english": "Find balance in your life.", "bengali": "তোমার জীবনে ভারসাম্য খুঁজে নাও।", "pronunciation": "to-mar ji-bo-ne bha-ro-sam-mo khun-je na-o"},
-            {"english": "Work hard, rest well.", "bengali": "কঠোর পরিশ্রম করো, ভালোভাবে বিশ্রাম নাও।", "pronunciation": "ko-thor po-ri-shrom ko-ro, bha-lo-bha-be bi-shram na-o"},
-            {"english": "Too much of anything is not good.", "bengali": "যেকোনো কিছুর আধিক্য ভালো নয়।", "pronunciation": "je-ko-no ki-chur a-dhik-ko bha-lo noy"},
-        ],
-        "Growth": [
-            {"english": "Growth happens outside your comfort zone.", "bengali": "বৃদ্ধি ঘটে তোমার আরামদায়ক অঞ্চলের বাইরে।", "pronunciation": "bri-dhi gho-te to-mar a-ram-do-yok on-nol-ler ba-i-re"},
-            {"english": "Embrace change, grow stronger.", "bengali": "পরিবর্তনকে গ্রহণ করো, শক্তিশালী হও।", "pronunciation": "po-ri-bor-ton-ke gro-ho-non ko-ro, shok-ti-sha-li ho-o"},
-            {"english": "Every challenge is a chance to grow.", "bengali": "প্রত্যেকটি চ্যালেঞ্জ বেড়ে ওঠার সুযোগ।", "pronunciation": "pro-t-tyek-ti chha-lenj be-re o-thar su-yog"},
-        ],
-        "Purpose": [
-            {"english": "Find your purpose, follow it.", "bengali": "তোমার উদ্দেশ্য খুঁজে বের করো, তা অনুসরণ করো।", "pronunciation": "to-mar ud-des-sho khun-je be-ro ko-ro, ta o-nu-so-ron ko-ro"},
-            {"english": "Your life has meaning.", "bengali": "তোমার জীবনের অর্থ আছে।", "pronunciation": "to-mar ji-bo-ner ortho a-che"},
-            {"english": "Live with intention, not accident.", "bengali": "উদ্দেশ্য নিয়ে বাঁচো, দৈবক্রমে নয়।", "pronunciation": "ud-des-sho ni-ye ba-cho, doib-kro-me noy"},
-        ],
-        "Mindfulness": [
-            {"english": "Be present in this moment.", "bengali": "এই মুহূর্তে উপস্থিত থাকো।", "pronunciation": "e-i mu-hur-te u-po-sthi-to tha-ko"},
-            {"english": "Breathe deeply, stay grounded.", "bengali": "গভীর শ্বাস নাও, স্থির থাকো।", "pronunciation": "go-bhir shash na-o, sthir tha-ko"},
-            {"english": "Notice the little things around you.", "bengali": "তোমার চারপাশের ছোট জিনিসগুলি লক্ষ্য করো।", "pronunciation": "to-mar char-pa-sher chho-to ji-ni-shu-guli lok-kho ko-ro"},
-        ],
-    }
-
-    fallbacks = all_fallbacks.get(category, all_fallbacks["Motivation"])
-    history = load_phrase_history()
-    fresh_phrases = []
-    for p in fallbacks:
-        if not is_phrase_used(p["english"]) and not is_phrase_similar(p["english"], [h.get("english", "") for h in history.get("phrases", [])]):
-            fresh_phrases.append(p)
-
-    if len(fresh_phrases) < num_phrases:
-        for cat, cat_fallbacks in all_fallbacks.items():
-            if cat != category:
-                for p in cat_fallbacks:
-                    if not is_phrase_used(p["english"]) and not is_phrase_similar(p["english"], [h.get("english", "") for h in history.get("phrases", [])]):
-                        fresh_phrases.append(p)
-                    if len(fresh_phrases) >= num_phrases:
-                        break
-            if len(fresh_phrases) >= num_phrases:
-                break
-
-    return fresh_phrases[:num_phrases]
-
-
 # ============== AUDIO GENERATION ==============
+
+def configure_edge_tts():
+    """Ensure edge_tts connects to Microsoft's active endpoint to avoid 403 on cloud runners."""
+    try:
+        import edge_tts.constants
+        import edge_tts.communicate
+        token = getattr(edge_tts.constants, "TRUSTED_CLIENT_TOKEN", "6A5AA1D4EAFF4E9FB37E23D68491D6F4")
+        new_url = (
+            "wss://api.msedgeservices.com/tts/cognitiveservices/websocket/v1"
+            f"?Ocp-Apim-Subscription-Key={token}"
+        )
+        edge_tts.constants.WSS_URL = new_url
+        edge_tts.communicate.WSS_URL = new_url
+    except Exception as e:
+        pass
+
 
 def generate_google_tts(text: str, voice_or_lang: str, output_path: str) -> bool:
     """Fallback TTS using Google Translate TTS if Edge TTS fails."""
@@ -560,7 +555,8 @@ def generate_google_tts(text: str, voice_or_lang: str, output_path: str) -> bool
 
 
 async def generate_single_audio(text: str, voice: str, output_path: str, retries: int = 2):
-    """Generate audio using Edge TTS with automatic Google TTS fallback"""
+    """Generate audio using Edge TTS Neural voice with automatic Google TTS fallback"""
+    configure_edge_tts()
     import edge_tts
     for attempt in range(retries):
         try:
@@ -571,6 +567,8 @@ async def generate_single_audio(text: str, voice: str, output_path: str, retries
         except Exception as e:
             if attempt == retries - 1:
                 print(f"  Edge TTS notice ({e}), switching to Google TTS fallback...")
+            else:
+                await asyncio.sleep(0.5)
 
     # Fallback to Google TTS
     if generate_google_tts(text, voice, output_path):
@@ -580,39 +578,49 @@ async def generate_single_audio(text: str, voice: str, output_path: str, retries
 
 
 def generate_all_audio(phrases: list, output_dir: str):
+    """Generate audio for all phrases with proper timing for a ~20-minute video"""
+
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
     audio_files = []
 
     for i, phrase in enumerate(phrases):
-        english_file = output_dir / f"english_{i}.mp3"
-        lang_file = output_dir / f"lang_{i}.mp3"
-        combined_file = output_dir / f"combined_{i}.mp3"
+        english_file = output_dir / f"english_{i:04d}.mp3"
+        foreign_file = output_dir / f"bengali_{i:04d}.mp3"
+        combined_file = output_dir / f"combined_{i:04d}.mp3"
 
-        if (i + 1) % 20 == 0:
+        if (i + 1) % 20 == 0 or (i + 1) == len(phrases):
             print(f"  Generating audio {i+1}/{len(phrases)}...")
 
+        # Generate English audio
         en_success = asyncio.run(generate_single_audio(phrase["english"], ENGLISH_VOICE, str(english_file)))
         if not en_success:
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(english_file)]
             subprocess.run(cmd, capture_output=True)
 
-        lang_success = asyncio.run(generate_single_audio(phrase["bengali"], LANG_VOICE, str(lang_file)))
-        if not lang_success:
-            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(lang_file)]
+        # Generate Foreign audio
+        foreign_text = phrase.get("bengali") or phrase.get("target") or phrase.get("foreign") or ""
+        foreign_success = asyncio.run(generate_single_audio(foreign_text, LANG_VOICE, str(foreign_file)))
+        if not foreign_success:
+            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(foreign_file)]
             subprocess.run(cmd, capture_output=True)
 
+        # Get ACTUAL durations
         en_duration = get_audio_duration(str(english_file))
-        lang_duration = get_audio_duration(str(lang_file))
+        foreign_duration = get_audio_duration(str(foreign_file))
 
-        pause_between = 0.5
-        total_duration = en_duration + pause_between + lang_duration
+        # Pedagogical pauses for optimal learning:
+        # 1.2s pause after English: allows learner to process English meaning and anticipate translation
+        # 2.0s pause after foreign phrase: allows learner to repeat aloud and study pronunciation
+        pause_mid = 1.2
+        pause_end = 2.0
 
+        # Combine audio files with precise ffmpeg apad
         cmd = [
             "ffmpeg", "-y",
             "-i", str(english_file),
-            "-i", str(lang_file),
-            "-filter_complex", f"[0:a]apad=pad_dur=0.5[a0];[a0][1:a]concat=n=2:v=0:a=1[out]",
+            "-i", str(foreign_file),
+            "-filter_complex", f"[0:a]apad=pad_dur={pause_mid}[a0];[1:a]apad=pad_dur={pause_end}[a1];[a0][a1]concat=n=2:v=0:a=1[out]",
             "-map", "[out]",
             str(combined_file)
         ]
@@ -620,10 +628,11 @@ def generate_all_audio(phrases: list, output_dir: str):
         result = subprocess.run(cmd, capture_output=True, text=True)
 
         if result.returncode != 0:
-            concat_file = output_dir / f"concat_{i}.txt"
+            concat_file = output_dir / f"concat_{i:04d}.txt"
             with open(concat_file, "w", encoding="utf-8") as f:
                 f.write(f"file '{english_file.as_posix()}'\n")
-                f.write(f"file '{lang_file.as_posix()}'\n")
+                f.write(f"file '{foreign_file.as_posix()}'\n")
+
             cmd = [
                 "ffmpeg", "-y",
                 "-f", "concat", "-safe", "0",
@@ -640,16 +649,15 @@ def generate_all_audio(phrases: list, output_dir: str):
         audio_files.append({
             "index": i,
             "english": str(english_file),
-            "lang": str(lang_file),
+            "bengali": str(foreign_file),
             "combined": str(combined_file),
             "duration": actual_duration,
             "en_duration": en_duration,
-            "lang_duration": lang_duration
+            "foreign_duration": foreign_duration
         })
 
     print(f"\n[audio] Generated {len(audio_files)} phrase audios")
     return audio_files
-
 
 def get_audio_duration(audio_file: str) -> float:
     if not Path(audio_file).exists():
@@ -742,8 +750,8 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     font_branding = load_font(english_font_paths, 38)
 
     english = phrase_data.get("english", "")
-    bengali = phrase_data.get("bengali", "")
-    pronunciation = phrase_data.get("pronunciation", "")
+    bengali = phrase_data.get("bengali") or phrase_data.get("target") or phrase_data.get("foreign") or ""
+    pronunciation = phrase_data.get("pronunciation") or phrase_data.get("pronunciation") or phrase_data.get("pinyin") or phrase_data.get("romaji") or phrase_data.get("phonetic") or ""
 
     def wrap_text(text, font, max_width):
         words = text.split()
@@ -940,30 +948,38 @@ def extract_video_thumbnail(video_path: str, output_path: str, timestamp_seconds
 
 # ============== TITLE & DESCRIPTION GENERATION ==============
 
-def generate_title_description(category_english: str, category_bengali: str, phrases: list, duration_minutes: float, output_dir: str):
+def generate_title_description(category_english: str, category_foreign: str, phrases: list, duration_minutes: float, output_dir: str):
+    """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
+    
+    count = len(phrases)
+    est_mins = int(round(duration_minutes)) if duration_minutes > 0 else 20
+    
+    # Generate viral title variations
     titles = [
-        f"Learn Bengali in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_bengali})",
-        f"60 Bengali Phrases for {category_english} | Speak Bengali Like a Native! ({category_bengali})",
-        f"Master Bengali {category_english} | 60 Essential Bengali Phrases with Pronunciation | Velocity Bengali",
-        f"Bengali Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
+        f"Learn Bengali in {est_mins} Minutes | {count} {category_english} Phrases Every Beginner NEEDS to Know! ({category_foreign})",
+        f"{count} Bengali Phrases for {category_english} | Speak Bengali Like a Native! ({category_foreign})",
+        f"Master Bengali {category_english} | {count} Essential Bengali Phrases with Pronunciation | VELOCITY BENGALI",
+        f"Bengali Learning Made Easy | {category_english} Vocabulary | {est_mins} Minute Lesson",
         f"Speak Bengali Fluently | {category_english} Phrases | English + Bengali + Pronunciation",
     ]
 
-    description = f"""\U0001F1E7\U0001F1E9 Learn Bengali with Velocity Bengali! \U0001F1E7\U0001F1E9
+    # Generate comprehensive description
+    description = f"""🌍 Learn Bengali with VELOCITY BENGALI! 🌍
 
-In this video, you'll learn 60 essential Bengali phrases about {category_english} ({category_bengali}).
+In this video, you'll learn {count} essential Bengali phrases about {category_english} ({category_foreign}).
 Perfect for beginners and intermediate learners!
 
-\U0001F4DA WHAT YOU'LL LEARN:
-\u2022 Practical {category_english} phrases in Bengali
-\u2022 Correct pronunciation guide
-\u2022 Natural pauses for speaking practice
-\u2022 Common expressions used by native speakers
+📚 WHAT YOU'LL LEARN:
+• {count} practical {category_english} phrases in Bengali
+• Correct pronunciation with phonetics
+• Natural pedagogical pauses for speaking practice
+• Common expressions used by native speakers
 
-\U0001F551 VIDEO TIMESTAMPS:
+⏱️ VIDEO TIMESTAMPS:
 """
 
-    avg_phrase_duration = duration_minutes * 60 / len(phrases)
+    # Add timestamps for each phrase (every 10 phrases grouped)
+    avg_phrase_duration = (duration_minutes * 60) / max(len(phrases), 1)
     for i in range(0, len(phrases), 10):
         timestamp = int(i * avg_phrase_duration / 60)
         minute = timestamp
@@ -971,53 +987,58 @@ Perfect for beginners and intermediate learners!
         end_phrase = min(i + 10, len(phrases))
         description += f"{minute:02d}:{second:02d} Phrases {i+1}-{end_phrase}\n"
 
-    description += """
-\U0001F4DD ALL PHRASES IN THIS VIDEO:
+    description += f"""
+📝 ALL PHRASES IN THIS VIDEO:
 """
 
+    # Add all phrases
     for i, phrase in enumerate(phrases, 1):
+        foreign_phrase_text = phrase.get("bengali") or phrase.get("target") or phrase.get("foreign") or ""
+        pron_phrase_text = phrase.get("pronunciation") or phrase.get("pronunciation") or phrase.get("pinyin") or phrase.get("romaji") or phrase.get("phonetic") or ""
         description += f"""
 {i}. {phrase['english']}
-   Bengali: {phrase['bengali']}
-    Pronunciation: {phrase['pronunciation']}
+   Bengali: {foreign_phrase_text}
+   Pronunciation: {pron_phrase_text}
 """
 
-    description += """
-\U0001F3AF PERFECT FOR:
-\u2022 Bengali beginners wanting to expand vocabulary
-\u2022 Intermediate learners practicing pronunciation
-\u2022 Anyone interested in Bengali language and culture
-\u2022 Language enthusiasts and polyglots
-\u2022 Students preparing for exams
+    description += f"""
+🎯 PERFECT FOR:
+• Bengali beginners wanting to expand vocabulary
+• Intermediate learners practicing pronunciation
+• Anyone interested in Bengali culture
+• Language enthusiasts and polyglots
+• Students preparing for Bengali language exams
 
-\U0001F4A1 TIPS FOR LEARNING:
-1. Repeat each phrase out loud
+💡 TIPS FOR LEARNING:
+1. Repeat each phrase out loud during the pause
 2. Practice daily for best results
 3. Use the pauses to speak along
 4. Write down phrases you find difficult
 5. Review this video multiple times
 
-\U0001F514 SUBSCRIBE for more Bengali learning content!
-\U0001F44D LIKE this video if you found it helpful!
-\U0001F4AC COMMENT which phrases you want to learn next!
+🔔 SUBSCRIBE for more Bengali learning content!
+👍 LIKE this video if you found it helpful!
+💬 COMMENT which phrases you want to learn next!
 
-\U0001F4F1 FOLLOW VELOCITY BENGALI:
+📱 FOLLOW VELOCITY BENGALI:
 [Add your social media links here]
 
-\U0001F3B5 MUSIC:
+🎵 MUSIC:
 [Add music credits if applicable]
 
-\U0001F4D6 RELATED VIDEOS:
-\u2022 Bengali Motivation Phrases
-\u2022 Bengali Love Expressions
-\u2022 Basic Bengali Greetings
+📖 RELATED VIDEOS:
+• Bengali Motivation Phrases
+• Bengali Love Expressions
+• Bengali Basics
+• Basic Bengali Greetings
 
-#LearnBengali #BengaliPhrases #BengaliLanguage #{category_english.replace(' ', '')} #VelocityBengali #BengaliForBeginners #SpeakBengali #BengaliVocabulary #Pronunciation #LanguageLearning #Bengali101 #BengaliLesson
+#Bengali #BengaliPhrases #BengaliLanguage #{category_english.replace(' ', '')} #VELOCITYBENGALI #BengaliForBeginners #SpeakBengali #BengaliVocabulary #LanguageLearning #Bengali101 #BengaliLesson
 
 ---
-\u00A9 Velocity Bengali - Making Bengali learning accessible to everyone!
+© VELOCITY BENGALI - Making Bengali learning accessible to everyone!
 """
 
+    # Write to COMBINED file (title + description in one)
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -1025,43 +1046,48 @@ Perfect for beginners and intermediate learners!
         f.write("=" * 80 + "\n")
         f.write("YOUTUBE VIDEO UPLOAD INFORMATION\n")
         f.write("=" * 80 + "\n\n")
-        f.write("RECOMMENDED TITLES (Choose one):\n")
+        
+        f.write("📌 RECOMMENDED TITLES (Choose one):\n")
         f.write("-" * 80 + "\n")
         for i, title in enumerate(titles, 1):
             f.write(f"\n{i}. {title}\n")
+        
         f.write("\n" + "=" * 80 + "\n")
-        f.write("SELECTED TITLE (Recommended):\n")
+        f.write("📝 SELECTED TITLE (Recommended):\n")
         f.write("-" * 80 + "\n")
         f.write(f"\n{titles[0]}\n")
+        
         f.write("\n" + "=" * 80 + "\n")
-        f.write("VIDEO DESCRIPTION:\n")
+        f.write("📄 VIDEO DESCRIPTION:\n")
         f.write("-" * 80 + "\n\n")
         f.write(description)
+        
         f.write("\n" + "=" * 80 + "\n")
-        f.write("VIDEO TAGS (for YouTube):\n")
+        f.write("🏷️ VIDEO TAGS (for YouTube):\n")
         f.write("-" * 80 + "\n")
         tags = [
-            "Learn Bengali",
-            "Bengali Phrases",
-            "Bengali Language",
+            f"Learn Bengali",
+            f"Bengali Phrases",
+            f"Bengali",
             category_english,
-            "Velocity Bengali",
-            "Bengali for Beginners",
-            "Speak Bengali",
-            "Bengali Vocabulary",
+            brand_text,
+            f"Bengali for Beginners",
+            f"Speak Bengali",
+            f"Bengali Vocabulary",
             "Pronunciation",
             "Language Learning",
-            "Bengali 101",
-            "Bengali Lesson"
+            f"Bengali 101",
+            f"Bengali Lesson"
         ]
         f.write(", ".join(tags) + "\n")
 
+    # Metadata JSON (for easy parsing)
     metadata = {
         "recommended_titles": titles,
         "selected_title": titles[0],
         "description": description,
         "category_english": category_english,
-        "category_bengali": category_bengali,
+        "category_bengali": category_foreign,
         "phrases_count": len(phrases),
         "duration_minutes": round(duration_minutes, 2),
         "tags": tags
@@ -1076,9 +1102,6 @@ Perfect for beginners and intermediate learners!
 
     return metadata
 
-
-# ============== VIDEO CREATION ==============
-
 def create_video_from_images_audio(image_files: list, audio_files: list, combined_audio: str, output_file: str):
     print(f"\n[video] Creating long-form video from {len(image_files)} images...")
 
@@ -1088,7 +1111,7 @@ def create_video_from_images_audio(image_files: list, audio_files: list, combine
         duration = audio_info['duration']
         print(f"  Image {i+1}/{len(image_files)}: {duration:.2f}s")
 
-        temp_clip = Path(output_file).parent / f"temp_clip_{i:02d}.mp4"
+        temp_clip = Path(output_file).parent / f"temp_clip_{i:04d}.mp4"
         temp_clips.append(temp_clip)
 
         cmd = [
@@ -1101,7 +1124,7 @@ def create_video_from_images_audio(image_files: list, audio_files: list, combine
             "-c:a", "aac",
             "-b:a", "128k",
             "-pix_fmt", "yuv420p",
-            "-preset", "medium",
+            "-preset", "ultrafast",
             "-shortest",
             "-vsync", "cfr",
             str(temp_clip)
