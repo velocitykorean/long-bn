@@ -1,1 +1,725 @@
-﻿{"phrases": [], "last_updated": null}
+{
+  "phrases": [
+    {
+      "english": "Sorry, my mistake, please forgive me.",
+      "bengali": "দুঃখিত, আমার ভুল, দয়া করে মাফ করবেন।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405665"
+    },
+    {
+      "english": "It was unintentional, please excuse me.",
+      "bengali": "এটা অনিচ্ছাকৃত ছিল, দয়া করে আমাকে ক্ষমা করবেন।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405680"
+    },
+    {
+      "english": "I'm really sorry, hope you can forgive.",
+      "bengali": "আমি সত্যিই দুঃখিত, আশা করি আপনি ক্ষমা করতে পারবেন।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405683"
+    },
+    {
+      "english": "Please, don't be angry, forgive me.",
+      "bengali": "দয়া করে, রাগ করবেন না, আমাকে ক্ষমা করুন।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405686"
+    },
+    {
+      "english": "My apologies, can you forget this?",
+      "bengali": "আমার ক্ষমা চেয়ে নিচ্ছি, এটা কি আপনি ভুলে যেতে পারবেন?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405690"
+    },
+    {
+      "english": "Forgive my rudeness, please.",
+      "bengali": "আমার অভদ্রতার জন্য ক্ষমা করুন, দয়া করে।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405692"
+    },
+    {
+      "english": "I messed up, please accept my apology.",
+      "bengali": "আমি সব গুলিয়ে ফেলেছি, আমার ক্ষমা গ্রহণ করুন।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405695"
+    },
+    {
+      "english": "Can we move past this, please?",
+      "bengali": "আমরা কি এটা ভুলে যেতে পারি, দয়া করে?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405700"
+    },
+    {
+      "english": "I owe you an apology, forgive me.",
+      "bengali": "আমার আপনার কাছে ক্ষমা চাওয়া উচিত, আমাকে ক্ষমা করুন।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405702"
+    },
+    {
+      "english": "Let's just forget it, okay?",
+      "bengali": "চলুন এটা ভুলে যাই, ঠিক আছে?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405705"
+    },
+    {
+      "english": "I understand, it was wrong, forgive me.",
+      "bengali": "আমি বুঝতে পারছি, এটা ভুল ছিল, আমাকে ক্ষমা করুন।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405708"
+    },
+    {
+      "english": "Please, let this go, I'm sorry.",
+      "bengali": "দয়া করে, এটা যেতে দিন, আমি দুঃখিত।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405711"
+    },
+    {
+      "english": "I seek your forgiveness, truly.",
+      "bengali": "আমি আপনার ক্ষমা প্রার্থনা করছি, সত্যি।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405713"
+    },
+    {
+      "english": "My fault, please overlook it.",
+      "bengali": "আমার দোষ, দয়া করে এটা উপেক্ষা করুন।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405715"
+    },
+    {
+      "english": "Can you find it in your heart, to forgive?",
+      "bengali": "আপনি কি আপনার হৃদয়ে জায়গা করে আমাকে ক্ষমা করতে পারবেন?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405717"
+    },
+    {
+      "english": "I regret my actions, please forgive.",
+      "bengali": "আমি আমার কাজের জন্য অনুতপ্ত, দয়া করে ক্ষমা করুন।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405719"
+    },
+    {
+      "english": "It won't happen again, I promise.",
+      "bengali": "এটা আর হবে না, আমি কথা দিচ্ছি।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405722"
+    },
+    {
+      "english": "I hope for your understanding, and forgiveness.",
+      "bengali": "আমি আপনার বোঝার এবং ক্ষমা করার আশা করছি।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405724"
+    },
+    {
+      "english": "Please, forgive my lapse in judgment.",
+      "bengali": "দয়া করে, আমার বিচার-বিবেচনার ত্রুটি ক্ষমা করুন।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405728"
+    },
+    {
+      "english": "I truly meant no harm, forgive me.",
+      "bengali": "আমার সত্যিই কোনো ক্ষতি করার উদ্দেশ্য ছিল না, আমাকে ক্ষমা করুন।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405730"
+    },
+    {
+      "english": "Can we start fresh, please?",
+      "bengali": "আমরা কি নতুন করে শুরু করতে পারি, দয়া করে?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405732"
+    },
+    {
+      "english": "I'm asking for your forgiveness, sincerely.",
+      "bengali": "আমি আন্তরিকভাবে আপনার ক্ষমা চাইছি।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405734"
+    },
+    {
+      "english": "Don't hold this against me, please.",
+      "bengali": "এটা আমার বিরুদ্ধে রাখবেন না, দয়া করে।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405737"
+    },
+    {
+      "english": "I was wrong, please pardon me.",
+      "bengali": "আমি ভুল ছিলাম, দয়া করে আমাকে ক্ষমা করবেন।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405739"
+    },
+    {
+      "english": "I hope we can move beyond this.",
+      "bengali": "আমি আশা করি আমরা এই বিষয়টা ভুলে এগিয়ে যেতে পারব।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405741"
+    },
+    {
+      "english": "Please forgive the inconvenience caused.",
+      "bengali": "অসুবিধার জন্য ক্ষমা করবেন, দয়া করে।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405743"
+    },
+    {
+      "english": "I'm truly sorry, can you forgive this?",
+      "bengali": "আমি সত্যিই দুঃখিত, এটা কি আপনি ক্ষমা করতে পারবেন?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405745"
+    },
+    {
+      "english": "Let bygones be bygones, okay?",
+      "bengali": "পুরনো কথা ভুলে যান, ঠিক আছে?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405747"
+    },
+    {
+      "english": "I take full responsibility, please forgive me.",
+      "bengali": "আমি সম্পূর্ণ দায়িত্ব নিচ্ছি, দয়া করে আমাকে ক্ষমা করুন।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405749"
+    },
+    {
+      "english": "Can you grant me forgiveness?",
+      "bengali": "আপনি কি আমাকে ক্ষমা করতে পারেন?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405751"
+    },
+    {
+      "english": "What happened, can you tell me?",
+      "bengali": "কী হলো, বলতে পারবে?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405754"
+    },
+    {
+      "english": "How do you feel now, about it?",
+      "bengali": "এখন কেমন লাগছে তোমার, এটা নিয়ে?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405756"
+    },
+    {
+      "english": "Can we talk about this, calmly?",
+      "bengali": "আমরা কি এটা নিয়ে, শান্তভাবে কথা বলতে পারি?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405759"
+    },
+    {
+      "english": "What advice, do you have for me?",
+      "bengali": "তোমার কী পরামর্শ, আমার জন্য আছে?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405761"
+    },
+    {
+      "english": "Do you think, we can resolve this?",
+      "bengali": "তোমার কি মনে হয়, আমরা এটা মেটাতে পারবো?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405763"
+    },
+    {
+      "english": "What should I do, to make amends?",
+      "bengali": "আমার কী করা উচিত, ক্ষতিপূরণ করার জন্য?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405765"
+    },
+    {
+      "english": "Is there anything, I can do?",
+      "bengali": "এমন কি কিছু আছে, যা আমি করতে পারি?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405767"
+    },
+    {
+      "english": "How can I help, to fix this?",
+      "bengali": "আমি কীভাবে সাহায্য করতে পারি, এটা ঠিক করার জন্য?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405769"
+    },
+    {
+      "english": "What do you suggest, we do next?",
+      "bengali": "তুমি কী প্রস্তাব করছ, আমরা এরপর কী করব?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405771"
+    },
+    {
+      "english": "Can you explain, what upset you?",
+      "bengali": "তুমি কি ব্যাখ্যা করতে পারবে, কী তোমাকে কষ্ট দিয়েছে?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405773"
+    },
+    {
+      "english": "What's on your mind, tell me?",
+      "bengali": "তোমার মনে কী চলছে, আমাকে বলো?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405775"
+    },
+    {
+      "english": "How can we avoid this, again?",
+      "bengali": "কীভাবে আমরা এটা এড়াতে পারি, আবার?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405777"
+    },
+    {
+      "english": "What do you need, from me now?",
+      "bengali": "তোমার কী প্রয়োজন, আমার কাছ থেকে এখন?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405779"
+    },
+    {
+      "english": "Can we understand, each other better?",
+      "bengali": "আমরা কি একে অপরকে, আরও ভালোভাবে বুঝতে পারি?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405795"
+    },
+    {
+      "english": "What is your perspective, on this?",
+      "bengali": "এ ব্যাপারে, তোমার দৃষ্টিভঙ্গি কী?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405797"
+    },
+    {
+      "english": "How do you want, to proceed?",
+      "bengali": "তুমি কীভাবে, এগোতে চাও?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405799"
+    },
+    {
+      "english": "Can we rebuild, trust together?",
+      "bengali": "আমরা কি আবার, বিশ্বাস গড়তে পারি একসাথে?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405801"
+    },
+    {
+      "english": "What outcome, do you desire?",
+      "bengali": "তুমি কী ফলাফল, চাও?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405803"
+    },
+    {
+      "english": "Can you share, your feelings?",
+      "bengali": "তুমি কি তোমার, অনুভূতি শেয়ার করতে পারো?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405805"
+    },
+    {
+      "english": "What lesson, did you learn?",
+      "bengali": "তুমি কী শিক্ষা, পেলে?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405808"
+    },
+    {
+      "english": "How can I show, I'm sincere?",
+      "bengali": "আমি কীভাবে দেখাতে পারি, আমি আন্তরিক?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405810"
+    },
+    {
+      "english": "What's the best way, forward?",
+      "bengali": "সামনের সেরা উপায়, কী?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405812"
+    },
+    {
+      "english": "Can we agree, on a solution?",
+      "bengali": "আমরা কি একটি সমাধানে, একমত হতে পারি?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405813"
+    },
+    {
+      "english": "What do you think, is fair?",
+      "bengali": "তোমার কী মনে হয়, ন্যায্য?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405815"
+    },
+    {
+      "english": "How can we ensure, peace?",
+      "bengali": "আমরা কীভাবে শান্তি, নিশ্চিত করতে পারি?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405817"
+    },
+    {
+      "english": "What's your ideal, resolution?",
+      "bengali": "তোমার আদর্শ, সমাধান কী?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405819"
+    },
+    {
+      "english": "Can you offer, some guidance?",
+      "bengali": "তুমি কি কিছু, পথনির্দেশ দিতে পারো?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405821"
+    },
+    {
+      "english": "What would make it right, for you?",
+      "bengali": "কী করলে এটা তোমার জন্য, ঠিক হবে?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405822"
+    },
+    {
+      "english": "Do you believe, in second chances?",
+      "bengali": "তুমি কি বিশ্বাস করো, দ্বিতীয় সুযোগে?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405824"
+    },
+    {
+      "english": "Can we communicate, openly?",
+      "bengali": "আমরা কি খোলামেলাভাবে, যোগাযোগ করতে পারি?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405826"
+    },
+    {
+      "english": "Let's bury the hatchet, okay?",
+      "bengali": "চলো, মিটমাট করে ফেলি, কেমন?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405828"
+    },
+    {
+      "english": "Please, wipe the slate clean.",
+      "bengali": "দয়া করে, সব ভুলে যাও।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405832"
+    },
+    {
+      "english": "I'm looking to turn over a new leaf.",
+      "bengali": "আমি নতুন করে শুরু করতে চাই।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405835"
+    },
+    {
+      "english": "Can we let sleeping dogs lie?",
+      "bengali": "পুরোনো কথা তুলে কি লাভ?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405837"
+    },
+    {
+      "english": "I want to clear the air, truly.",
+      "bengali": "আমি মন থেকে সব পরিষ্কার করতে চাই।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405839"
+    },
+    {
+      "english": "Please, give me a clean slate.",
+      "bengali": "আমাকে একটা সুযোগ দাও, প্লিজ।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405842"
+    },
+    {
+      "english": "I'm hoping for peace, between us.",
+      "bengali": "আমাদের মধ্যে শান্তি ফিরে আসুক, আমি আশা করি।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405844"
+    },
+    {
+      "english": "Forget and forgive, that's my motto.",
+      "bengali": "ভুলে যাও আর ক্ষমা করে দাও, এটাই আমার নীতি।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405846"
+    },
+    {
+      "english": "Can we just move on, from this?",
+      "bengali": "আমরা কি এটা থেকে এগিয়ে যেতে পারি?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405848"
+    },
+    {
+      "english": "I sincerely want to mend things.",
+      "bengali": "আমি আন্তরিকভাবে সবকিছু ঠিক করতে চাই।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405850"
+    },
+    {
+      "english": "Let's close this chapter, friends.",
+      "bengali": "চলো, এই অধ্যায় শেষ করি, বন্ধুরা।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405853"
+    },
+    {
+      "english": "I seek reconciliation, with you.",
+      "bengali": "আমি তোমার সাথে পুনর্মিলন কামনা করি।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405854"
+    },
+    {
+      "english": "Please, set aside our differences.",
+      "bengali": "দয়া করে, আমাদের মতভেদগুলো সরিয়ে রাখো।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405856"
+    },
+    {
+      "english": "I wish to start anew, with you.",
+      "bengali": "আমি তোমার সাথে নতুন করে শুরু করতে চাই।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405861"
+    },
+    {
+      "english": "Let's draw a line, under this.",
+      "bengali": "চলো, এর নিচে একটা দাগ টেনে দিই।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405863"
+    },
+    {
+      "english": "I'm ready to forgive, and forget.",
+      "bengali": "আমি ক্ষমা করতে, এবং ভুলে যেতে প্রস্তুত।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405865"
+    },
+    {
+      "english": "Can we reach a mutual understanding?",
+      "bengali": "আমরা কি পারস্পরিক বোঝাপড়ায় পৌঁছাতে পারি?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405869"
+    },
+    {
+      "english": "Let's aim for harmony, going forward.",
+      "bengali": "চলো, ভবিষ্যতে সম্প্রীতির লক্ষ্য রাখি।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405872"
+    },
+    {
+      "english": "I extend an olive branch, to you.",
+      "bengali": "আমি তোমার কাছে শান্তির প্রস্তাব পাঠাচ্ছি।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405873"
+    },
+    {
+      "english": "What's done is done, let's move on.",
+      "bengali": "যা হওয়ার হয়ে গেছে, চলো এগিয়ে যাই।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405875"
+    },
+    {
+      "english": "Please, grant me peace of mind.",
+      "bengali": "দয়া করে, আমাকে মানসিক শান্তি দাও।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405877"
+    },
+    {
+      "english": "Let's find common ground, please.",
+      "bengali": "চলো, সাধারণ কিছু খুঁজে নিই, প্লিজ।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405879"
+    },
+    {
+      "english": "I want to rebuild bridges, with you.",
+      "bengali": "আমি তোমার সাথে সম্পর্ক আবার গড়তে চাই।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405881"
+    },
+    {
+      "english": "Can we agree to disagree, amicably?",
+      "bengali": "আমরা কি বন্ধুত্বপূর্ণভাবে ভিন্নমত হতে পারি?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405882"
+    },
+    {
+      "english": "Let's leave the past, in the past.",
+      "bengali": "অতীতকে অতীতেই ফেলে রাখি চলো।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405884"
+    },
+    {
+      "english": "I'm hoping for a fresh start.",
+      "bengali": "আমি একটা নতুন শুরু আশা করছি।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405886"
+    },
+    {
+      "english": "Can we clear the slate, between us?",
+      "bengali": "আমরা কি নিজেদের মধ্যে সব পরিষ্কার করে নিতে পারি?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405888"
+    },
+    {
+      "english": "Let's start with a clean page.",
+      "bengali": "চলো, একটা পরিষ্কার পাতা দিয়ে শুরু করি।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405890"
+    },
+    {
+      "english": "I desire a peaceful resolution.",
+      "bengali": "আমি একটি শান্তিপূর্ণ সমাধান চাই।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405892"
+    },
+    {
+      "english": "My heart, feels lighter now.",
+      "bengali": "আমার মন, এখন হালকা লাগছে।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405894"
+    },
+    {
+      "english": "I was impatient, I admit.",
+      "bengali": "আমি অধৈর্য ছিলাম, আমি স্বীকার করি।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405896"
+    },
+    {
+      "english": "True understanding, takes time.",
+      "bengali": "প্রকৃত বোঝাপড়া, সময় নেয়।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405897"
+    },
+    {
+      "english": "Letting go, is a process.",
+      "bengali": "ছেড়ে দেওয়া, একটা প্রক্রিয়া।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405899"
+    },
+    {
+      "english": "I'm learning, to be patient.",
+      "bengali": "আমি শিখছি, ধৈর্য ধরতে।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405903"
+    },
+    {
+      "english": "This feels, like growth.",
+      "bengali": "এটাকে, বৃদ্ধি মনে হচ্ছে।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405905"
+    },
+    {
+      "english": "Honesty, eases the burden.",
+      "bengali": "সততা, ভার কমায়।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405907"
+    },
+    {
+      "english": "I reflect, on my actions.",
+      "bengali": "আমি চিন্তা করি, আমার কাজের উপর।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405909"
+    },
+    {
+      "english": "My feelings, are genuine.",
+      "bengali": "আমার অনুভূতি, আসল।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405910"
+    },
+    {
+      "english": "Healing, requires openness.",
+      "bengali": "নিরাময়, খোলামেলা হতে চায়।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405912"
+    },
+    {
+      "english": "I can see, your perspective.",
+      "bengali": "আমি বুঝতে পারছি, তোমার দিকটা।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405914"
+    },
+    {
+      "english": "It's okay, to feel hurt.",
+      "bengali": "ব্যথিত হওয়া, ঠিক আছে।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405918"
+    },
+    {
+      "english": "I accept, my part.",
+      "bengali": "আমি গ্রহণ করি, আমার অংশ।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405920"
+    },
+    {
+      "english": "Let's be kind, to ourselves.",
+      "bengali": "নিজের প্রতি, দয়ালু হই।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405921"
+    },
+    {
+      "english": "This peace, feels earned.",
+      "bengali": "এই শান্তি, অর্জন করা মনে হচ্ছে।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405923"
+    },
+    {
+      "english": "I'm releasing, the anger.",
+      "bengali": "আমি ছেড়ে দিচ্ছি, রাগ।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405925"
+    },
+    {
+      "english": "Empathy, is important.",
+      "bengali": "সহানুভূতি, জরুরি।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405927"
+    },
+    {
+      "english": "I need, some space.",
+      "bengali": "আমার, একটু জায়গা দরকার।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405928"
+    },
+    {
+      "english": "This is a, learning moment.",
+      "bengali": "এটা একটা, শেখার মুহূর্ত।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405930"
+    },
+    {
+      "english": "I choose, understanding.",
+      "bengali": "আমি বেছে নিচ্ছি, বোঝাপড়া।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405931"
+    },
+    {
+      "english": "My intention, is pure.",
+      "bengali": "আমার উদ্দেশ্য, খাঁটি।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405933"
+    },
+    {
+      "english": "I forgive, you freely.",
+      "bengali": "আমি ক্ষমা করে দিচ্ছি, তোমাকে মন থেকে।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405935"
+    },
+    {
+      "english": "This silence, is peaceful.",
+      "bengali": "এই নীরবতা, শান্তিময়।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405936"
+    },
+    {
+      "english": "I'm letting go, of the past.",
+      "bengali": "আমি ছেড়ে দিচ্ছি, অতীত।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405938"
+    },
+    {
+      "english": "My heart, is open.",
+      "bengali": "আমার হৃদয়, খোলা।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405940"
+    },
+    {
+      "english": "We both, made mistakes.",
+      "bengali": "আমরা দুজনেই, ভুল করেছি।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405941"
+    },
+    {
+      "english": "True forgiveness, feels liberating.",
+      "bengali": "আসল ক্ষমা, মুক্তি দেয়।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405943"
+    },
+    {
+      "english": "I choose, compassion now.",
+      "bengali": "আমি বেছে নিচ্ছি, এখন সহানুভূতি।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405945"
+    },
+    {
+      "english": "This clarity, is welcome.",
+      "bengali": "এই স্বচ্ছতা, স্বাগত।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405946"
+    },
+    {
+      "english": "I'm at peace, with it.",
+      "bengali": "আমি শান্তিতে আছি, এটা নিয়ে।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405948"
+    },
+    {
+      "english": "Let's just, talk it out.",
+      "bengali": "চলো, সরাসরি কথা বলি।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:33:39.405950"
+    }
+  ],
+  "last_updated": "2026-10-17T07:33:39.405952"
+}
