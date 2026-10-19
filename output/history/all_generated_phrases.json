@@ -1439,7 +1439,727 @@
       "bengali": "ছোট ছোট পদক্ষেপে, প্রতিদিন। এটাই আসল চাবিকাঠি।",
       "category": "Motivation",
       "generated_at": "2026-10-18T07:48:35.139239"
+    },
+    {
+      "english": "I feel happy, today.",
+      "bengali": "আজ আমার মন ভালো।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859834"
+    },
+    {
+      "english": "Are you okay?",
+      "bengali": "তুমি ঠিক আছো?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859849"
+    },
+    {
+      "english": "I am a little tired.",
+      "bengali": "আমি একটু ক্লান্ত।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859852"
+    },
+    {
+      "english": "That's very interesting!",
+      "bengali": "এটা খুব মজার!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859855"
+    },
+    {
+      "english": "I'm feeling sad.",
+      "bengali": "আমার মন খারাপ লাগছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859858"
+    },
+    {
+      "english": "Don't worry, be happy.",
+      "bengali": "চিন্তা কোরো না, খুশি থাকো।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859861"
+    },
+    {
+      "english": "I am very excited!",
+      "bengali": "আমি খুব উত্তেজিত!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859864"
+    },
+    {
+      "english": "It feels good.",
+      "bengali": "ভালো লাগছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859871"
+    },
+    {
+      "english": "I am surprised, wow!",
+      "bengali": "আমি অবাক, ওয়াও!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859875"
+    },
+    {
+      "english": "This is amazing news!",
+      "bengali": "এটা দারুণ খবর!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859879"
+    },
+    {
+      "english": "I feel a bit scared.",
+      "bengali": "আমার একটু ভয় লাগছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859882"
+    },
+    {
+      "english": "I'm feeling hungry.",
+      "bengali": "আমার খিদে পেয়েছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859886"
+    },
+    {
+      "english": "I'm feeling thirsty.",
+      "bengali": "আমার তেষ্টা পেয়েছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859889"
+    },
+    {
+      "english": "How are you feeling?",
+      "bengali": "তোমার কেমন লাগছে?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859892"
+    },
+    {
+      "english": "I'm feeling sleepy.",
+      "bengali": "আমার ঘুম পাচ্ছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859894"
+    },
+    {
+      "english": "That's so annoying!",
+      "bengali": "এটা খুব বিরক্তিকর!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859897"
+    },
+    {
+      "english": "I feel very peaceful.",
+      "bengali": "আমার খুব শান্তি লাগছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859900"
+    },
+    {
+      "english": "I'm feeling lonely.",
+      "bengali": "আমার একা লাগছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859902"
+    },
+    {
+      "english": "This is too much!",
+      "bengali": "এটা অসহ্য!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859905"
+    },
+    {
+      "english": "I'm feeling hopeful.",
+      "bengali": "আমার আশা হচ্ছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859907"
+    },
+    {
+      "english": "I feel a little annoyed.",
+      "bengali": "আমার একটু রাগ হচ্ছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859910"
+    },
+    {
+      "english": "That's quite funny!",
+      "bengali": "এটা বেশ মজার!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859914"
+    },
+    {
+      "english": "I'm feeling unwell.",
+      "bengali": "আমার শরীরটা ভালো নেই।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859917"
+    },
+    {
+      "english": "I feel so relieved.",
+      "bengali": "আমি স্বস্তি পেয়েছি।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859919"
+    },
+    {
+      "english": "I'm feeling anxious.",
+      "bengali": "আমার চিন্তা হচ্ছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859922"
+    },
+    {
+      "english": "What a great day!",
+      "bengali": "কী দারুণ দিন!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859924"
+    },
+    {
+      "english": "I feel so proud.",
+      "bengali": "আমার খুব গর্ব হচ্ছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859928"
+    },
+    {
+      "english": "I'm feeling motivated.",
+      "bengali": "আমার উৎসাহ হচ্ছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859931"
+    },
+    {
+      "english": "This is unbelievable!",
+      "bengali": "এটা অবিশ্বাস্য!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859933"
+    },
+    {
+      "english": "I feel very content.",
+      "bengali": "আমি খুব সন্তুষ্ট।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859937"
+    },
+    {
+      "english": "What's on your mind, friend?",
+      "bengali": "তোর মনে কি চলছে, বন্ধু?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859940"
+    },
+    {
+      "english": "Tell me, what's bothering you?",
+      "bengali": "বল তো, কি তোকে কষ্ট দিচ্ছে?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859944"
+    },
+    {
+      "english": "Why the long face, dear?",
+      "bengali": "মুখটা এমন গোমড়া কেন, প্রিয়?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859947"
+    },
+    {
+      "english": "Are you feeling down today?",
+      "bengali": "আজ মনটা খারাপ লাগছে নাকি?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859950"
+    },
+    {
+      "english": "What made you so happy?",
+      "bengali": "তোকে এত খুশি কিসে করেছে?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859952"
+    },
+    {
+      "english": "Is something worrying you?",
+      "bengali": "কিছু কি তোকে ভাবাচ্ছে?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.859955"
+    },
+    {
+      "english": "How do you feel about this?",
+      "bengali": "এই ব্যাপারে তোর কি মনে হচ্ছে?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860051"
+    },
+    {
+      "english": "Can you explain your mood?",
+      "bengali": "তোর মেজাজটা একটু বুঝিয়ে বলবি?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860057"
+    },
+    {
+      "english": "What are you thinking about?",
+      "bengali": "তুই কি নিয়ে ভাবছিস?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860060"
+    },
+    {
+      "english": "Did something good happen?",
+      "bengali": "ভালো কিছু কি ঘটেছে?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860063"
+    },
+    {
+      "english": "You seem a bit quiet.",
+      "bengali": "তোকে একটু চুপচাপ লাগছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860065"
+    },
+    {
+      "english": "Tell me, what's the matter?",
+      "bengali": "বল তো, কি হয়েছে?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860068"
+    },
+    {
+      "english": "What's making you smile?",
+      "bengali": "কি দেখে তোর হাসি পাচ্ছে?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860071"
+    },
+    {
+      "english": "Are you feeling alright?",
+      "bengali": "তোর সব ঠিক আছে তো?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860074"
+    },
+    {
+      "english": "What's your opinion on this?",
+      "bengali": "এই ব্যাপারে তোর কি মত?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860076"
+    },
+    {
+      "english": "Can you tell me your thoughts?",
+      "bengali": "তোর ভাবনাগুলো কি আমায় বলবি?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860079"
+    },
+    {
+      "english": "What's causing this sadness?",
+      "bengali": "এই দুঃখটার কারণ কি?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860081"
+    },
+    {
+      "english": "You look very thoughtful.",
+      "bengali": "তোকে খুব চিন্তিত লাগছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860084"
+    },
+    {
+      "english": "How do you feel about the plan?",
+      "bengali": "প্ল্যানটা নিয়ে তোর কি মনে হয়?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860087"
+    },
+    {
+      "english": "What brings you here today?",
+      "bengali": "আজ তুই এখানে কি মনে করে?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860089"
+    },
+    {
+      "english": "Are you feeling energetic?",
+      "bengali": "তোর কি খুব এনার্জি লাগছে?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860092"
+    },
+    {
+      "english": "What makes you so excited?",
+      "bengali": "তোকে এত উত্তেজিত কিসে করেছে?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860094"
+    },
+    {
+      "english": "You seem a little stressed.",
+      "bengali": "তোকে একটু চিন্তিত দেখাচ্ছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860099"
+    },
+    {
+      "english": "What's the reason for your smile?",
+      "bengali": "তোর হাসির কারণটা কি?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860101"
+    },
+    {
+      "english": "Are you feeling hopeful?",
+      "bengali": "তোর কি আশা আছে?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860104"
+    },
+    {
+      "english": "Keep going, you're doing great!",
+      "bengali": "চালিয়ে যাও, তুমি দারুণ করছো!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860107"
+    },
+    {
+      "english": "Your effort is truly inspiring.",
+      "bengali": "তোমার প্রচেষ্টা সত্যিই অনুপ্রেরণাদায়ক।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860109"
+    },
+    {
+      "english": "Positive thoughts, positive life.",
+      "bengali": "ইতিবাচক চিন্তা, ইতিবাচক জীবন।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860112"
+    },
+    {
+      "english": "You've got this, don't doubt.",
+      "bengali": "তুমি এটা পারবে, সন্দেহ করো না।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860115"
+    },
+    {
+      "english": "Stay strong, brighter days ahead.",
+      "bengali": "শক্তিশালী থাকো, সামনে আরো ভালো দিন।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860118"
+    },
+    {
+      "english": "Your kindness shines through.",
+      "bengali": "তোমার দয়া দীপ্তি ছড়াচ্ছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860121"
+    },
+    {
+      "english": "Embrace challenges with courage.",
+      "bengali": "সাহসের সাথে চ্যালেঞ্জ গ্রহণ করো।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860123"
+    },
+    {
+      "english": "Celebrate small victories, too.",
+      "bengali": "ছোট জয়গুলোকেও উদযাপন করো।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860126"
+    },
+    {
+      "english": "Your potential is limitless.",
+      "bengali": "তোমার সম্ভাবনা অফুরন্ত।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860131"
+    },
+    {
+      "english": "Think positive, achieve big.",
+      "bengali": "ইতিবাচক ভাবো, বড় কিছু অর্জন করো।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860134"
+    },
+    {
+      "english": "Never underestimate your strength.",
+      "bengali": "কখনো নিজের শক্তিকে ছোট করে দেখো না।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860137"
+    },
+    {
+      "english": "Good vibes only, my friend.",
+      "bengali": "শুধু ভালো অনুভূতি, আমার বন্ধু।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860143"
+    },
+    {
+      "english": "You're making a difference.",
+      "bengali": "তুমি একটি পরিবর্তন আনছো।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860146"
+    },
+    {
+      "english": "Your progress is commendable.",
+      "bengali": "তোমার অগ্রগতি প্রশংসার যোগ্য।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860149"
+    },
+    {
+      "english": "Stay focused, reach your goals.",
+      "bengali": "মনোযোগী থাকো, লক্ষ্যে পৌঁছাও।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860153"
+    },
+    {
+      "english": "You have a bright future.",
+      "bengali": "তোমার একটি উজ্জ্বল ভবিষ্যৎ আছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860156"
+    },
+    {
+      "english": "Keep that amazing attitude.",
+      "bengali": "এই অসাধারণ মনোভাব বজায় রাখো।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860158"
+    },
+    {
+      "english": "You inspire so many people.",
+      "bengali": "তুমি অনেক মানুষকে অনুপ্রাণিত করো।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860161"
+    },
+    {
+      "english": "Every step forward counts.",
+      "bengali": "সামনের প্রতিটি পদক্ষেপ গুরুত্বপূর্ণ।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860163"
+    },
+    {
+      "english": "Believe in the process.",
+      "bengali": "প্রক্রিয়াটিতে বিশ্বাস রাখো।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860165"
+    },
+    {
+      "english": "Your determination is admirable.",
+      "bengali": "তোমার সংকল্প প্রশংসনীয়।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860168"
+    },
+    {
+      "english": "Stay positive, stay happy.",
+      "bengali": "ইতিবাচক থাকো, খুশি থাকো।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860170"
+    },
+    {
+      "english": "You're stronger than you think.",
+      "bengali": "তুমি যতটা ভাবো তার চেয়ে শক্তিশালী।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860173"
+    },
+    {
+      "english": "What a wonderful perspective!",
+      "bengali": "কি দারুণ একটি দৃষ্টিভঙ্গি!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860175"
+    },
+    {
+      "english": "That's a fantastic idea!",
+      "bengali": "এটা একটা দারুণ ভাবনা!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860178"
+    },
+    {
+      "english": "You handle things well.",
+      "bengali": "তুমি জিনিসগুলো ভালোভাবে সামলাও।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860180"
+    },
+    {
+      "english": "Your presence is a gift.",
+      "bengali": "তোমার উপস্থিতি একটি উপহার।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860183"
+    },
+    {
+      "english": "I'm reflecting, feeling a bit lost.",
+      "bengali": "আমি ভাবছি, একটু দিশেহারা লাগছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860185"
+    },
+    {
+      "english": "This moment feels deeply peaceful.",
+      "bengali": "এই মুহূর্তটা খুব শান্ত লাগছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860188"
+    },
+    {
+      "english": "My heart feels heavy today.",
+      "bengali": "আমার মনটা আজ ভারী লাগছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860192"
+    },
+    {
+      "english": "I'm trying to be patient with myself.",
+      "bengali": "আমি নিজের প্রতি ধৈর্য ধরার চেষ্টা করছি।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860195"
+    },
+    {
+      "english": "There's a quiet understanding between us.",
+      "bengali": "আমাদের মধ্যে একটা নীরব বোঝাপড়া আছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860214"
+    },
+    {
+      "english": "This memory brings a soft smile.",
+      "bengali": "এই স্মৃতিটা একটা হালকা হাসি আনছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860217"
+    },
+    {
+      "english": "I'm feeling a sense of gratitude.",
+      "bengali": "আমি কৃতজ্ঞতা বোধ করছি।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860220"
+    },
+    {
+      "english": "Sometimes, silence speaks volumes.",
+      "bengali": "কখনো কখনো, নীরবতাই অনেক কিছু বলে দেয়।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860225"
+    },
+    {
+      "english": "I'm looking inward, processing things.",
+      "bengali": "আমি নিজের ভেতরে দেখছি, জিনিসগুলো বুঝছি।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860228"
+    },
+    {
+      "english": "This feeling is hard to explain.",
+      "bengali": "এই অনুভূতিটা বোঝানো কঠিন।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860231"
+    },
+    {
+      "english": "My soul feels a deep calm.",
+      "bengali": "আমার আত্মা এক গভীর শান্তি অনুভব করছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860235"
+    },
+    {
+      "english": "I'm learning to accept imperfections.",
+      "bengali": "আমি অসম্পূর্ণতা মেনে নিতে শিখছি।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860238"
+    },
+    {
+      "english": "This requires careful consideration.",
+      "bengali": "এটার জন্য গভীর চিন্তা প্রয়োজন।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860241"
+    },
+    {
+      "english": "I feel a renewed sense of purpose.",
+      "bengali": "আমি এক নতুন উদ্দেশ্য খুঁজে পাচ্ছি।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860243"
+    },
+    {
+      "english": "This situation makes me introspective.",
+      "bengali": "এই পরিস্থিতি আমাকে আত্মমগ্ন করে তোলে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860246"
+    },
+    {
+      "english": "My emotions are a mixed bag.",
+      "bengali": "আমার অনুভূতিগুলো জগাখিচুড়ি।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860249"
+    },
+    {
+      "english": "I'm finding solace in small things.",
+      "bengali": "ছোট ছোট জিনিসে আমি সান্ত্বনা খুঁজে পাচ্ছি।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860251"
+    },
+    {
+      "english": "This truth hits me hard.",
+      "bengali": "এই সত্যিটা আমাকে খুব আঘাত করছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860254"
+    },
+    {
+      "english": "I'm consciously choosing positivity.",
+      "bengali": "আমি সচেতনভাবে ইতিবাচকতা বেছে নিচ্ছি।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860256"
+    },
+    {
+      "english": "Let's be honest with ourselves.",
+      "bengali": "চলো নিজের প্রতি সৎ থাকি।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860259"
+    },
+    {
+      "english": "This brings a sense of closure.",
+      "bengali": "এটা একটা সমাপ্তির অনুভূতি আনছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860261"
+    },
+    {
+      "english": "I need time to process this.",
+      "bengali": "এটা বোঝার জন্য আমার সময় দরকার।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860264"
+    },
+    {
+      "english": "My inner voice feels clear now.",
+      "bengali": "আমার ভেতরের কণ্ঠস্বর এখন স্পষ্ট।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860266"
+    },
+    {
+      "english": "I'm embracing vulnerability today.",
+      "bengali": "আমি আজ দুর্বলতাকে গ্রহণ করছি।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860269"
+    },
+    {
+      "english": "This realization feels profound.",
+      "bengali": "এই উপলব্ধিটা গভীর লাগছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860272"
+    },
+    {
+      "english": "I'm finding peace in surrender.",
+      "bengali": "আত্মসমর্পণে আমি শান্তি খুঁজে পাচ্ছি।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860274"
+    },
+    {
+      "english": "My perspective has shifted significantly.",
+      "bengali": "আমার দৃষ্টিভঙ্গি অনেকটাই বদলে গেছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860277"
+    },
+    {
+      "english": "This requires genuine empathy.",
+      "bengali": "এটার জন্য প্রকৃত সহানুভূতির প্রয়োজন।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860279"
+    },
+    {
+      "english": "I'm cherishing this quiet reflection.",
+      "bengali": "আমি এই শান্ত প্রতিফলন উপভোগ করছি।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860282"
+    },
+    {
+      "english": "My intuition feels very strong.",
+      "bengali": "আমার স্বজ্ঞা খুব শক্তিশালী লাগছে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860284"
+    },
+    {
+      "english": "Don't worry, things will be fine.",
+      "bengali": "চিন্তা কোরো না, সব ঠিক হয়ে যাবে।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860287"
+    },
+    {
+      "english": "Take a deep breath, calm down.",
+      "bengali": "লম্বা শ্বাস নাও, শান্ত হও।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860291"
+    },
+    {
+      "english": "It's okay to feel sad sometimes.",
+      "bengali": "মাঝে মাঝে মন খারাপ হওয়া স্বাভাবিক।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860294"
+    },
+    {
+      "english": "Are you feeling better now?",
+      "bengali": "এখন কি একটু ভালো লাগছে?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860297"
+    },
+    {
+      "english": "Express your feelings, don't hide them.",
+      "bengali": "মনের কথা বলো, লুকিয়ে রেখো না।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860302"
+    },
+    {
+      "english": "Let's talk about what's bothering you.",
+      "bengali": "কী নিয়ে চিন্তা হচ্ছে, আলোচনা করা যাক।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860305"
+    },
+    {
+      "english": "This situation made me feel awkward.",
+      "bengali": "এই পরিস্থিতিতে আমি একটু অস্বস্তি বোধ করছিলাম।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860308"
+    },
+    {
+      "english": "I'm trying to manage my stress.",
+      "bengali": "আমি আমার মানসিক চাপ সামলানোর চেষ্টা করছি।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T08:31:21.860311"
     }
   ],
-  "last_updated": "2026-10-18T07:48:35.139240"
+  "last_updated": "2026-10-19T08:31:21.860313"
 }
