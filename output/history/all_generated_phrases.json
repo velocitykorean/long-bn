@@ -3599,7 +3599,727 @@
       "bengali": "বিনয়ী হও, লোকে পছন্দ করে।",
       "category": "Common Native Slang",
       "generated_at": "2026-10-21T08:18:19.849643"
+    },
+    {
+      "english": "Keep your balance, carefully.",
+      "bengali": "ভারসাম্য রাখুন, সাবধানে।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876694"
+    },
+    {
+      "english": "Don't lose your footing.",
+      "bengali": "পা পিছলেবেন না।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876708"
+    },
+    {
+      "english": "Steady now, a little more.",
+      "bengali": "এবার স্থির হোন, আরেকটু।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876711"
+    },
+    {
+      "english": "It's a tricky balance.",
+      "bengali": "এটা একটা কঠিন ভারসাম্য।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876714"
+    },
+    {
+      "english": "Finding balance takes practice.",
+      "bengali": "ভারসাম্য খুঁজতে অভ্যাস লাগে।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876717"
+    },
+    {
+      "english": "Can you maintain this?",
+      "bengali": "এটা কি ধরে রাখতে পারবেন?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876720"
+    },
+    {
+      "english": "Just a little wobble.",
+      "bengali": "একটু টলমল করছে।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876723"
+    },
+    {
+      "english": "Hold on tight, please.",
+      "bengali": "শক্ত করে ধরুন, প্লিজ।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876728"
+    },
+    {
+      "english": "Almost lost it there.",
+      "bengali": "প্রায় পড়েই গিয়েছিলাম ওখানে।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876731"
+    },
+    {
+      "english": "Perfect equilibrium achieved.",
+      "bengali": "নিখুঁত ভারসাম্য অর্জিত হয়েছে।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876734"
+    },
+    {
+      "english": "It feels quite stable.",
+      "bengali": "এটা বেশ স্থিতিশীল লাগছে।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876737"
+    },
+    {
+      "english": "Watch your step now.",
+      "bengali": "এখন সাবধানে পা ফেলুন।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876740"
+    },
+    {
+      "english": "That was a close call.",
+      "bengali": "ওটা অল্পের জন্য বাঁচা গেল।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876742"
+    },
+    {
+      "english": "Leaning too far forward.",
+      "bengali": "খুব বেশি সামনের দিকে ঝুঁকছেন।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876745"
+    },
+    {
+      "english": "Try to center yourself.",
+      "bengali": "নিজেকে কেন্দ্রে আনার চেষ্টা করুন।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876747"
+    },
+    {
+      "english": "This requires good balance.",
+      "bengali": "এটার জন্য ভালো ভারসাম্য দরকার।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876750"
+    },
+    {
+      "english": "Are you feeling steady?",
+      "bengali": "আপনি কি স্থির অনুভব করছেন?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876752"
+    },
+    {
+      "english": "One foot, then the other.",
+      "bengali": "এক পা, তারপর অন্য পা।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876755"
+    },
+    {
+      "english": "A moment of uncertainty.",
+      "bengali": "এক মুহূর্তের অনিশ্চয়তা।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876757"
+    },
+    {
+      "english": "Don't rush the process.",
+      "bengali": "প্রক্রিয়া তাড়াহুড়ো করবেন না।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876760"
+    },
+    {
+      "english": "It's about finding harmony.",
+      "bengali": "এটা সামঞ্জস্য খুঁজে বের করার বিষয়।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876765"
+    },
+    {
+      "english": "Slight adjustment needed.",
+      "bengali": "সামান্য সমন্বয় প্রয়োজন।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876767"
+    },
+    {
+      "english": "Are you still upright?",
+      "bengali": "আপনি কি এখনো সোজা আছেন?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876770"
+    },
+    {
+      "english": "This path is uneven.",
+      "bengali": "এই পথটা এবড়োখেবড়ো।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876772"
+    },
+    {
+      "english": "Trying to get it right.",
+      "bengali": "ঠিক করার চেষ্টা করছি।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876775"
+    },
+    {
+      "english": "Just breathe and steady.",
+      "bengali": "শুধু শ্বাস নিন, আর স্থির হন।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876777"
+    },
+    {
+      "english": "It's a delicate balance.",
+      "bengali": "এটা একটা সূক্ষ্ম ভারসাম্য।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876780"
+    },
+    {
+      "english": "Can you hold that pose?",
+      "bengali": "এই ভঙ্গিটা ধরে রাখতে পারবেন?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876788"
+    },
+    {
+      "english": "We need more support.",
+      "bengali": "আমাদের আরও সমর্থন দরকার।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876793"
+    },
+    {
+      "english": "Balance is key here.",
+      "bengali": "এখানে ভারসাম্যই মুখ্য।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876795"
+    },
+    {
+      "english": "What helps you stay grounded?",
+      "bengali": "কী আপনাকে স্থির থাকতে সাহায্য করে?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876798"
+    },
+    {
+      "english": "Can you show me that technique?",
+      "bengali": "আপনি কি আমাকে সেই কৌশলটি দেখাতে পারেন?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876801"
+    },
+    {
+      "english": "Is this the right way?",
+      "bengali": "এটা কি সঠিক পথ?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876804"
+    },
+    {
+      "english": "What's your secret for stability?",
+      "bengali": "স্থিরতার জন্য আপনার গোপন রহস্য কী?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876807"
+    },
+    {
+      "english": "How can I improve my posture?",
+      "bengali": "আমি কীভাবে আমার অঙ্গবিন্যাস উন্নত করতে পারি?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876810"
+    },
+    {
+      "english": "Do you need a helping hand?",
+      "bengali": "আপনার কি সাহায্যের হাত দরকার?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876813"
+    },
+    {
+      "english": "Can we try a different approach?",
+      "bengali": "আমরা কি অন্য কোনো পদ্ধতি চেষ্টা করতে পারি?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876815"
+    },
+    {
+      "english": "Are you comfortable with this?",
+      "bengali": "আপনি কি এতে স্বাচ্ছন্দ্য বোধ করছেন?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876818"
+    },
+    {
+      "english": "Tell me more about this feeling.",
+      "bengali": "এই অনুভূতি সম্পর্কে আমাকে আরও বলুন।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876821"
+    },
+    {
+      "english": "Where should I place my feet?",
+      "bengali": "আমার পা কোথায় রাখা উচিত?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876823"
+    },
+    {
+      "english": "Is there any risk involved?",
+      "bengali": "এখানে কি কোনো ঝুঁকি জড়িত?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876826"
+    },
+    {
+      "english": "What if I lose my focus?",
+      "bengali": "যদি আমি আমার মনোযোগ হারিয়ে ফেলি?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876828"
+    },
+    {
+      "english": "How long can you hold this?",
+      "bengali": "আপনি এটি কতক্ষণ ধরে রাখতে পারেন?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876831"
+    },
+    {
+      "english": "Is it getting easier now?",
+      "bengali": "এটা কি এখন সহজ হচ্ছে?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876833"
+    },
+    {
+      "english": "What's the next step?",
+      "bengali": "পরবর্তী ধাপ কী?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876836"
+    },
+    {
+      "english": "Can you guide me through this?",
+      "bengali": "আপনি কি আমাকে এটি পার করতে সাহায্য করতে পারেন?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876839"
+    },
+    {
+      "english": "How do you manage stress effectively?",
+      "bengali": "আপনি কীভাবে কার্যকরভাবে চাপ পরিচালনা করেন?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876841"
+    },
+    {
+      "english": "What's the best way to start?",
+      "bengali": "শুরু করার সেরা উপায় কী?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876846"
+    },
+    {
+      "english": "Are you feeling more confident?",
+      "bengali": "আপনি কি আরও আত্মবিশ্বাসী বোধ করছেন?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876849"
+    },
+    {
+      "english": "Can I trust your judgment?",
+      "bengali": "আমি কি আপনার বিচারকে বিশ্বাস করতে পারি?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876851"
+    },
+    {
+      "english": "What feedback do you have?",
+      "bengali": "আপনার প্রতিক্রিয়া কী?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876853"
+    },
+    {
+      "english": "Let's discuss our strategy.",
+      "bengali": "আসুন আমাদের কৌশল নিয়ে আলোচনা করি।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876856"
+    },
+    {
+      "english": "How do we proceed from here?",
+      "bengali": "আমরা এখান থেকে কীভাবে এগিয়ে যাব?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876859"
+    },
+    {
+      "english": "Is this adjustment working?",
+      "bengali": "এই সামঞ্জস্য কি কাজ করছে?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876861"
+    },
+    {
+      "english": "What are your thoughts on this?",
+      "bengali": "এই বিষয়ে আপনার ভাবনা কী?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876863"
+    },
+    {
+      "english": "Can you repeat that, please?",
+      "bengali": "আপনি কি দয়া করে আবার বলতে পারেন?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876866"
+    },
+    {
+      "english": "Should we pause for a moment?",
+      "bengali": "আমরা কি এক মুহূর্তের জন্য থামব?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876869"
+    },
+    {
+      "english": "What's the most important element?",
+      "bengali": "সবচেয়ে গুরুত্বপূর্ণ উপাদান কী?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876871"
+    },
+    {
+      "english": "Your effort is commendable.",
+      "bengali": "তোমার চেষ্টা প্রশংসার যোগ্য।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876876"
+    },
+    {
+      "english": "Stay positive, a good outcome awaits.",
+      "bengali": "ইতিবাচক থাকো, ভালো ফল অপেক্ষা করছে।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876879"
+    },
+    {
+      "english": "Find peace within the challenge.",
+      "bengali": "চ্যালেঞ্জের মাঝে শান্তি খুঁজে নাও।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876882"
+    },
+    {
+      "english": "Every small step counts.",
+      "bengali": "প্রতিটি ছোট পদক্ষেপ গুরুত্বপূর্ণ।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876884"
+    },
+    {
+      "english": "Your progress is visible.",
+      "bengali": "তোমার অগ্রগতি চোখে পড়ার মতো।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876887"
+    },
+    {
+      "english": "Embrace the journey, not just the end.",
+      "bengali": "শেষ নয়, যাত্রাটা উপভোগ করো।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876889"
+    },
+    {
+      "english": "Focus on your inner strength.",
+      "bengali": "তোমার ভেতরের শক্তির উপর মনোযোগ দাও।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876892"
+    },
+    {
+      "english": "Let go of what doesn't serve you.",
+      "bengali": "যা তোমার কাজে আসে না, তা ছেড়ে দাও।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876895"
+    },
+    {
+      "english": "Confidence grows with practice.",
+      "bengali": "অভ্যাসের সাথে আত্মবিশ্বাস বাড়ে।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876898"
+    },
+    {
+      "english": "You are learning, and that's enough.",
+      "bengali": "তুমি শিখছো, আর সেটাই যথেষ্ট।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876901"
+    },
+    {
+      "english": "Your resilience is inspiring.",
+      "bengali": "তোমার সহনশীলতা অনুপ্রেরণাদায়ক।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876903"
+    },
+    {
+      "english": "A calm mind achieves more.",
+      "bengali": "শান্ত মন বেশি অর্জন করে।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876906"
+    },
+    {
+      "english": "You're finding your rhythm.",
+      "bengali": "তুমি তোমার ছন্দ খুঁজে পাচ্ছো।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876908"
+    },
+    {
+      "english": "Don't be afraid to ask for help.",
+      "bengali": "সাহায্য চাইতে ভয় পেয়ো না।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876911"
+    },
+    {
+      "english": "Trust the process, it unfolds.",
+      "bengali": "প্রক্রিয়াকে বিশ্বাস করো, এটা খুলে যাবে।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876914"
+    },
+    {
+      "english": "Look how far you've come.",
+      "bengali": "দেখো তুমি কতটা এগিয়ে এসেছো।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876918"
+    },
+    {
+      "english": "Inner peace leads to outer stability.",
+      "bengali": "ভেতরের শান্তি বাইরের স্থায়িত্ব আনে।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876921"
+    },
+    {
+      "english": "Adapt and overcome any obstacle.",
+      "bengali": "অভিযোজিত হও এবং যেকোনো বাধা অতিক্রম করো।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876926"
+    },
+    {
+      "english": "Let go, and you will find ease.",
+      "bengali": "ছেড়ে দাও, আর তুমি স্বস্তি পাবে।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876929"
+    },
+    {
+      "english": "Your positive outlook is key.",
+      "bengali": "তোমার ইতিবাচক দৃষ্টিভঙ্গিই আসল।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876931"
+    },
+    {
+      "english": "Embrace change, it brings growth.",
+      "bengali": "পরিবর্তনকে আলিঙ্গন করো, এতে বৃদ্ধি হয়।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876934"
+    },
+    {
+      "english": "You are handling this well.",
+      "bengali": "তুমি এটা ভালোভাবে সামলাচ্ছো।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876936"
+    },
+    {
+      "english": "Keep your mind steady and clear.",
+      "bengali": "তোমার মন স্থির এবং পরিষ্কার রাখো।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876939"
+    },
+    {
+      "english": "Reflect, then act, always.",
+      "bengali": "ভাবো, তারপর কাজ করো, সবসময়।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876942"
+    },
+    {
+      "english": "Patience brings true understanding.",
+      "bengali": "ধৈর্য আনে আসল বোঝাপড়া।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876945"
+    },
+    {
+      "english": "Deep breaths, find your center.",
+      "bengali": "গভীর শ্বাস নাও, নিজের কেন্দ্রে ফেরো।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876948"
+    },
+    {
+      "english": "Honesty with self, first.",
+      "bengali": "নিজের সাথে সততা, প্রথমে।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876950"
+    },
+    {
+      "english": "Feel your emotions, don't fight.",
+      "bengali": "অনুভূতিগুলো অনুভব করো, লড়ো না।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876953"
+    },
+    {
+      "english": "What's beneath the surface?",
+      "bengali": "এর গভীরে কী আছে?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876956"
+    },
+    {
+      "english": "Be kind to your mind.",
+      "bengali": "মনের প্রতি সদয় হও।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876958"
+    },
+    {
+      "english": "Accept imperfections, they are human.",
+      "bengali": "অপূর্ণতাগুলো মেনে নাও, ওগুলো মানবিক।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876961"
+    },
+    {
+      "english": "Listen to your inner voice.",
+      "bengali": "তোমার ভেতরের আওয়াজ শোনো।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876964"
+    },
+    {
+      "english": "Gentle effort, steady progress.",
+      "bengali": "আলতো প্রচেষ্টা, স্থির অগ্রগতি।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876968"
+    },
+    {
+      "english": "Let stillness teach you.",
+      "bengali": "স্থিরতা তোমাকে শেখাক।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876971"
+    },
+    {
+      "english": "Seek quiet, find clarity.",
+      "bengali": "নীরবতা খোঁজো, স্পষ্টতা পাও।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876976"
+    },
+    {
+      "english": "Balance is a feeling, not a science.",
+      "bengali": "ভারসাম্য একটা অনুভূতি, বিজ্ঞান নয়।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876979"
+    },
+    {
+      "english": "Acknowledge your limits gently.",
+      "bengali": "আলতোভাবে নিজের সীমাবদ্ধতা স্বীকার করো।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876981"
+    },
+    {
+      "english": "Learn from every experience.",
+      "bengali": "প্রতিটি অভিজ্ঞতা থেকে শেখো।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876984"
+    },
+    {
+      "english": "Your inner peace, is your power.",
+      "bengali": "তোমার ভেতরের শান্তিই, তোমার শক্তি।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876987"
+    },
+    {
+      "english": "Embrace the ebb and flow.",
+      "bengali": "জোয়ার-ভাটাকে আলিঙ্গন করো।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876989"
+    },
+    {
+      "english": "True strength is in kindness.",
+      "bengali": "প্রকৃত শক্তি হলো দয়াতে।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876992"
+    },
+    {
+      "english": "Allow yourself to be imperfect.",
+      "bengali": "নিজেকে অপূর্ণ থাকার অনুমতি দাও।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876994"
+    },
+    {
+      "english": "What does your heart say?",
+      "bengali": "তোমার হৃদয় কী বলছে?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876996"
+    },
+    {
+      "english": "Stay grounded, stay present.",
+      "bengali": "মাটির কাছাকাছি থাকো, বর্তমানে থাকো।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.876999"
+    },
+    {
+      "english": "Self-compassion is essential.",
+      "bengali": "আত্ম-সহানুভূতি অপরিহার্য।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.877004"
+    },
+    {
+      "english": "Refinement takes time.",
+      "bengali": "পরিশীলিত হতে সময় লাগে।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.877006"
+    },
+    {
+      "english": "Trust your intuition implicitly.",
+      "bengali": "তোমার স্বজ্ঞাকে বিনা প্রশ্নে বিশ্বাস করো।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.877009"
+    },
+    {
+      "english": "Sincerity unlocks deeper connections.",
+      "bengali": "আন্তরিকতা গভীর সংযোগ উন্মোচন করে।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.877012"
+    },
+    {
+      "english": "Start small, work steady.",
+      "bengali": "ছোট করে শুরু করুন, আস্তে আস্তে কাজ করুন।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.877015"
+    },
+    {
+      "english": "Daily rest, daily effort.",
+      "bengali": "প্রতিদিন বিশ্রাম, প্রতিদিন চেষ্টা।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.877018"
+    },
+    {
+      "english": "Listen more, speak less.",
+      "bengali": "বেশি শুনুন, কম বলুন।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.877021"
+    },
+    {
+      "english": "One task at a time, please.",
+      "bengali": "একবারে একটি কাজ, দয়া করে।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.877023"
+    },
+    {
+      "english": "Mistakes happen, learn from them.",
+      "bengali": "ভুল হয়, সেগুলো থেকে শিখুন।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.877026"
+    },
+    {
+      "english": "Small breaks, big focus.",
+      "bengali": "ছোট বিরতি, বড় মনোযোগ।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.877029"
+    },
+    {
+      "english": "Is this really necessary?",
+      "bengali": "এটা কি সত্যিই দরকারি?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.877031"
+    },
+    {
+      "english": "What can I simplify today?",
+      "bengali": "আজ আমি কী সহজ করতে পারি?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.877034"
+    },
+    {
+      "english": "Acknowledge small wins always.",
+      "bengali": "ছোট ছোট জয় সবসময় স্বীকার করুন।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.877037"
+    },
+    {
+      "english": "Don't overcommit, stay realistic.",
+      "bengali": "বেশি প্রতিশ্রুতি দেবেন না, বাস্তববাদী থাকুন।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.877040"
+    },
+    {
+      "english": "Check in with yourself, often.",
+      "bengali": "নিজের সাথে প্রায়ই যোগাযোগ রাখুন।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.877042"
+    },
+    {
+      "english": "Prioritize, then execute.",
+      "bengali": "অগ্রাধিকার ঠিক করুন, তারপর কাজ করুন।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.877078"
+    },
+    {
+      "english": "What truly matters right now?",
+      "bengali": "এখন আসলে কোনটা জরুরি?",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.877083"
+    },
+    {
+      "english": "Delegate if you can.",
+      "bengali": "যদি পারেন, কাজ ভাগ করে দিন।",
+      "category": "Balance",
+      "generated_at": "2026-10-22T08:25:39.877086"
     }
   ],
-  "last_updated": "2026-10-21T08:18:19.849645"
+  "last_updated": "2026-10-22T08:25:39.877088"
 }
