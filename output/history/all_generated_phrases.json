@@ -4319,7 +4319,727 @@
       "bengali": "যদি পারেন, কাজ ভাগ করে দিন।",
       "category": "Balance",
       "generated_at": "2026-10-22T08:25:39.877086"
+    },
+    {
+      "english": "Hello, how are you doing?",
+      "bengali": "নমস্কার, কেমন আছেন?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944262"
+    },
+    {
+      "english": "I'm fine, thank you.",
+      "bengali": "আমি ভালো আছি, ধন্যবাদ।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944275"
+    },
+    {
+      "english": "Where is the airport?",
+      "bengali": "বিমানবন্দর কোথায়?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944281"
+    },
+    {
+      "english": "I need a taxi.",
+      "bengali": "আমার একটি ট্যাক্সি লাগবে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944284"
+    },
+    {
+      "english": "How much is it?",
+      "bengali": "এটার দাম কত?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944287"
+    },
+    {
+      "english": "This is my passport.",
+      "bengali": "এটা আমার পাসপোর্ট।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944290"
+    },
+    {
+      "english": "Where is the check-in desk?",
+      "bengali": "চেক-ইন ডেস্ক কোথায়?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944293"
+    },
+    {
+      "english": "My flight is delayed.",
+      "bengali": "আমার ফ্লাইট দেরি হচ্ছে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944299"
+    },
+    {
+      "english": "What time is boarding?",
+      "bengali": "কখন বোর্ডিং শুরু হবে?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944305"
+    },
+    {
+      "english": "Where is Gate number five?",
+      "bengali": "গেট নম্বর পাঁচ কোথায়?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944308"
+    },
+    {
+      "english": "I have a question.",
+      "bengali": "আমার একটি প্রশ্ন আছে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944310"
+    },
+    {
+      "english": "Do you speak English?",
+      "bengali": "আপনি কি ইংরেজি বলেন?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944313"
+    },
+    {
+      "english": "I don't understand.",
+      "bengali": "আমি বুঝতে পারছি না।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944316"
+    },
+    {
+      "english": "Could you repeat that?",
+      "bengali": "আপনি কি এটা আবার বলতে পারেন?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944318"
+    },
+    {
+      "english": "Thank you very much.",
+      "bengali": "আপনাকে অনেক ধন্যবাদ।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944321"
+    },
+    {
+      "english": "Excuse me, please.",
+      "bengali": "একটু শুনবেন, প্লিজ।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944328"
+    },
+    {
+      "english": "Where is the restroom?",
+      "bengali": "শৌচাগার কোথায়?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944331"
+    },
+    {
+      "english": "I need to buy a ticket.",
+      "bengali": "আমার একটি টিকিট কিনতে হবে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944333"
+    },
+    {
+      "english": "What is the destination?",
+      "bengali": "গন্তব্য কোথায়?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944336"
+    },
+    {
+      "english": "Is this the correct line?",
+      "bengali": "এটা কি সঠিক লাইন?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944338"
+    },
+    {
+      "english": "I'm looking for my luggage.",
+      "bengali": "আমি আমার জিনিসপত্র খুঁজছি।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944341"
+    },
+    {
+      "english": "My bag is lost.",
+      "bengali": "আমার ব্যাগ হারিয়ে গেছে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944344"
+    },
+    {
+      "english": "Can I have a window seat?",
+      "bengali": "আমি কি জানালার পাশের সিট পেতে পারি?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944346"
+    },
+    {
+      "english": "Is there Wi-Fi here?",
+      "bengali": "এখানে কি ওয়াইফাই আছে?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944349"
+    },
+    {
+      "english": "Where can I get food?",
+      "bengali": "আমি কোথায় খাবার পেতে পারি?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944352"
+    },
+    {
+      "english": "I feel tired.",
+      "bengali": "আমার খুব ক্লান্তি লাগছে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944354"
+    },
+    {
+      "english": "Have a nice trip!",
+      "bengali": "আপনার যাত্রা শুভ হোক!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944357"
+    },
+    {
+      "english": "Welcome to Bangladesh!",
+      "bengali": "বাংলাদেশে আপনাকে স্বাগতম!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944359"
+    },
+    {
+      "english": "See you later!",
+      "bengali": "পরে দেখা হবে!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944361"
+    },
+    {
+      "english": "Could you help me, please?",
+      "bengali": "একটু সাহায্য করবেন?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944366"
+    },
+    {
+      "english": "Where can I find information?",
+      "bengali": "তথ্য কোথায় পাব?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944369"
+    },
+    {
+      "english": "Can you show me on the map?",
+      "bengali": "ম্যাপে দেখিয়ে দেবেন?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944371"
+    },
+    {
+      "english": "What is the gate number?",
+      "bengali": "গেট নম্বর কত?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944375"
+    },
+    {
+      "english": "When does the flight depart?",
+      "bengali": "কখন ফ্লাইট ছাড়বে?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944377"
+    },
+    {
+      "english": "Is my flight on time?",
+      "bengali": "আমার ফ্লাইট কি ঠিক সময়ে?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944380"
+    },
+    {
+      "english": "Can I get a boarding pass?",
+      "bengali": "বোর্ডিং পাস পাব?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944383"
+    },
+    {
+      "english": "Where is the departure lounge?",
+      "bengali": "ডিপার্চার লাউঞ্জ কোথায়?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944385"
+    },
+    {
+      "english": "Do you have any recommendations?",
+      "bengali": "কিছু সুপারিশ করবেন?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944388"
+    },
+    {
+      "english": "How long is the journey?",
+      "bengali": "যাত্রা কতক্ষণের?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944391"
+    },
+    {
+      "english": "Can I have some water?",
+      "bengali": "একটু জল দেবেন?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944393"
+    },
+    {
+      "english": "Where do I collect baggage?",
+      "bengali": "লাগেজ কোথায় নেব?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944397"
+    },
+    {
+      "english": "Is there a currency exchange?",
+      "bengali": "কারেন্সি এক্সচেঞ্জ আছে?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944401"
+    },
+    {
+      "english": "What's the local time now?",
+      "bengali": "এখন স্থানীয় সময় কত?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944404"
+    },
+    {
+      "english": "Can I use my phone here?",
+      "bengali": "এখানে ফোন ব্যবহার করা যাবে?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944407"
+    },
+    {
+      "english": "Is there a lost and found?",
+      "bengali": "লস্ট অ্যান্ড ফাউন্ড আছে?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944410"
+    },
+    {
+      "english": "Where can I charge my phone?",
+      "bengali": "ফোন চার্জ কোথায় দেব?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944412"
+    },
+    {
+      "english": "Which terminal is this?",
+      "bengali": "এটা কোন টার্মিনাল?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944415"
+    },
+    {
+      "english": "Can I get a wheelchair?",
+      "bengali": "একটা হুইলচেয়ার পাব?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944417"
+    },
+    {
+      "english": "Is there a smoking area?",
+      "bengali": "ধূমপানের জায়গা আছে?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944420"
+    },
+    {
+      "english": "What's the boarding time?",
+      "bengali": "বোর্ডিংয়ের সময় কখন?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944422"
+    },
+    {
+      "english": "Could you write that down?",
+      "bengali": "এটা কি লিখে দেবেন?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944425"
+    },
+    {
+      "english": "Is there a duty-free shop?",
+      "bengali": "ডিউটি-ফ্রি শপ আছে?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944427"
+    },
+    {
+      "english": "Where is the prayer room?",
+      "bengali": "প্রার্থনার ঘর কোথায়?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944430"
+    },
+    {
+      "english": "Can I get a blanket?",
+      "bengali": "একটা কম্বল পাব?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944432"
+    },
+    {
+      "english": "What time does it land?",
+      "bengali": "কখন নামবে?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944435"
+    },
+    {
+      "english": "Is immigration next?",
+      "bengali": "ইমিগ্রেশন কি পরে?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944439"
+    },
+    {
+      "english": "Where can I get a SIM card?",
+      "bengali": "সিম কার্ড কোথায় পাব?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944442"
+    },
+    {
+      "english": "Can you point me there?",
+      "bengali": "ওদিকে দেখিয়ে দেবেন?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944444"
+    },
+    {
+      "english": "Believe in yourself, you can do it!",
+      "bengali": "নিজের উপর বিশ্বাস রাখো, তুমি পারবে!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944447"
+    },
+    {
+      "english": "This adventure will be amazing.",
+      "bengali": "এই অভিযানটি অসাধারণ হবে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944450"
+    },
+    {
+      "english": "Enjoy every moment, it's precious.",
+      "bengali": "প্রতিটি মুহূর্ত উপভোগ করো, এটি অমূল্য।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944453"
+    },
+    {
+      "english": "This new experience is exciting.",
+      "bengali": "এই নতুন অভিজ্ঞতাটা রোমাঞ্চকর।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944456"
+    },
+    {
+      "english": "You've got this, stay positive.",
+      "bengali": "তুমি এটা পারবে, ইতিবাচক থাকো।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944459"
+    },
+    {
+      "english": "Learn from every step.",
+      "bengali": "প্রতিটি পদক্ষেপ থেকে শেখো।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944462"
+    },
+    {
+      "english": "Embrace the unexpected, it's part of the fun.",
+      "bengali": "অপ্রত্যাশিতকে আলিঙ্গন করো, এটা মজার অংশ।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944465"
+    },
+    {
+      "english": "Your journey is just beginning.",
+      "bengali": "তোমার যাত্রা কেবল শুরু হচ্ছে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944468"
+    },
+    {
+      "english": "This is a wonderful opportunity.",
+      "bengali": "এটা একটা দারুণ সুযোগ।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944471"
+    },
+    {
+      "english": "Take a deep breath, relax.",
+      "bengali": "গভীর শ্বাস নাও, শান্ত হও।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944474"
+    },
+    {
+      "english": "You are braver than you think.",
+      "bengali": "তুমি যতটা ভাবো, তার চেয়ে সাহসী।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944477"
+    },
+    {
+      "english": "This challenge will make you stronger.",
+      "bengali": "এই চ্যালেঞ্জ তোমাকে আরও শক্তিশালী করবে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944480"
+    },
+    {
+      "english": "Every journey has its own beauty.",
+      "bengali": "প্রত্যেক যাত্রার নিজস্ব সৌন্দর্য আছে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944482"
+    },
+    {
+      "english": "Stay curious, explore everything.",
+      "bengali": "কৌতূহলী থাকো, সবকিছু ঘুরে দেখো।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944486"
+    },
+    {
+      "english": "Trust the process, it will unfold.",
+      "bengali": "প্রক্রিয়ার উপর ভরসা রাখো, এটা খুলে যাবে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944490"
+    },
+    {
+      "english": "This trip will broaden your horizons.",
+      "bengali": "এই ভ্রমণ তোমার জ্ঞানকে প্রসারিত করবে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944493"
+    },
+    {
+      "english": "You're handling this very well.",
+      "bengali": "তুমি এটা খুব ভালোভাবে সামলাচ্ছো।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944496"
+    },
+    {
+      "english": "Keep an open mind, be receptive.",
+      "bengali": "মন খোলা রাখো, গ্রহণ করার জন্য প্রস্তুত থাকো।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944498"
+    },
+    {
+      "english": "Success is on your way.",
+      "bengali": "সাফল্য তোমার পথেই আছে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944501"
+    },
+    {
+      "english": "This is an unforgettable memory.",
+      "bengali": "এটা এক অবিস্মরণীয় স্মৃতি হবে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944504"
+    },
+    {
+      "english": "You have the strength to overcome.",
+      "bengali": "তোমার অতিক্রম করার শক্তি আছে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944508"
+    },
+    {
+      "english": "Let go of fear, embrace joy.",
+      "bengali": "ভয় ছেড়ে দাও, আনন্দকে আলিঙ্গন করো।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944511"
+    },
+    {
+      "english": "Your determination is inspiring.",
+      "bengali": "তোমার দৃঢ়সংকল্প অনুপ্রেরণাদায়ক।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944513"
+    },
+    {
+      "english": "This journey will enrich your soul.",
+      "bengali": "এই যাত্রা তোমার আত্মাকে সমৃদ্ধ করবে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944516"
+    },
+    {
+      "english": "You are making great progress.",
+      "bengali": "তুমি দারুণ অগ্রগতি করছো।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944518"
+    },
+    {
+      "english": "Be proud of your efforts.",
+      "bengali": "তোমার প্রচেষ্টার জন্য গর্বিত হও।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944521"
+    },
+    {
+      "english": "Adventure awaits, go seize it!",
+      "bengali": "দুঃসাহসিক অভিযান অপেক্ষা করছে, গিয়ে ধরো!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944524"
+    },
+    {
+      "english": "This long wait, makes me thoughtful.",
+      "bengali": "এই দীর্ঘ অপেক্ষা, আমাকে ভাবায়।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944527"
+    },
+    {
+      "english": "I miss home, a little bit.",
+      "bengali": "বাড়িকে, একটু মিস করছি।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944531"
+    },
+    {
+      "english": "Feeling tired, but content.",
+      "bengali": "ক্লান্ত লাগছে, কিন্তু শান্তি লাগছে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944534"
+    },
+    {
+      "english": "Hope the flight, is on time.",
+      "bengali": "আশা করি ফ্লাইট, সময়মতো হবে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944537"
+    },
+    {
+      "english": "This silence, feels peaceful.",
+      "bengali": "এই নিস্তব্ধতা, খুব শান্তিময়।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944539"
+    },
+    {
+      "english": "Thinking about the next leg, you know?",
+      "bengali": "পরের যাত্রার কথা ভাবছি, বুঝলে?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944542"
+    },
+    {
+      "english": "Sometimes, I just need to pause.",
+      "bengali": "মাঝে মাঝে, আমার থামা দরকার।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944545"
+    },
+    {
+      "english": "So much to process, after this.",
+      "bengali": "এত কিছু ভাবতে হবে, এরপর।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944548"
+    },
+    {
+      "english": "Feeling a bit nostalgic, honestly.",
+      "bengali": "একটু নস্টালজিক লাগছে, সত্যি।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944551"
+    },
+    {
+      "english": "Will cherish this memory, always.",
+      "bengali": "এই স্মৃতি, সবসময় মনে রাখব।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944554"
+    },
+    {
+      "english": "Patiently waiting, is the key.",
+      "bengali": "ধৈর্য ধরে অপেক্ষা, এটাই জরুরি।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944556"
+    },
+    {
+      "english": "Just reflecting, on the journey.",
+      "bengali": "শুধু ভাবছি, এই ভ্রমণ নিয়ে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944559"
+    },
+    {
+      "english": "What a strange feeling, this is.",
+      "bengali": "কী অদ্ভুত অনুভূতি, এটা!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944562"
+    },
+    {
+      "english": "Hoping for a smooth arrival.",
+      "bengali": "শান্তিপূর্ণ আগমনের আশা করছি।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944564"
+    },
+    {
+      "english": "Lost in my own thoughts, now.",
+      "bengali": "নিজের ভাবনায়, হারিয়ে গেছি।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944567"
+    },
+    {
+      "english": "Can't help but smile, thinking back.",
+      "bengali": "মনে পড়তেই, হাসি পাচ্ছে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944570"
+    },
+    {
+      "english": "This quiet moment, is precious.",
+      "bengali": "এই শান্ত মুহূর্ত, খুব দামি।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944573"
+    },
+    {
+      "english": "Feeling grateful, for this chance.",
+      "bengali": "কৃতজ্ঞতা লাগছে, এই সুযোগে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944576"
+    },
+    {
+      "english": "Looking forward, with some apprehension.",
+      "bengali": "সামনের দিকে তাকাচ্ছি, একটু ভয়ে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944582"
+    },
+    {
+      "english": "It's okay, to feel overwhelmed.",
+      "bengali": "অবিভূত লাগা, ঠিক আছে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944585"
+    },
+    {
+      "english": "This journey, teaches a lot.",
+      "bengali": "এই ভ্রমণ, অনেক কিছু শেখায়।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944587"
+    },
+    {
+      "english": "A moment of calm, before chaos.",
+      "bengali": "বিশৃঙ্খলা, এর আগের শান্ত মুহূর্ত।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944590"
+    },
+    {
+      "english": "Hope I remember, all the details.",
+      "bengali": "আশা করি, সব মনে থাকবে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944593"
+    },
+    {
+      "english": "It's a bittersweet feeling, leaving.",
+      "bengali": "একটা মিশ্র অনুভূতি, চলে যাওয়ার।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944596"
+    },
+    {
+      "english": "Just breathing in, this atmosphere.",
+      "bengali": "শুধু এই পরিবেশ, অনুভব করছি।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944598"
+    },
+    {
+      "english": "Feeling a sense of anticipation.",
+      "bengali": "একটা প্রত্যাশার অনুভূতি হচ্ছে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944601"
+    },
+    {
+      "english": "Wish I had more time, here.",
+      "bengali": "ইচ্ছে করে, আরও সময় পেতাম।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944604"
+    },
+    {
+      "english": "Reflecting on past adventures.",
+      "bengali": "পুরনো সব অ্যাডভেঞ্চারের কথা ভাবছি।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944606"
+    },
+    {
+      "english": "Hope to see you, soon again.",
+      "bengali": "আবার দেখা হবে, আশা করি।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944609"
+    },
+    {
+      "english": "Do you have a window seat?",
+      "bengali": "আপনার কি জানালার পাশের সিট আছে?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944613"
+    },
+    {
+      "english": "My luggage is lost.",
+      "bengali": "আমার জিনিসপত্র হারিয়ে গেছে।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944616"
+    },
+    {
+      "english": "Where is the immigration desk?",
+      "bengali": "ইমিগ্রেশন ডেস্ক কোথায়?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944620"
+    },
+    {
+      "english": "How much is the currency exchange?",
+      "bengali": "কারেন্সি এক্সচেঞ্জ রেট কত?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944624"
+    },
+    {
+      "english": "I need help with my bag.",
+      "bengali": "আমার ব্যাগটা একটু ধরতে সাহায্য করুন।",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944627"
+    },
+    {
+      "english": "What time does the flight depart?",
+      "bengali": "ফ্লাইট কখন ছাড়বে?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:16:34.944629"
     }
   ],
-  "last_updated": "2026-10-22T08:25:39.877088"
+  "last_updated": "2026-10-23T08:16:34.944631"
 }
