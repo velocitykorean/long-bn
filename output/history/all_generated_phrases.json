@@ -5759,7 +5759,727 @@
       "bengali": "উপস্থিত থাকুন, এই মুহূর্তে।",
       "category": "Positive Life",
       "generated_at": "2026-10-24T07:55:17.408870"
+    },
+    {
+      "english": "Learn something new, daily.",
+      "bengali": "প্রতিদিন নতুন কিছু শেখো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036069"
+    },
+    {
+      "english": "Stay positive, no matter what.",
+      "bengali": "যা-ই হোক না কেন, ইতিবাচক থাকো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036083"
+    },
+    {
+      "english": "Take one step, forward.",
+      "bengali": "একটা পদক্ষেপ নাও, সামনে।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036086"
+    },
+    {
+      "english": "Start today, not tomorrow.",
+      "bengali": "আজকেই শুরু করো, কাল নয়।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036090"
+    },
+    {
+      "english": "Focus on your goals.",
+      "bengali": "তোমার লক্ষ্যের উপর মনোযোগ দাও।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036092"
+    },
+    {
+      "english": "Embrace the change, always.",
+      "bengali": "পরিবর্তনকে আলিঙ্গন করো, সবসময়।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036095"
+    },
+    {
+      "english": "Practice makes perfect, right?",
+      "bengali": "চর্চা করলে সব ঠিক হয়ে যায়, তাই না?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036098"
+    },
+    {
+      "english": "Ask questions, to learn.",
+      "bengali": "জানার জন্য প্রশ্ন করো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036103"
+    },
+    {
+      "english": "Find your passion, soon.",
+      "bengali": "তাড়াতাড়ি তোমার আগ্রহ খুঁজে বের করো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036107"
+    },
+    {
+      "english": "Never give up, try again.",
+      "bengali": "কখনো হাল ছেড়ো না, আবার চেষ্টা করো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036110"
+    },
+    {
+      "english": "Small steps, big results.",
+      "bengali": "ছোট ছোট পদক্ষেপ, বড় ফলাফল।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036113"
+    },
+    {
+      "english": "Stay curious, explore more.",
+      "bengali": "কৌতূহলী থাকো, আরও অন্বেষণ করো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036117"
+    },
+    {
+      "english": "Make time, for yourself.",
+      "bengali": "নিজের জন্য সময় বের করো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036125"
+    },
+    {
+      "english": "Work hard, stay humble.",
+      "bengali": "কঠোর পরিশ্রম করো, বিনয়ী থাকো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036130"
+    },
+    {
+      "english": "Believe in good things.",
+      "bengali": "ভালো কিছুতে বিশ্বাস রাখো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036132"
+    },
+    {
+      "english": "Open your mind, to ideas.",
+      "bengali": "নতুন ধারণার জন্য মন খোলো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036135"
+    },
+    {
+      "english": "Be grateful, every day.",
+      "bengali": "প্রতিদিন কৃতজ্ঞ থাকো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036138"
+    },
+    {
+      "english": "Challenge yourself, often.",
+      "bengali": "নিজেকে প্রায়ই চ্যালেঞ্জ করো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036140"
+    },
+    {
+      "english": "Find your inner peace.",
+      "bengali": "তোমার ভেতরের শান্তি খুঁজে বের করো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036143"
+    },
+    {
+      "english": "Accept what you can't change.",
+      "bengali": "যা বদলাতে পারবে না, তা মেনে নাও।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036146"
+    },
+    {
+      "english": "Be present, in the moment.",
+      "bengali": "বর্তমানে থাকো, এই মুহূর্তে।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036150"
+    },
+    {
+      "english": "Inspire yourself, first.",
+      "bengali": "প্রথমে নিজেকে অনুপ্রাণিত করো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036153"
+    },
+    {
+      "english": "Understand, and be understood.",
+      "bengali": "বোঝো, এবং বোঝানো হোক।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036156"
+    },
+    {
+      "english": "Your journey, is unique.",
+      "bengali": "তোমার যাত্রা, অনন্য।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036158"
+    },
+    {
+      "english": "What's your advice, for growth?",
+      "bengali": "আপনার পরামর্শ কি, উন্নতির জন্য?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036162"
+    },
+    {
+      "english": "How can I improve, myself?",
+      "bengali": "আমি কিভাবে নিজেকে উন্নত করতে পারি?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036165"
+    },
+    {
+      "english": "Do you have any tips, please?",
+      "bengali": "আপনার কি কোনো টিপস আছে, দয়া করে?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036167"
+    },
+    {
+      "english": "Can we discuss, this topic?",
+      "bengali": "আমরা কি আলোচনা করতে পারি, এই বিষয়টি?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036170"
+    },
+    {
+      "english": "What is your opinion, on habits?",
+      "bengali": "অভ্যাস নিয়ে আপনার মতামত কি?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036173"
+    },
+    {
+      "english": "Seeking your guidance, please.",
+      "bengali": "আপনার নির্দেশনা চাইছি, দয়া করে।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036176"
+    },
+    {
+      "english": "How do you handle, challenges?",
+      "bengali": "আপনি কিভাবে মোকাবেলা করেন, চ্যালেঞ্জ?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036179"
+    },
+    {
+      "english": "Tell me more, about your journey.",
+      "bengali": "আপনার যাত্রা সম্পর্কে, আমাকে আরও বলুন।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036181"
+    },
+    {
+      "english": "Any suggestions, for a beginner?",
+      "bengali": "নতুনদের জন্য কোনো পরামর্শ আছে?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036184"
+    },
+    {
+      "english": "Could you explain, that again?",
+      "bengali": "আপনি কি আবার ব্যাখ্যা করতে পারেন, সেটি?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036187"
+    },
+    {
+      "english": "What did you mean, by that?",
+      "bengali": "আপনি এটা দিয়ে কি বুঝিয়েছেন?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036190"
+    },
+    {
+      "english": "Can you share, your experience?",
+      "bengali": "আপনি কি আপনার অভিজ্ঞতা শেয়ার করতে পারেন?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036192"
+    },
+    {
+      "english": "What's your daily routine, like?",
+      "bengali": "আপনার দৈনন্দিন রুটিন কেমন?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036195"
+    },
+    {
+      "english": "How do you find, balance?",
+      "bengali": "আপনি কিভাবে ভারসাম্য খুঁজে পান?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036198"
+    },
+    {
+      "english": "What helps you, relax?",
+      "bengali": "আপনাকে কি আরাম করতে সাহায্য করে?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036209"
+    },
+    {
+      "english": "What's your goal, for this week?",
+      "bengali": "এই সপ্তাহের জন্য আপনার লক্ষ্য কি?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036212"
+    },
+    {
+      "english": "Can you recommend, a book?",
+      "bengali": "আপনি কি একটি বই সুপারিশ করতে পারেন?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036215"
+    },
+    {
+      "english": "What's your favorite, quote?",
+      "bengali": "আপনার প্রিয় উক্তি কি?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036218"
+    },
+    {
+      "english": "How do you practice, mindfulness?",
+      "bengali": "আপনি কিভাবে মননশীলতার অনুশীলন করেন?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036221"
+    },
+    {
+      "english": "What's the key, to happiness?",
+      "bengali": "সুখের চাবিকাঠি কি?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036224"
+    },
+    {
+      "english": "Do you agree, with this idea?",
+      "bengali": "আপনি কি এই ধারণার সাথে একমত?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036227"
+    },
+    {
+      "english": "How can we help, each other?",
+      "bengali": "আমরা একে অপরকে কিভাবে সাহায্য করতে পারি?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036229"
+    },
+    {
+      "english": "What are your dreams, big or small?",
+      "bengali": "আপনার স্বপ্ন কি, বড় নাকি ছোট?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036232"
+    },
+    {
+      "english": "What's one thing, you'd change?",
+      "bengali": "আপনি একটি জিনিস কি পরিবর্তন করবেন?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036235"
+    },
+    {
+      "english": "Your effort shows, keep going.",
+      "bengali": "তোমার চেষ্টা দেখা যাচ্ছে, চালিয়ে যাও।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036237"
+    },
+    {
+      "english": "Don't doubt yourself, ever.",
+      "bengali": "নিজেকে কখনো সন্দেহ করো না।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036240"
+    },
+    {
+      "english": "This is progress, see it.",
+      "bengali": "এটা উন্নতি, এটা দেখো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036243"
+    },
+    {
+      "english": "That's brilliant, truly.",
+      "bengali": "এটা অসাধারণ, সত্যিই।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036246"
+    },
+    {
+      "english": "Keep that positive vibe, always.",
+      "bengali": "এই ইতিবাচক মনোভাব, সবসময় রাখো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036250"
+    },
+    {
+      "english": "You inspire me, you know.",
+      "bengali": "তুমি আমাকে অনুপ্রাণিত করো, জানো?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036253"
+    },
+    {
+      "english": "Focus on the good, always.",
+      "bengali": "সবসময় ভালোর দিকে মনোযোগ দাও।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036256"
+    },
+    {
+      "english": "Your potential is huge, unlock it.",
+      "bengali": "তোমার সম্ভাবনা বিশাল, এটা উন্মোচন করো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036259"
+    },
+    {
+      "english": "Be kind, to yourself too.",
+      "bengali": "দয়ালু হও, নিজের প্রতিও।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036262"
+    },
+    {
+      "english": "You can handle anything, really.",
+      "bengali": "তুমি যেকোনো কিছু সামলাতে পারো, সত্যিই।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036265"
+    },
+    {
+      "english": "That idea is fantastic, wow.",
+      "bengali": "এই ধারণাটা দারুণ, ওয়াও।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036268"
+    },
+    {
+      "english": "Keep that chin up, high.",
+      "bengali": "এই থুতনি উঁচু করে রাখো, উঁচুতে।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036270"
+    },
+    {
+      "english": "You're growing, I see it.",
+      "bengali": "তুমি বড় হচ্ছো, আমি দেখছি।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036273"
+    },
+    {
+      "english": "Trust your gut, it's right.",
+      "bengali": "তোমার মনকে বিশ্বাস করো, এটা ঠিক।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036276"
+    },
+    {
+      "english": "Keep shining bright, always.",
+      "bengali": "সবসময় উজ্জ্বলভাবে জ্বলতে থাকো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036279"
+    },
+    {
+      "english": "You have so much to offer.",
+      "bengali": "তোমার দেওয়ার অনেক কিছু আছে।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036283"
+    },
+    {
+      "english": "Embrace the challenge, you will.",
+      "bengali": "চ্যালেঞ্জ আলিঙ্গন করো, তুমি পারবে।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036286"
+    },
+    {
+      "english": "Your mindset matters, a lot.",
+      "bengali": "তোমার মানসিকতা গুরুত্বপূর্ণ, অনেক।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036289"
+    },
+    {
+      "english": "Keep that spirit alive, vibrant.",
+      "bengali": "এই চেতনা জীবন্ত রাখো, প্রাণবন্ত।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036291"
+    },
+    {
+      "english": "Stay strong, and positive.",
+      "bengali": "শক্তিশালী, এবং ইতিবাচক থাকো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036294"
+    },
+    {
+      "english": "What a great attitude, wow.",
+      "bengali": "কী দারুণ মনোভাব, ওয়াও।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036296"
+    },
+    {
+      "english": "You're learning fast, amazing.",
+      "bengali": "তুমি দ্রুত শিখছো, দারুণ।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036299"
+    },
+    {
+      "english": "Believe in your own strength.",
+      "bengali": "নিজের শক্তির উপর বিশ্বাস রাখো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036302"
+    },
+    {
+      "english": "That resilience is admirable, yes.",
+      "bengali": "এই সহনশীলতা প্রশংসনীয়, হ্যাঁ।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036304"
+    },
+    {
+      "english": "Every little step, counts a lot.",
+      "bengali": "ছোট ছোট পদক্ষেপে, অনেক কিছু হয়।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036307"
+    },
+    {
+      "english": "Today's effort, tomorrow's success.",
+      "bengali": "আজকের চেষ্টা, আগামীকালের জয়।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036312"
+    },
+    {
+      "english": "Face the fear, learn to grow.",
+      "bengali": "ভয়কে সামলাও, শিখতে থাকো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036315"
+    },
+    {
+      "english": "Patience is a virtue, my friend.",
+      "bengali": "ধৈর্য হলো গুণ, বন্ধু।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036317"
+    },
+    {
+      "english": "Don't rush, enjoy the journey.",
+      "bengali": "তাড়াহুড়ো নয়, পথ চল।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036320"
+    },
+    {
+      "english": "Small changes, big impact.",
+      "bengali": "ছোট বদল, বড় ফল।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036323"
+    },
+    {
+      "english": "Self-belief, is the first step.",
+      "bengali": "নিজেকে বিশ্বাস, প্রথম ধাপ।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036326"
+    },
+    {
+      "english": "Keep learning, stay curious.",
+      "bengali": "শিখতে থাকো, জানতে চাও।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036329"
+    },
+    {
+      "english": "Adapt and overcome, always.",
+      "bengali": "মানিয়ে নাও, জিতে যাবে।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036331"
+    },
+    {
+      "english": "Your past, doesn't define you.",
+      "bengali": "অতীত তোমার নয়, তুমি নতুন।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036334"
+    },
+    {
+      "english": "Focus inward, find your peace.",
+      "bengali": "ভিতরে তাকাও, শান্তি পাবে।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036337"
+    },
+    {
+      "english": "Build habits, daily practice.",
+      "bengali": "অভ্যাস গড়ো, রোজকার মতো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036341"
+    },
+    {
+      "english": "Forgiveness, sets you free.",
+      "bengali": "ক্ষমা করে দাও, মুক্তি পাবে।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036344"
+    },
+    {
+      "english": "Gratitude, changes perspective.",
+      "bengali": "কৃতজ্ঞতা, দৃষ্টি বদলায়।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036347"
+    },
+    {
+      "english": "Embrace discomfort, for growth.",
+      "bengali": "অস্বস্তি এসো, বাড়বে উন্নতি।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036350"
+    },
+    {
+      "english": "Simplicity, is true elegance.",
+      "bengali": "সরলতাই, আসল শোভা।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036352"
+    },
+    {
+      "english": "Action over thought, always.",
+      "bengali": "ভাবনার চেয়ে, কাজে নামো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036355"
+    },
+    {
+      "english": "Stay humble, stay grounded.",
+      "bengali": "বিনয়ী থাকো, মাটির কাছাকাছি।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036358"
+    },
+    {
+      "english": "Challenge yourself, daily.",
+      "bengali": "নিজেকে চ্যালেঞ্জ, রোজ করো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036362"
+    },
+    {
+      "english": "Let go, of what's past.",
+      "bengali": "ছেড়ে দাও, যা গেছে।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036365"
+    },
+    {
+      "english": "Seek wisdom, not just facts.",
+      "bengali": "জ্ঞান খোঁজো, তথ্য নয়।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036367"
+    },
+    {
+      "english": "Kindness costs nothing, give it.",
+      "bengali": "দয়া বিনামূল্যে, বিলিয়ে দাও।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036370"
+    },
+    {
+      "english": "Rest is vital, don't forget.",
+      "bengali": "বিশ্রাম জরুরি, ভুলো না।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036373"
+    },
+    {
+      "english": "Health is wealth, guard it.",
+      "bengali": "স্বাস্থ্যই সম্পদ, বাঁচাও।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036375"
+    },
+    {
+      "english": "Feel your emotions, don't hide them.",
+      "bengali": "তোমার অনুভূতিগুলো অনুভব করো, লুকাও না।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036379"
+    },
+    {
+      "english": "It's okay, to not be okay sometimes.",
+      "bengali": "মাঝে মাঝে ঠিক না থাকাটাও, ঠিক আছে।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036381"
+    },
+    {
+      "english": "Honesty with yourself, is true strength.",
+      "bengali": "নিজের কাছে সততা, আসল শক্তি।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036384"
+    },
+    {
+      "english": "Reflect on lessons, learned deeply.",
+      "bengali": "শেখানো পাঠগুলো, গভীরভাবে ভাবো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036387"
+    },
+    {
+      "english": "What are you truly feeling inside?",
+      "bengali": "ভেতরে তুমি আসলে কী অনুভব করছো?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036390"
+    },
+    {
+      "english": "Accept imperfections, they make you unique.",
+      "bengali": "অপূর্ণতাগুলো গ্রহণ করো, সেগুলোই তোমাকে আলাদা করে।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036393"
+    },
+    {
+      "english": "Speak your truth, gently but firmly.",
+      "bengali": "নিজের সত্য বলো, আলতো করে কিন্তু দৃঢ়ভাবে।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036395"
+    },
+    {
+      "english": "Inner peace, is a journey, not a destination.",
+      "bengali": "মনের শান্তি, একটা যাত্রা, গন্তব্য নয়।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036398"
+    },
+    {
+      "english": "Allow yourself, to be vulnerable.",
+      "bengali": "নিজেকে দুর্বল হতে দাও।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036401"
+    },
+    {
+      "english": "Understanding yourself, takes time.",
+      "bengali": "নিজেকে বোঝা, সময় নেয়।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036404"
+    },
+    {
+      "english": "Connect with your inner self, often.",
+      "bengali": "নিজের ভেতরের সত্তার সাথে, প্রায়ই যুক্ত হও।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036406"
+    },
+    {
+      "english": "Self-discovery, is an ongoing process.",
+      "bengali": "আত্ম-আবিষ্কার, একটি চলমান প্রক্রিয়া।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036409"
+    },
+    {
+      "english": "Listen to your heart's whisper.",
+      "bengali": "তোমার হৃদয়ের ফিসফিসানি শোনো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036412"
+    },
+    {
+      "english": "What truly brings you joy?",
+      "bengali": "সত্যিই তোমাকে কী আনন্দ দেয়?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036415"
+    },
+    {
+      "english": "Embrace vulnerability, it's beautiful.",
+      "bengali": "অসংকোচ হও, এটা সুন্দর।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036418"
+    },
+    {
+      "english": "Your emotional landscape, is complex.",
+      "bengali": "তোমার মানসিক জগৎ, জটিল।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036421"
+    },
+    {
+      "english": "Seek understanding, not just answers.",
+      "bengali": "উত্তর নয়, বোঝাপড়া খোঁজো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036423"
+    },
+    {
+      "english": "Feel the weight of gratitude.",
+      "bengali": "কৃতজ্ঞতার ভার অনুভব করো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036426"
+    },
+    {
+      "english": "Let go of self-judgment.",
+      "bengali": "আত্ম-বিচার ত্যাগ করো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036429"
+    },
+    {
+      "english": "Authenticity, is liberating.",
+      "bengali": "স্বকীয়তা, মুক্তিদায়ক।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036433"
+    },
+    {
+      "english": "What is your deepest desire?",
+      "bengali": "তোমার গভীরতম আকাঙ্ক্ষা কী?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036436"
+    },
+    {
+      "english": "Cultivate inner kindness.",
+      "bengali": "অন্তরের দয়া লালন করো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036438"
+    },
+    {
+      "english": "Your growth, is happening now.",
+      "bengali": "তোমার বৃদ্ধি, এখনই ঘটছে।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036441"
+    },
+    {
+      "english": "Be present, with your feelings.",
+      "bengali": "তোমার অনুভূতির সাথে, বর্তমান থাকো।",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-25T08:08:12.036443"
     }
   ],
-  "last_updated": "2026-10-24T07:55:17.408873"
+  "last_updated": "2026-10-25T08:08:12.036445"
 }
