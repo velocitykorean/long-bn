@@ -6479,7 +6479,727 @@
       "bengali": "তোমার অনুভূতির সাথে, বর্তমান থাকো।",
       "category": "Self Improvement",
       "generated_at": "2026-10-25T08:08:12.036443"
+    },
+    {
+      "english": "Hello, who is this?",
+      "bengali": "হ্যালো, কে বলছেন?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686837"
+    },
+    {
+      "english": "I can't hear you well.",
+      "bengali": "আমি আপনাকে ভালো শুনতে পাচ্ছি না।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686850"
+    },
+    {
+      "english": "Please speak a little louder.",
+      "bengali": "দয়া করে আর একটু জোরে বলুন।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686853"
+    },
+    {
+      "english": "The line is breaking up.",
+      "bengali": "লাইনটা কেটে কেটে যাচ্ছে।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686857"
+    },
+    {
+      "english": "I'm calling about the meeting.",
+      "bengali": "আমি মিটিংয়ের ব্যাপারে ফোন করছি।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686860"
+    },
+    {
+      "english": "Is this a wrong number?",
+      "bengali": "এটা কি ভুল নম্বর?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686862"
+    },
+    {
+      "english": "Please hold on for a moment.",
+      "bengali": "একটু অপেক্ষা করুন, প্লিজ।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686866"
+    },
+    {
+      "english": "I'll call you back later.",
+      "bengali": "আমি আপনাকে পরে ফোন করব।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686870"
+    },
+    {
+      "english": "Did you get my message?",
+      "bengali": "আমার মেসেজটা পেয়েছেন?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686873"
+    },
+    {
+      "english": "Send me a text message, please.",
+      "bengali": "আমাকে একটা মেসেজ পাঠান, প্লিজ।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686875"
+    },
+    {
+      "english": "I'm busy right now.",
+      "bengali": "আমি এখন একটু ব্যস্ত।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686877"
+    },
+    {
+      "english": "What time are you free?",
+      "bengali": "আপনি কখন ফ্রি আছেন?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686879"
+    },
+    {
+      "english": "Let's talk later, okay?",
+      "bengali": "পরে কথা বলি, ঠিক আছে?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686882"
+    },
+    {
+      "english": "Can I leave a message?",
+      "bengali": "আমি কি একটা মেসেজ দিয়ে যাব?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686883"
+    },
+    {
+      "english": "I received your call.",
+      "bengali": "আপনার ফোন পেয়েছি।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686885"
+    },
+    {
+      "english": "Is the person available?",
+      "bengali": "ব্যক্তিটি কি আছেন?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686887"
+    },
+    {
+      "english": "Please tell them I called.",
+      "bengali": "দয়া করে বলবেন আমি ফোন করেছিলাম।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686889"
+    },
+    {
+      "english": "I'm on my way.",
+      "bengali": "আমি রাস্তায় আছি।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686891"
+    },
+    {
+      "english": "Are you still there?",
+      "bengali": "আপনি কি এখনও আছেন?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686893"
+    },
+    {
+      "english": "My phone battery is low.",
+      "bengali": "আমার ফোনের ব্যাটারি কম।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686895"
+    },
+    {
+      "english": "I'll call you from another number.",
+      "bengali": "আমি অন্য নম্বর থেকে ফোন করব।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686897"
+    },
+    {
+      "english": "Did you receive the attachment?",
+      "bengali": "এটাচমেন্টটা কি পেয়েছেন?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686901"
+    },
+    {
+      "english": "Sorry, I missed your call.",
+      "bengali": "দুঃখিত, আপনার কলটা ধরতে পারিনি।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686903"
+    },
+    {
+      "english": "What's the latest update?",
+      "bengali": "শেষ খবর কি?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686905"
+    },
+    {
+      "english": "I'm having network issues.",
+      "bengali": "আমার নেটওয়ার্ক সমস্যা হচ্ছে।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686907"
+    },
+    {
+      "english": "Please confirm by message.",
+      "bengali": "মেসেজ করে নিশ্চিত করুন।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686909"
+    },
+    {
+      "english": "I'll send you the details.",
+      "bengali": "আমি আপনাকে বিস্তারিত পাঠাচ্ছি।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686911"
+    },
+    {
+      "english": "Talk to you soon.",
+      "bengali": "শীঘ্রই কথা হবে।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686913"
+    },
+    {
+      "english": "Where are you right now?",
+      "bengali": "তুমি এখন কোথায় আছো?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686915"
+    },
+    {
+      "english": "Are you at home, or outside?",
+      "bengali": "বাড়িতে আছো, নাকি বাইরে?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686917"
+    },
+    {
+      "english": "What's your current location?",
+      "bengali": "তোমার বর্তমান ঠিকানা কি?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686921"
+    },
+    {
+      "english": "Should I come there now?",
+      "bengali": "আমি কি এখন সেখানে আসবো?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686924"
+    },
+    {
+      "english": "When can we meet next?",
+      "bengali": "পরের বার কবে দেখা হবে?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686926"
+    },
+    {
+      "english": "Do you need any help?",
+      "bengali": "তোমার কি কোন সাহায্য লাগবে?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686928"
+    },
+    {
+      "english": "How did you find out?",
+      "bengali": "এটা তুমি জানলে কি করে?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686930"
+    },
+    {
+      "english": "Is there anything else important?",
+      "bengali": "আর কিছু জরুরি আছে কি?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686932"
+    },
+    {
+      "english": "What should I do next?",
+      "bengali": "এরপর আমার কি করা উচিত?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686934"
+    },
+    {
+      "english": "Can you suggest something good?",
+      "bengali": "ভালো কিছু পরামর্শ দেবে?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686936"
+    },
+    {
+      "english": "Are you free to chat?",
+      "bengali": "কথা বলার জন্য কি সময় আছে?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686940"
+    },
+    {
+      "english": "Did you understand my point?",
+      "bengali": "আমার কথাটা কি বুঝলে?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686942"
+    },
+    {
+      "english": "Is there any chance for that?",
+      "bengali": "সেটার কি কোন সম্ভাবনা আছে?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686946"
+    },
+    {
+      "english": "What was the main reason?",
+      "bengali": "মূল কারণটা কি ছিল?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686948"
+    },
+    {
+      "english": "Are you sure about this?",
+      "bengali": "তুমি কি এটা নিয়ে নিশ্চিত?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686949"
+    },
+    {
+      "english": "What do you want from me?",
+      "bengali": "তুমি আমার কাছে কি চাও?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686951"
+    },
+    {
+      "english": "Is the situation serious?",
+      "bengali": "পরিস্থিতি কি গুরুতর?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686953"
+    },
+    {
+      "english": "Should I inform someone else?",
+      "bengali": "আমি কি অন্য কাউকে জানাবো?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686955"
+    },
+    {
+      "english": "What's the latest news?",
+      "bengali": "নতুন খবর কি?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686957"
+    },
+    {
+      "english": "Can you clarify this point?",
+      "bengali": "এই বিষয়টা কি স্পষ্ট করবে?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686959"
+    },
+    {
+      "english": "Are you free tomorrow morning?",
+      "bengali": "কাল সকালে কি সময় হবে?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686961"
+    },
+    {
+      "english": "What do you recommend?",
+      "bengali": "তুমি কি সুপারিশ করছ?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686963"
+    },
+    {
+      "english": "Is this the correct information?",
+      "bengali": "এই তথ্যটি কি সঠিক?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686965"
+    },
+    {
+      "english": "How do we proceed now?",
+      "bengali": "এখন আমরা কিভাবে এগোব?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686967"
+    },
+    {
+      "english": "What is the actual problem?",
+      "bengali": "আসল সমস্যাটা কি?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686969"
+    },
+    {
+      "english": "This is a learning opportunity.",
+      "bengali": "এটা একটা শেখার সুযোগ।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686971"
+    },
+    {
+      "english": "Every message is progress.",
+      "bengali": "প্রতিটি মেসেজই অগ্রগতি।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686973"
+    },
+    {
+      "english": "Sending good vibes your way.",
+      "bengali": "তোমার জন্য শুভকামনা পাঠাচ্ছি।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686975"
+    },
+    {
+      "english": "Focus on the good things.",
+      "bengali": "ভালো জিনিসগুলোর উপর মনোযোগ দাও।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686979"
+    },
+    {
+      "english": "Let's stay motivated, together.",
+      "bengali": "চলো, একসাথে অনুপ্রাণিত থাকি।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686981"
+    },
+    {
+      "english": "Keep that positive mindset.",
+      "bengali": "এই ইতিবাচক মানসিকতা বজায় রাখো।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686983"
+    },
+    {
+      "english": "You're making good progress.",
+      "bengali": "তুমি ভালো উন্নতি করছ।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686985"
+    },
+    {
+      "english": "A little more effort counts.",
+      "bengali": "আর একটু প্রচেষ্টা কাজে দেবে।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686987"
+    },
+    {
+      "english": "Sending you encouragement always.",
+      "bengali": "তোমাকে সবসময় উৎসাহ পাঠাচ্ছি।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686989"
+    },
+    {
+      "english": "Think positive, speak positive.",
+      "bengali": "ইতিবাচক ভাবো, ইতিবাচক বলো।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686991"
+    },
+    {
+      "english": "This challenge will pass.",
+      "bengali": "এই চ্যালেঞ্জ কেটে যাবে।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686993"
+    },
+    {
+      "english": "Great job on that call!",
+      "bengali": "কল-টায় দারুণ কাজ করেছ!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686995"
+    },
+    {
+      "english": "Your message was very helpful.",
+      "bengali": "তোমার মেসেজটা খুব সাহায্য করেছে।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686997"
+    },
+    {
+      "english": "Proud of your communication.",
+      "bengali": "তোমার যোগাযোগের জন্য গর্বিত।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.686999"
+    },
+    {
+      "english": "Keep that spirit high!",
+      "bengali": "এই উৎসাহ ধরে রাখো!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687001"
+    },
+    {
+      "english": "Sending strength and courage.",
+      "bengali": "শক্তি আর সাহস পাঠাচ্ছি।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687003"
+    },
+    {
+      "english": "Let's see the best outcome.",
+      "bengali": "চলো সেরা ফলাফল দেখি।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687006"
+    },
+    {
+      "english": "Every conversation matters.",
+      "bengali": "প্রতিটি কথোপকথন গুরুত্বপূর্ণ।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687009"
+    },
+    {
+      "english": "You inspire others.",
+      "bengali": "তুমি অন্যদের অনুপ্রাণিত করো।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687011"
+    },
+    {
+      "english": "Stay focused, stay strong.",
+      "bengali": "মনোযোগী থাকো, শক্তিশালী থাকো।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687013"
+    },
+    {
+      "english": "Hello, are you there?",
+      "bengali": "হ্যালো, আছেন নাকি?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687015"
+    },
+    {
+      "english": "I didn't get that, repeat please.",
+      "bengali": "বুঝতে পারিনি, আবার বলুন।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687017"
+    },
+    {
+      "english": "Is the line clear?",
+      "bengali": "লাইন কি পরিষ্কার?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687020"
+    },
+    {
+      "english": "Who is speaking, please?",
+      "bengali": "কে বলছেন, অনুগ্রহ করে?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687022"
+    },
+    {
+      "english": "Call me back later.",
+      "bengali": "পরে আবার ফোন কোরো।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687023"
+    },
+    {
+      "english": "I'm calling about that matter.",
+      "bengali": "ওই ব্যাপারে ফোন করছি।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687025"
+    },
+    {
+      "english": "Reply when you can.",
+      "bengali": "সময় পেলে উত্তর দিও।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687027"
+    },
+    {
+      "english": "He is not picking up.",
+      "bengali": "ও ফোন ধরছে না।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687029"
+    },
+    {
+      "english": "Let's talk offline.",
+      "bengali": "চলো পরে কথা বলি।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687031"
+    },
+    {
+      "english": "I'll send you a text.",
+      "bengali": "তোমাকে টেক্সট করবো।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687035"
+    },
+    {
+      "english": "The call dropped.",
+      "bengali": "কলটা কেটে গেল।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687037"
+    },
+    {
+      "english": "What's your signal like?",
+      "bengali": "তোমার নেটওয়ার্ক কেমন?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687039"
+    },
+    {
+      "english": "Leave a voice message.",
+      "bengali": "ভয়েস মেসেজ রেখে দাও।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687041"
+    },
+    {
+      "english": "Check your inbox.",
+      "bengali": "তোমার ইনবক্স দেখো।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687043"
+    },
+    {
+      "english": "Kindly forward this message.",
+      "bengali": "অনুগ্রহ করে মেসেজটা ফরোয়ার্ড করো।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687045"
+    },
+    {
+      "english": "He's always on his phone.",
+      "bengali": "ও সবসময় ফোনেই থাকে।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687047"
+    },
+    {
+      "english": "Don't keep me waiting.",
+      "bengali": "অপেক্ষা কোরো না।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687049"
+    },
+    {
+      "english": "Let's end the call now.",
+      "bengali": "চলো এখন কল শেষ করি।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687051"
+    },
+    {
+      "english": "Is this urgent?",
+      "bengali": "এটা কি জরুরি?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687053"
+    },
+    {
+      "english": "Send me the details.",
+      "bengali": "বিস্তারিত পাঠিয়ে দাও।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687055"
+    },
+    {
+      "english": "What's the code?",
+      "bengali": "কোডটা কি?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687057"
+    },
+    {
+      "english": "I'll ping you later.",
+      "bengali": "পরে নক করবো।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687059"
+    },
+    {
+      "english": "I'm thinking of you, deeply.",
+      "bengali": "তোমার কথা, খুব ভাবছি।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687061"
+    },
+    {
+      "english": "This feels right, you know?",
+      "bengali": "এটা ঠিক লাগছে, বুঝলে?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687063"
+    },
+    {
+      "english": "Honesty, is always best.",
+      "bengali": "সততাই, সবথেকে ভালো।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687066"
+    },
+    {
+      "english": "Let me ponder this message.",
+      "bengali": "এই বার্তাটা, একটু ভাবি।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687068"
+    },
+    {
+      "english": "I need patience, for this.",
+      "bengali": "আমার ধৈর্য চাই, এটার জন্য।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687070"
+    },
+    {
+      "english": "It’s complicated, frankly.",
+      "bengali": "ব্যাপারটা জটিল, সত্যি বলতে।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687076"
+    },
+    {
+      "english": "My heart feels heavy now.",
+      "bengali": "আমার মন খারাপ লাগছে এখন।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687078"
+    },
+    {
+      "english": "This is what I truly feel.",
+      "bengali": "আমি এটাই, সত্যি অনুভব করি।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687080"
+    },
+    {
+      "english": "A moment of reflection, needed.",
+      "bengali": "একটু ভাবার সময়, দরকার।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687083"
+    },
+    {
+      "english": "Can we talk, honestly?",
+      "bengali": "আমরা কি, সত্যি বলতে পারি?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687085"
+    },
+    {
+      "english": "My thoughts are with you.",
+      "bengali": "আমার চিন্তা, তোমার সাথে।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687087"
+    },
+    {
+      "english": "This message, made me think.",
+      "bengali": "এই বার্তাটা, আমাকে ভাবালো।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687097"
+    },
+    {
+      "english": "I value your honesty, always.",
+      "bengali": "আমি তোমার সততা, সবসময় কদর করি।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687099"
+    },
+    {
+      "english": "Let my feelings be known.",
+      "bengali": "আমার অনুভূতি, জানতে দাও।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687103"
+    },
+    {
+      "english": "It's okay, to be vulnerable.",
+      "bengali": "দুর্বলতা দেখানো, ঠিক আছে।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687105"
+    },
+    {
+      "english": "I feel calmer, now.",
+      "bengali": "আমার এখন, শান্তি লাগছে।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687108"
+    },
+    {
+      "english": "What does your gut say?",
+      "bengali": "তোমার মন কি বলছে?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687110"
+    },
+    {
+      "english": "Let’s be real, here.",
+      "bengali": "এখানে, সত্যি থাকি।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687112"
+    },
+    {
+      "english": "I’m trying to understand.",
+      "bengali": "আমি বোঝার চেষ্টা করছি।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687115"
+    },
+    {
+      "english": "This requires deep thought.",
+      "bengali": "এটার জন্য, গভীর চিন্তা দরকার।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687117"
+    },
+    {
+      "english": "My heart, speaks its truth.",
+      "bengali": "আমার হৃদয়, সত্যি বলে।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687120"
+    },
+    {
+      "english": "Patience is a virtue, truly.",
+      "bengali": "ধৈর্য এক গুণ, সত্যি।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687122"
+    },
+    {
+      "english": "I need clarity, on this.",
+      "bengali": "আমার স্পষ্টতা চাই, এ বিষয়ে।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687124"
+    },
+    {
+      "english": "This is how I feel, inside.",
+      "bengali": "ভেতরে আমার, এমন লাগছে।",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687126"
+    },
+    {
+      "english": "Can you sense my sincerity?",
+      "bengali": "আমার আন্তরিকতা, বুঝতে পারছো?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T08:33:15.687127"
     }
   ],
-  "last_updated": "2026-10-25T08:08:12.036445"
+  "last_updated": "2026-10-26T08:33:15.687129"
 }
