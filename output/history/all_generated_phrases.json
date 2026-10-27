@@ -7199,7 +7199,727 @@
       "bengali": "আমার আন্তরিকতা, বুঝতে পারছো?",
       "category": "Phone Calls & Messages",
       "generated_at": "2026-10-26T08:33:15.687127"
+    },
+    {
+      "english": "Good morning, please.",
+      "bengali": "শুভ সকাল, অনুগ্রহ করে।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538774"
+    },
+    {
+      "english": "One coffee, please.",
+      "bengali": "একটি কফি, অনুগ্রহ করে।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538789"
+    },
+    {
+      "english": "How much is this?",
+      "bengali": "এটার দাম কত?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538794"
+    },
+    {
+      "english": "Here you go.",
+      "bengali": "এই নিন।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538798"
+    },
+    {
+      "english": "Can I have a croissant?",
+      "bengali": "আমি কি একটি ক্রোইস্যান্ট পেতে পারি?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538801"
+    },
+    {
+      "english": "It looks delicious.",
+      "bengali": "এটা দেখতে খুব সুস্বাদু।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538805"
+    },
+    {
+      "english": "Just a moment, please.",
+      "bengali": "একটু অপেক্ষা করুন, অনুগ্রহ করে।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538809"
+    },
+    {
+      "english": "Take away, please.",
+      "bengali": "বাইরে নিয়ে যাব, অনুগ্রহ করে।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538816"
+    },
+    {
+      "english": "For here, thanks.",
+      "bengali": "এখানেই খাব, ধন্যবাদ।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538820"
+    },
+    {
+      "english": "What's your special today?",
+      "bengali": "আজকের বিশেষ কি?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538824"
+    },
+    {
+      "english": "I'll take that one.",
+      "bengali": "আমি ওটা নেব।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538827"
+    },
+    {
+      "english": "Is this fresh?",
+      "bengali": "এটা কি তাজা?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538830"
+    },
+    {
+      "english": "So good, thank you.",
+      "bengali": "খুব ভালো, ধন্যবাদ।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538833"
+    },
+    {
+      "english": "Can I get the bill?",
+      "bengali": "আমি কি বিল পেতে পারি?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538836"
+    },
+    {
+      "english": "No problem at all.",
+      "bengali": "কোনো সমস্যা নেই।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538839"
+    },
+    {
+      "english": "Enjoy your coffee.",
+      "bengali": "আপনার কফি উপভোগ করুন।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538842"
+    },
+    {
+      "english": "That's perfect, thanks.",
+      "bengali": "এটা একদম ঠিক আছে, ধন্যবাদ।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538845"
+    },
+    {
+      "english": "Anything else for you?",
+      "bengali": "আপনার আর কিছু লাগবে?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538848"
+    },
+    {
+      "english": "I'm just browsing.",
+      "bengali": "আমি শুধু দেখছি।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538851"
+    },
+    {
+      "english": "Wow, that smells amazing!",
+      "bengali": "বাহ, কি দারুণ গন্ধ!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538854"
+    },
+    {
+      "english": "Can I pay with card?",
+      "bengali": "আমি কি কার্ডে পেমেন্ট করতে পারি?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538857"
+    },
+    {
+      "english": "One muffin, please.",
+      "bengali": "একটি মাফিন, অনুগ্রহ করে।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538861"
+    },
+    {
+      "english": "This is my favorite.",
+      "bengali": "এটা আমার প্রিয়।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538865"
+    },
+    {
+      "english": "Just black coffee.",
+      "bengali": "শুধু কালো কফি।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538868"
+    },
+    {
+      "english": "Have a great day!",
+      "bengali": "আপনার দিনটি শুভ হোক!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538870"
+    },
+    {
+      "english": "It's so yummy!",
+      "bengali": "এটা খুব মজার!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538873"
+    },
+    {
+      "english": "Could I get some sugar?",
+      "bengali": "আমি কি একটু চিনি পেতে পারি?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538876"
+    },
+    {
+      "english": "I need a caffeine boost.",
+      "bengali": "আমার একটু ক্যাফেইন দরকার।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538879"
+    },
+    {
+      "english": "See you soon!",
+      "bengali": "শীঘ্রই দেখা হবে!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538905"
+    },
+    {
+      "english": "What kind of tea, do you have?",
+      "bengali": "আপনার কি কি চা আছে?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538908"
+    },
+    {
+      "english": "Could you recommend something, nice?",
+      "bengali": "কিছু ভালো জিনিস, আপনি কি সাজেস্ট করবেন?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538912"
+    },
+    {
+      "english": "Is this spicy, or sweet?",
+      "bengali": "এটা কি ঝাল, নাকি মিষ্টি?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538915"
+    },
+    {
+      "english": "What's popular, here today?",
+      "bengali": "আজ এখানে কি বেশি চলছে?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538919"
+    },
+    {
+      "english": "Do you have any, vegan options?",
+      "bengali": "এখানে কি ভেগান কিছু আছে?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538922"
+    },
+    {
+      "english": "Can I try a little, sample?",
+      "bengali": "আমি কি একটু চেখে দেখতে পারি?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538927"
+    },
+    {
+      "english": "How long, will that take?",
+      "bengali": "এটা কতক্ষণ, লাগবে?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538932"
+    },
+    {
+      "english": "Is there wifi, available?",
+      "bengali": "এখানে কি ওয়াইফাই, পাওয়া যায়?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538935"
+    },
+    {
+      "english": "What's the strongest, coffee you sell?",
+      "bengali": "আপনার সবচেয়ে কড়া কফি, কোনটা?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538938"
+    },
+    {
+      "english": "Could I have that, with less sugar?",
+      "bengali": "এটা কি একটু, কম চিনি দিয়ে হবে?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538943"
+    },
+    {
+      "english": "Do you make, your own bread?",
+      "bengali": "আপনারা কি নিজেদের রুটি, বানান?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538946"
+    },
+    {
+      "english": "What's good, with coffee?",
+      "bengali": "কফির সাথে কি, ভালো যায়?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538950"
+    },
+    {
+      "english": "Can I get, extra cream?",
+      "bengali": "আমি কি একটু, এক্সট্রা ক্রিম পেতে পারি?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538952"
+    },
+    {
+      "english": "Is this, gluten-free?",
+      "bengali": "এটা কি, গ্লুটেন-ফ্রি?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538956"
+    },
+    {
+      "english": "How do you take, your coffee?",
+      "bengali": "আপনি আপনার কফি, কিভাবে খান?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538959"
+    },
+    {
+      "english": "What's inside, this pastry?",
+      "bengali": "এই পেস্ট্রিটার ভেতরে, কি আছে?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538962"
+    },
+    {
+      "english": "Do you have, oat milk?",
+      "bengali": "আপনার কি, ওট মিল্ক আছে?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538967"
+    },
+    {
+      "english": "Can I have, a refill?",
+      "bengali": "আমি কি, আবার একটু নিতে পারি?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538970"
+    },
+    {
+      "english": "What's the story, behind this cake?",
+      "bengali": "এই কেকটার পেছনের, গল্পটা কি?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538974"
+    },
+    {
+      "english": "Do you sell, coffee beans?",
+      "bengali": "আপনারা কি, কফি বিন বিক্রি করেন?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538977"
+    },
+    {
+      "english": "Could I get, some water too?",
+      "bengali": "আমি কি, সাথে একটু জলও পেতে পারি?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538980"
+    },
+    {
+      "english": "What's the best, seller here?",
+      "bengali": "এখানে সবচেয়ে বেশি, কি বিক্রি হয়?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538983"
+    },
+    {
+      "english": "Can I have, a warm drink?",
+      "bengali": "আমি কি, একটা গরম পানীয় পেতে পারি?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538986"
+    },
+    {
+      "english": "What makes this, so special?",
+      "bengali": "এটাকে কি, এত বিশেষ করে তোলে?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538989"
+    },
+    {
+      "english": "Do you have, any local pastries?",
+      "bengali": "আপনাদের কি, কোনো স্থানীয় পেস্ট্রি আছে?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538992"
+    },
+    {
+      "english": "Can I get, a small one?",
+      "bengali": "আমি কি, একটা ছোটটা পেতে পারি?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538996"
+    },
+    {
+      "english": "Is this, homemade?",
+      "bengali": "এটা কি, ঘরে তৈরি?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.538999"
+    },
+    {
+      "english": "What's the difference, between these two?",
+      "bengali": "এই দুটোর মধ্যে, পার্থক্য কি?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539003"
+    },
+    {
+      "english": "Do you have, decaf options?",
+      "bengali": "আপনার কি, ডিক্যাফ অপশন আছে?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539006"
+    },
+    {
+      "english": "Could I get, a napkin?",
+      "bengali": "আমি কি, একটা ন্যাপকিন পেতে পারি?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539009"
+    },
+    {
+      "english": "Great job, keep going!",
+      "bengali": "খুব ভালো, চালিয়ে যাও!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539012"
+    },
+    {
+      "english": "This is a sweet success.",
+      "bengali": "এটা একটা মিষ্টি সাফল্য।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539015"
+    },
+    {
+      "english": "Every day, a fresh start.",
+      "bengali": "প্রতিদিন, নতুন শুরু।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539018"
+    },
+    {
+      "english": "Your smile, brightens the day.",
+      "bengali": "তোমার হাসি, দিন উজ্জ্বল করে।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539023"
+    },
+    {
+      "english": "Small steps, big dreams.",
+      "bengali": "ছোট ছোট পা, বড় স্বপ্ন।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539027"
+    },
+    {
+      "english": "Taste the joy, in every bite.",
+      "bengali": "প্রতি কামড়ে, আনন্দ আস্বাদন করো।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539030"
+    },
+    {
+      "english": "Positive vibes, only here.",
+      "bengali": "শুধু ইতিবাচক অনুভূতি, এখানে।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539033"
+    },
+    {
+      "english": "You deserve, this delicious treat.",
+      "bengali": "তুমি এই সুস্বাদু ট্রিট, পাওয়ার যোগ্য।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539036"
+    },
+    {
+      "english": "You are doing great, really.",
+      "bengali": "তুমি খুব ভালো করছো, সত্যিই।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539039"
+    },
+    {
+      "english": "Embrace the moment, fully.",
+      "bengali": "মুহূর্তটিকে, পুরোপুরি আলিঙ্গন করো।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539042"
+    },
+    {
+      "english": "Let's make, a good memory.",
+      "bengali": "চলো, একটা ভালো স্মৃতি তৈরি করি।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539045"
+    },
+    {
+      "english": "This aroma, is pure happiness.",
+      "bengali": "এই সুগন্ধ, খাঁটি সুখ।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539049"
+    },
+    {
+      "english": "You're creating, something wonderful.",
+      "bengali": "তুমি দারুণ কিছু তৈরি করছো।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539052"
+    },
+    {
+      "english": "Enjoy the little things, always.",
+      "bengali": "ছোট ছোট জিনিস, সবসময় উপভোগ করো।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539055"
+    },
+    {
+      "english": "Your passion, shines through.",
+      "bengali": "তোমার আবেগ, স্পষ্ট দেখা যায়।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539058"
+    },
+    {
+      "english": "Be proud, of your journey.",
+      "bengali": "তোমার যাত্রার, গর্ব করো।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539061"
+    },
+    {
+      "english": "This bake, is perfection.",
+      "bengali": "এই বেক করা জিনিস, নিখুঁত।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539064"
+    },
+    {
+      "english": "This moment, is meant for you.",
+      "bengali": "এই মুহূর্তটি, তোমার জন্য।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539067"
+    },
+    {
+      "english": "Your dedication, is inspiring.",
+      "bengali": "তোমার নিষ্ঠা, অনুপ্রেরণাদায়ক।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539070"
+    },
+    {
+      "english": "Choose happiness, choose today.",
+      "bengali": "আনন্দ বেছে নাও, আজকেই।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539073"
+    },
+    {
+      "english": "You make, simple things special.",
+      "bengali": "তুমি সাধারণ জিনিসকে, বিশেষ করে তোলো।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539076"
+    },
+    {
+      "english": "Feel the good vibes, here.",
+      "bengali": "এখানে ভালো অনুভূতি, অনুভব করো।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539079"
+    },
+    {
+      "english": "This quiet moment, feels like home.",
+      "bengali": "এই শান্ত মুহূর্ত, বাড়ির মতো লাগছে।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539082"
+    },
+    {
+      "english": "Sometimes, silence speaks loudest.",
+      "bengali": "কখনও কখনও, নীরবতাই সবচেয়ে বেশি কথা বলে।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539085"
+    },
+    {
+      "english": "This coffee, really hits the spot.",
+      "bengali": "এই কফিটা, সত্যিই মন ছুঁয়ে গেল।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539088"
+    },
+    {
+      "english": "A warm drink, and a warm heart.",
+      "bengali": "একটা গরম পানীয়, আর একটা উষ্ণ হৃদয়।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539092"
+    },
+    {
+      "english": "Today, I choose peace, and cake.",
+      "bengali": "আজ, আমি শান্তি, আর কেক বেছে নিচ্ছি।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539095"
+    },
+    {
+      "english": "Reflecting, on life's simple pleasures.",
+      "bengali": "জীবনের সাধারণ আনন্দগুলো, মনে পড়ছে।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539100"
+    },
+    {
+      "english": "This pastry, is a small piece of heaven.",
+      "bengali": "এই পেস্ট্রিটা, স্বর্গের ছোট্ট একটা টুকরো।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539103"
+    },
+    {
+      "english": "Patience, is a virtue, worth savoring.",
+      "bengali": "ধৈর্য, একটা গুণ, যার আস্বাদ নেওয়া উচিত।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539107"
+    },
+    {
+      "english": "My thoughts, are as sweet as this.",
+      "bengali": "আমার ভাবনাগুলো, এর মতোই মিষ্টি।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539110"
+    },
+    {
+      "english": "This aroma, calms my soul.",
+      "bengali": "এই গন্ধটা, আমার আত্মাকে শান্ত করে।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539112"
+    },
+    {
+      "english": "A gentle reminder, to breathe deeply.",
+      "bengali": "একটা মিষ্টি মনে করিয়ে দেওয়া, গভীর শ্বাস নেওয়ার।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539116"
+    },
+    {
+      "english": "Finding comfort, in familiar flavors.",
+      "bengali": "পরিচিত স্বাদগুলোর, মধ্যে আরাম খুঁজে পাওয়া।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539119"
+    },
+    {
+      "english": "This little cafe, holds many stories.",
+      "bengali": "এই ছোট্ট ক্যাফেতে, অনেক গল্প লুকিয়ে আছে।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539124"
+    },
+    {
+      "english": "My heart, feels a little lighter.",
+      "bengali": "আমার মনটা, একটু হালকা লাগছে।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539127"
+    },
+    {
+      "english": "Savoring this, one sip at a time.",
+      "bengali": "এটা উপভোগ করছি, একবারে এক চুমুক।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539130"
+    },
+    {
+      "english": "This sweetness, mirrors my mood.",
+      "bengali": "এই মিষ্টিতা, আমার মেজাজকেই প্রতিফলিত করে।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539133"
+    },
+    {
+      "english": "A quiet corner, for deep contemplation.",
+      "bengali": "গভীর চিন্তাভাবনার জন্য, একটা শান্ত কোণ।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539136"
+    },
+    {
+      "english": "This taste, brings back memories.",
+      "bengali": "এই স্বাদটা, স্মৃতি ফিরিয়ে আনে।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539139"
+    },
+    {
+      "english": "Allowing myself, this moment of bliss.",
+      "bengali": "নিজেকে দিচ্ছি, এই সুখের মুহূর্ত।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539142"
+    },
+    {
+      "english": "Cherishing, the simple joys.",
+      "bengali": "সাধারণ আনন্দগুলো, মনে গেঁথে রাখছি।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539147"
+    },
+    {
+      "english": "My gratitude, grows with each visit.",
+      "bengali": "আমার কৃতজ্ঞতা, প্রতিবার আসার সাথে বাড়ে।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539150"
+    },
+    {
+      "english": "This warmth, feels like a hug.",
+      "bengali": "এই উষ্ণতা, আলিঙ্গনের মতো লাগছে।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539153"
+    },
+    {
+      "english": "Finding clarity, in this gentle setting.",
+      "bengali": "এই শান্ত পরিবেশে, স্পষ্টতা খুঁজে পাচ্ছি।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539156"
+    },
+    {
+      "english": "Sometimes, all you need is coffee.",
+      "bengali": "কখনও কখনও, আপনার শুধু কফিই দরকার।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539159"
+    },
+    {
+      "english": "This blend, speaks to my soul.",
+      "bengali": "এই মিশ্রণটা, আমার আত্মার সাথে কথা বলে।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539162"
+    },
+    {
+      "english": "Allowing space, for honest feelings.",
+      "bengali": "আন্তরিক অনুভূতির জন্য, জায়গা করে দিচ্ছি।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539165"
+    },
+    {
+      "english": "My thoughts are brewing, like coffee.",
+      "bengali": "আমার ভাবনাগুলো, কফির মতো তৈরি হচ্ছে।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539168"
+    },
+    {
+      "english": "This peaceful vibe, recharges me.",
+      "bengali": "এই শান্তির পরিবেশ, আমাকে রিচার্জ করে।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539171"
+    },
+    {
+      "english": "A moment to pause, and just be.",
+      "bengali": "থামার একটা মুহূর্ত, আর শুধু থাকা।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539175"
+    },
+    {
+      "english": "Can I get, a quick bite?",
+      "bengali": "তাড়াতাড়ি কিছু খেতে পারি?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539178"
+    },
+    {
+      "english": "What's your, daily special?",
+      "bengali": "আজকের বিশেষ কী?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539181"
+    },
+    {
+      "english": "Do you have, Wi-Fi?",
+      "bengali": "এখানে কি ওয়াইফাই আছে?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539184"
+    },
+    {
+      "english": "Is this, vegetarian?",
+      "bengali": "এটা কি নিরামিষ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539187"
+    },
+    {
+      "english": "Can I have, this to go?",
+      "bengali": "এটা কি আমি সাথে নিয়ে যেতে পারি?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539190"
+    },
+    {
+      "english": "I need, a quiet spot.",
+      "bengali": "আমার একটু শান্ত জায়গা দরকার।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539193"
+    },
+    {
+      "english": "This place, is very clean.",
+      "bengali": "এই জায়গাটা, খুব পরিষ্কার।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539205"
+    },
+    {
+      "english": "Could you, warm this up?",
+      "bengali": "এটা কি একটু গরম করে দেবেন?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539208"
+    },
+    {
+      "english": "I'm looking, for a gift.",
+      "bengali": "আমি একটা উপহার খুঁজছি।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539213"
+    },
+    {
+      "english": "Do you sell, whole cakes?",
+      "bengali": "আপনারা কি আস্ত কেক বিক্রি করেন?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-27T08:40:53.539216"
     }
   ],
-  "last_updated": "2026-10-26T08:33:15.687129"
+  "last_updated": "2026-10-27T08:40:53.539219"
 }
