@@ -7919,7 +7919,727 @@
       "bengali": "আপনারা কি আস্ত কেক বিক্রি করেন?",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-10-27T08:40:53.539216"
+    },
+    {
+      "english": "Calm down, friend, okay?",
+      "bengali": "শান্ত হও, বন্ধু, ঠিক আছে?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006888"
+    },
+    {
+      "english": "Take it easy, no rush.",
+      "bengali": "আরামসে নাও, কোনো তাড়া নেই।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006900"
+    },
+    {
+      "english": "Breathe deep, feel better.",
+      "bengali": "গভীর শ্বাস নাও, ভালো লাগবে।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006902"
+    },
+    {
+      "english": "Just relax, it's fine.",
+      "bengali": "শুধু আরাম করো, সব ঠিক আছে।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006904"
+    },
+    {
+      "english": "Don't worry, I'm here.",
+      "bengali": "চিন্তা কোরো না, আমি আছি।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006906"
+    },
+    {
+      "english": "Everything will be alright.",
+      "bengali": "সবকিছু ঠিক হয়ে যাবে।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006907"
+    },
+    {
+      "english": "Let it go, be happy.",
+      "bengali": "ছেড়ে দাও, খুশি থাকো।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006909"
+    },
+    {
+      "english": "Mind your own business.",
+      "bengali": "নিজের চরকায় তেল দাও।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006913"
+    },
+    {
+      "english": "Inner peace, that's the goal.",
+      "bengali": "মনের শান্তি, এটাই লক্ষ্য।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006915"
+    },
+    {
+      "english": "Find your happy place.",
+      "bengali": "তোমার শান্তির জায়গা খুঁজে নাও।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006917"
+    },
+    {
+      "english": "Be present, enjoy now.",
+      "bengali": "বর্তমানে থাকো, এখনই উপভোগ করো।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006919"
+    },
+    {
+      "english": "Simplify your life.",
+      "bengali": "তোমার জীবনকে সহজ করো।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006920"
+    },
+    {
+      "english": "Gratitude opens doors.",
+      "bengali": "কৃতজ্ঞতা দরজা খুলে দেয়।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006922"
+    },
+    {
+      "english": "Forgive and forget.",
+      "bengali": "ভুলে যাও আর ক্ষমা করে দাও।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006923"
+    },
+    {
+      "english": "Seek silence, find clarity.",
+      "bengali": "নীরবতা খোঁজো, স্বচ্ছতা পাও।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006925"
+    },
+    {
+      "english": "This too shall pass.",
+      "bengali": "এটাও কেটে যাবে।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006926"
+    },
+    {
+      "english": "Just be, no need to do.",
+      "bengali": "শুধু থাকো, কিছু করার দরকার নেই।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006928"
+    },
+    {
+      "english": "Find peace within yourself.",
+      "bengali": "নিজের ভিতরে শান্তি খোঁজো।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006929"
+    },
+    {
+      "english": "Let go of control.",
+      "bengali": "নিয়ন্ত্রণ ছেড়ে দাও।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006931"
+    },
+    {
+      "english": "Embrace the present moment.",
+      "bengali": "বর্তমান মুহূর্তকে আলিঙ্গন করো।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006935"
+    },
+    {
+      "english": "Slow down, life is short.",
+      "bengali": "ধীরে চলো, জীবন ছোট।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006936"
+    },
+    {
+      "english": "Peace begins with a smile.",
+      "bengali": "শান্তি শুরু হয় হাসি দিয়ে।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006938"
+    },
+    {
+      "english": "Your thoughts create reality.",
+      "bengali": "তোমার চিন্তা বাস্তবতা তৈরি করে।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006939"
+    },
+    {
+      "english": "Accept what you cannot change.",
+      "bengali": "যা বদলাতে পারবে না, তা মেনে নাও।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006940"
+    },
+    {
+      "english": "Let go of attachments.",
+      "bengali": "আসক্তি ছেড়ে দাও।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006942"
+    },
+    {
+      "english": "Inner stillness, true power.",
+      "bengali": "ভেতরের স্থিরতা, আসল শক্তি।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006945"
+    },
+    {
+      "english": "You are enough, right now.",
+      "bengali": "তুমি যথেষ্ট, এই মুহূর্তে।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006946"
+    },
+    {
+      "english": "How do you find peace, my friend?",
+      "bengali": "তুমি শান্তি কীভাবে পাও, বন্ধু?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006948"
+    },
+    {
+      "english": "What helps you feel calm?",
+      "bengali": "কী তোমাকে শান্ত অনুভব করতে সাহায্য করে?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006949"
+    },
+    {
+      "english": "Can you share your secret to stillness?",
+      "bengali": "স্থিরতার রহস্যটা কি বলতে পারো?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006951"
+    },
+    {
+      "english": "Where do you seek comfort?",
+      "bengali": "তুমি কোথায় সান্ত্বনা খোঁজো?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006953"
+    },
+    {
+      "english": "How can one manage stress better?",
+      "bengali": "কীভাবে একজন মানসিক চাপ ভালো সামলাতে পারে?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006954"
+    },
+    {
+      "english": "Do you practice meditation regularly?",
+      "bengali": "তুমি কি নিয়মিত ধ্যান করো?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006956"
+    },
+    {
+      "english": "What inspires your inner calm?",
+      "bengali": "কী তোমার ভেতরের শান্তিকে অনুপ্রাণিত করে?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006958"
+    },
+    {
+      "english": "Is it okay to feel this way?",
+      "bengali": "এমনটা অনুভব করা কি ঠিক?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006959"
+    },
+    {
+      "english": "What should I focus on now?",
+      "bengali": "আমার এখন কিসের উপর মনোযোগ দেওয়া উচিত?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006961"
+    },
+    {
+      "english": "Are you feeling peaceful today?",
+      "bengali": "আজ কি তোমার মন শান্ত আছে?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006962"
+    },
+    {
+      "english": "How do you maintain your balance?",
+      "bengali": "তুমি তোমার ভারসাম্য কীভাবে বজায় রাখো?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006964"
+    },
+    {
+      "english": "What brings you genuine joy?",
+      "bengali": "কী তোমাকে সত্যিকারের আনন্দ দেয়?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006965"
+    },
+    {
+      "english": "Can we discuss this calmly?",
+      "bengali": "আমরা কি এটা শান্তভাবে আলোচনা করতে পারি?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006967"
+    },
+    {
+      "english": "How do you connect with yourself?",
+      "bengali": "তুমি নিজের সাথে কীভাবে যুক্ত হও?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006969"
+    },
+    {
+      "english": "Is it hard to find quiet?",
+      "bengali": "নীরবতা খুঁজে পাওয়া কি কঠিন?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006970"
+    },
+    {
+      "english": "What makes you feel centered?",
+      "bengali": "কী তোমাকে কেন্দ্রিক অনুভব করায়?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006972"
+    },
+    {
+      "english": "How do you practice self-compassion?",
+      "bengali": "তুমি নিজের প্রতি সহানুভূতিশীল হও কীভাবে?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006974"
+    },
+    {
+      "english": "Do you have any worries now?",
+      "bengali": "তোমার কি এখন কোনো চিন্তা আছে?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006975"
+    },
+    {
+      "english": "What is your favorite peaceful activity?",
+      "bengali": "তোমার প্রিয় শান্ত কাজ কোনটি?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006977"
+    },
+    {
+      "english": "How do you deal with negativity?",
+      "bengali": "নেতিবাচকতা তুমি কীভাবে মোকাবেলা করো?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006978"
+    },
+    {
+      "english": "What does inner peace truly mean?",
+      "bengali": "ভেতরের শান্তি আসলে কী বোঝায়?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006980"
+    },
+    {
+      "english": "Positive thoughts, bright future.",
+      "bengali": "ইতিবাচক চিন্তা, উজ্জ্বল ভবিষ্যৎ।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006981"
+    },
+    {
+      "english": "Stay focused, achieve your goals.",
+      "bengali": "মনোযোগী থাকো, লক্ষ্য অর্জন করো।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006983"
+    },
+    {
+      "english": "Every day is a new beginning.",
+      "bengali": "প্রতিটি দিন এক নতুন শুরু।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006986"
+    },
+    {
+      "english": "Your presence matters, truly.",
+      "bengali": "তোমার উপস্থিতি গুরুত্বপূর্ণ, সত্যিই।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006989"
+    },
+    {
+      "english": "Bloom where you are planted.",
+      "bengali": "যেখানে আছো, সেখানেই বিকশিত হও।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006991"
+    },
+    {
+      "english": "Keep your heart open always.",
+      "bengali": "সবসময় তোমার হৃদয় খোলা রাখো।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006992"
+    },
+    {
+      "english": "Kindness creates ripples of peace.",
+      "bengali": "দয়া শান্তির ঢেউ তৈরি করে।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006993"
+    },
+    {
+      "english": "Your inner light shines brightly.",
+      "bengali": "তোমার ভেতরের আলো উজ্জ্বলভাবে জ্বলছে।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006995"
+    },
+    {
+      "english": "Be patient with your journey.",
+      "bengali": "তোমার যাত্রাপথে ধৈর্য ধরো।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006997"
+    },
+    {
+      "english": "Good things come to those who wait.",
+      "bengali": "ভালো জিনিস তাদের কাছে আসে যারা অপেক্ষা করে।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006998"
+    },
+    {
+      "english": "Never stop learning, growing.",
+      "bengali": "শেখা, বেড়ে ওঠা কখনো থামিও না।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.006999"
+    },
+    {
+      "english": "Believe that good things will happen.",
+      "bengali": "বিশ্বাস করো ভালো কিছু ঘটবে।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007001"
+    },
+    {
+      "english": "Let go of past regrets.",
+      "bengali": "অতীতের আক্ষেপ ছেড়ে দাও।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007003"
+    },
+    {
+      "english": "Focus on solutions, not problems.",
+      "bengali": "সমস্যার বদলে সমাধানের দিকে তাকাও।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007004"
+    },
+    {
+      "english": "Cultivate a hopeful outlook.",
+      "bengali": "আশাবাদী দৃষ্টিভঙ্গি গড়ে তোলো।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007006"
+    },
+    {
+      "english": "Your inner peace is your sanctuary.",
+      "bengali": "তোমার ভেতরের শান্তি তোমার আশ্রয়।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007007"
+    },
+    {
+      "english": "What inspires your spirit?",
+      "bengali": "তোমার আত্মাকে কী অনুপ্রাণিত করে?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007009"
+    },
+    {
+      "english": "Celebrate your small victories.",
+      "bengali": "তোমার ছোট ছোট জয় উদযাপন করো।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007010"
+    },
+    {
+      "english": "Gentle persistence wins the race.",
+      "bengali": "ধৈর্যশীল অধ্যবসায় জয় এনে দেয়।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007012"
+    },
+    {
+      "english": "You are exactly where you need to be.",
+      "bengali": "তুমি ঠিক সেখানেই আছো যেখানে তোমার থাকা দরকার।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007014"
+    },
+    {
+      "english": "Mind like water, still.",
+      "bengali": "মনটা জলের মতো, শান্ত।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007016"
+    },
+    {
+      "english": "Go with the flow, friend.",
+      "bengali": "ভেসে চলো, বন্ধু।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007018"
+    },
+    {
+      "english": "Let worries drift away.",
+      "bengali": "চিন্তারা ভেসে যেতে দাও।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007019"
+    },
+    {
+      "english": "Heart full, no room for sadness.",
+      "bengali": "মন ভরলে, দুঃখের জায়গা নেই।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007021"
+    },
+    {
+      "english": "Today is a good day.",
+      "bengali": "আজকের দিনটা ভালো।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007023"
+    },
+    {
+      "english": "Just breathe, it's okay.",
+      "bengali": "শুধু শ্বাস নাও, ঠিক আছে।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007025"
+    },
+    {
+      "english": "Peace is within you.",
+      "bengali": "শান্তি তোমার ভেতরেই।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007026"
+    },
+    {
+      "english": "Joy in simple things.",
+      "bengali": "সাধারণ জিনিসেই আনন্দ।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007027"
+    },
+    {
+      "english": "Inner calm is wealth.",
+      "bengali": "মনের শান্তিই সম্পদ।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007029"
+    },
+    {
+      "english": "Let go, be free.",
+      "bengali": "ছেড়ে দাও, মুক্ত হও।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007031"
+    },
+    {
+      "english": "Stillness speaks volumes.",
+      "bengali": "নীরবতা অনেক কথা বলে।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007034"
+    },
+    {
+      "english": "A quiet mind, a happy life.",
+      "bengali": "শান্ত মন, সুখী জীবন।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007035"
+    },
+    {
+      "english": "Every moment, a fresh start.",
+      "bengali": "প্রতি মুহূর্ত, নতুন শুরু।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007037"
+    },
+    {
+      "english": "Find peace in nature.",
+      "bengali": "প্রকৃতিতে শান্তি খোঁজো।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007038"
+    },
+    {
+      "english": "Don't rush, just be.",
+      "bengali": "তাড়াহুড়ো করো না, শুধু থাকো।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007041"
+    },
+    {
+      "english": "Smile, it brightens your day.",
+      "bengali": "হাসো, দিনটা উজ্জ্বল হবে।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007043"
+    },
+    {
+      "english": "Be present, right here.",
+      "bengali": "উপস্থিত থাকো, এখানেই।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007045"
+    },
+    {
+      "english": "Inner peace, no stress.",
+      "bengali": "ভেতরের শান্তি, কোনো চাপ নেই।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007047"
+    },
+    {
+      "english": "Your spirit knows the way.",
+      "bengali": "তোমার আত্মা পথ জানে।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007048"
+    },
+    {
+      "english": "Acceptance brings calm.",
+      "bengali": "গ্রহণ করলে শান্তি আসে।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007050"
+    },
+    {
+      "english": "Slow down, enjoy life.",
+      "bengali": "ধীরে চলো, জীবন উপভোগ করো।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007052"
+    },
+    {
+      "english": "Peace is a choice.",
+      "bengali": "শান্তি একটা পছন্দ।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007054"
+    },
+    {
+      "english": "Let your heart sing.",
+      "bengali": "তোমার হৃদয়কে গাইতে দাও।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007055"
+    },
+    {
+      "english": "Find your center always.",
+      "bengali": "সবসময় নিজের কেন্দ্র খুঁজে নাও।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007057"
+    },
+    {
+      "english": "Breathe in peace, breathe out calm.",
+      "bengali": "শান্তি নাও, প্রশান্তি ছাড়ো।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007058"
+    },
+    {
+      "english": "Today, just be happy.",
+      "bengali": "আজ, শুধু খুশি থাকো।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007060"
+    },
+    {
+      "english": "A clear mind, a calm soul.",
+      "bengali": "পরিষ্কার মন, শান্ত আত্মা।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007062"
+    },
+    {
+      "english": "I accept things as they are.",
+      "bengali": "আমি যেমন আছে তেমনই গ্রহণ করি।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007063"
+    },
+    {
+      "english": "True peace comes from within.",
+      "bengali": "প্রকৃত শান্তি ভেতর থেকে আসে।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007065"
+    },
+    {
+      "english": "My feelings are valid, always.",
+      "bengali": "আমার অনুভূতি সবসময়ই বৈধ।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007067"
+    },
+    {
+      "english": "This quiet moment feels right.",
+      "bengali": "এই শান্ত মুহূর্তটি ঠিক লাগছে।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007068"
+    },
+    {
+      "english": "I trust my inner wisdom.",
+      "bengali": "আমি আমার ভেতরের জ্ঞানকে বিশ্বাস করি।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007070"
+    },
+    {
+      "english": "Honesty with myself matters.",
+      "bengali": "নিজের সাথে সততা গুরুত্বপূর্ণ।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007071"
+    },
+    {
+      "english": "Peace isn't far away.",
+      "bengali": "শান্তি দূরে নয়।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007072"
+    },
+    {
+      "english": "My calm is my strength.",
+      "bengali": "আমার শান্তিই আমার শক্তি।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007074"
+    },
+    {
+      "english": "What do you truly need?",
+      "bengali": "আপনার সত্যিই কী প্রয়োজন?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007075"
+    },
+    {
+      "english": "I feel a sense of relief.",
+      "bengali": "আমি স্বস্তি বোধ করছি।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007078"
+    },
+    {
+      "english": "Gratitude fills my heart.",
+      "bengali": "কৃতজ্ঞতা আমার হৃদয় পূর্ণ করে।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007080"
+    },
+    {
+      "english": "I'm finding my own rhythm.",
+      "bengali": "আমি আমার নিজস্ব ছন্দ খুঁজে পাচ্ছি।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007081"
+    },
+    {
+      "english": "I choose peace over conflict.",
+      "bengali": "আমি শান্তির জন্য বিবাদকে বেছে নিই।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007083"
+    },
+    {
+      "english": "My reflections bring clarity.",
+      "bengali": "আমার চিন্তা ভাবনা স্পষ্টতা আনে।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007084"
+    },
+    {
+      "english": "My inner voice is wise.",
+      "bengali": "আমার ভেতরের কণ্ঠস্বর জ্ঞানী।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007085"
+    },
+    {
+      "english": "I value my emotional truth.",
+      "bengali": "আমি আমার মানসিক সত্যকে মূল্য দিই।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007086"
+    },
+    {
+      "english": "This quiet is deeply peaceful.",
+      "bengali": "এই নীরবতা গভীরভাবে শান্তিময়।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007088"
+    },
+    {
+      "english": "I am open to healing.",
+      "bengali": "আমি নিরাময়ের জন্য উন্মুক্ত।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007089"
+    },
+    {
+      "english": "What brings you comfort?",
+      "bengali": "কী আপনাকে আরাম দেয়?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007091"
+    },
+    {
+      "english": "My soul needs this rest.",
+      "bengali": "আমার আত্মার এই বিশ্রাম প্রয়োজন।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007094"
+    },
+    {
+      "english": "I practice self-compassion daily.",
+      "bengali": "আমি প্রতিদিন আত্ম-সহানুভূতি অনুশীলন করি।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007095"
+    },
+    {
+      "english": "Surrendering brings a deep calm.",
+      "bengali": "সমর্পণ এক গভীর শান্তি আনে।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007097"
+    },
+    {
+      "english": "My heart knows what's best.",
+      "bengali": "আমার হৃদয় জানে কী সেরা।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007098"
+    },
+    {
+      "english": "I allow myself to feel.",
+      "bengali": "আমি নিজেকে অনুভব করার অনুমতি দিই।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007100"
+    },
+    {
+      "english": "Start small, grow strong.",
+      "bengali": "ছোট থেকে শুরু করুন, শক্তিশালী হন।",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-28T09:21:25.007102"
     }
   ],
-  "last_updated": "2026-10-27T08:40:53.539219"
+  "last_updated": "2026-10-28T09:21:25.007103"
 }
