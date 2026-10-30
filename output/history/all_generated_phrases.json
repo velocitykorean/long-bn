@@ -8639,7 +8639,727 @@
       "bengali": "ছোট থেকে শুরু করুন, শক্তিশালী হন।",
       "category": "Inner Peace",
       "generated_at": "2026-10-28T09:21:25.007102"
+    },
+    {
+      "english": "Welcome, please come in.",
+      "bengali": "আসুন, ভেতরে আসুন।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380128"
+    },
+    {
+      "english": "Have some tea, please.",
+      "bengali": "একটু চা নিন, অনুগ্রহ করে।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380141"
+    },
+    {
+      "english": "This is for you.",
+      "bengali": "এটা আপনার জন্য।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380143"
+    },
+    {
+      "english": "It's very delicious.",
+      "bengali": "এটা খুব সুস্বাদু।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380145"
+    },
+    {
+      "english": "I am fine, thanks.",
+      "bengali": "আমি ভালো আছি, ধন্যবাদ।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380147"
+    },
+    {
+      "english": "My name is Rohan.",
+      "bengali": "আমার নাম রোহান।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380148"
+    },
+    {
+      "english": "Where are you from?",
+      "bengali": "আপনি কোথা থেকে এসেছেন?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380150"
+    },
+    {
+      "english": "I am from Kolkata.",
+      "bengali": "আমি কলকাতা থেকে এসেছি।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380153"
+    },
+    {
+      "english": "Nice to meet you.",
+      "bengali": "আপনার সাথে দেখা করে ভালো লাগলো।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380155"
+    },
+    {
+      "english": "A little bit, yes.",
+      "bengali": "একটু একটু, হ্যাঁ।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380158"
+    },
+    {
+      "english": "Please say it again.",
+      "bengali": "দয়া করে আবার বলুন।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380160"
+    },
+    {
+      "english": "What does this mean?",
+      "bengali": "এটার মানে কি?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380161"
+    },
+    {
+      "english": "How much does this cost?",
+      "bengali": "এটার দাম কত?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380164"
+    },
+    {
+      "english": "This is too expensive.",
+      "bengali": "এটা খুব দামি।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380166"
+    },
+    {
+      "english": "Can you lower the price?",
+      "bengali": "আপনি কি দাম কমাতে পারেন?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380168"
+    },
+    {
+      "english": "I will take this one.",
+      "bengali": "আমি এটা নেব।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380169"
+    },
+    {
+      "english": "Have a good day.",
+      "bengali": "আপনার দিনটি শুভ হোক।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380170"
+    },
+    {
+      "english": "What time is it?",
+      "bengali": "কয়টা বাজে?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380172"
+    },
+    {
+      "english": "It's time to go.",
+      "bengali": "যাওয়ার সময় হয়েছে।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380173"
+    },
+    {
+      "english": "Please help me.",
+      "bengali": "দয়া করে আমাকে সাহায্য করুন।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380175"
+    },
+    {
+      "english": "Everything is fine.",
+      "bengali": "সব ঠিক আছে।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380176"
+    },
+    {
+      "english": "Tell me, what's this celebration about?",
+      "bengali": "বলুন তো, এই উৎসবটা কী নিয়ে?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380178"
+    },
+    {
+      "english": "Can you explain this custom to me?",
+      "bengali": "এই রীতিটা আমাকে একটু বুঝিয়ে দেবেন?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380180"
+    },
+    {
+      "english": "How do you usually celebrate this festival?",
+      "bengali": "আপনারা সাধারণত এই উৎসব কীভাবে পালন করেন?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380182"
+    },
+    {
+      "english": "What is the significance of this ritual?",
+      "bengali": "এই আচারের তাৎপর্য কী?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380184"
+    },
+    {
+      "english": "Is it okay if I observe this tradition?",
+      "bengali": "আমি এই প্রথাটি দেখলে কি কিছু মনে করবেন?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380186"
+    },
+    {
+      "english": "Could you share a story about this?",
+      "bengali": "এই বিষয়ে একটা গল্প শোনাতে পারেন?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380187"
+    },
+    {
+      "english": "What should I do during this ceremony?",
+      "bengali": "এই অনুষ্ঠানে আমার কী করা উচিত?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380189"
+    },
+    {
+      "english": "Where is the best place to experience this?",
+      "bengali": "এটা অনুভব করার সেরা জায়গা কোনটা?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380191"
+    },
+    {
+      "english": "Is there a specific way to greet elders?",
+      "bengali": "বড়দের প্রণাম করার কি কোনো বিশেষ নিয়ম আছে?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380192"
+    },
+    {
+      "english": "What kind of music is played here?",
+      "bengali": "এখানে কী ধরনের গান বাজে?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380194"
+    },
+    {
+      "english": "Can you teach me a few local phrases?",
+      "bengali": "আমাকে দু-একটা স্থানীয় কথা শিখিয়ে দেবেন?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380195"
+    },
+    {
+      "english": "What's the most important rule here?",
+      "bengali": "এখানে সবচেয়ে জরুরি নিয়ম কী?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380197"
+    },
+    {
+      "english": "How do you participate in community events?",
+      "bengali": "দলবদ্ধ অনুষ্ঠানে আপনারা কীভাবে যোগ দেন?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380199"
+    },
+    {
+      "english": "Is it polite to ask about family history?",
+      "bengali": "পারিবারিক ইতিহাস নিয়ে প্রশ্ন করা কি অভদ্রতা?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380200"
+    },
+    {
+      "english": "What's the local etiquette for eating?",
+      "bengali": "খাওয়ার সময় স্থানীয় আদবকায়দা কী?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380203"
+    },
+    {
+      "english": "Can you recommend a traditional dish?",
+      "bengali": "কোনো ঐতিহ্যবাহী খাবারের নাম বলবেন?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380205"
+    },
+    {
+      "english": "What kind of art is popular here?",
+      "bengali": "এখানে কোন ধরনের শিল্পকলা জনপ্রিয়?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380206"
+    },
+    {
+      "english": "How do you show respect during prayer?",
+      "bengali": "প্রার্থনার সময় সম্মান জানানোর পদ্ধতি কী?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380208"
+    },
+    {
+      "english": "Could you tell me about local folklore?",
+      "bengali": "স্থানীয় লোককথা নিয়ে কিছু বলবেন?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380211"
+    },
+    {
+      "english": "What are the common superstitions here?",
+      "bengali": "এখানে প্রচলিত কুসংস্কারগুলো কী কী?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380212"
+    },
+    {
+      "english": "Is it appropriate to take photos here?",
+      "bengali": "এখানে ছবি তোলা কি ঠিক হবে?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380214"
+    },
+    {
+      "english": "What gifts are usually given on occasions?",
+      "bengali": "অনুষ্ঠানে সাধারণত কী উপহার দেওয়া হয়?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380215"
+    },
+    {
+      "english": "How can I offer my best wishes?",
+      "bengali": "আমি কীভাবে আমার শুভেচ্ছা জানাতে পারি?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380217"
+    },
+    {
+      "english": "What's the traditional way to welcome guests?",
+      "bengali": "অতিথি বরণের চিরাচরিত নিয়ম কী?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380220"
+    },
+    {
+      "english": "Can you share a proverb about life?",
+      "bengali": "জীবন নিয়ে একটা প্রবাদ বলবেন?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380221"
+    },
+    {
+      "english": "What's the meaning behind this symbol?",
+      "bengali": "এই প্রতীকের মানে কী?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380223"
+    },
+    {
+      "english": "How do people express joy during festivals?",
+      "bengali": "উৎসবের সময় মানুষ আনন্দ প্রকাশ করে কীভাবে?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380224"
+    },
+    {
+      "english": "Is it customary to bargain here?",
+      "bengali": "এখানে দর কষাকষি করা কি দস্তুর?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380226"
+    },
+    {
+      "english": "What are the main cultural values?",
+      "bengali": "মূল সাংস্কৃতিক মূল্যবোধগুলো কী কী?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380227"
+    },
+    {
+      "english": "Can you explain this gesture of respect?",
+      "bengali": "সম্মান জানানোর এই ভঙ্গিটা বুঝিয়ে দেবেন?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380228"
+    },
+    {
+      "english": "Keep trying, you'll succeed.",
+      "bengali": "চেষ্টা করতে থাকো, তুমি সফল হবে।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380230"
+    },
+    {
+      "english": "Embrace the journey, learn a lot.",
+      "bengali": "যাত্রাটি উপভোগ করো, অনেক কিছু শিখবে।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380232"
+    },
+    {
+      "english": "Stay positive, good things happen.",
+      "bengali": "ইতিবাচক থাকো, ভালো জিনিস ঘটবে।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380233"
+    },
+    {
+      "english": "You are doing great, keep it up.",
+      "bengali": "তুমি খুব ভালো করছো, চালিয়ে যাও।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380235"
+    },
+    {
+      "english": "Let go of doubts, embrace courage.",
+      "bengali": "সন্দেহ ছেড়ে দাও, সাহসকে আলিঙ্গন করো।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380237"
+    },
+    {
+      "english": "Be proud of your heritage.",
+      "bengali": "তোমার ঐতিহ্যের জন্য গর্বিত হও।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380239"
+    },
+    {
+      "english": "Embrace new perspectives.",
+      "bengali": "নতুন দৃষ্টিভঙ্গি গ্রহণ করো।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380240"
+    },
+    {
+      "english": "The spirit of community is vital.",
+      "bengali": "সামাজিক চেতনা অত্যন্ত গুরুত্বপূর্ণ।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380242"
+    },
+    {
+      "english": "Your kindness makes a difference.",
+      "bengali": "তোমার দয়া পরিবর্তন আনে।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380243"
+    },
+    {
+      "english": "True strength lies within.",
+      "bengali": "প্রকৃত শক্তি ভেতরেই থাকে।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380245"
+    },
+    {
+      "english": "Adapt and overcome challenges.",
+      "bengali": "পরিবর্তনের সাথে মানিয়ে নাও, বাধা অতিক্রম করো।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380246"
+    },
+    {
+      "english": "Your unique perspective is valuable.",
+      "bengali": "তোমার অনন্য দৃষ্টিভঙ্গি মূল্যবান।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380248"
+    },
+    {
+      "english": "Unity is our greatest asset.",
+      "bengali": "একতাই আমাদের শ্রেষ্ঠ সম্পদ।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380249"
+    },
+    {
+      "english": "Keep the traditions alive.",
+      "bengali": "ঐতিহ্যকে বাঁচিয়ে রাখো।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380251"
+    },
+    {
+      "english": "Learn with an open heart.",
+      "bengali": "খোলা মনে শেখো।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380253"
+    },
+    {
+      "english": "Respect elders, gain wisdom.",
+      "bengali": "বড়দের সম্মান করো, জ্ঞান অর্জন করো।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380255"
+    },
+    {
+      "english": "Generosity enriches the soul.",
+      "bengali": "উদারতা আত্মাকে সমৃদ্ধ করে।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380256"
+    },
+    {
+      "english": "Pass on cultural knowledge.",
+      "bengali": "সাংস্কৃতিক জ্ঞান ছড়িয়ে দাও।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380258"
+    },
+    {
+      "english": "Family is the first school.",
+      "bengali": "পরিবারই প্রথম বিদ্যালয়।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380259"
+    },
+    {
+      "english": "Food brings people together.",
+      "bengali": "খাবার মানুষকে এক করে।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380262"
+    },
+    {
+      "english": "Hospitality is a virtue.",
+      "bengali": "আতিথেয়তা একটি গুণ।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380271"
+    },
+    {
+      "english": "Community ties are strong.",
+      "bengali": "সামাজিক বন্ধন দৃঢ়।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380272"
+    },
+    {
+      "english": "Celebrate every small joy.",
+      "bengali": "ছোট ছোট আনন্দ উদযাপন করো।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380274"
+    },
+    {
+      "english": "Tradition guides our path.",
+      "bengali": "ঐতিহ্য আমাদের পথ দেখায়।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380275"
+    },
+    {
+      "english": "Art reflects our culture.",
+      "bengali": "শিল্প আমাদের সংস্কৃতির প্রতিচ্ছবি।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380276"
+    },
+    {
+      "english": "Music soothes the soul.",
+      "bengali": "সঙ্গীত আত্মাকে শান্তি দেয়।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380279"
+    },
+    {
+      "english": "Stories carry our history.",
+      "bengali": "গল্পেরা আমাদের ইতিহাস বহন করে।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380281"
+    },
+    {
+      "english": "Folklore enriches imagination.",
+      "bengali": "লোককথা কল্পনাকে সমৃদ্ধ করে।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380282"
+    },
+    {
+      "english": "Respect diversity, embrace all.",
+      "bengali": "বৈচিত্র্যকে সম্মান করো, সবাইকে আপন করো।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380284"
+    },
+    {
+      "english": "Honesty is the best policy.",
+      "bengali": "সততাই সর্বোৎকৃষ্ট পন্থা।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380285"
+    },
+    {
+      "english": "Kindness costs nothing.",
+      "bengali": "দয়া অমূল্য।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380287"
+    },
+    {
+      "english": "Patience yields results.",
+      "bengali": "ধৈর্য ধরলে ফল মেলে।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380288"
+    },
+    {
+      "english": "Hard work pays off.",
+      "bengali": "কঠোর পরিশ্রমের ফল ভালো হয়।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380290"
+    },
+    {
+      "english": "Share happiness, double it.",
+      "bengali": "সুখ ভাগ করলে বাড়ে।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380291"
+    },
+    {
+      "english": "Embrace local customs.",
+      "bengali": "স্থানীয় রীতিনীতি গ্রহণ করো।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380293"
+    },
+    {
+      "english": "Respect the sacred places.",
+      "bengali": "পবিত্র স্থানগুলোর প্রতি শ্রদ্ধাশীল হও।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380294"
+    },
+    {
+      "english": "Help those in need.",
+      "bengali": "অসহায়দের সাহায্য করো।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380296"
+    },
+    {
+      "english": "Wisdom comes with age.",
+      "bengali": "বয়সের সাথে জ্ঞান বাড়ে।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380297"
+    },
+    {
+      "english": "Be mindful of your words.",
+      "bengali": "কথার ব্যাপারে সতর্ক থেকো।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380299"
+    },
+    {
+      "english": "Every day is a new lesson.",
+      "bengali": "প্রতিটি দিনই নতুন শিক্ষা।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380300"
+    },
+    {
+      "english": "True wealth is peace.",
+      "bengali": "প্রকৃত সম্পদ হলো শান্তি।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380302"
+    },
+    {
+      "english": "Deep thoughts, calm mind.",
+      "bengali": "গভীর চিন্তা, শান্ত মন।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380304"
+    },
+    {
+      "english": "Sincerity touches hearts.",
+      "bengali": "আন্তরিকতা মন ছুঁয়ে যায়।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380305"
+    },
+    {
+      "english": "Reflect, then speak.",
+      "bengali": "ভাবো, তারপর বলো।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380307"
+    },
+    {
+      "english": "Patience builds bridges.",
+      "bengali": "ধৈর্য সেতুবন্ধন করে।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380310"
+    },
+    {
+      "english": "Understand their feelings.",
+      "bengali": "তাদের অনুভূতি বোঝো।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380311"
+    },
+    {
+      "english": "My heart feels peace.",
+      "bengali": "আমার হৃদয় শান্তি পায়।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380313"
+    },
+    {
+      "english": "Cultural roots run deep.",
+      "bengali": "সংস্কৃতির শিকড় গভীরে।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380314"
+    },
+    {
+      "english": "Honest words, true bonds.",
+      "bengali": "সৎ কথা, আসল বন্ধন।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380316"
+    },
+    {
+      "english": "Reflecting on shared moments.",
+      "bengali": "একসাথে কাটানো মুহূর্ত ভাবি।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380317"
+    },
+    {
+      "english": "This tradition feels right.",
+      "bengali": "এই ঐতিহ্য সঠিক মনে হয়।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380319"
+    },
+    {
+      "english": "Emotional honesty is key.",
+      "bengali": "আবেগিক সততাই আসল।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380320"
+    },
+    {
+      "english": "I feel deeply connected.",
+      "bengali": "আমি গভীরভাবে যুক্ত বোধ করি।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380322"
+    },
+    {
+      "english": "Inner peace is priceless.",
+      "bengali": "অন্তরের শান্তি অমূল্য।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380323"
+    },
+    {
+      "english": "Let wisdom guide you.",
+      "bengali": "জ্ঞান তোমাকে পথ দেখাক।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380324"
+    },
+    {
+      "english": "My reflection, your lesson.",
+      "bengali": "আমার ভাবনা, তোমার শিক্ষা।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380326"
+    },
+    {
+      "english": "Sincere gratitude always.",
+      "bengali": "আন্তরিক কৃতজ্ঞতা সবসময়।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380329"
+    },
+    {
+      "english": "Feel the culture's pulse.",
+      "bengali": "সংস্কৃতির স্পন্দন অনুভব করো।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380330"
+    },
+    {
+      "english": "Emotions are part of life.",
+      "bengali": "আবেগ জীবনের অংশ।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380332"
+    },
+    {
+      "english": "This place calms my soul.",
+      "bengali": "এই জায়গা আমার আত্মাকে শান্ত করে।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380334"
+    },
+    {
+      "english": "Thinking deeply about tradition.",
+      "bengali": "ঐতিহ্য নিয়ে গভীর ভাবছি।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380336"
+    },
+    {
+      "english": "True feelings are honest.",
+      "bengali": "সত্য অনুভূতি সৎ হয়।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380337"
+    },
+    {
+      "english": "We learn from reflection.",
+      "bengali": "আমরা ভাবনা থেকে শিখি।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380339"
+    },
+    {
+      "english": "Kindness resonates deeply.",
+      "bengali": "দয়া গভীরভাবে অনুরণিত হয়।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380341"
+    },
+    {
+      "english": "I feel their unspoken thoughts.",
+      "bengali": "আমি তাদের অব্যক্ত চিন্তা বুঝি।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380342"
+    },
+    {
+      "english": "Cultural moments, shared feelings.",
+      "bengali": "সাংস্কৃতিক মুহূর্ত, ভাগ করা অনুভূতি।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380344"
+    },
+    {
+      "english": "Patience opens new doors.",
+      "bengali": "ধৈর্য নতুন দরজা খোলে।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380345"
+    },
+    {
+      "english": "My heart feels full.",
+      "bengali": "আমার মন ভরে গেছে।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380347"
+    },
+    {
+      "english": "Sincerity is always valued.",
+      "bengali": "আন্তরিকতাকে সবসময় কদর করা হয়।",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:38:07.380348"
     }
   ],
-  "last_updated": "2026-10-28T09:21:25.007103"
+  "last_updated": "2026-10-30T09:38:07.380349"
 }
