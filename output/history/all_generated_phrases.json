@@ -9359,7 +9359,727 @@
       "bengali": "আন্তরিকতাকে সবসময় কদর করা হয়।",
       "category": "Cultural Traditions",
       "generated_at": "2026-10-30T09:38:07.380348"
+    },
+    {
+      "english": "Let's go, team!",
+      "bengali": "চলো যাই, দল!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654162"
+    },
+    {
+      "english": "Great game, really.",
+      "bengali": "দারুণ খেলা, সত্যি।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654175"
+    },
+    {
+      "english": "How was the match?",
+      "bengali": "খেলাটা কেমন ছিল?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654178"
+    },
+    {
+      "english": "I love this sport.",
+      "bengali": "এই খেলাটা আমার প্রিয়।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654194"
+    },
+    {
+      "english": "Are you watching?",
+      "bengali": "তুমি দেখছো কি?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654197"
+    },
+    {
+      "english": "What a goal!",
+      "bengali": "কী একটা গোল!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654200"
+    },
+    {
+      "english": "Let's work out.",
+      "bengali": "চলো ব্যায়াম করি।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654203"
+    },
+    {
+      "english": "Feeling tired today.",
+      "bengali": "আজ ক্লান্ত লাগছে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654208"
+    },
+    {
+      "english": "Need to exercise more.",
+      "bengali": "আরও ব্যায়াম দরকার।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654212"
+    },
+    {
+      "english": "Healthy body, healthy mind.",
+      "bengali": "সুস্থ শরীর, সুস্থ মন।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654215"
+    },
+    {
+      "english": "Time for a run.",
+      "bengali": "দৌড়ানোর সময়।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654218"
+    },
+    {
+      "english": "Did you win?",
+      "bengali": "তোমরা কি জিতেছো?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654220"
+    },
+    {
+      "english": "Good effort, though.",
+      "bengali": "চেষ্টা ভালো ছিল, তবে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654223"
+    },
+    {
+      "english": "I'm a big fan.",
+      "bengali": "আমি একজন বড় ভক্ত।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654225"
+    },
+    {
+      "english": "Pass the ball, please.",
+      "bengali": "বলটা দাও, প্লিজ।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654230"
+    },
+    {
+      "english": "Let's play again.",
+      "bengali": "আবার খেলি চলো।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654233"
+    },
+    {
+      "english": "Feeling energized now.",
+      "bengali": "এখন বেশ চাঙ্গা লাগছে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654236"
+    },
+    {
+      "english": "This is tough, man.",
+      "bengali": "এটা কঠিন, বন্ধু।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654238"
+    },
+    {
+      "english": "Let's get stronger.",
+      "bengali": "শক্তিশালী হওয়া যাক।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654241"
+    },
+    {
+      "english": "Can you beat that?",
+      "bengali": "এটা হারাতে পারবে?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654243"
+    },
+    {
+      "english": "Almost broke my record.",
+      "bengali": "আমার রেকর্ড প্রায় ভেঙে ফেলেছি।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654246"
+    },
+    {
+      "english": "What a performance!",
+      "bengali": "কী এক পারফরম্যান্স!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654248"
+    },
+    {
+      "english": "Need to stretch first.",
+      "bengali": "প্রথমে একটু টানটান হতে হবে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654250"
+    },
+    {
+      "english": "Who scored the points?",
+      "bengali": "কে পয়েন্ট পেল?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654253"
+    },
+    {
+      "english": "Always play fair.",
+      "bengali": "সবসময় সৎভাবে খেলো।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654255"
+    },
+    {
+      "english": "Keep up the good work.",
+      "bengali": "ভালো কাজ চালিয়ে যাও।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654258"
+    },
+    {
+      "english": "Let's achieve our goals.",
+      "bengali": "চলো আমাদের লক্ষ্যে পৌঁছাই।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654263"
+    },
+    {
+      "english": "You played well.",
+      "bengali": "তুমি ভালো খেলেছো।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654265"
+    },
+    {
+      "english": "Ready to start, coach?",
+      "bengali": "প্রস্তুত, কোচ?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654268"
+    },
+    {
+      "english": "What's your fitness plan?",
+      "bengali": "আপনার ফিটনেস প্ল্যান কী?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654271"
+    },
+    {
+      "english": "Can we train together?",
+      "bengali": "আমরা কি একসাথে ট্রেনিং করতে পারি?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654274"
+    },
+    {
+      "english": "How often do you run?",
+      "bengali": "আপনি কতবার দৌড়ান?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654276"
+    },
+    {
+      "english": "Any advice for beginners?",
+      "bengali": "নতুনদের জন্য কোনো পরামর্শ আছে?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654279"
+    },
+    {
+      "english": "Is this exercise good?",
+      "bengali": "এই ব্যায়ামটি কি ভালো?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654283"
+    },
+    {
+      "english": "What time is practice?",
+      "bengali": "অনুশীলনের সময় কখন?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654286"
+    },
+    {
+      "english": "Should I lift heavier?",
+      "bengali": "আমার কি আরও ভারী ওজন তোলা উচিত?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654288"
+    },
+    {
+      "english": "Did you join the gym?",
+      "bengali": "আপনি কি জিমে যোগ দিয়েছেন?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654291"
+    },
+    {
+      "english": "How was your workout?",
+      "bengali": "আপনার ওয়ার্কআউট কেমন ছিল?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654293"
+    },
+    {
+      "english": "Can you recommend a good trainer?",
+      "bengali": "আপনি কি একজন ভালো প্রশিক্ষকের সুপারিশ করতে পারেন?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654296"
+    },
+    {
+      "english": "What sport do you play?",
+      "bengali": "আপনি কোন খেলা খেলেন?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654299"
+    },
+    {
+      "english": "Is the stadium far?",
+      "bengali": "স্টেডিয়ামটি কি দূরে?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654301"
+    },
+    {
+      "english": "Do you want to play?",
+      "bengali": "আপনি কি খেলতে চান?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654306"
+    },
+    {
+      "english": "How many reps today?",
+      "bengali": "আজ কতগুলি রেপস?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654309"
+    },
+    {
+      "english": "Are we competing soon?",
+      "bengali": "আমরা কি শীঘ্রই প্রতিযোগিতা করছি?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654311"
+    },
+    {
+      "english": "Need to warm up first?",
+      "bengali": "প্রথমে ওয়ার্ম-আপ করা দরকার?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654314"
+    },
+    {
+      "english": "What's the score now?",
+      "bengali": "এখন স্কোর কত?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654317"
+    },
+    {
+      "english": "Is this a new team?",
+      "bengali": "এটা কি নতুন দল?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654319"
+    },
+    {
+      "english": "Can you teach me that move?",
+      "bengali": "আপনি কি আমাকে ওই চালটি শেখাতে পারেন?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654322"
+    },
+    {
+      "english": "Where is the nearest track?",
+      "bengali": "নিকটতম ট্র্যাকটি কোথায়?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654324"
+    },
+    {
+      "english": "What exercises build muscle?",
+      "bengali": "কোন ব্যায়াম পেশী তৈরি করে?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654326"
+    },
+    {
+      "english": "Did you book the court?",
+      "bengali": "আপনি কি কোর্ট বুক করেছেন?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654329"
+    },
+    {
+      "english": "Is the competition tough?",
+      "bengali": "প্রতিযোগিতা কি কঠিন?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654331"
+    },
+    {
+      "english": "Can I join your group?",
+      "bengali": "আমি কি আপনার দলে যোগ দিতে পারি?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654334"
+    },
+    {
+      "english": "What's your favorite exercise?",
+      "bengali": "আপনার প্রিয় ব্যায়াম কি?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654336"
+    },
+    {
+      "english": "When does the season start?",
+      "bengali": "সিজন কখন শুরু হয়?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654339"
+    },
+    {
+      "english": "Should we practice indoors?",
+      "bengali": "আমাদের কি ঘরের ভেতরে অনুশীলন করা উচিত?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654341"
+    },
+    {
+      "english": "Push your limits, see results.",
+      "bengali": "সীমা ছাড়িয়ে যাও, ফল পাবে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654344"
+    },
+    {
+      "english": "Stay positive, stay focused.",
+      "bengali": "ইতিবাচক থাকো, মনোযোগী হও।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654346"
+    },
+    {
+      "english": "This challenge makes you stronger.",
+      "bengali": "এই চ্যালেঞ্জ তোমাকে শক্তিশালী করে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654349"
+    },
+    {
+      "english": "Consistency is key to success.",
+      "bengali": "ধারাবাহিকতাই সাফল্যের চাবিকাঠি।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654352"
+    },
+    {
+      "english": "Don't give up, you've got this.",
+      "bengali": "ছেড়ে দিও না, তুমি পারবে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654355"
+    },
+    {
+      "english": "Enjoy the process, not just the win.",
+      "bengali": "শুধু জয় নয়, প্রক্রিয়াটা উপভোগ করো।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654358"
+    },
+    {
+      "english": "Mind over matter, win the mental game.",
+      "bengali": "মনই সব, মানসিক লড়াই জেতো।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654361"
+    },
+    {
+      "english": "You have more strength than you think.",
+      "bengali": "তোমার ধারণার চেয়ে বেশি শক্তি আছে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654363"
+    },
+    {
+      "english": "Celebrate small victories, they add up.",
+      "bengali": "ছোট জয় উদযাপন করো, এগুলোই জমে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654366"
+    },
+    {
+      "english": "Focus on your own progress.",
+      "bengali": "নিজের উন্নতির দিকে মনোযোগ দাও।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654371"
+    },
+    {
+      "english": "It's a journey, not a race.",
+      "bengali": "এটা একটা যাত্রা, দৌড় নয়।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654374"
+    },
+    {
+      "english": "Be proud of how far you've come.",
+      "bengali": "কতদূর এসেছ, তাতে গর্বিত হও।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654376"
+    },
+    {
+      "english": "Rest is part of training too.",
+      "bengali": "বিশ্রামও প্রশিক্ষণের অংশ।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654379"
+    },
+    {
+      "english": "You're building a healthier you.",
+      "bengali": "তুমি এক স্বাস্থ্যকর সত্ত্বা গড়ে তুলছ।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654384"
+    },
+    {
+      "english": "Let your effort speak louder.",
+      "bengali": "তোমার পরিশ্রমকেই কথা বলতে দাও।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654387"
+    },
+    {
+      "english": "Positive thoughts, powerful results.",
+      "bengali": "ইতিবাচক চিন্তা, শক্তিশালী ফল।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654389"
+    },
+    {
+      "english": "Embrace the discomfort, it leads growth.",
+      "bengali": "অস্বস্তি আলিঙ্গন করো, ওখানেই উন্নতি।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654392"
+    },
+    {
+      "english": "Motivation comes from within.",
+      "bengali": "প্রেরণা আসে ভেতর থেকে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654395"
+    },
+    {
+      "english": "Great job today, truly impressive.",
+      "bengali": "আজ দারুণ কাজ হয়েছে, সত্যিই প্রশংসনীয়।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654397"
+    },
+    {
+      "english": "Keep that fighting spirit alive.",
+      "bengali": "এই লড়াইয়ের স্পৃহা জিইয়ে রাখো।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654400"
+    },
+    {
+      "english": "You're stronger than yesterday.",
+      "bengali": "তুমি গতকালের চেয়ে শক্তিশালী।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654402"
+    },
+    {
+      "english": "Focus on the feeling of accomplishment.",
+      "bengali": "সাফল্যের অনুভূতিতে মনোযোগ দাও।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654405"
+    },
+    {
+      "english": "You can do more than you imagine.",
+      "bengali": "তুমি যা ভাবো, তার চেয়ে বেশি করতে পারো।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654407"
+    },
+    {
+      "english": "Let's go for a run, man.",
+      "bengali": "চল, দৌড়াতে যাই, দোস্ত।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654411"
+    },
+    {
+      "english": "He's really in good shape.",
+      "bengali": "ও আসলে খুব ফিট।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654413"
+    },
+    {
+      "english": "This gym is top-notch.",
+      "bengali": "এই জিমটা দারুণ।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654416"
+    },
+    {
+      "english": "I always hit the gym early.",
+      "bengali": "আমি সবসময় ভোরে জিমে যাই।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654418"
+    },
+    {
+      "english": "She sweats it out daily.",
+      "bengali": "ও রোজ ঘাম ঝরায়।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654421"
+    },
+    {
+      "english": "My stamina is improving.",
+      "bengali": "আমার স্ট্যামিনা বাড়ছে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654424"
+    },
+    {
+      "english": "That was a tough workout.",
+      "bengali": "আজকের ওয়ার্কআউটটা কঠিন ছিল।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654426"
+    },
+    {
+      "english": "We need to train harder.",
+      "bengali": "আমাদের আরও জোরে ট্রেনিং করতে হবে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654429"
+    },
+    {
+      "english": "He plays football like a pro.",
+      "bengali": "ও প্রফেশনালের মতো ফুটবল খেলে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654431"
+    },
+    {
+      "english": "This ground is perfect for cricket.",
+      "bengali": "এই মাঠটা ক্রিকেটের জন্য পারফেক্ট।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654434"
+    },
+    {
+      "english": "They are a strong team.",
+      "bengali": "ওরা খুব শক্তিশালী দল।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654438"
+    },
+    {
+      "english": "Let's practice that technique again.",
+      "bengali": "চলো, ওই টেকনিকটা আবার প্র্যাকটিস করি।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654441"
+    },
+    {
+      "english": "I'm feeling the burn, good!",
+      "bengali": "ভালোই লাগছে, মাসল টানছে!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654444"
+    },
+    {
+      "english": "He's incredibly agile.",
+      "bengali": "ও অবিশ্বাস্যভাবে চটপটে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654447"
+    },
+    {
+      "english": "Can we stretch out now?",
+      "bengali": "আমরা কি এখন স্ট্রেচিং করব?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654449"
+    },
+    {
+      "english": "Victory tastes sweet.",
+      "bengali": "জয়ের স্বাদ মিষ্টি।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654452"
+    },
+    {
+      "english": "He lost by a narrow margin.",
+      "bengali": "ও অল্পের জন্য হেরে গেছে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654454"
+    },
+    {
+      "english": "This is a real challenge.",
+      "bengali": "এটা একটা আসল চ্যালেঞ্জ।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654456"
+    },
+    {
+      "english": "My body is aching everywhere.",
+      "bengali": "আমার সারা শরীরে ব্যথা করছে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654461"
+    },
+    {
+      "english": "We must stay hydrated.",
+      "bengali": "আমাদের জল পান করতেই হবে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654465"
+    },
+    {
+      "english": "He's got amazing reflexes.",
+      "bengali": "ওর রিফ্লেক্সগুলো দারুণ।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654468"
+    },
+    {
+      "english": "I need to build endurance.",
+      "bengali": "আমার সহনশীলতা বাড়াতে হবে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654470"
+    },
+    {
+      "english": "That move was skillful.",
+      "bengali": "চালটা খুব দক্ষ ছিল।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654472"
+    },
+    {
+      "english": "Let's cool down gently.",
+      "bengali": "আস্তে আস্তে কুল ডাউন করি।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654475"
+    },
+    {
+      "english": "He is always on the go.",
+      "bengali": "ও সবসময় কর্মব্যস্ত থাকে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654477"
+    },
+    {
+      "english": "Fitness is my priority.",
+      "bengali": "ফিটনেস আমার অগ্রাধিকার।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654479"
+    },
+    {
+      "english": "This competition is intense.",
+      "bengali": "এই প্রতিযোগিতা তীব্র।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654482"
+    },
+    {
+      "english": "My muscles are sore.",
+      "bengali": "আমার পেশীগুলিতে ব্যথা।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654484"
+    },
+    {
+      "english": "He trains with passion.",
+      "bengali": "ও আবেগের সাথে ট্রেনিং করে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654487"
+    },
+    {
+      "english": "We're neck and neck.",
+      "bengali": "আমরা একদম সমান তালে এগোচ্ছি।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654489"
+    },
+    {
+      "english": "Drink water, before you feel thirsty.",
+      "bengali": "তৃষ্ণা পাওয়ার আগে, জল পান করুন।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654492"
+    },
+    {
+      "english": "Eat healthy, live longer, my friend.",
+      "bengali": "স্বাস্থ্যকর খান, বেশি দিন বাঁচুন, বন্ধু।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654495"
+    },
+    {
+      "english": "Don't skip meals, it's bad for you.",
+      "bengali": "খাবার বাদ দেবেন না, এটা আপনার জন্য খারাপ।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654498"
+    },
+    {
+      "english": "Sleep well, every single night.",
+      "bengali": "ভালো করে ঘুমান, প্রতিদিন রাতে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654500"
+    },
+    {
+      "english": "Stretch first, before you start running.",
+      "bengali": "দৌড়ানো শুরু করার আগে, প্রথমে স্ট্রেচ করুন।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654503"
+    },
+    {
+      "english": "Listen to your body, it knows best.",
+      "bengali": "আপনার শরীরের কথা শুনুন, ওরাই সবচেয়ে ভালো জানে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654506"
+    },
+    {
+      "english": "Rest is important, don't forget that.",
+      "bengali": "বিশ্রাম জরুরি, সেটা ভুলবেন না।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654509"
+    },
+    {
+      "english": "Consistency, is the real key.",
+      "bengali": "ধারাবাহিকতাই, আসল চাবিকাঠি।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654512"
+    },
+    {
+      "english": "Find a buddy, to stay motivated.",
+      "bengali": "একজন সঙ্গী খুঁজুন, অনুপ্রাণিত থাকতে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654515"
+    },
+    {
+      "english": "Warm up properly, avoid injuries.",
+      "bengali": "সঠিকভাবে ওয়ার্ম-আপ করুন, আঘাত এড়াতে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654518"
+    },
+    {
+      "english": "Cool down slowly, it helps recovery.",
+      "bengali": "ধীরে ধীরে কুল-ডাউন করুন, এটা পুনরুদ্ধারে সাহায্য করে।",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-31T09:18:34.654520"
     }
   ],
-  "last_updated": "2026-10-30T09:38:07.380349"
+  "last_updated": "2026-10-31T09:18:34.654522"
 }
