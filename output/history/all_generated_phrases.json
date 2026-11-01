@@ -10079,7 +10079,727 @@
       "bengali": "ধীরে ধীরে কুল-ডাউন করুন, এটা পুনরুদ্ধারে সাহায্য করে।",
       "category": "Sports & Fitness",
       "generated_at": "2026-10-31T09:18:34.654520"
+    },
+    {
+      "english": "Good morning, everyone.",
+      "bengali": "শুভ সকাল, সবাই।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192112"
+    },
+    {
+      "english": "I'm good, thanks.",
+      "bengali": "আমি ভালো আছি, ধন্যবাদ।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192126"
+    },
+    {
+      "english": "I need help, please.",
+      "bengali": "আমার সাহায্য দরকার, অনুগ্রহ করে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192128"
+    },
+    {
+      "english": "It's a bit difficult.",
+      "bengali": "এটা একটু কঠিন।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192131"
+    },
+    {
+      "english": "No problem.",
+      "bengali": "কোনো সমস্যা নেই।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192133"
+    },
+    {
+      "english": "Thank you so much.",
+      "bengali": "আপনাকে অনেক ধন্যবাদ।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192135"
+    },
+    {
+      "english": "Have a nice day.",
+      "bengali": "আপনার দিনটি শুভ হোক।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192137"
+    },
+    {
+      "english": "Let's take a break.",
+      "bengali": "বিরতি নেওয়া যাক।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192142"
+    },
+    {
+      "english": "I'm almost done.",
+      "bengali": "আমি প্রায় শেষ করে ফেলেছি।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192144"
+    },
+    {
+      "english": "That's a good idea.",
+      "bengali": "এটা একটা ভালো ধারণা।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192146"
+    },
+    {
+      "english": "We need to discuss.",
+      "bengali": "আমাদের আলোচনা করতে হবে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192147"
+    },
+    {
+      "english": "I'm running late.",
+      "bengali": "আমার দেরি হয়ে যাচ্ছে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192149"
+    },
+    {
+      "english": "It's urgent.",
+      "bengali": "এটা জরুরি।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192151"
+    },
+    {
+      "english": "I'll do it now.",
+      "bengali": "আমি এখনই এটা করবো।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192152"
+    },
+    {
+      "english": "Let me check.",
+      "bengali": "আমাকে দেখতে দিন।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192154"
+    },
+    {
+      "english": "Where is the meeting room?",
+      "bengali": "মিটিং রুম কোথায়?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192155"
+    },
+    {
+      "english": "This is important.",
+      "bengali": "এটা গুরুত্বপূর্ণ।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192156"
+    },
+    {
+      "english": "Let's meet tomorrow.",
+      "bengali": "আগামীকাল দেখা করা যাক।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192158"
+    },
+    {
+      "english": "Can I borrow this?",
+      "bengali": "আমি কি এটা ধার নিতে পারি?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192159"
+    },
+    {
+      "english": "What's new, boss?",
+      "bengali": "কী খবর, বস?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192161"
+    },
+    {
+      "english": "Ready for work?",
+      "bengali": "কাজের জন্য তৈরি?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192163"
+    },
+    {
+      "english": "Any updates, team?",
+      "bengali": "কোনো আপডেট আছে, টিম?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192165"
+    },
+    {
+      "english": "I'm a bit busy.",
+      "bengali": "আমি একটু ব্যস্ত।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192167"
+    },
+    {
+      "english": "I understand, boss.",
+      "bengali": "আমি বুঝেছি, বস।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192168"
+    },
+    {
+      "english": "How's the project going?",
+      "bengali": "প্রজেক্ট কেমন চলছে?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192170"
+    },
+    {
+      "english": "This needs attention.",
+      "bengali": "এটার দিকে নজর দেওয়া দরকার।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192172"
+    },
+    {
+      "english": "I'll follow up.",
+      "bengali": "আমি পরে যোগাযোগ করব।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192173"
+    },
+    {
+      "english": "Is this clear?",
+      "bengali": "এটা কি স্পষ্ট?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192175"
+    },
+    {
+      "english": "I need more time.",
+      "bengali": "আমার আরও সময় লাগবে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192176"
+    },
+    {
+      "english": "What's the deadline?",
+      "bengali": "শেষ তারিখটা কী?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192178"
+    },
+    {
+      "english": "Send me the email.",
+      "bengali": "আমাকে ইমেলটা পাঠান।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192180"
+    },
+    {
+      "english": "Focus on the task.",
+      "bengali": "কাজের উপর মনোযোগ দিন।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192181"
+    },
+    {
+      "english": "We are on schedule.",
+      "bengali": "আমরা সময়মতো এগোচ্ছি।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192183"
+    },
+    {
+      "english": "That's my priority.",
+      "bengali": "এটা আমার অগ্রাধিকার।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192185"
+    },
+    {
+      "english": "Can you handle this?",
+      "bengali": "আপনি এটা সামলাতে পারবেন?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192188"
+    },
+    {
+      "english": "Let's brainstorm ideas.",
+      "bengali": "চলুন ধারণা নিয়ে আলোচনা করি।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192190"
+    },
+    {
+      "english": "I'll manage it.",
+      "bengali": "আমি এটা সামলে নেব।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192191"
+    },
+    {
+      "english": "Keep me informed.",
+      "bengali": "আমাকে জানাতে থাকবেন।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192193"
+    },
+    {
+      "english": "Work is piling up.",
+      "bengali": "অনেক কাজ জমে গেছে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192194"
+    },
+    {
+      "english": "Great job, everyone!",
+      "bengali": "দারুণ কাজ, সবাই!",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192197"
+    },
+    {
+      "english": "What do you think?",
+      "bengali": "আপনি কী ভাবছেন?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192199"
+    },
+    {
+      "english": "I'll take care of it.",
+      "bengali": "আমি এটা দেখে নেব।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192200"
+    },
+    {
+      "english": "Let's review the plan.",
+      "bengali": "চলুন পরিকল্পনাটি পর্যালোচনা করি।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192202"
+    },
+    {
+      "english": "My computer is slow.",
+      "bengali": "আমার কম্পিউটার ধীর গতিতে চলছে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192203"
+    },
+    {
+      "english": "Is the printer working?",
+      "bengali": "প্রিন্টার কি কাজ করছে?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192205"
+    },
+    {
+      "english": "Let's wrap this up.",
+      "bengali": "চলুন এটা শেষ করি।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192206"
+    },
+    {
+      "english": "Keep pushing, you've got this!",
+      "bengali": "চালিয়ে যাও, তুমি পারবে!",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192208"
+    },
+    {
+      "english": "Your hard work, is really paying off.",
+      "bengali": "তোমার কঠোর পরিশ্রম, সত্যিই ফল দিচ্ছে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192210"
+    },
+    {
+      "english": "Don't worry, we'll figure it out.",
+      "bengali": "চিন্তা করো না, আমরা ঠিক বের করবো।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192212"
+    },
+    {
+      "english": "One step at a time, is fine.",
+      "bengali": "একবারে একটা ধাপ, ঠিক আছে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192214"
+    },
+    {
+      "english": "Your positive attitude, is contagious.",
+      "bengali": "তোমার ইতিবাচক মনোভাব, ছোঁয়াচে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192216"
+    },
+    {
+      "english": "Believe in yourself, you're amazing!",
+      "bengali": "নিজেকে বিশ্বাস করো, তুমি অসাধারণ!",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192217"
+    },
+    {
+      "english": "Let's conquer this challenge, together.",
+      "bengali": "চলো এই চ্যালেঞ্জ জয় করি, একসাথে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192219"
+    },
+    {
+      "english": "You're doing a fantastic job, truly.",
+      "bengali": "তুমি দারুণ কাজ করছো, সত্যিই।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192221"
+    },
+    {
+      "english": "Stay focused, and you'll succeed.",
+      "bengali": "মনোযোগী থাকো, আর তুমি সফল হবে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192223"
+    },
+    {
+      "english": "This is progress, not perfection.",
+      "bengali": "এটা উন্নতি, নিখুঁত নয়।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192225"
+    },
+    {
+      "english": "You always bring your best, wow!",
+      "bengali": "তুমি সবসময় সেরাটা নিয়ে আসো, ওয়াও!",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192226"
+    },
+    {
+      "english": "Embrace the learning curve, it's normal.",
+      "bengali": "শেখার প্রক্রিয়াটাকে আপন করে নাও, এটা স্বাভাবিক।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192228"
+    },
+    {
+      "english": "Your effort, doesn't go unnoticed.",
+      "bengali": "তোমার প্রচেষ্টা, অলক্ষ্যে যায় না।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192230"
+    },
+    {
+      "english": "We're a great team, aren't we?",
+      "bengali": "আমরা দারুণ টিম, তাই না?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192232"
+    },
+    {
+      "english": "Just breathe, and tackle it.",
+      "bengali": "শুধু শ্বাস নাও, আর সামলাও।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192234"
+    },
+    {
+      "english": "Your insights, are incredibly valuable.",
+      "bengali": "তোমার অন্তর্দৃষ্টি, অবিশ্বাস্যভাবে মূল্যবান।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192236"
+    },
+    {
+      "english": "Celebrate small wins, they matter.",
+      "bengali": "ছোট জয়গুলো উদযাপন করো, ওগুলো গুরুত্বপূর্ণ।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192237"
+    },
+    {
+      "english": "Let's bring our A-game, always.",
+      "bengali": "চলো সবসময় সেরাটা খেলি।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192239"
+    },
+    {
+      "english": "You handle pressure, like a pro.",
+      "bengali": "তুমি চাপ সামলাও, পেশাদারের মতো।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192242"
+    },
+    {
+      "english": "This is an opportunity, to grow.",
+      "bengali": "এটা একটা সুযোগ, বেড়ে ওঠার।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192244"
+    },
+    {
+      "english": "Your dedication, is truly admirable.",
+      "bengali": "তোমার নিষ্ঠা, সত্যিই প্রশংসনীয়।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192245"
+    },
+    {
+      "english": "Keep the faith, it'll work out.",
+      "bengali": "বিশ্বাস রাখো, এটা ঠিক হয়ে যাবে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192247"
+    },
+    {
+      "english": "Your optimism, is infectious.",
+      "bengali": "তোমার আশাবাদ, সংক্রামক।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192249"
+    },
+    {
+      "english": "Let's aim high, and achieve it.",
+      "bengali": "চলো উঁচুতে লক্ষ্য রাখি, আর সেটা অর্জন করি।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192250"
+    },
+    {
+      "english": "You're exceeding expectations, wow!",
+      "bengali": "তুমি প্রত্যাশা ছাড়িয়ে যাচ্ছো, ওয়াও!",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192253"
+    },
+    {
+      "english": "Let's get this done, no excuses.",
+      "bengali": "কাজটা শেষ করি, কোনো অজুহাত নয়।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192255"
+    },
+    {
+      "english": "We need to pull together, now.",
+      "bengali": "আমাদের একসাথে টানতে হবে, এখনই।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192257"
+    },
+    {
+      "english": "This is easier said than done.",
+      "bengali": "এটা বলার চেয়ে করা সহজ নয়।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192259"
+    },
+    {
+      "english": "Don't count your chickens, yet.",
+      "bengali": "এখনই সব গুনে ফেলো না।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192261"
+    },
+    {
+      "english": "He's always beating around the bush.",
+      "bengali": "ও সবসময় আসল কথাটা এড়িয়ে যায়।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192264"
+    },
+    {
+      "english": "Let's not put all eggs in one basket.",
+      "bengali": "সব কিছু এক জায়গায় রাখা ঠিক নয়।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192265"
+    },
+    {
+      "english": "It's a piece of cake, actually.",
+      "bengali": "আসলে, এটা খুবই সহজ কাজ।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192268"
+    },
+    {
+      "english": "We need to put our heads together.",
+      "bengali": "আমাদের একসাথে ভাবতে হবে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192269"
+    },
+    {
+      "english": "He's the boss's blue-eyed boy.",
+      "bengali": "ও বসের প্রিয় লোক।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192271"
+    },
+    {
+      "english": "Let's get down to business.",
+      "bengali": "কাজে লেগে পড়ি।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192273"
+    },
+    {
+      "english": "This is a tough nut to crack.",
+      "bengali": "এটা একটা কঠিন সমস্যা।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192274"
+    },
+    {
+      "english": "We're on the same page, right?",
+      "bengali": "আমরা একই পৃষ্ঠায় আছি, তাই না?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192276"
+    },
+    {
+      "english": "He's not pulling his weight.",
+      "bengali": "ও নিজের ভাগের কাজ করছে না।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192277"
+    },
+    {
+      "english": "Let's learn from our mistakes.",
+      "bengali": "ভুল থেকে শিখি।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192279"
+    },
+    {
+      "english": "It's raining cats and dogs, outside.",
+      "bengali": "বাইরে খুব বৃষ্টি হচ্ছে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192281"
+    },
+    {
+      "english": "We need to hit the ground running.",
+      "bengali": "আমাদের দ্রুত শুরু করতে হবে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192283"
+    },
+    {
+      "english": "He's a real go-getter, you know.",
+      "bengali": "ও সত্যিই একজন কর্মঠ লোক, জানেন।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192285"
+    },
+    {
+      "english": "Let's burn the midnight oil.",
+      "bengali": "চলো, রাত জেগে কাজ করি।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192286"
+    },
+    {
+      "english": "This is a blessing in disguise.",
+      "bengali": "এটা ছদ্মবেশে আশীর্বাদ।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192288"
+    },
+    {
+      "english": "We need to think outside the box.",
+      "bengali": "আমাদের গতানুগতিকতার বাইরে ভাবতে হবে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192289"
+    },
+    {
+      "english": "He always comes up with brilliant ideas.",
+      "bengali": "ও সবসময় দারুণ সব আইডিয়া নিয়ে আসে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192291"
+    },
+    {
+      "english": "Let's not rock the boat, okay?",
+      "bengali": "চলো, সমস্যা তৈরি না করি, ঠিক আছে?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192292"
+    },
+    {
+      "english": "This is the tip of the iceberg.",
+      "bengali": "এটা হিমশৈলের চূড়া মাত্র।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192294"
+    },
+    {
+      "english": "We need to get our ducks in a row.",
+      "bengali": "আমাদের সব গুছিয়ে নিতে হবে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192295"
+    },
+    {
+      "english": "He's just winging it, I think.",
+      "bengali": "আমার মনে হয়, ও আন্দাজে কাজ করছে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192299"
+    },
+    {
+      "english": "Let's take it one day at a time.",
+      "bengali": "চলো, একবারে একদিন করে দেখি।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192301"
+    },
+    {
+      "english": "This is a real game-changer.",
+      "bengali": "এটা সত্যিই খেলার মোড় ঘুরিয়ে দেবে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192303"
+    },
+    {
+      "english": "We need to stay ahead of the curve.",
+      "bengali": "আমাদের অন্যদের চেয়ে এগিয়ে থাকতে হবে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192304"
+    },
+    {
+      "english": "He's got a lot on his plate.",
+      "bengali": "ওর হাতে অনেক কাজ।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192306"
+    },
+    {
+      "english": "Let's not split hairs, please.",
+      "bengali": "দয়া করে ছোটখাটো বিষয় নিয়ে তর্ক করো না।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192308"
+    },
+    {
+      "english": "Ask for help, when you need it.",
+      "bengali": "প্রয়োজনে সাহায্য চান।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192309"
+    },
+    {
+      "english": "Don't forget to take breaks.",
+      "bengali": "বিরতি নিতে ভুলবেন না।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192312"
+    },
+    {
+      "english": "Keep your workspace tidy.",
+      "bengali": "আপনার কাজের জায়গা পরিচ্ছন্ন রাখুন।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192314"
+    },
+    {
+      "english": "Is the meeting starting soon?",
+      "bengali": "মিটিং কি শীঘ্রই শুরু হবে?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192315"
+    },
+    {
+      "english": "I need your feedback, later.",
+      "bengali": "পরে আপনার মতামত দরকার।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192317"
+    },
+    {
+      "english": "Let's plan our next steps.",
+      "bengali": "আসুন আমাদের পরবর্তী পদক্ষেপগুলো পরিকল্পনা করি।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192318"
+    },
+    {
+      "english": "This task is quite challenging.",
+      "bengali": "এই কাজটি বেশ চ্যালেঞ্জিং।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192320"
+    },
+    {
+      "english": "What's the deadline for this?",
+      "bengali": "এটার ডেডলাইন কী?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192322"
+    },
+    {
+      "english": "Are you free for a quick chat?",
+      "bengali": "একটু কথা বলার জন্য ফ্রি আছেন?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192329"
+    },
+    {
+      "english": "Let's prioritize our work.",
+      "bengali": "আসুন আমাদের কাজের অগ্রাধিকার ঠিক করি।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192330"
+    },
+    {
+      "english": "I'll get back to you soon.",
+      "bengali": "আমি শীঘ্রই আপনার সাথে যোগাযোগ করব।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192332"
+    },
+    {
+      "english": "Is there anything else needed?",
+      "bengali": "আর কিছু কি প্রয়োজন?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192334"
+    },
+    {
+      "english": "Always double-check your work.",
+      "bengali": "সবসময় আপনার কাজ দুবার পরীক্ষা করুন।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192335"
+    },
+    {
+      "english": "Let's communicate clearly.",
+      "bengali": "আসুন স্পষ্টভাবে যোগাযোগ করি।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192337"
+    },
+    {
+      "english": "How was your day so far?",
+      "bengali": "আজ আপনার দিন কেমন কাটলো?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192338"
+    },
+    {
+      "english": "Be punctual, it's important.",
+      "bengali": "সময়নিষ্ঠ হন, এটা গুরুত্বপূর্ণ।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192340"
+    },
+    {
+      "english": "Can you send me the file?",
+      "bengali": "আপনি কি আমাকে ফাইলটি পাঠাতে পারেন?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192341"
+    },
+    {
+      "english": "Let's collaborate on this project.",
+      "bengali": "আসুন এই প্রকল্পে একসাথে কাজ করি।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192343"
+    },
+    {
+      "english": "I need to make a call.",
+      "bengali": "আমাকে একটা ফোন করতে হবে।",
+      "category": "Work & Office",
+      "generated_at": "2026-11-01T10:05:58.192344"
     }
   ],
-  "last_updated": "2026-10-31T09:18:34.654522"
+  "last_updated": "2026-11-01T10:05:58.192346"
 }
