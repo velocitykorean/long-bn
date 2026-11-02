@@ -10799,7 +10799,727 @@
       "bengali": "আমাকে একটা ফোন করতে হবে।",
       "category": "Work & Office",
       "generated_at": "2026-11-01T10:05:58.192344"
+    },
+    {
+      "english": "What is this for?",
+      "bengali": "এটা কীসের জন্য?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062543"
+    },
+    {
+      "english": "I need it for work.",
+      "bengali": "আমার এটা কাজের জন্য দরকার।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062557"
+    },
+    {
+      "english": "What is your purpose?",
+      "bengali": "তোমার উদ্দেশ্য কী?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062560"
+    },
+    {
+      "english": "My purpose is to help.",
+      "bengali": "আমার উদ্দেশ্য হলো সাহায্য করা।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062562"
+    },
+    {
+      "english": "For what reason?",
+      "bengali": "কী কারণে?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062564"
+    },
+    {
+      "english": "This is for fun.",
+      "bengali": "এটা মজার জন্য।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062566"
+    },
+    {
+      "english": "What's the point?",
+      "bengali": "এর মানে কী?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062569"
+    },
+    {
+      "english": "The point is learning.",
+      "bengali": "মূল বিষয় হলো শেখা।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062575"
+    },
+    {
+      "english": "I'm doing this for practice.",
+      "bengali": "আমি এটা অভ্যাসের জন্য করছি।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062578"
+    },
+    {
+      "english": "It's for emergencies.",
+      "bengali": "এটা জরুরি অবস্থার জন্য।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062580"
+    },
+    {
+      "english": "Why did you do that?",
+      "bengali": "তুমি এটা কেন করলে?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062582"
+    },
+    {
+      "english": "I did it for a reason.",
+      "bengali": "আমি এটা একটা কারণে করেছি।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062584"
+    },
+    {
+      "english": "What's the goal?",
+      "bengali": "লক্ষ্য কী?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062587"
+    },
+    {
+      "english": "My goal is success.",
+      "bengali": "আমার লক্ষ্য সাফল্য।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062588"
+    },
+    {
+      "english": "This is for cooking.",
+      "bengali": "এটা রান্নার জন্য।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062590"
+    },
+    {
+      "english": "What is the intention?",
+      "bengali": "উদ্দেশ্য কী?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062592"
+    },
+    {
+      "english": "My intention is good.",
+      "bengali": "আমার উদ্দেশ্য ভালো।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062594"
+    },
+    {
+      "english": "This is for decoration.",
+      "bengali": "এটা সাজানোর জন্য।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062596"
+    },
+    {
+      "english": "What is the function?",
+      "bengali": "এর কাজ কী?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062598"
+    },
+    {
+      "english": "The function is simple.",
+      "bengali": "এর কাজ সহজ।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062600"
+    },
+    {
+      "english": "This is for protection.",
+      "bengali": "এটা সুরক্ষার জন্য।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062601"
+    },
+    {
+      "english": "It's used for cleaning.",
+      "bengali": "এটা পরিষ্কারের জন্য লাগে।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062603"
+    },
+    {
+      "english": "This is for a gift.",
+      "bengali": "এটা একটা উপহারের জন্য।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062605"
+    },
+    {
+      "english": "What is your aim?",
+      "bengali": "তোমার লক্ষ্য কী?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062607"
+    },
+    {
+      "english": "My aim is to improve.",
+      "bengali": "আমার লক্ষ্য উন্নতি করা।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062609"
+    },
+    {
+      "english": "This is for saving.",
+      "bengali": "এটা জমানোর জন্য।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062610"
+    },
+    {
+      "english": "For what purpose did you come?",
+      "bengali": "কী উদ্দেশ্যে তুমি এসেছিলে?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062614"
+    },
+    {
+      "english": "What's this used for, can you tell me?",
+      "bengali": "এটা কি কাজে লাগে, বলতে পারেন?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062618"
+    },
+    {
+      "english": "Could you explain its use, please?",
+      "bengali": "এর ব্যবহারটা একটু বুঝিয়ে দেবেন, প্লিজ?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062620"
+    },
+    {
+      "english": "I'm curious, what's its specific application?",
+      "bengali": "আমি জানতে আগ্রহী, এর বিশেষ প্রয়োগ কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062623"
+    },
+    {
+      "english": "How does this help achieve the objective?",
+      "bengali": "এটা লক্ষ্য পূরণে কিভাবে সাহায্য করে?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062625"
+    },
+    {
+      "english": "What motivated this decision, if I may ask?",
+      "bengali": "যদি জিজ্ঞেস করি, এই সিদ্ধান্তের পেছনের প্রেরণা কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062628"
+    },
+    {
+      "english": "What's the intended outcome here?",
+      "bengali": "এখানে কাঙ্ক্ষিত ফলাফল কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062630"
+    },
+    {
+      "english": "Can you suggest a way to use this effectively?",
+      "bengali": "এটা কার্যকরভাবে ব্যবহার করার একটা উপায় বলতে পারেন?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062632"
+    },
+    {
+      "english": "Why is this particular method chosen?",
+      "bengali": "এই নির্দিষ্ট পদ্ধতিটি কেন বেছে নেওয়া হলো?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062634"
+    },
+    {
+      "english": "What's the benefit of doing it this way?",
+      "bengali": "এভাবে করার সুবিধা কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062638"
+    },
+    {
+      "english": "What are we aiming for with this project?",
+      "bengali": "এই প্রজেক্ট দিয়ে আমরা কিসের লক্ষ্যে এগোচ্ছি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062641"
+    },
+    {
+      "english": "Is there a specific reason for this?",
+      "bengali": "এর কোনো বিশেষ কারণ আছে কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062643"
+    },
+    {
+      "english": "What's the main idea behind this?",
+      "bengali": "এর পেছনের মূল ভাবনাটা কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062645"
+    },
+    {
+      "english": "Could you share your thoughts on its application?",
+      "bengali": "এর প্রয়োগ নিয়ে আপনার ভাবনাটা শেয়ার করবেন?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062649"
+    },
+    {
+      "english": "What problem does this solve?",
+      "bengali": "এটা কোন সমস্যার সমাধান করে?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062651"
+    },
+    {
+      "english": "I'd like to understand the rationale.",
+      "bengali": "আমি এর পেছনের যুক্তিটা বুঝতে চাই।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062653"
+    },
+    {
+      "english": "What is this intended to achieve?",
+      "bengali": "এটা কি অর্জন করার জন্য তৈরি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062655"
+    },
+    {
+      "english": "What's the objective of this meeting?",
+      "bengali": "এই মিটিংয়ের উদ্দেশ্য কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062658"
+    },
+    {
+      "english": "What are we trying to accomplish?",
+      "bengali": "আমরা কি সম্পন্ন করার চেষ্টা করছি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062660"
+    },
+    {
+      "english": "Could you clarify the goal, please?",
+      "bengali": "লক্ষ্যটা একটু স্পষ্ট করবেন, প্লিজ?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062662"
+    },
+    {
+      "english": "What's the underlying principle here?",
+      "bengali": "এখানে অন্তর্নিহিত নীতিটা কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062664"
+    },
+    {
+      "english": "Why was this specific approach taken?",
+      "bengali": "এই বিশেষ পদ্ধতি কেন নেওয়া হলো?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062666"
+    },
+    {
+      "english": "What's the purpose behind this gesture?",
+      "bengali": "এই অঙ্গভঙ্গির পেছনের উদ্দেশ্য কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062668"
+    },
+    {
+      "english": "What are we hoping to achieve?",
+      "bengali": "আমরা কি অর্জন করার আশা করছি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062670"
+    },
+    {
+      "english": "Can you explain the rationale behind it?",
+      "bengali": "এর পেছনের যুক্তিটা ব্যাখ্যা করবেন?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062672"
+    },
+    {
+      "english": "What's the intended effect of this?",
+      "bengali": "এর অভিপ্রেত প্রভাব কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062674"
+    },
+    {
+      "english": "How does this contribute to the bigger picture?",
+      "bengali": "এটা বৃহত্তর চিত্রে কিভাবে অবদান রাখে?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062676"
+    },
+    {
+      "english": "You can achieve anything.",
+      "bengali": "তুমি সবকিছুই অর্জন করতে পারো।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062679"
+    },
+    {
+      "english": "Embrace the challenge.",
+      "bengali": "চ্যালেঞ্জকে আলিঙ্গন করো।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062681"
+    },
+    {
+      "english": "You are doing wonderfully.",
+      "bengali": "তুমি দারুণ করছো।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062683"
+    },
+    {
+      "english": "Visualize your success.",
+      "bengali": "নিজের সাফল্য কল্পনা করো।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062685"
+    },
+    {
+      "english": "Make every moment count.",
+      "bengali": "প্রতিটা মুহূর্তকে কাজে লাগাও।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062687"
+    },
+    {
+      "english": "This mindset is key.",
+      "bengali": "এই মানসিকতাই মূল চাবিকাঠি।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062690"
+    },
+    {
+      "english": "Keep that fire burning.",
+      "bengali": "ঐ আগুনটা জ্বালিয়ে রাখো।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062692"
+    },
+    {
+      "english": "You're making excellent progress.",
+      "bengali": "তোমার অগ্রগতি অসাধারণ হচ্ছে।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062694"
+    },
+    {
+      "english": "This positive outlook helps.",
+      "bengali": "এই ইতিবাচক দৃষ্টিভঙ্গি সাহায্য করে।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062696"
+    },
+    {
+      "english": "What's the big idea, eh?",
+      "bengali": "ব্যাপারটা কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062700"
+    },
+    {
+      "english": "What's this all about?",
+      "bengali": "এসব কি হচ্ছে?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062704"
+    },
+    {
+      "english": "What's the game plan?",
+      "bengali": "কি মতলব?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062707"
+    },
+    {
+      "english": "What's the angle here?",
+      "bengali": "আপনার উদ্দেশ্য কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062709"
+    },
+    {
+      "english": "What's the point of this?",
+      "bengali": "এটার মানে কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062712"
+    },
+    {
+      "english": "What are you getting at?",
+      "bengali": "আপনি কি বোঝাতে চাইছেন?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062714"
+    },
+    {
+      "english": "What's the story?",
+      "bengali": "ঘটনাটা কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062717"
+    },
+    {
+      "english": "What's the catch?",
+      "bengali": "ব্যাপারটা কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062719"
+    },
+    {
+      "english": "What's the reason?",
+      "bengali": "কারণটা কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062721"
+    },
+    {
+      "english": "What are we shooting for?",
+      "bengali": "আমরা কি চাইছি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062725"
+    },
+    {
+      "english": "What's the mission?",
+      "bengali": "অভিযান কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062727"
+    },
+    {
+      "english": "What's the agenda?",
+      "bengali": "আলোচ্য বিষয় কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062729"
+    },
+    {
+      "english": "What are we working towards?",
+      "bengali": "আমরা কিসের জন্য কাজ করছি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062731"
+    },
+    {
+      "english": "What's the purpose of this gathering?",
+      "bengali": "এই সমাবেশের উদ্দেশ্য কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062733"
+    },
+    {
+      "english": "What's the objective?",
+      "bengali": "উদ্দেশ্য কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062735"
+    },
+    {
+      "english": "Why this particular approach?",
+      "bengali": "এই বিশেষ পদ্ধতি কেন?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062737"
+    },
+    {
+      "english": "What's the motive?",
+      "bengali": "উদ্দেশ্য কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062739"
+    },
+    {
+      "english": "What's behind all this?",
+      "bengali": "এসবের পেছনে কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062741"
+    },
+    {
+      "english": "What's the point you're making?",
+      "bengali": "আপনি কি বলতে চাইছেন?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062743"
+    },
+    {
+      "english": "What's the strategy?",
+      "bengali": "কৌশল কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062745"
+    },
+    {
+      "english": "What's the plan for today?",
+      "bengali": "আজকের পরিকল্পনা কি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062747"
+    },
+    {
+      "english": "My heart knows, the path.",
+      "bengali": "আমার মন জানে, পথটা।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062749"
+    },
+    {
+      "english": "This feeling, it guides me.",
+      "bengali": "এই অনুভূতি, এটাই আমায় চালায়।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062751"
+    },
+    {
+      "english": "Patience is my true aim.",
+      "bengali": "ধৈর্যই আমার আসল লক্ষ্য।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062753"
+    },
+    {
+      "english": "Deeper meaning, I seek.",
+      "bengali": "গভীর অর্থ, আমি খুঁজি।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062755"
+    },
+    {
+      "english": "This journey, my soul's work.",
+      "bengali": "এই যাত্রা, আমার আত্মার কাজ।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062757"
+    },
+    {
+      "english": "Listening inwards, truly matters.",
+      "bengali": "ভেতর থেকে শোনা, সত্যিই জরুরি।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062760"
+    },
+    {
+      "english": "My intention, pure and simple.",
+      "bengali": "আমার উদ্দেশ্য, খাঁটি আর সহজ।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062762"
+    },
+    {
+      "english": "Accepting 'why', is peace.",
+      "bengali": "'কেন' কে মেনে নেওয়া, শান্তি।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062766"
+    },
+    {
+      "english": "This quiet strength, defines me.",
+      "bengali": "এই শান্ত শক্তি, আমায় চেনায়।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062769"
+    },
+    {
+      "english": "Letting go, is also purpose.",
+      "bengali": "ছেড়ে দেওয়াও, এক উদ্দেশ্য।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062771"
+    },
+    {
+      "english": "My truth, I must follow.",
+      "bengali": "আমার সত্য, আমায় মানতে হবে।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062773"
+    },
+    {
+      "english": "Understanding comes, with time.",
+      "bengali": "বোঝা আসে, সময় নিয়ে।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062775"
+    },
+    {
+      "english": "This inner voice, is wise.",
+      "bengali": "এই ভেতরের স্বর, জ্ঞানী।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062777"
+    },
+    {
+      "english": "Being present, is my aim.",
+      "bengali": "উপস্থিত থাকা, আমার লক্ষ্য।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062779"
+    },
+    {
+      "english": "Honesty within, is vital.",
+      "bengali": "ভেতরের সততা, খুব জরুরি।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062781"
+    },
+    {
+      "english": "My spirit, seeks purpose.",
+      "bengali": "আমার আত্মা, উদ্দেশ্য খোঁজে।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062783"
+    },
+    {
+      "english": "This quiet joy, fills me.",
+      "bengali": "এই শান্ত আনন্দ, আমায় ভরিয়ে দেয়।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062785"
+    },
+    {
+      "english": "True intention, matters most.",
+      "bengali": "আসল উদ্দেশ্য, সবচেয়ে জরুরি।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062787"
+    },
+    {
+      "english": "Finding peace, in the process.",
+      "bengali": "প্রক্রিয়ায় শান্তি খোঁজা।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062789"
+    },
+    {
+      "english": "My soul's whisper, I hear.",
+      "bengali": "আত্মার ফিসফিসানি, আমি শুনি।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062792"
+    },
+    {
+      "english": "This simple act, has meaning.",
+      "bengali": "এই সাধারণ কাজ, অর্থ বহন করে।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062795"
+    },
+    {
+      "english": "Authenticity, my guiding star.",
+      "bengali": "নিজস্বতা, আমার পথপ্রদর্শক।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062798"
+    },
+    {
+      "english": "Feeling deeply, is honest.",
+      "bengali": "গভীরভাবে অনুভব করা, সৎ।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062800"
+    },
+    {
+      "english": "My quiet belief, sustains me.",
+      "bengali": "আমার নীরব বিশ্বাস, আমায় বাঁচিয়ে রাখে।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062802"
+    },
+    {
+      "english": "This truth, I hold dear.",
+      "bengali": "এই সত্যি, আমি আগলে রাখি।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062804"
+    },
+    {
+      "english": "Seeking inner harmony.",
+      "bengali": "ভেতরের সামঞ্জস্য খোঁজা।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062806"
+    },
+    {
+      "english": "My heart's true desire.",
+      "bengali": "হৃদয়ের আসল চাওয়া।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062807"
+    },
+    {
+      "english": "Embracing vulnerability, with courage.",
+      "bengali": "দুর্বলতাকে গ্রহণ করা, সাহসের সাথে।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062810"
+    },
+    {
+      "english": "This quiet understanding, connects us.",
+      "bengali": "এই নীরব বোঝাপড়া, আমাদের জুড়ে দেয়।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062812"
+    },
+    {
+      "english": "What are we really doing this for?",
+      "bengali": "আমরা আসলে এটা কিসের জন্য করছি?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062814"
+    },
+    {
+      "english": "Is this helping us move forward?",
+      "bengali": "এটা কি আমাদের এগিয়ে যেতে সাহায্য করছে?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062816"
+    },
+    {
+      "english": "Let's get to the real reason, quickly.",
+      "bengali": "আসুন, আসল কারণটা তাড়াতাড়ি জেনে নিই।",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062819"
+    },
+    {
+      "english": "What's the actual goal here?",
+      "bengali": "এখানে আসল লক্ষ্য কী?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062821"
+    },
+    {
+      "english": "This action, what does it achieve?",
+      "bengali": "এই কাজটা, এর দ্বারা কী লাভ হচ্ছে?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062823"
+    },
+    {
+      "english": "Why is this important to you?",
+      "bengali": "এটা আপনার কাছে এত গুরুত্বপূর্ণ কেন?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062825"
+    },
+    {
+      "english": "Does this make sense for our future?",
+      "bengali": "এটা কি আমাদের ভবিষ্যতের জন্য অর্থপূর্ণ?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062827"
+    },
+    {
+      "english": "How does this fit our bigger picture?",
+      "bengali": "এটা আমাদের বৃহত্তর চিত্রের সাথে কীভাবে মানানসই?",
+      "category": "Purpose",
+      "generated_at": "2026-11-02T10:34:48.062831"
     }
   ],
-  "last_updated": "2026-11-01T10:05:58.192346"
+  "last_updated": "2026-11-02T10:34:48.062833"
 }
