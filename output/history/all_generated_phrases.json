@@ -11519,7 +11519,727 @@
       "bengali": "এটা আমাদের বৃহত্তর চিত্রের সাথে কীভাবে মানানসই?",
       "category": "Purpose",
       "generated_at": "2026-11-02T10:34:48.062831"
+    },
+    {
+      "english": "Are you okay, say something now",
+      "bengali": "তুমি ঠিক আছো, এখন কিছু বলো",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454623"
+    },
+    {
+      "english": "I feel sick, I need help",
+      "bengali": "আমি অসুস্থ লাগছে, সাহায্য দরকার",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454636"
+    },
+    {
+      "english": "Slowly breathe, it’s going to pass",
+      "bengali": "ধীরে শ্বাস নাও, এটা কমবে",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454641"
+    },
+    {
+      "english": "Where does it hurt, show me",
+      "bengali": "কোথায় ব্যথা, আমাকে দেখাও",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454647"
+    },
+    {
+      "english": "Call a doctor, please, right now",
+      "bengali": "একজন ডাক্তার ডাকো, প্লিজ, এখনই",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454650"
+    },
+    {
+      "english": "Don’t panic, stay with me",
+      "bengali": "ঘাবড়িও না, আমার পাশে থাকো",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454654"
+    },
+    {
+      "english": "Are you dizzy, sit down please",
+      "bengali": "মাথা ঘুরছে?, বসো প্লিজ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454657"
+    },
+    {
+      "english": "Do you have medicine, right now?",
+      "bengali": "তোমার ওষুধ আছে, এখনই?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454662"
+    },
+    {
+      "english": "Drink water slowly, don’t gulp",
+      "bengali": "ধীরে ধীরে পানি খাও, তাড়াহুড়ো না",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454667"
+    },
+    {
+      "english": "Your fever seems high, get checked",
+      "bengali": "তোমার জ্বর বেশি মনে হচ্ছে, দেখাও",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454670"
+    },
+    {
+      "english": "Let me see your throat, please",
+      "bengali": "তোমার গলা দেখাই, প্লিজ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454672"
+    },
+    {
+      "english": "It might be allergy, be careful",
+      "bengali": "এটা অ্যালার্জি হতে পারে, সাবধানে থাকো",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454675"
+    },
+    {
+      "english": "Wash it now, with clean water",
+      "bengali": "এখনই ধুয়ে নাও, পরিষ্কার পানি দিয়ে",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454678"
+    },
+    {
+      "english": "Is it bleeding, cover it quickly",
+      "bengali": "রক্ত পড়ছে?, দ্রুত ঢেকে দাও",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454680"
+    },
+    {
+      "english": "Keep pressure, don’t let it spread",
+      "bengali": "চাপ দাও, যাতে ছড়ায় না",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454683"
+    },
+    {
+      "english": "Do you have an injury, where exactly?",
+      "bengali": "কোনো আঘাত লাগছে?, ঠিক কোথায়?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454686"
+    },
+    {
+      "english": "I’ll call an ambulance, stay calm",
+      "bengali": "আমি অ্যাম্বুলেন্স ডাকছি, শান্ত থাকো",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454689"
+    },
+    {
+      "english": "Can you speak clearly, yes or no?",
+      "bengali": "তুমি পরিষ্কার করে বলতে পারো, হ্যাঁ বা না?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454692"
+    },
+    {
+      "english": "Open the window, let fresh air in",
+      "bengali": "জানালা খুলে দাও, তাজা বাতাস ঢুকতে দাও",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454695"
+    },
+    {
+      "english": "Warm compress, it will help a bit",
+      "bengali": "গরম সেঁক দাও, একটু উপকার হবে",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454697"
+    },
+    {
+      "english": "Cold water first, don’t rub it hard",
+      "bengali": "প্রথমে ঠান্ডা পানি দাও, জোরে ঘষো না",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454702"
+    },
+    {
+      "english": "Tell me your symptoms, quickly",
+      "bengali": "তোমার লক্ষণ বলো, তাড়াতাড়ি",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454705"
+    },
+    {
+      "english": "Have you eaten today, what did you eat?",
+      "bengali": "আজ খেয়েছো?, কী খেয়েছো বলো",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454708"
+    },
+    {
+      "english": "It’s getting worse, we must act",
+      "bengali": "খারাপের দিকে যাচ্ছে, আমাদের কাজ করতে হবে",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454711"
+    },
+    {
+      "english": "Rest now, don’t force yourself",
+      "bengali": "এখন বিশ্রাম নাও, নিজেকে চাপ দিও না",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454714"
+    },
+    {
+      "english": "Do you feel better after water?",
+      "bengali": "পানি খাওয়ার পর কি ভালো লাগছে?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454717"
+    },
+    {
+      "english": "I’m taking you to the clinic, come",
+      "bengali": "আমি তোমাকে ক্লিনিকে নিয়ে যাচ্ছি, চলো",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454720"
+    },
+    {
+      "english": "Don’t drive, you look too weak",
+      "bengali": "গাড়ি চালিও না, তুমি খুব দুর্বল দেখাচ্ছে",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454723"
+    },
+    {
+      "english": "Your breathing is fast, slow down",
+      "bengali": "তোমার শ্বাস দ্রুত, ধীরে করো",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454725"
+    },
+    {
+      "english": "Are you allergic, what caused it?",
+      "bengali": "তোমার অ্যালার্জি আছে?, কী কারণে হলো?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454728"
+    },
+    {
+      "english": "Can I help you, what happened?",
+      "bengali": "আমি কি সাহায্য করব, কী হয়েছে?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454731"
+    },
+    {
+      "english": "What medicine did you take before?",
+      "bengali": "আগে আপনি কোন ওষুধ খেয়েছেন?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454733"
+    },
+    {
+      "english": "Do you have any allergies, anything?",
+      "bengali": "আপনার কোনো অ্যালার্জি আছে, কিছু?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454736"
+    },
+    {
+      "english": "Where exactly is the pain, right now?",
+      "bengali": "এখন ঠিক কোথায় ব্যথা হচ্ছে?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454739"
+    },
+    {
+      "english": "How long has this been happening?",
+      "bengali": "এটা কতক্ষণ ধরে হচ্ছে?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454741"
+    },
+    {
+      "english": "Are you feeling weak, or just tired?",
+      "bengali": "আপনি কি দুর্বল লাগছে, নাকি শুধু ক্লান্ত?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454744"
+    },
+    {
+      "english": "Do you have chest discomfort, yes or no?",
+      "bengali": "আপনার কি বুকে অস্বস্তি, হ্যাঁ বা না?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454746"
+    },
+    {
+      "english": "Can you tell me your age, please?",
+      "bengali": "আপনার বয়স কত, বলবেন দয়া করে?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454751"
+    },
+    {
+      "english": "Did this start after eating, anything?",
+      "bengali": "খাওয়ার পর কি এটা শুরু হয়েছে?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454755"
+    },
+    {
+      "english": "Have you vomited, or felt nauseous?",
+      "bengali": "বমি হয়েছে, নাকি বমি বমি লাগছে?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454758"
+    },
+    {
+      "english": "Is the pain sharp, or more like pressure?",
+      "bengali": "ব্যথাটা কি তীক্ষ্ণ, নাকি চাপের মতো?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454761"
+    },
+    {
+      "english": "What is your current temperature, if you know?",
+      "bengali": "আপনার বর্তমান তাপমাত্রা কত, জানেন?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454764"
+    },
+    {
+      "english": "Do you feel short of breath, right now?",
+      "bengali": "এখন কি শ্বাস নিতে কষ্ট হচ্ছে?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454767"
+    },
+    {
+      "english": "Do you have a doctor you usually see?",
+      "bengali": "আপনি সাধারণত কোন ডাক্তার দেখান?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454769"
+    },
+    {
+      "english": "Should I bring a first aid kit?",
+      "bengali": "আমি কি ফার্স্ট এইড বক্স আনব?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454772"
+    },
+    {
+      "english": "Where do you keep your medicines at home?",
+      "bengali": "বাড়িতে আপনার ওষুধগুলো কোথায় থাকে?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454774"
+    },
+    {
+      "english": "Can you describe the symptoms in short?",
+      "bengali": "আপনি লক্ষণগুলো সংক্ষেপে বলবেন?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454777"
+    },
+    {
+      "english": "When did it start, before or after sleep?",
+      "bengali": "কখন শুরু হয়েছে, ঘুমের আগে নাকি পরে?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454780"
+    },
+    {
+      "english": "Do you have any swelling, anywhere?",
+      "bengali": "কোথাও ফুলে গেছে কি?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454784"
+    },
+    {
+      "english": "Can I check your bandage, just briefly?",
+      "bengali": "আমি কি ব্যান্ডেজটা একটু দেখব?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454787"
+    },
+    {
+      "english": "Do you feel better when you sit up?",
+      "bengali": "আপনি বসলে কি ভালো লাগে?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454789"
+    },
+    {
+      "english": "Have you taken pain relief already today?",
+      "bengali": "আজ কি ব্যথার ওষুধ খেয়েছেন?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454793"
+    },
+    {
+      "english": "What did you do right before this happened?",
+      "bengali": "এটা হওয়ার আগে আপনি কী করেছিলেন?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454796"
+    },
+    {
+      "english": "Do you have diabetes, asthma, or anything chronic?",
+      "bengali": "ডায়াবেটিস, হাঁপানি, বা অন্য কোনো রোগ আছে?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454799"
+    },
+    {
+      "english": "Can I get your emergency contact number?",
+      "bengali": "আমি কি আপনার জরুরি কন্টাক্ট নম্বর নেব?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454801"
+    },
+    {
+      "english": "Should we go to the clinic nearby?",
+      "bengali": "কাছের ক্লিনিকে যাব কি?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454804"
+    },
+    {
+      "english": "Is this your first time feeling like this?",
+      "bengali": "এভাবে প্রথমবার হচ্ছে কি?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454806"
+    },
+    {
+      "english": "Tell me, did you hit your head?",
+      "bengali": "বলুন তো, মাথায় আঘাত লেগেছে?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454809"
+    },
+    {
+      "english": "Do you have a history of heart problems?",
+      "bengali": "হৃদরোগের কোনো ইতিহাস আছে?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454812"
+    },
+    {
+      "english": "What can I do right now, for you?",
+      "bengali": "এখনই আপনার জন্য আমি কী করতে পারি?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454814"
+    },
+    {
+      "english": "Stay calm, everything will pass, okay?",
+      "bengali": "শান্ত থাকো, সব ঠিক হয়ে যাবে, ঠিক আছে?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454817"
+    },
+    {
+      "english": "Quick check, your lips look a bit pale.",
+      "bengali": "একটু দেখো, ঠোঁটগুলো একটু ফ্যাকাশে লাগছে।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454820"
+    },
+    {
+      "english": "Keep warm, don’t get chilled, please.",
+      "bengali": "গরম রাখো, ঠান্ডা লাগতে দিও না, প্লিজ।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454823"
+    },
+    {
+      "english": "Drink small sips, don’t gulp fast.",
+      "bengali": "অল্প অল্প করে খাও, দ্রুত গিলে ফেলো না।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454826"
+    },
+    {
+      "english": "Take slow breaths, steady now, okay?",
+      "bengali": "ধীরে শ্বাস নাও, স্থির হও, ঠিক আছে?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454829"
+    },
+    {
+      "english": "If it burns, stop, rinse with water first.",
+      "bengali": "জ্বালা করলে থামো, আগে পানি দিয়ে ধুয়ে নাও।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454832"
+    },
+    {
+      "english": "Don’t ignore it, take it seriously.",
+      "bengali": "এটা অবহেলা করো না, গুরুত্ব দিয়ে নাও।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454835"
+    },
+    {
+      "english": "Better safe than sorry, let’s check.",
+      "bengali": "সতর্ক থাকাই ভালো, চল চেক করি।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454839"
+    },
+    {
+      "english": "No panic, just get help, quickly.",
+      "bengali": "ভয় পেও না, শুধু সাহায্য নাও, দ্রুত।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454842"
+    },
+    {
+      "english": "Hold still, the pain needs time to ease.",
+      "bengali": "একটু স্থির থাকো, ব্যথা কমতে সময় লাগে।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454844"
+    },
+    {
+      "english": "Tell me, are you dizzy, not just tired?",
+      "bengali": "বল তো, মাথা ঘুরছে, শুধু ক্লান্ত না তো?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454847"
+    },
+    {
+      "english": "It’s better to be checked, not guessed.",
+      "bengali": "ধরে নাও নয়, আগে চেক করাই ভালো।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454851"
+    },
+    {
+      "english": "If you can’t talk well, call now.",
+      "bengali": "ভালো করে কথা বলতে পারছ না, এখনই কল করো।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454854"
+    },
+    {
+      "english": "Sit up slowly, don’t lie flat.",
+      "bengali": "ধীরে ধীরে বসো, একদম শুইও না।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454857"
+    },
+    {
+      "english": "Keep an eye on fever, watch closely.",
+      "bengali": "জ্বরের দিকে নজর রাখো, ভালো করে দেখো।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454859"
+    },
+    {
+      "english": "For now, rest, and breathe easy.",
+      "bengali": "এখন বিশ্রাম নাও, আর স্বস্তিতে শ্বাস নাও।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454862"
+    },
+    {
+      "english": "You’re not alone, I’m right here.",
+      "bengali": "তুমি একা নও, আমি এখানেই আছি।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454865"
+    },
+    {
+      "english": "Don’t self-medicate, wait for advice.",
+      "bengali": "নিজে থেকে ওষুধ খেও না, পরামর্শ নাও আগে।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454869"
+    },
+    {
+      "english": "If swelling shows up, that’s a warning.",
+      "bengali": "ফোলা উঠলে, সেটাই সতর্কতার সিগন্যাল।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454872"
+    },
+    {
+      "english": "Fresh air helps, loosen your collar.",
+      "bengali": "তাজা বাতাস কাজে দেয়, কলারটা ঢিলা করো।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454877"
+    },
+    {
+      "english": "Hold your head up, don’t strain.",
+      "bengali": "মাথা উঁচু রাখো, জোর করো না।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454880"
+    },
+    {
+      "english": "Warm compress helps, don’t burn the skin.",
+      "bengali": "গরম সেঁক দাও, ত্বক যেন পুড়ে না যায়।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454884"
+    },
+    {
+      "english": "Cold is okay, but don’t overdo it.",
+      "bengali": "ঠান্ডা ঠিক আছে, কিন্তু বেশি কোরো না।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454887"
+    },
+    {
+      "english": "Slow down, you’re moving too fast.",
+      "bengali": "ধীরে চলো, তুমি অত দ্রুত করছ।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454891"
+    },
+    {
+      "english": "Let’s not wait, better act early.",
+      "bengali": "দেরি না করি, আগে উদ্যোগ নেওয়াই ভালো।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454894"
+    },
+    {
+      "english": "When in doubt, go to a doctor.",
+      "bengali": "সন্দেহ হলে, ডাক্তারের কাছে যাও।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454897"
+    },
+    {
+      "english": "You look pale, drink a little water.",
+      "bengali": "ফ্যাকাশে লাগছে, একটু পানি খাও।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454900"
+    },
+    {
+      "english": "No rushing, we’ll take the safest path.",
+      "bengali": "হুটহাট না, আমরা সবচেয়ে নিরাপদ পথ নেব।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454903"
+    },
+    {
+      "english": "Keep it covered, don’t let chills hit.",
+      "bengali": "ঢেকে রাখো, ঠান্ডা যেন না লাগে।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454907"
+    },
+    {
+      "english": "That “headache” needs attention, okay?",
+      "bengali": "ওই মাথাব্যথা, সিরিয়াসলি দেখাতে হবে, ঠিক?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454910"
+    },
+    {
+      "english": "If it’s sudden, treat it like an emergency.",
+      "bengali": "হঠাৎ হলে, ইমার্জেন্সি ধরে নাও।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454914"
+    },
+    {
+      "english": "I’ve got you, we’ll handle this together.",
+      "bengali": "আমি আছি, আমরা একসাথে সামলাব।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454917"
+    },
+    {
+      "english": "Tell me how you feel right now, honestly.",
+      "bengali": "এখন তুমি কেমন বোধ করছো, সত্যি বলো।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454920"
+    },
+    {
+      "english": "I’m listening, take your time, no rush.",
+      "bengali": "আমি শুনছি, সময় নাও, তাড়াহুড়া নয়।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454923"
+    },
+    {
+      "english": "It’s scary, but we’ll get through this.",
+      "bengali": "ভয় লাগছে, তবু আমরা পার হব।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454926"
+    },
+    {
+      "english": "You don’t have to be brave all at once.",
+      "bengali": "একদম এখনই তোমাকে সব সাহস দেখাতে হবে না।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454931"
+    },
+    {
+      "english": "What scares you most, let me know.",
+      "bengali": "তোমার সবচেয়ে বেশি ভয় কোনটা, বলো।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454934"
+    },
+    {
+      "english": "Feelings are real, and this matters.",
+      "bengali": "তোমার অনুভূতি সত্যি, আর এটা গুরুত্বপূর্ণ।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454938"
+    },
+    {
+      "english": "Let’s slow down, your breathing first.",
+      "bengali": "চলো ধীরে করি, আগে শ্বাস নাও।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454942"
+    },
+    {
+      "english": "I know it hurts, but stay with me.",
+      "bengali": "আমি জানি ব্যথা হচ্ছে, তবু আমার সঙ্গে থাকো।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454945"
+    },
+    {
+      "english": "Just tell me the moment it started.",
+      "bengali": "শুধু বলো, ঠিক কবে থেকে শুরু হলো।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454947"
+    },
+    {
+      "english": "We’ll handle it step by step, okay?",
+      "bengali": "আমরা ধাপে ধাপে সামলাব, ঠিক আছে?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454963"
+    },
+    {
+      "english": "Even small changes, tell me immediately.",
+      "bengali": "ছোট পরিবর্তনও হলে, এখনই বলো।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454967"
+    },
+    {
+      "english": "Your comfort comes first, nothing else matters.",
+      "bengali": "তোমার আরাম আগে, আর কিছু না।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454970"
+    },
+    {
+      "english": "Don’t blame yourself, this can happen.",
+      "bengali": "নিজেকে দোষ দিও না, এটা হতে পারে।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454973"
+    },
+    {
+      "english": "We need patience, even if you’re anxious.",
+      "bengali": "ধৈর্য দরকার, তুমি যতই উদ্বিগ্ন হও।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454977"
+    },
+    {
+      "english": "I’m here with you, one minute at a time.",
+      "bengali": "আমি তোমার পাশে আছি, এক মিনিট করে।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454980"
+    },
+    {
+      "english": "How’s your mind, are you focusing okay?",
+      "bengali": "তোমার মাথা কেমন, মনটা ঠিক আছে?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454983"
+    },
+    {
+      "english": "Tell me what you can feel, right now.",
+      "bengali": "এখন তুমি যা অনুভব করছো, বলো।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454986"
+    },
+    {
+      "english": "If you feel worse, speak up right away.",
+      "bengali": "আর খারাপ লাগলে, এখনই বলো।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454988"
+    },
+    {
+      "english": "Let’s keep it simple, one question at once.",
+      "bengali": "চলো সহজ করি, একবারে একটা প্রশ্ন।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454994"
+    },
+    {
+      "english": "It’s okay to be overwhelmed, breathe gently.",
+      "bengali": "অস্থির লাগলেও ঠিক আছে, আস্তে শ্বাস নাও।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.454997"
+    },
+    {
+      "english": "Trust your body signals, don’t ignore them.",
+      "bengali": "শরীরের সংকেত বিশ্বাস করো, উপেক্ষা কোরো না।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.455001"
+    },
+    {
+      "english": "Say it clearly, even if it’s hard.",
+      "bengali": "পরিষ্কার করে বলো, যতই কঠিন হোক।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.455004"
+    },
+    {
+      "english": "I hear you, your worry makes sense.",
+      "bengali": "শুনছি, তোমার দুশ্চিন্তা বোঝা যায়।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.455007"
+    },
+    {
+      "english": "We’ll check calmly, without rushing anything.",
+      "bengali": "আমরা শান্তভাবে যাচাই করব, কিছুতেই তাড়াহুড়া নয়।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.455013"
+    },
+    {
+      "english": "Take a moment, then tell me your symptoms.",
+      "bengali": "একটু সময় নাও, তারপর তোমার লক্ষণ বলো।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.455015"
+    },
+    {
+      "english": "If pain moves, tell me where it goes.",
+      "bengali": "ব্যথা এক জায়গা থেকে অন্য জায়গায় গেলে, বলো।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.455018"
+    },
+    {
+      "english": "You’re not overreacting, keep describing it.",
+      "bengali": "তুমি অতিরিক্ত ভাবছো না, আরও বলো।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.455021"
+    },
+    {
+      "english": "Let’s reflect for a second, then act.",
+      "bengali": "একটু ভাবি, তারপর কাজ করি।",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T10:29:46.455024"
     }
   ],
-  "last_updated": "2026-11-02T10:34:48.062833"
+  "last_updated": "2026-11-03T10:29:46.455026"
 }
