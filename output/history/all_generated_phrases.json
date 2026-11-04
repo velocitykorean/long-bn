@@ -12239,7 +12239,727 @@
       "bengali": "একটু ভাবি, তারপর কাজ করি।",
       "category": "Emergency & Health",
       "generated_at": "2026-11-03T10:29:46.455024"
+    },
+    {
+      "english": "Breathe once, notice how you feel now",
+      "bengali": "একবার শ্বাস নাও, এখন কেমন লাগছে খেয়াল করো",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007793"
+    },
+    {
+      "english": "Pause, take it slow, you’ve got this",
+      "bengali": "থামো, একটু ধীরে চলো, তুমি পারবে",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007808"
+    },
+    {
+      "english": "Let it pass, don’t chase that thought",
+      "bengali": "যেতে দাও, ওই চিন্তাটা ধরো না",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007812"
+    },
+    {
+      "english": "Look around, feel the room in you",
+      "bengali": "চারদিকে তাকাও, ঘরটাকে নিজের ভেতরে অনুভব করো",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007815"
+    },
+    {
+      "english": "Should I rush, or just breathe first?",
+      "bengali": "দৌড়াবো, নাকি আগে শ্বাস নেবো?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007818"
+    },
+    {
+      "english": "Say, I’m here, right now, steady",
+      "bengali": "বল, আমি এখানেই আছি, এই মুহূর্তে, স্থির",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007822"
+    },
+    {
+      "english": "It’s okay, breathe, then decide calmly",
+      "bengali": "সমস্যা নেই, শ্বাস নাও, তারপর শান্তভাবে সিদ্ধান্ত নাও",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007826"
+    },
+    {
+      "english": "Hands relax, shoulders drop, keep breathing",
+      "bengali": "হাত ঢিলে করো, কাঁধ নামাও, শ্বাস চালাও",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007832"
+    },
+    {
+      "english": "Listen inward, the answer is coming",
+      "bengali": "ভেতরে শুনো, উত্তর আসছে",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007835"
+    },
+    {
+      "english": "When worry hits, soften your grip",
+      "bengali": "চিন্তা এলে, হাতের টানটা আলগা করো",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007838"
+    },
+    {
+      "english": "Take one sip, slow down your mind",
+      "bengali": "এক চুমুক নাও, মনটা একটু ধীরে করো",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007841"
+    },
+    {
+      "english": "Clear your head, just focus on one thing",
+      "bengali": "মাথা পরিষ্কার করো, শুধু একটা জিনিসে ফোকাস করো",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007843"
+    },
+    {
+      "english": "I notice the feeling, I don’t fight it",
+      "bengali": "আমি অনুভবটা লক্ষ করি, লড়ি না",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007847"
+    },
+    {
+      "english": "Let your breath lead, you follow quietly",
+      "bengali": "তোমার শ্বাসকে আগে দাও, তুমি চুপচাপ অনুসরণ করো",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007849"
+    },
+    {
+      "english": "Right now, I choose calm over speed",
+      "bengali": "এখনই, আমি দ্রুততার বদলে শান্তি বেছে নিই",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007854"
+    },
+    {
+      "english": "Before you reply, breathe and choose words",
+      "bengali": "উত্তর দেওয়ার আগে, শ্বাস নাও, তারপর কথা বেছে নাও",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007857"
+    },
+    {
+      "english": "That’s enough, let it go gently",
+      "bengali": "আর যথেষ্ট, আস্তে আস্তে ছেড়ে দাও",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007860"
+    },
+    {
+      "english": "How do I feel, be honest with me",
+      "bengali": "আমার কেমন লাগছে, সত্যটা বলো",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007863"
+    },
+    {
+      "english": "Slow thoughts, fast action—only if needed",
+      "bengali": "ধীরে ভাবো, দরকার হলে তবেই কাজ করো",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007870"
+    },
+    {
+      "english": "Warm breath in, soft breath out",
+      "bengali": "ভেতরে উষ্ণ শ্বাস, বাইরে নরম শ্বাস",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007873"
+    },
+    {
+      "english": "I’m safe, so my body can relax",
+      "bengali": "আমি নিরাপদ, তাই শরীরও শান্ত হবে",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007876"
+    },
+    {
+      "english": "Name it, then release it from your chest",
+      "bengali": "এটার নাম দাও, তারপর বুক থেকে ছেড়ে দাও",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007878"
+    },
+    {
+      "english": "Don’t spiral, come back to the breath",
+      "bengali": "জট পাকিও না, শ্বাসে ফিরে আসো",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007882"
+    },
+    {
+      "english": "Before stress grows, notice it early",
+      "bengali": "চাপ বাড়ার আগেই টের পাও",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007884"
+    },
+    {
+      "english": "Let the moment teach you, quietly",
+      "bengali": "মুহূর্তটা তোমাকে শেখাক, চুপচাপ",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007887"
+    },
+    {
+      "english": "I can handle this, one breath at once",
+      "bengali": "আমি পারব, এক শ্বাসে একবার",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007891"
+    },
+    {
+      "english": "Stay grounded, feet feel the floor",
+      "bengali": "মাটিতে ভর দাও, পা মেঝেকে অনুভব করো",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007893"
+    },
+    {
+      "english": "If it’s too much, pause and reset",
+      "bengali": "অনেক হয়ে গেলে থামো, আবার শুরু করো",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007896"
+    },
+    {
+      "english": "Thanks, mind, I’ll rest now",
+      "bengali": "ধন্যবাদ, মন, এখন আমি বিশ্রাম নেব",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007900"
+    },
+    {
+      "english": "What’s bothering you most, right now, today?",
+      "bengali": "আজকে এখন তোমাকে সবচেয়ে বেশি কী চিন্তায় রাখছে?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007904"
+    },
+    {
+      "english": "Can I ask, how’s your mind feeling?",
+      "bengali": "আমি কি জিজ্ঞেস করতে পারি, তোমার মন কেমন লাগছে?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007907"
+    },
+    {
+      "english": "May I check in, are you okay?",
+      "bengali": "আমি একটু খোঁজ নেব, তুমি ঠিক আছো তো?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007910"
+    },
+    {
+      "english": "Where do you feel tension, in your body?",
+      "bengali": "তোমার শরীরের কোন জায়গায় টানটান লাগে?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007913"
+    },
+    {
+      "english": "Do you want advice, or just listening?",
+      "bengali": "তুমি পরামর্শ চাও, নাকি শুধু শুনতে চাও?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007916"
+    },
+    {
+      "english": "What would calm look like, for you?",
+      "bengali": "তোমার কাছে শান্তি মানে কেমন লাগবে?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007918"
+    },
+    {
+      "english": "How can we slow down, together, now?",
+      "bengali": "এখন আমরা একসাথে কীভাবে ধীরে যাব?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007921"
+    },
+    {
+      "english": "When thoughts race, what helps you most?",
+      "bengali": "তোমার মাথায় দৌড়ালে, কী সবচেয়ে বেশি কাজে দেয়?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007924"
+    },
+    {
+      "english": "Should we pause here, and reflect briefly?",
+      "bengali": "এখানে একটু থেমে ভাবব, একটু কি?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007927"
+    },
+    {
+      "english": "What’s one small thing you can do?",
+      "bengali": "তুমি একটি ছোট কাজ কী করতে পারো?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007930"
+    },
+    {
+      "english": "Would you like to talk about that feeling?",
+      "bengali": "এই অনুভূতিটা নিয়ে তুমি কথা বলতে চাও?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007932"
+    },
+    {
+      "english": "Are you noticing anything new, inside?",
+      "bengali": "ভেতরে কি কিছু নতুন লক্ষ্য করছো?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007935"
+    },
+    {
+      "english": "What’s the question your heart asks?",
+      "bengali": "তোমার মন যে প্রশ্নটা খোঁজে, সেটা কী?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007938"
+    },
+    {
+      "english": "How do you usually handle stress, gently?",
+      "bengali": "তুমি সাধারণত স্ট্রেসটা কীভাবে নরমভাবে সামলাও?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007940"
+    },
+    {
+      "english": "Want to trade worries for one clear step?",
+      "bengali": "চাইলে চিন্তা বদলে একটিমাত্র পরিষ্কার পদক্ষেপ নাও?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007943"
+    },
+    {
+      "english": "What’s your next kind action, today?",
+      "bengali": "আজকে তোমার পরের দয়ালু কাজটা কী?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007946"
+    },
+    {
+      "english": "Do you feel ready, to slow your breathing?",
+      "bengali": "তুমি কি প্রস্তুত, শ্বাসটা একটু ধীরে নিতে?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007948"
+    },
+    {
+      "english": "Where can you soften, just a little?",
+      "bengali": "কোথায় তুমি একটু নরম হতে পারো?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007951"
+    },
+    {
+      "english": "How’s your attention doing, right this moment?",
+      "bengali": "এই মুহূর্তে তোমার মনোযোগ কেমন আছে?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007954"
+    },
+    {
+      "english": "Can I sit with you, while you feel?",
+      "bengali": "তুমি যে অনুভব করছো, আমি কি তোমার সাথে থাকি?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007958"
+    },
+    {
+      "english": "What’s the story your mind is telling?",
+      "bengali": "তোমার মন কী গল্প বানাচ্ছে?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007963"
+    },
+    {
+      "english": "What do you need, not what you fear?",
+      "bengali": "ভয়ের বদলে তোমার দরকারটা কী?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007965"
+    },
+    {
+      "english": "Should we ask, what’s causing this tightness?",
+      "bengali": "আমরা কি জিজ্ঞেস করব, এই টানটানির কারণ কী?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007969"
+    },
+    {
+      "english": "How can we make space for your thoughts?",
+      "bengali": "তোমার ভাবনার জন্য আমরা কীভাবে জায়গা বানাব?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007971"
+    },
+    {
+      "english": "Do you want to name it, then continue?",
+      "bengali": "তুমি কি নাম দিয়ে, এরপর এগোতে চাও?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007974"
+    },
+    {
+      "english": "What’s one boundary that protects your peace?",
+      "bengali": "শান্তি রক্ষা করে এমন একটা সীমা কী?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007977"
+    },
+    {
+      "english": "Can we check the facts, before feeling?",
+      "bengali": "অনুভবের আগে আমরা কি সত্যিটা দেখব?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007979"
+    },
+    {
+      "english": "If your mind had a message, what is it?",
+      "bengali": "তোমার মন যদি একটা বার্তা দেয়, সেটা কী হবে?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007982"
+    },
+    {
+      "english": "How can I support you, in this moment?",
+      "bengali": "এই মুহূর্তে আমি তোমাকে কীভাবে সাহায্য করতে পারি?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007985"
+    },
+    {
+      "english": "Ready to answer, what calm means to you?",
+      "bengali": "তুমি কি বলতে প্রস্তুত, তোমার কাছে শান্তি মানে কী?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007987"
+    },
+    {
+      "english": "You’re doing great, keep it gentle, okay?",
+      "bengali": "তুমি দারুণ করছো, আস্তে আস্তে চালিয়ে যাও, ঠিক আছে?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007991"
+    },
+    {
+      "english": "Let your mind be kind, right now.",
+      "bengali": "এখনই তোমার মনটা একটু মমতাময় হোক।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007994"
+    },
+    {
+      "english": "Choose calm, even if just for a minute.",
+      "bengali": "শুধু এক মিনিট হলেও শান্তিটা বেছে নাও।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.007997"
+    },
+    {
+      "english": "Soft thoughts, stronger you, that’s the vibe.",
+      "bengali": "নরম ভাবনা, আরও শক্ত তুমি, এটাই ভাইব।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008000"
+    },
+    {
+      "english": "Small wins count, celebrate your attention today.",
+      "bengali": "ছোট জয়ও বড়, আজ মনোযোগকে উদযাপন করো।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008003"
+    },
+    {
+      "english": "You’re not behind, your pace is valid.",
+      "bengali": "তুমি পিছিয়ে নেই, তোমার গতি ঠিক আছে।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008007"
+    },
+    {
+      "english": "Breathe out tension, breathe in hope, quietly.",
+      "bengali": "চাপ ছাড়ো, আশা ধরো, ধীরে ধীরে।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008012"
+    },
+    {
+      "english": "I’m proud of you, keep showing up.",
+      "bengali": "আমি তোমার জন্য গর্বিত, দেখা দিচ্ছো তো ভালো করছো।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008015"
+    },
+    {
+      "english": "Notice, don’t judge, and keep moving forward.",
+      "bengali": "দেখো, বিচার কোরো না, এগিয়ে চলো।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008019"
+    },
+    {
+      "english": "Your feelings are signals, not your enemy.",
+      "bengali": "তোমার অনুভূতি সংকেত, শত্রু নয়।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008021"
+    },
+    {
+      "english": "Give yourself credit, you’re learning in real time.",
+      "bengali": "নিজেকে কৃতিত্ব দাও, তুমি বাস্তব সময়েই শিখছো।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008025"
+    },
+    {
+      "english": "Today, be the friend your mind needs.",
+      "bengali": "আজ, তোমার মন যাকে চায় সেই বন্ধুই হও।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008028"
+    },
+    {
+      "english": "Say “I’ve got this,” softly, to yourself.",
+      "bengali": "নিজেকে আস্তে বলো, “আমি পারছি।”",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008032"
+    },
+    {
+      "english": "You can reset, no big drama, just breathe.",
+      "bengali": "তুমি আবার শুরু করতে পারো, বেশি নাটক না, শুধু শ্বাস নাও।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008040"
+    },
+    {
+      "english": "Stay curious, what’s underneath this moment?",
+      "bengali": "কৌতূহলী থাকো, এই মুহূর্তের ভিতরটা কী?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008044"
+    },
+    {
+      "english": "It’s okay to pause, you’re still progressing.",
+      "bengali": "থামলেও ঠিক আছে, তবু তুমি এগোচ্ছো।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008047"
+    },
+    {
+      "english": "Let gratitude soften the edges of your day.",
+      "bengali": "কৃতজ্ঞতা দাও, তোমার দিনের ধারগুলো নরম হবে।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008050"
+    },
+    {
+      "english": "You’re allowed to feel, and still be okay.",
+      "bengali": "তোমার অনুভব করার অনুমতি আছে, তবু ঠিকই থাকবে।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008053"
+    },
+    {
+      "english": "Keep your focus, one thought at a time.",
+      "bengali": "মনটা ধরে রাখো, একবারে একটা ভাবনা।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008056"
+    },
+    {
+      "english": "Your strength is your attention, not perfection.",
+      "bengali": "তোমার শক্তি হচ্ছে তোমার মনোযোগ, পরিপূর্ণতা নয়।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008059"
+    },
+    {
+      "english": "Be gentle with yourself, you deserve that.",
+      "bengali": "নিজের সঙ্গে নম্র হও, তুমি সেটার যোগ্য।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008062"
+    },
+    {
+      "english": "Today’s goal, show up, breathe, and smile.",
+      "bengali": "আজকের লক্ষ্য, হাজির হও, শ্বাস নাও, হাসো।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008069"
+    },
+    {
+      "english": "Trust the slow moments, they heal quietly.",
+      "bengali": "ধীরে চলা সময়গুলোর ওপর ভরসা করো, ওগুলো ঠিক করে দেয়।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008072"
+    },
+    {
+      "english": "When you slip, return with kindness, always.",
+      "bengali": "হোঁচট লাগলে, দয়ায় ফিরে আসো, সবসময়।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008075"
+    },
+    {
+      "english": "You’re building resilience, keep going, I’m proud.",
+      "bengali": "তুমি রেজিলিয়েন্স তৈরি করছো, চালিয়ে যাও, আমি গর্বিত।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008078"
+    },
+    {
+      "english": "Let this be your safe space, inside.",
+      "bengali": "এটা হোক তোমার ভেতরের সেফ স্পেস।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008081"
+    },
+    {
+      "english": "Affirm it, I choose peace over pressure.",
+      "bengali": "বলেই নাও, আমি চাপের বদলে শান্তি বেছে নিই।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008084"
+    },
+    {
+      "english": "You don’t have to win, just be present.",
+      "bengali": "জিততেই হবে না, শুধু উপস্থিত থাকো।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008087"
+    },
+    {
+      "english": "Keep praising yourself, the mind learns from that.",
+      "bengali": "নিজেকে প্রশংসা করো, মন সেটা শিখে নেয়।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008090"
+    },
+    {
+      "english": "One kind thought can change your whole day.",
+      "bengali": "একটা ভালো ভাবনা পুরো দিন বদলে দিতে পারে।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008093"
+    },
+    {
+      "english": "Right now, I’m listening, not fixing.",
+      "bengali": "এখনই, আমি শুনছি, ঠিক করছি না।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008096"
+    },
+    {
+      "english": "My feelings can be true, and temporary.",
+      "bengali": "আমার অনুভূতি সত্য হতে পারে, আবার সাময়িকও।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008099"
+    },
+    {
+      "english": "Slow down, my heart needs time.",
+      "bengali": "ধীরে চল, আমার হৃদয়ের সময় দরকার।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008101"
+    },
+    {
+      "english": "I can be honest, without spilling everything.",
+      "bengali": "আমি সৎ হতে পারি, সবকিছু ঢেলে না।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008104"
+    },
+    {
+      "english": "No rush, I’m allowed to soften first.",
+      "bengali": "কোনো তাড়াহুড়া নেই, আগে আমি নরম হতে পারি।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008108"
+    },
+    {
+      "english": "I notice the mood, then breathe again.",
+      "bengali": "আমি মুডটা খেয়াল করি, তারপর আবার শ্বাস নেই।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008111"
+    },
+    {
+      "english": "Some thoughts are loud, not important.",
+      "bengali": "কিছু চিন্তা বড় করে শোনায়, কিন্তু জরুরি নয়।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008113"
+    },
+    {
+      "english": "I don’t need answers, just steadiness.",
+      "bengali": "আমার উত্তর দরকার নেই, শুধু স্থিরতা দরকার।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008116"
+    },
+    {
+      "english": "Let it pass, like weather moving on.",
+      "bengali": "এটা পেরিয়ে যেতে দাও, আবহাওয়া যেমন বদলায়।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008119"
+    },
+    {
+      "english": "I can admit it, I feel off today.",
+      "bengali": "আমি স্বীকার করতে পারি, আজ মনটা খারাপ লাগছে।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008121"
+    },
+    {
+      "english": "Tears are okay, I’m still safe here.",
+      "bengali": "কান্না ঠিক আছে, আমি এখানে নিরাপদ।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008124"
+    },
+    {
+      "english": "My pace is mine, not a race.",
+      "bengali": "আমার গতি আমার, এটা দৌড় নয়।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008127"
+    },
+    {
+      "english": "I’m practicing patience, with my own mind.",
+      "bengali": "আমি নিজের মনের সাথে ধৈর্য অনুশীলন করছি।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008130"
+    },
+    {
+      "english": "If I’m stuck, I return to breath.",
+      "bengali": "আমি আটকে গেলে, আমি শ্বাসে ফিরে আসি।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008133"
+    },
+    {
+      "english": "Be kind, even when I’m overthinking.",
+      "bengali": "আমার বেশি ভাবলেও, আমি সদয় থাকি।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008136"
+    },
+    {
+      "english": "This is just a feeling, not a verdict.",
+      "bengali": "এটা শুধু একটা অনুভূতি, রায় না।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008139"
+    },
+    {
+      "english": "I can slow my mind, one notch.",
+      "bengali": "আমি এক ধাপ কমাতে পারি, আমার মাথার গতি।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008142"
+    },
+    {
+      "english": "I’m allowed to pause, even mid-conversation.",
+      "bengali": "আমি থামতে পারি, কথা বলার মাঝেও।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008145"
+    },
+    {
+      "english": "What’s under this, I’m willing to see.",
+      "bengali": "এর নিচে কী আছে, আমি দেখতে রাজি।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008149"
+    },
+    {
+      "english": "I don’t fight my thoughts, I observe.",
+      "bengali": "আমি চিন্তার সাথে লড়াই করি না, দেখি।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008152"
+    },
+    {
+      "english": "Even silence has a lesson today.",
+      "bengali": "আজ নীরবতাও একটা শিক্ষা দেয়।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008154"
+    },
+    {
+      "english": "I can feel it, then choose my next step.",
+      "bengali": "আমি এটা অনুভব করতে পারি, তারপর পরেরটা বেছে নিই।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008157"
+    },
+    {
+      "english": "No shame, I’m learning how to be present.",
+      "bengali": "লজ্জা নেই, আমি শেখছি কীভাবে বর্তমান থাকতে হয়।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008160"
+    },
+    {
+      "english": "My mind wanders, I come back gently.",
+      "bengali": "আমার মাথা ঘোরে, আমি ধীরে ফিরে আসি।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008163"
+    },
+    {
+      "english": "I trust the process, even when it’s messy.",
+      "bengali": "এটা গণ্ডগোল হলেও আমি প্রক্রিয়াটায় ভরসা রাখি।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008168"
+    },
+    {
+      "english": "I can want space, without being cold.",
+      "bengali": "আমি একটু জায়গা চাইতে পারি, ঠান্ডা না হয়েই।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008170"
+    },
+    {
+      "english": "I’m not failing, I’m recalibrating.",
+      "bengali": "আমি ব্যর্থ হচ্ছি না, আমি ঠিকঠাক করছি।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008174"
+    },
+    {
+      "english": "Today, I’m practicing sincerity, not performance.",
+      "bengali": "আজ, আমি অভিনয় না, আন্তরিকতা অনুশীলন করছি।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008179"
+    },
+    {
+      "english": "I let the emotion move, not stick.",
+      "bengali": "আমি অনুভূতিকে চলতে দিই, আটকে রাখি না।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008184"
+    },
+    {
+      "english": "One quiet moment can change my inner weather.",
+      "bengali": "একটা শান্ত মুহূর্ত ভেতরের আবহাওয়া বদলাতে পারে।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008186"
+    },
+    {
+      "english": "Before you reply, pause, check your tone.",
+      "bengali": "উত্তর দেওয়ার আগে, থামুন, কথা বলার টোন দেখুন।",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-04T10:31:31.008189"
     }
   ],
-  "last_updated": "2026-11-03T10:29:46.455026"
+  "last_updated": "2026-11-04T10:31:31.008191"
 }
