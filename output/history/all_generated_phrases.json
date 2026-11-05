@@ -12959,7 +12959,727 @@
       "bengali": "উত্তর দেওয়ার আগে, থামুন, কথা বলার টোন দেখুন।",
       "category": "Mindfulness",
       "generated_at": "2026-11-04T10:31:31.008189"
+    },
+    {
+      "english": "Keep going, even if it’s messy",
+      "bengali": "চলতে থাকো, গন্ডগোল হলেও",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413450"
+    },
+    {
+      "english": "Don’t quit, try again right now",
+      "bengali": "ছাড় দিও না, এখনই আবার চেষ্টা করো",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413467"
+    },
+    {
+      "english": "Small steps count, don’t feel ashamed",
+      "bengali": "ছোট পদক্ষেপও গুনে, লজ্জা কোরো না",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413471"
+    },
+    {
+      "english": "Breathe, focus, you can handle this",
+      "bengali": "শ্বাস নাও, মন দাও, তুমি পারবে",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413474"
+    },
+    {
+      "english": "If it fails, learn, then restart",
+      "bengali": "যদি ব্যর্থ হও, শিখো, তারপর শুরু করো",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413477"
+    },
+    {
+      "english": "One more try, you’re not done",
+      "bengali": "আরেকবার চেষ্টা করো, এখনও শেষ না",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413481"
+    },
+    {
+      "english": "It’s okay to struggle, keep moving",
+      "bengali": "কষ্ট করা ঠিক আছে, এগিয়ে যাও",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413484"
+    },
+    {
+      "english": "You got this, just don’t slow down",
+      "bengali": "তুমি পারবে, শুধু থেমো না",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413490"
+    },
+    {
+      "english": "Even today, start, don’t wait",
+      "bengali": "আজকেও শুরু করো, অপেক্ষা কোরো না",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413494"
+    },
+    {
+      "english": "Progress is slow, that’s still progress",
+      "bengali": "উন্নতি ধীরে হয়, তাও উন্নতি",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413497"
+    },
+    {
+      "english": "When you fall, stand up again",
+      "bengali": "পড়লে উঠে দাঁড়াও আবার",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413500"
+    },
+    {
+      "english": "Forget yesterday, build today",
+      "bengali": "গতকাল ভুলে যাও, আজ গড়ো",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413503"
+    },
+    {
+      "english": "I’m trying again, don’t rush me",
+      "bengali": "আমি আবার চেষ্টা করছি, তাড়াহুড়া কোরো না",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413506"
+    },
+    {
+      "english": "Stay calm, this will pass",
+      "bengali": "শান্ত থাকো, এটা চলে যাবে",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413509"
+    },
+    {
+      "english": "Keep practicing, you’ll get it soon",
+      "bengali": "অনুশীলন চালিয়ে যাও, শিগগিরই বুঝবে",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413514"
+    },
+    {
+      "english": "No pressure, just keep showing up",
+      "bengali": "চাপ নেই, শুধু আসতে থাকো",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413517"
+    },
+    {
+      "english": "I know it’s hard, but try",
+      "bengali": "আমি জানি কঠিন, তবু চেষ্টা করো",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413520"
+    },
+    {
+      "english": "Don’t overthink, just start now",
+      "bengali": "সব ভাববে না, এখনই শুরু করো",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413523"
+    },
+    {
+      "english": "Keep your promise, even in small ways",
+      "bengali": "নিজের কথা রাখো, ছোটভাবেও",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413526"
+    },
+    {
+      "english": "I’ll do it step by step",
+      "bengali": "আমি ধাপে ধাপে করব",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413529"
+    },
+    {
+      "english": "Again, slowly, you’re learning",
+      "bengali": "আবার, আস্তে করে, তুমি শিখছো",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413532"
+    },
+    {
+      "english": "Don’t give up, there’s time",
+      "bengali": "হাল ছেড়ো না, সময় আছে",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413535"
+    },
+    {
+      "english": "Even with mistakes, keep going",
+      "bengali": "ভুল হলেও, চলতে থাকো",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413538"
+    },
+    {
+      "english": "I’ll keep trying, please be patient",
+      "bengali": "আমি চেষ্টা চালিয়ে যাব, দয়া করে ধৈর্য ধরো",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413541"
+    },
+    {
+      "english": "Today’s effort, tomorrow’s result",
+      "bengali": "আজকের চেষ্টা, আগামীকের ফল",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413544"
+    },
+    {
+      "english": "If you want it, work for it",
+      "bengali": "যদি চাই, তাহলে কাজ করো",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413549"
+    },
+    {
+      "english": "Hold on, you’re close to it",
+      "bengali": "ধরে রাখো, তুমি কাছে চলে এসেছো",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413552"
+    },
+    {
+      "english": "I’m not quitting, I’m adjusting",
+      "bengali": "আমি ছাড়ছি না, আমি বদলাচ্ছি",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413555"
+    },
+    {
+      "english": "Try today, improve tomorrow",
+      "bengali": "আজ চেষ্টা করো, কাল আরও ভালো হবে",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413558"
+    },
+    {
+      "english": "Keep it simple, then keep going",
+      "bengali": "সহজ রাখো, তারপর এগিয়ে যাও",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413560"
+    },
+    {
+      "english": "What should I do next, in Bengali?",
+      "bengali": "পরের ধাপে কী করব, বাংলা বলতে?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413563"
+    },
+    {
+      "english": "Where do I practice questions, daily?",
+      "bengali": "আমি দৈনিক কোথায় প্রশ্ন প্র্যাকটিস করব?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413566"
+    },
+    {
+      "english": "How do I stay consistent when I’m tired?",
+      "bengali": "আমি ক্লান্ত হলে কীভাবে নিয়মিত থাকব?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413569"
+    },
+    {
+      "english": "Is this sentence correct, or should I change it?",
+      "bengali": "এই বাক্যটা ঠিক, নাকি বদলাব?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413578"
+    },
+    {
+      "english": "What mistake do I keep making, and why?",
+      "bengali": "আমি কোন ভুলটা বারবার করছি, আর কেন?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413581"
+    },
+    {
+      "english": "Can you help me with polite questions?",
+      "bengali": "আপনি কি ভদ্র প্রশ্ন করতে সাহায্য করবেন?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413584"
+    },
+    {
+      "english": "Should I ask this formally, or casually?",
+      "bengali": "আমি কি এটা আনুষ্ঠানিকভাবে বলব, না স্বাভাবিক?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413586"
+    },
+    {
+      "english": "Who can correct my Bengali everyday?",
+      "bengali": "আমার দৈনন্দিন বাংলাটা কে ঠিক করে দেবে?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413589"
+    },
+    {
+      "english": "What’s a good habit, for improving speaking?",
+      "bengali": "কথা বলার উন্নতির জন্য ভালো অভ্যাস কী?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413594"
+    },
+    {
+      "english": "If I get stuck, what do I ask?",
+      "bengali": "আমি আটকে গেলে কী প্রশ্ন করব?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413597"
+    },
+    {
+      "english": "Could you show me one example, please?",
+      "bengali": "একটা উদাহরণ দেখাবেন, দয়া করে?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413600"
+    },
+    {
+      "english": "Do I use 'আপনি' here, or 'তুমি'?",
+      "bengali": "এখানে কি 'আপনি', নাকি 'তুমি' বলব?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413605"
+    },
+    {
+      "english": "How can I ask for advice politely?",
+      "bengali": "আমি কীভাবে ভদ্রভাবে পরামর্শ চাইব?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413607"
+    },
+    {
+      "english": "What phrase should I use for 'excuse me'?",
+      "bengali": "‘মাফ করবেন’ বলতে কোন বাক্য ব্যবহার করব?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413610"
+    },
+    {
+      "english": "Can I write it again, just to be sure?",
+      "bengali": "শুধু নিশ্চিত হতে আমি আবার লিখতে পারি?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413613"
+    },
+    {
+      "english": "Which topic should I ask you about today?",
+      "bengali": "আজ আমি কোন বিষয়ে আপনাকে জিজ্ঞেস করব?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413616"
+    },
+    {
+      "english": "How often should I review, realistically?",
+      "bengali": "বাস্তবে কত ঘনঘন রিভিউ করব?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413619"
+    },
+    {
+      "english": "Are you okay if I take notes?",
+      "bengali": "আমি নোট নিলে আপনি কি ঠিক আছেন?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413621"
+    },
+    {
+      "english": "What’s your suggestion, for fast improvement?",
+      "bengali": "দ্রুত উন্নতির জন্য আপনার পরামর্শ কী?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413625"
+    },
+    {
+      "english": "Can we do a short dialogue right now?",
+      "bengali": "এখনই কি আমরা একটু ডায়ালগ করব?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413628"
+    },
+    {
+      "english": "If I speak slowly, will it sound okay?",
+      "bengali": "আমি ধীরে বললে কি ঠিক শোনাবে?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413630"
+    },
+    {
+      "english": "What question should I ask to practice?",
+      "bengali": "প্র্যাকটিসের জন্য আমি কোন প্রশ্ন করব?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413633"
+    },
+    {
+      "english": "Do you think I’m improving, or stuck?",
+      "bengali": "আপনি কি মনে করেন আমি উন্নতি করছি, নাকি আটকে আছি?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413636"
+    },
+    {
+      "english": "Where can I find Bengali question drills?",
+      "bengali": "বাংলা প্রশ্নের প্র্যাকটিস কোথায় পাব?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413639"
+    },
+    {
+      "english": "Can you check my pronunciation, quickly?",
+      "bengali": "আপনি কি আমার উচ্চারণটা দ্রুত চেক করবেন?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413641"
+    },
+    {
+      "english": "What should I answer, in simple Bengali?",
+      "bengali": "সহজ বাংলায় আমি কীভাবে উত্তর দেব?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413644"
+    },
+    {
+      "english": "Should I reply with details, or keep it short?",
+      "bengali": "উত্তরটা কি বিস্তারিত দেব, নাকি ছোট রাখব?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413647"
+    },
+    {
+      "english": "What’s the best way to ask again?",
+      "bengali": "আবার জিজ্ঞেস করার সবচেয়ে ভালো উপায় কী?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413652"
+    },
+    {
+      "english": "Can you help me build confidence step by step?",
+      "bengali": "আপনি কি ধাপে ধাপে আমার আত্মবিশ্বাস বাড়াতে সাহায্য করবেন?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413654"
+    },
+    {
+      "english": "Your effort matters, keep your rhythm",
+      "bengali": "তোমার চেষ্টা মানে রাখে, ছন্দ ধরে রাখো",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413657"
+    },
+    {
+      "english": "Small practice, big confidence, every day",
+      "bengali": "ছোট অনুশীলন, বড় আত্মবিশ্বাস, প্রতিদিন",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413660"
+    },
+    {
+      "english": "In Bengali, stress follows your courage",
+      "bengali": "বাংলায় জোর আসে সাহস থেকে",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413663"
+    },
+    {
+      "english": "Speak now, corrections will come later",
+      "bengali": "এখন বলো, পরে ঠিক হয়ে যাবে",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413665"
+    },
+    {
+      "english": "You’re building fluency, not just words",
+      "bengali": "তুমি সাবলীলতা বানাচ্ছ, শুধু শব্দ না",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413668"
+    },
+    {
+      "english": "Confidence grows when you show up",
+      "bengali": "তুমি হাজির হলে আত্মবিশ্বাস বাড়ে",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413671"
+    },
+    {
+      "english": "No one starts perfect, ever",
+      "bengali": "কেউই শুরুতে পারফেক্ট হয় না",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413674"
+    },
+    {
+      "english": "Mistakes aren’t failures, they’re feedback",
+      "bengali": "ভুল ব্যর্থতা না, ওটা ফিডব্যাক",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413677"
+    },
+    {
+      "english": "When you pause, breathe, then continue",
+      "bengali": "থামলে, শ্বাস নাও, তারপর আবার চালাও",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413680"
+    },
+    {
+      "english": "Say it messy, fix it later",
+      "bengali": "গোলমাল করে বললেও, পরে ঠিক করো",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413683"
+    },
+    {
+      "english": "Every repeat trains your brain",
+      "bengali": "প্রতিবার বলা তোমার মস্তিষ্ককে ট্রেন করে",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413685"
+    },
+    {
+      "english": "Don’t chase perfection, chase progress",
+      "bengali": "পারফেকশন না, অগ্রগতি ধরো",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413688"
+    },
+    {
+      "english": "Your future Bengali needs today’s patience",
+      "bengali": "আজকের ধৈর্যই ভবিষ্যৎ বাংলা বানায়",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413691"
+    },
+    {
+      "english": "Nice try, keep going, that’s the trick",
+      "bengali": "ভালো চেষ্টা, চালিয়ে যাও, এটাই চাবি",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413694"
+    },
+    {
+      "english": "Even one sentence is progress",
+      "bengali": "একটা বাক্যও অগ্রগতি",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413697"
+    },
+    {
+      "english": "Tell yourself, I can handle this",
+      "bengali": "নিজেকে বলো, আমি এটা সামলাতে পারি",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413701"
+    },
+    {
+      "english": "Keep the goal close, the fear fades",
+      "bengali": "লক্ষ্যটা কাছে রাখো, ভয় কমে",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413704"
+    },
+    {
+      "english": "You don’t need motivation, build habit",
+      "bengali": "প্রেরণা দরকার নেই, অভ্যাস বানাও",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413707"
+    },
+    {
+      "english": "Celebrate small wins, they stack up",
+      "bengali": "ছোট জয়ের উদযাপন করো, জমে যাবে",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413712"
+    },
+    {
+      "english": "Warm up first, then speak confidently",
+      "bengali": "আগে ওয়ার্ম আপ করো, তারপর সাহস নিয়ে বলো",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413715"
+    },
+    {
+      "english": "Ask for help, that’s smart perseverance",
+      "bengali": "মদত চাইতে হয়, এটাই বুদ্ধিমান অধ্যবসায়",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413718"
+    },
+    {
+      "english": "Your mouth learns by real talking",
+      "bengali": "তোমার মুখ শেখে, বাস্তব কথা বললে",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413720"
+    },
+    {
+      "english": "Stay curious, practice feels easier",
+      "bengali": "কৌতূহল ধরে রাখো, অনুশীলন সহজ লাগে",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413722"
+    },
+    {
+      "english": "Don’t argue with your pace, respect it",
+      "bengali": "তোমার গতি নিয়ে ঝগড়া করো না, সম্মান দাও",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413725"
+    },
+    {
+      "english": "If it’s hard, you’re training muscles",
+      "bengali": "কঠিন হলে, তুমি ক্ষমতা গড়ছ",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413728"
+    },
+    {
+      "english": "Today’s effort unlocks tomorrow’s ease",
+      "bengali": "আজকের চেষ্টা খুলে দেয় আগামীকের সহজতা",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413732"
+    },
+    {
+      "english": "Keep a positive note, read it daily",
+      "bengali": "একটা ভালো নোট রাখো, প্রতিদিন পড়ো",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413734"
+    },
+    {
+      "english": "You’re closer than you think, trust it",
+      "bengali": "তুমি ভাবছো তার চেয়েও কাছে, বিশ্বাস রাখো",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413737"
+    },
+    {
+      "english": "Say it again with better timing",
+      "bengali": "আরেকবার বলো, একটু ভালো টাইমিংয়ে",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413739"
+    },
+    {
+      "english": "No pressure, just steady reps",
+      "bengali": "চাপ নেই, শুধু নিয়ম করে রিপিট করো",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413742"
+    },
+    {
+      "english": "I feel nervous, but I keep going",
+      "bengali": "আমি নার্ভাস বোধ করি, তবু আমি এগিয়ে যাই",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413746"
+    },
+    {
+      "english": "Some days, I’m quiet, still I learn",
+      "bengali": "কিছু দিন আমি চুপ থাকি, তবু শিখি",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413749"
+    },
+    {
+      "english": "I don’t rush, I let it settle",
+      "bengali": "আমি তাড়াহুড়ো করি না, আমি সেটাকে বসতে দিই",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413753"
+    },
+    {
+      "english": "Honestly, I’m proud of my patience",
+      "bengali": "সত্যি কথা, আমার ধৈর্যের জন্য আমি গর্বিত",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413756"
+    },
+    {
+      "english": "When it hurts, I breathe and continue",
+      "bengali": "যখন কষ্ট লাগে, আমি শ্বাস নেই, তারপর চলি",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413758"
+    },
+    {
+      "english": "I’m not perfect, but I show up",
+      "bengali": "আমি নিখুঁত নই, কিন্তু আমি উপস্থিত থাকি",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413761"
+    },
+    {
+      "english": "I can feel progress, even slowly",
+      "bengali": "আমি অল্প অল্প করে অগ্রগতি টের পাই",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413764"
+    },
+    {
+      "english": "Today feels tough, tomorrow will be kinder",
+      "bengali": "আজ কঠিন লাগে, কাল আরও সহজ হবে",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413766"
+    },
+    {
+      "english": "I stay steady, even when I doubt",
+      "bengali": "আমি স্থির থাকি, সন্দেহ হলেও",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413769"
+    },
+    {
+      "english": "I tell myself, be kind to your pace",
+      "bengali": "আমি নিজেকে বলি, নিজের গতির প্রতি দয়ালু হও",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413772"
+    },
+    {
+      "english": "I keep notes, so my effort counts",
+      "bengali": "আমি নোট রাখি, যাতে আমার চেষ্টা কাজে লাগে",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413774"
+    },
+    {
+      "english": "My heart wants to quit, I don’t",
+      "bengali": "আমার মন ছেড়ে দিতে চায়, আমি দিই না",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413779"
+    },
+    {
+      "english": "I choose patience, because it pays later",
+      "bengali": "আমি ধৈর্য বেছে নিই, কারণ পরে ফল মেলে",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413781"
+    },
+    {
+      "english": "Even if I slip, I come back",
+      "bengali": "আমি পড়ে গেলেও, ফিরে আসি",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413784"
+    },
+    {
+      "english": "I learn from my feelings, not fear",
+      "bengali": "আমি ভয় থেকে নয়, অনুভূতি থেকে শিখি",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413787"
+    },
+    {
+      "english": "I’m warming up, that’s still progress",
+      "bengali": "আমি আস্তে আস্তে গরম হচ্ছি, এটাও অগ্রগতি",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413790"
+    },
+    {
+      "english": "I repeat, because my brain needs rhythm",
+      "bengali": "আমি আবার বলি, কারণ আমার মাথায় ছন্দ লাগে",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413792"
+    },
+    {
+      "english": "I don’t chase speed, I chase clarity",
+      "bengali": "আমি শুধু দ্রুততা খুঁজি না, আমি স্পষ্টতা খুঁজি",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413795"
+    },
+    {
+      "english": "When I get stuck, I slow down",
+      "bengali": "আটকে গেলে, আমি ধীরে করি",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413798"
+    },
+    {
+      "english": "I keep my promise, even on busy days",
+      "bengali": "আমি আমার প্রতিশ্রুতি রাখি, ব্যস্ত দিনেও",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413800"
+    },
+    {
+      "english": "My confidence comes from small honest effort",
+      "bengali": "আমার আত্মবিশ্বাস আসে ছোট, সৎ চেষ্টায়",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413803"
+    },
+    {
+      "english": "I’m scared, so I practice anyway",
+      "bengali": "আমি ভয় পাচ্ছি, তবু আমি অনুশীলন করি",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413806"
+    },
+    {
+      "english": "Let it be awkward, I’m learning",
+      "bengali": "চলুক অস্বস্তি, আমি শিখছি",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413809"
+    },
+    {
+      "english": "I’m listening more, so I speak better",
+      "bengali": "আমি বেশি শুনি, তাই ভালো করে বলি",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413813"
+    },
+    {
+      "english": "I trust the process, even when tired",
+      "bengali": "আমি প্রক্রিয়াটাকে বিশ্বাস করি, ক্লান্ত হলেও",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413816"
+    },
+    {
+      "english": "I’m proud of trying, not just getting it",
+      "bengali": "আমি চেষ্টা করার জন্য গর্বিত, শুধু ঠিক হওয়ার জন্য নয়",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413820"
+    },
+    {
+      "english": "I journal short thoughts, then I speak",
+      "bengali": "আমি ছোট ভাবনা লিখি, তারপর কথা বলি",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413822"
+    },
+    {
+      "english": "I don’t compare, I measure my own growth",
+      "bengali": "আমি কাউকে তুলনা করি না, নিজের অগ্রগতি দেখি",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413825"
+    },
+    {
+      "english": "Even one sentence, I stay faithful",
+      "bengali": "একটা বাক্য হলেও, আমি ধারাবাহিক থাকি",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413828"
+    },
+    {
+      "english": "I’ll be consistent, because I care",
+      "bengali": "আমি ধারাবাহিক হব, কারণ আমি যত্ন নিই",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413831"
+    },
+    {
+      "english": "When plans change, I adjust, not quit",
+      "bengali": "পরিকল্পনা বদলালে, আমি মানাই, থামি না",
+      "category": "Perseverance",
+      "generated_at": "2026-11-05T10:23:44.413834"
     }
   ],
-  "last_updated": "2026-11-04T10:31:31.008191"
+  "last_updated": "2026-11-05T10:23:44.413836"
 }
