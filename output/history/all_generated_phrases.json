@@ -13679,7 +13679,727 @@
       "bengali": "পরিকল্পনা বদলালে, আমি মানাই, থামি না",
       "category": "Perseverance",
       "generated_at": "2026-11-05T10:23:44.413834"
+    },
+    {
+      "english": "How much is this, please, bhai?",
+      "bengali": "এটার দাম কত, দয়া করে, ভাই?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420692"
+    },
+    {
+      "english": "Can I see the price tag, please?",
+      "bengali": "আমি কি দামের ট্যাগটা দেখতে পারি, দয়া করে?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420707"
+    },
+    {
+      "english": "Is this one on sale, right now?",
+      "bengali": "এটা কি এখন সেলে আছে, তাই না?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420710"
+    },
+    {
+      "english": "Okay, I’ll take it, if it’s fair.",
+      "bengali": "ঠিক আছে, এটা নেব, যদি দাম ঠিক থাকে।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420713"
+    },
+    {
+      "english": "That’s cute, but how much exactly?",
+      "bengali": "এটা বেশ কিউট, কিন্তু ঠিক কত দাম?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420716"
+    },
+    {
+      "english": "Give me two, please, sizes small.",
+      "bengali": "আমাকে দুটো দাও, দয়া করে, ছোট সাইজ।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420718"
+    },
+    {
+      "english": "Do you have it in black?",
+      "bengali": "আপনার কাছে কি এটা কালো রঙে আছে?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420722"
+    },
+    {
+      "english": "I love it, but I need a deal.",
+      "bengali": "আমার খুব ভালো লাগছে, কিন্তু দাম কমাতে হবে।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420727"
+    },
+    {
+      "english": "What’s the best price, for me?",
+      "bengali": "আমার জন্য সেরা দাম কত?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420730"
+    },
+    {
+      "english": "Wait, let me check the bill.",
+      "bengali": "থামুন, আমি বিলটা দেখে নেই।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420734"
+    },
+    {
+      "english": "Is there a cheaper option, nearby?",
+      "bengali": "ওখানে কি কাছাকাছি আরেকটা কম দামের আছে?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420736"
+    },
+    {
+      "english": "Sounds good, I’ll pay now.",
+      "bengali": "ভালো শোনাচ্ছে, আমি এখনই দেব।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420739"
+    },
+    {
+      "english": "Too pricey, I’ll think about it.",
+      "bengali": "দাম বেশি, আমি ভেবে দেখি।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420742"
+    },
+    {
+      "english": "Can you lower it a bit, please?",
+      "bengali": "আপনি একটু কমাতে পারবেন, দয়া করে?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420744"
+    },
+    {
+      "english": "Is this price inclusive of tax?",
+      "bengali": "দাম কি ট্যাক্সসহ, নাকি আলাদা?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420746"
+    },
+    {
+      "english": "I’ll take it, don’t worry about the receipt.",
+      "bengali": "আমি নেব, রশিদ নিয়ে চিন্তা করবেন না।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420749"
+    },
+    {
+      "english": "That color looks amazing on you.",
+      "bengali": "ওই রংটা তোমাকে দারুণ মানিয়েছে।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420751"
+    },
+    {
+      "english": "How long is the warranty, actually?",
+      "bengali": "ওয়ারেন্টি কতদিন, আসলে?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420753"
+    },
+    {
+      "english": "Does it come with a cover, too?",
+      "bengali": "এটার সাথে কভারও কি থাকে?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420755"
+    },
+    {
+      "english": "Just looking, but that caught my eye.",
+      "bengali": "শুধু দেখছি, কিন্তু এটা আমার চোখে পড়ল।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420758"
+    },
+    {
+      "english": "You’re kidding, that price is crazy!",
+      "bengali": "আপনি মজা করছেন, এত দাম কীভাবে?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420760"
+    },
+    {
+      "english": "Give me the smaller one, please.",
+      "bengali": "ছোটটা দিন, দয়া করে।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420762"
+    },
+    {
+      "english": "Is delivery available today, by chance?",
+      "bengali": "আজ ডেলিভারি আছে, যদি হয়?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420764"
+    },
+    {
+      "english": "Can I pay by card, please?",
+      "bengali": "আমি কি কার্ড দিয়ে দিতে পারি, দয়া করে?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420767"
+    },
+    {
+      "english": "I’ll take it in the medium size.",
+      "bengali": "মাঝারি সাইজে এটা নেব।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420769"
+    },
+    {
+      "english": "This feels premium, what’s the deal?",
+      "bengali": "এটা প্রিমিয়াম লাগছে, ডিলটা কী?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420771"
+    },
+    {
+      "english": "Please, wrap it nicely, I’m gifting.",
+      "bengali": "দয়া করে সুন্দর করে প্যাক করুন, আমি উপহার দিচ্ছি।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420776"
+    },
+    {
+      "english": "Can I exchange it, if it doesn’t fit?",
+      "bengali": "ফিট না হলে আমি বদলাতে পারব, তাই তো?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420779"
+    },
+    {
+      "english": "Okay, let’s do it, what’s your final?",
+      "bengali": "ঠিক আছে, চল করি, আপনার শেষ দাম কত?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420781"
+    },
+    {
+      "english": "Wait, check again, the tag seems wrong.",
+      "bengali": "থামুন, আবার দেখুন, ট্যাগটা ভুল মনে হচ্ছে।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420783"
+    },
+    {
+      "english": "Is there a discount for students, maybe?",
+      "bengali": "ছাত্রদের জন্য একটু ডিসকাউন্ট আছে কি?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420790"
+    },
+    {
+      "english": "What’s the price range for this style?",
+      "bengali": "এই স্টাইলে দামের রেঞ্জ কত?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420793"
+    },
+    {
+      "english": "Which size would fit me better, please?",
+      "bengali": "আমার জন্য কোন সাইজটা ভালো হবে?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420795"
+    },
+    {
+      "english": "Do you have a similar one, cheaper?",
+      "bengali": "এরকমই আরেকটা আছে, তবে কম দামে?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420797"
+    },
+    {
+      "english": "Can you suggest something under my budget?",
+      "bengali": "আমার বাজেটের মধ্যে কী সাজেস্ট করবেন?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420799"
+    },
+    {
+      "english": "Is this the final price, actually?",
+      "bengali": "এটাই কি ফাইনাল দাম, সত্যি?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420802"
+    },
+    {
+      "english": "Should I buy it now, or later?",
+      "bengali": "এখন নেব, নাকি পরে নিলে ভালো?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420804"
+    },
+    {
+      "english": "Do you offer installment payments, by chance?",
+      "bengali": "কিস্তিতে করা যায় কি, একটু দেখবেন?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420806"
+    },
+    {
+      "english": "How flexible is the price, for you?",
+      "bengali": "দামটা আপনারা কতটা নমনীয়?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420810"
+    },
+    {
+      "english": "What comes with it, exactly?",
+      "bengali": "এটার সাথে আর কী কী পাওয়া যায়?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420812"
+    },
+    {
+      "english": "Is there any extra charge for delivery?",
+      "bengali": "ডেলিভারির জন্য আলাদা খরচ আছে?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420814"
+    },
+    {
+      "english": "Can I get a quick price check, please?",
+      "bengali": "একটু দামের হিসাবটা করে দেবেন?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420816"
+    },
+    {
+      "english": "Which option is better, quality or value?",
+      "bengali": "কোনটা ভালো, কোয়ালিটি নাকি ভ্যালু?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420819"
+    },
+    {
+      "english": "Is this one new stock or old?",
+      "bengali": "এটা নতুন স্টক, নাকি পুরোনো?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420821"
+    },
+    {
+      "english": "Do you have matching accessories in stock?",
+      "bengali": "ম্যাচিং অ্যাক্সেসরিজ আছে কি?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420823"
+    },
+    {
+      "english": "Can I try it on, real quick?",
+      "bengali": "একটু ট্রাই করতে পারি, প্লিজ?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420825"
+    },
+    {
+      "english": "How soon can you deliver it?",
+      "bengali": "কত তাড়াতাড়ি ডেলিভারি দেবেন?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420828"
+    },
+    {
+      "english": "Is there a return window, how many days?",
+      "bengali": "রিটার্নের সময়সীমা কতদিন?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420830"
+    },
+    {
+      "english": "What’s the currency, in case I need change?",
+      "bengali": "দামটা কোন মুদ্রায়, বুঝিয়ে দেবেন?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420833"
+    },
+    {
+      "english": "Does this price include any offer today?",
+      "bengali": "আজকের কোনো অফার কি এই দামের মধ্যে আছে?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420835"
+    },
+    {
+      "english": "Is it worth it, in your opinion?",
+      "bengali": "আপনার মতে এটা কি দাম অনুযায়ী ঠিক?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420837"
+    },
+    {
+      "english": "Can I compare this with a premium one?",
+      "bengali": "এটার সাথে একটা প্রিমিয়ামটা তুলনা করে দেখাবেন?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420839"
+    },
+    {
+      "english": "Do you have a loyalty discount card?",
+      "bengali": "লয়্যালটি ডিসকাউন্ট কার্ড আছে?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420841"
+    },
+    {
+      "english": "How do the sizes run, small or normal?",
+      "bengali": "সাইজগুলো কীভাবে—ছোট, নাকি নরমাল?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420843"
+    },
+    {
+      "english": "Can I pay cash, if I need?",
+      "bengali": "নগদে দিতে পারব, কি সম্ভব?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420845"
+    },
+    {
+      "english": "What’s your best recommendation for daily use?",
+      "bengali": "দিনের কাজে কোনটা আপনার সাজেশন?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420848"
+    },
+    {
+      "english": "If I buy two, is there a bundle deal?",
+      "bengali": "দুইটা নিলে কি বান্ডেল ডিল আছে?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420850"
+    },
+    {
+      "english": "Can you hold it for me, just 10 minutes?",
+      "bengali": "আমার জন্য দশ মিনিট ধরে রাখবেন?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420853"
+    },
+    {
+      "english": "Which payment method is fastest here, honestly?",
+      "bengali": "এখানে দ্রুত কোন পেমেন্ট পদ্ধতি?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420855"
+    },
+    {
+      "english": "Would you mind checking stock for my size?",
+      "bengali": "আমার সাইজটা স্টকে আছে কি, দেখে দেবেন?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420857"
+    },
+    {
+      "english": "Price says one thing, shopkeeper says another, huh",
+      "bengali": "দাম এক কথা বলে, দোকানদার আরেক কথা বলে, তাই না",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420860"
+    },
+    {
+      "english": "No bargaining, the tag is fixed",
+      "bengali": "দামদরদারি নেই, ট্যাগই ফিক্সড",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420862"
+    },
+    {
+      "english": "This one’s the best deal, trust me",
+      "bengali": "এইটাই বেস্ট ডিল, বিশ্বাস করো",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420865"
+    },
+    {
+      "english": "First price, then the discount, like usual",
+      "bengali": "প্রথমে দাম, পরে ডিসকাউন্ট, এটাই তো সাধারণ",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420868"
+    },
+    {
+      "english": "If you’re lucky, there’s a hidden offer",
+      "bengali": "ভাগ্য ভাল হলে, লুকানো অফার থাকে",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420871"
+    },
+    {
+      "english": "Come on, that’s a fair price, right?",
+      "bengali": "আরে, এটা তো ঠিকঠাক দাম, তাই না?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420874"
+    },
+    {
+      "english": "Tell me the final amount, no drama",
+      "bengali": "শেষ অংকটা বলো, নাটক না",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420876"
+    },
+    {
+      "english": "Show the receipt, I need proof",
+      "bengali": "রিসিটটা দেখাও, আমার প্রমাণ লাগবে",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420878"
+    },
+    {
+      "english": "Quality looks okay, price is also decent",
+      "bengali": "মান ঠিকঠাক মনে হচ্ছে, দামও ভালোই",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420880"
+    },
+    {
+      "english": "Don’t worry, there’s room to bargain",
+      "bengali": "টেনশন নেই, দর কষার জায়গা আছে",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420883"
+    },
+    {
+      "english": "That’s not costly, it’s just worth it",
+      "bengali": "ব্যয়বহুল না, আসলে দামটা ঠিক",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420887"
+    },
+    {
+      "english": "For daily use, this price won’t bite",
+      "bengali": "রোজকার কাজে, এই দামে তো কষ্ট হবে না",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420890"
+    },
+    {
+      "english": "What’s the cost, including everything today?",
+      "bengali": "আজকের টোটাল খরচটা কত, সব মিলিয়ে?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420893"
+    },
+    {
+      "english": "If it’s on sale, the price drops fast",
+      "bengali": "ছাড় থাকলে, দাম দ্রুত নেমে যায়",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420896"
+    },
+    {
+      "english": "The shop gives deal, but check properly",
+      "bengali": "দোকান ডিল দেয়, তবু ঠিকমতো দেখে নাও",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420898"
+    },
+    {
+      "english": "Is there any offer, or just tag price?",
+      "bengali": "অফার আছে, নাকি শুধু ট্যাগের দাম?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420900"
+    },
+    {
+      "english": "You can’t beat this price, honestly",
+      "bengali": "সত্যি বলছি, এই দামের সাথে কেউ পারে না",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420903"
+    },
+    {
+      "english": "Let’s compare, same thing, different price",
+      "bengali": "চল তুলনা করি, একই জিনিস, আলাদা দাম",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420906"
+    },
+    {
+      "english": "People say, cheap today, costly tomorrow",
+      "bengali": "লোকজন বলে, আজ সস্তা, কাল খরচ",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420908"
+    },
+    {
+      "english": "I’ll take it, if the rate matches",
+      "bengali": "দামটা মিললে আমি নেব",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420910"
+    },
+    {
+      "english": "Is it the same model, same price?",
+      "bengali": "একই মডেল, একই দাম তো?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420912"
+    },
+    {
+      "english": "No need to rush, let me think",
+      "bengali": "তাড়াহুড়া করো না, আমাকে ভাবতে দাও",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420914"
+    },
+    {
+      "english": "Your price sounds high, why though?",
+      "bengali": "তোমার দাম বেশি লাগছে, কেন বলো তো?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420916"
+    },
+    {
+      "english": "If I buy today, any extra cut?",
+      "bengali": "আজ নিলে, আরেকটু ছাড় হবে?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420918"
+    },
+    {
+      "english": "That’s okay price, for this quality",
+      "bengali": "এই মানের জন্য দামটা ঠিক আছে",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420921"
+    },
+    {
+      "english": "Show me the lowest rate you can do",
+      "bengali": "আপনি সবচেয়ে কম রেটটা দেখান",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420923"
+    },
+    {
+      "english": "Don’t change the price after I choose",
+      "bengali": "আমি বেছে নেওয়ার পর দাম বদলাবেন না",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420927"
+    },
+    {
+      "english": "How much for the set, not single piece?",
+      "bengali": "সেটের দাম কত, এক টুকরো নয়?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420929"
+    },
+    {
+      "english": "Just tell me, is it budget-friendly?",
+      "bengali": "সোজা বলো, বাজেটের মধ্যে হবে তো?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420931"
+    },
+    {
+      "english": "For money’s worth, this one is safe",
+      "bengali": "টাকার দাম আছে, এইটা নিরাপদ পছন্দ",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420934"
+    },
+    {
+      "english": "I’m deciding slowly, price feels personal today.",
+      "bengali": "আমি আস্তে ঠিক করছি, আজ দামটা ব্যক্তিগত লাগছে।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420939"
+    },
+    {
+      "english": "Honestly, I want something that lasts.",
+      "bengali": "সত্যি বলছি, আমি চাই এমন কিছু যা টেকে।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420941"
+    },
+    {
+      "english": "This tag is okay, but I’ll pause.",
+      "bengali": "এই দামটা ঠিক আছে, তবু আমি থামব।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420945"
+    },
+    {
+      "english": "I feel unsure, show me the details.",
+      "bengali": "আমার একটু দ্বিধা হচ্ছে, বিস্তারিত দেখান।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420948"
+    },
+    {
+      "english": "I’m not chasing cheap, I want value.",
+      "bengali": "আমি শুধু সস্তা খুঁজছি না, মূল্য চাই।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420950"
+    },
+    {
+      "english": "If it’s slightly pricey, I can accept.",
+      "bengali": "যদি একটু দামি হয়, আমি মানিয়ে নিতে পারি।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420953"
+    },
+    {
+      "english": "I’ll think first, then decide, no pressure.",
+      "bengali": "আমি আগে ভাবব, তারপর সিদ্ধান্ত নেব, চাপ নেই।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420955"
+    },
+    {
+      "english": "Prices matter, but my comfort matters too.",
+      "bengali": "দাম গুরুত্বপূর্ণ, কিন্তু আমার স্বস্তিটাও গুরুত্বপূর্ণ।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420957"
+    },
+    {
+      "english": "I want the honest final price, please.",
+      "bengali": "দয়া করে, সৎভাবে একদম শেষ দাম বলুন।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420960"
+    },
+    {
+      "english": "Before buying, I check my budget quietly.",
+      "bengali": "কেনার আগে, আমি চুপচাপ বাজেট দেখি।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420962"
+    },
+    {
+      "english": "I’m comparing options, not just the number.",
+      "bengali": "আমি শুধু সংখ্যাটা না, অপশনও মিলিয়ে দেখি।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420964"
+    },
+    {
+      "english": "This price feels fair, I’m leaning yes.",
+      "bengali": "এই দামটা ন্যায্য মনে হচ্ছে, আমি হ্যাঁ বলার দিকে।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420969"
+    },
+    {
+      "english": "Tell me the cost, and how long it lasts.",
+      "bengali": "দামটা বলুন, আর কতদিন টিকবে সেটাও।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420971"
+    },
+    {
+      "english": "I don’t mind waiting, I need clarity.",
+      "bengali": "আমি অপেক্ষা করতে পারি, আমার স্পষ্টতা দরকার।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420973"
+    },
+    {
+      "english": "It’s for a gift, price can’t be random.",
+      "bengali": "এটা উপহারের জন্য, দামটা এলোমেলো হতে পারে না।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420976"
+    },
+    {
+      "english": "I’m trying to be responsible with money.",
+      "bengali": "আমি টাকার ব্যাপারে দায়িত্বশীল হতে চাই।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420978"
+    },
+    {
+      "english": "If the quality matches, I’ll buy today.",
+      "bengali": "মান যদি মেলে, আমি আজই নেব।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420981"
+    },
+    {
+      "english": "I don’t want surprises, please explain total cost.",
+      "bengali": "আমি চমক চাই না, মোট খরচটা বুঝিয়ে দিন।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420983"
+    },
+    {
+      "english": "I’m calm, but I need the real price.",
+      "bengali": "আমি শান্ত, কিন্তু আসল দামটা দরকার।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420986"
+    },
+    {
+      "english": "Let me check again, I’m a bit skeptical.",
+      "bengali": "আমি আবার দেখে নিই, একটু সন্দেহ হচ্ছে।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420988"
+    },
+    {
+      "english": "I’m okay paying more, if it’s worth it.",
+      "bengali": "দাম বেশি দিলেও সমস্যা নেই, যদি তা ঠিকমতো হয়।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420991"
+    },
+    {
+      "english": "Today I’m shopping with patience, not panic.",
+      "bengali": "আজ আমি তাড়াহুড়ো না করে ধৈর্য নিয়ে কিনছি।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420993"
+    },
+    {
+      "english": "This seems simple, but I need details.",
+      "bengali": "এটা সহজ মনে হচ্ছে, কিন্তু বিস্তারিত দরকার।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420995"
+    },
+    {
+      "english": "My budget is tight, so help me choose.",
+      "bengali": "আমার বাজেট টাইট, তাই আমাকে বাছতে সাহায্য করুন।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420997"
+    },
+    {
+      "english": "I care about fairness, not just low numbers.",
+      "bengali": "আমি ন্যায্যতা চাই, শুধু কম সংখ্যাটা না।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.420999"
+    },
+    {
+      "english": "If it’s overpriced, I’ll pass gently.",
+      "bengali": "যদি দাম বেশি হয়, আমি বিনয়ের সাথে চলে যাব।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.421002"
+    },
+    {
+      "english": "I’m thinking about future use, not now.",
+      "bengali": "আমি এখন না, ভবিষ্যৎ ব্যবহার ভাবছি।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.421004"
+    },
+    {
+      "english": "Please tell me, is this price negotiable?",
+      "bengali": "দয়া করে বলুন, এই দাম কি আলোচনা করা যায়?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.421006"
+    },
+    {
+      "english": "I’m ready to decide, just confirm everything.",
+      "bengali": "আমি সিদ্ধান্ত নিতে প্রস্তুত, শুধু সবটা নিশ্চিত করুন।",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.421009"
+    },
+    {
+      "english": "What’s the total cost, including taxes?",
+      "bengali": "ট্যাক্সসহ মোট দাম কত?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:26:20.421012"
     }
   ],
-  "last_updated": "2026-11-05T10:23:44.413836"
+  "last_updated": "2026-11-06T10:26:20.421013"
 }
