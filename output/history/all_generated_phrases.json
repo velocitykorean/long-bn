@@ -14399,7 +14399,727 @@
       "bengali": "ট্যাক্সসহ মোট দাম কত?",
       "category": "Shopping & Prices",
       "generated_at": "2026-11-06T10:26:20.421012"
+    },
+    {
+      "english": "Got it, we’re celebrating tonight, right?",
+      "bengali": "ঠিক আছে, আজ রাতে উদযাপন করছি, তাই তো?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226319"
+    },
+    {
+      "english": "Wait, I forgot the snacks, sorry!",
+      "bengali": "রোকো, আমি স্ন্যাক্স ভুলে গেছি, দুঃখিত!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226332"
+    },
+    {
+      "english": "Be there on time, no excuses!",
+      "bengali": "সময় মতো এসো, কোনো অজুহাত নয়!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226336"
+    },
+    {
+      "english": "I’m bringing balloons, don’t worry.",
+      "bengali": "আমি বেলুন আনছি, চিন্তা কোরো না।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226340"
+    },
+    {
+      "english": "Okay, candles first, then cake!",
+      "bengali": "ঠিক আছে, আগে মোমবাতি, তারপর কেক!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226343"
+    },
+    {
+      "english": "Happy birthday, you look amazing!",
+      "bengali": "শুভ জন্মদিন, তোমাকে দারুণ লাগছে!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226346"
+    },
+    {
+      "english": "Cheers! This is our moment, finally!",
+      "bengali": "চিয়ার্স! এটা আমাদের সময়, অবশেষে!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226349"
+    },
+    {
+      "english": "Let’s toast, and make a wish!",
+      "bengali": "চলো গ্লাস মিলাই, আর একটা ইচ্ছা করি!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226355"
+    },
+    {
+      "english": "Where’s the music, I need vibes!",
+      "bengali": "মিউজিক কোথায়, আমার ভাইবস দরকার!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226359"
+    },
+    {
+      "english": "Wow, this party is so lit!",
+      "bengali": "ওয়াও, এই পার্টি একদম জবরদস্ত!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226362"
+    },
+    {
+      "english": "Slow down, we’re not starting yet.",
+      "bengali": "ধীরে, আমরা এখনো শুরু করিনি।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226365"
+    },
+    {
+      "english": "Nice, you came early, awesome!",
+      "bengali": "দারুণ, তুমি আগে এসেছ, দারুণ!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226370"
+    },
+    {
+      "english": "Who brought the cake, it looks great!",
+      "bengali": "কে কেক এনেছে, দারুণ দেখাচ্ছে!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226374"
+    },
+    {
+      "english": "Save me a slice, please!",
+      "bengali": "আমার জন্য একটা টুকরো রেখে দাও, প্লিজ!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226377"
+    },
+    {
+      "english": "Not gonna lie, this is delicious!",
+      "bengali": "সত্যি বলছি, এটা দারুণ সুস্বাদু!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226380"
+    },
+    {
+      "english": "Hold on, I’ll grab my phone.",
+      "bengali": "একটু থামো, আমি ফোনটা নিয়ে আসি।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226383"
+    },
+    {
+      "english": "Everyone, take a photo now!",
+      "bengali": "সবাই, এখনই একটা ছবি তোল!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226386"
+    },
+    {
+      "english": "That song is a whole mood, right?",
+      "bengali": "এই গানটা তো পুরো মুড, তাই না?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226388"
+    },
+    {
+      "english": "Stop it, you’re making me blush!",
+      "bengali": "থামো তো, তুমি আমাকে লজ্জা দিচ্ছ!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226395"
+    },
+    {
+      "english": "Congrats! You crushed it today!",
+      "bengali": "অভিনন্দন! আজ তুমি দারুণ করে ফেলেছ!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226398"
+    },
+    {
+      "english": "Sorry, I’m late, traffic was crazy.",
+      "bengali": "দুঃখিত, আমি দেরি করে ফেলেছি, ট্রাফিক পাগল ছিল।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226401"
+    },
+    {
+      "english": "Don’t worry, we saved you a spot.",
+      "bengali": "চিন্তা কোরো না, তোমার জায়গা রাখা আছে।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226404"
+    },
+    {
+      "english": "Okay, who’s doing the games?",
+      "bengali": "ঠিক আছে, কে গেমস চালাবে?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226407"
+    },
+    {
+      "english": "Wait, I can’t find the gift bag.",
+      "bengali": "রোকো, আমি উপহারের ব্যাগটা পাচ্ছি না।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226410"
+    },
+    {
+      "english": "Here you go, enjoy, seriously!",
+      "bengali": "নাও, খাওয়ো/ভোগ করো, সত্যি বলছি!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226413"
+    },
+    {
+      "english": "That was hilarious, I’m still laughing!",
+      "bengali": "ওটা এত মজার ছিল, আমি এখনো হাসছি!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226416"
+    },
+    {
+      "english": "All good, let’s dance a bit!",
+      "bengali": "সব ঠিক, চল একটু নাচি!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226419"
+    },
+    {
+      "english": "Brilliant plan, you thought of everything!",
+      "bengali": "দারুণ পরিকল্পনা, তুমি সবকিছু ভেবেছ!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226422"
+    },
+    {
+      "english": "Last call for snacks, get them now!",
+      "bengali": "স্ন্যাক্সের শেষ ডাক, এখনই নাও!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226424"
+    },
+    {
+      "english": "Thank you, this party was perfect!",
+      "bengali": "ধন্যবাদ, এই পার্টি একদম পারফেক্ট ছিল!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226427"
+    },
+    {
+      "english": "What should I bring for the celebration?",
+      "bengali": "উৎসবে আমি কী নিয়ে আসব?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226429"
+    },
+    {
+      "english": "Do we need reservations, or walk-ins are okay?",
+      "bengali": "রিজার্ভেশন লাগবে, নাকি ঘুরে আসলেই হবে?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226433"
+    },
+    {
+      "english": "Which time is best for you, tonight?",
+      "bengali": "আজ রাতে, আপনার জন্য কোন সময়টা ভালো?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226435"
+    },
+    {
+      "english": "Can you tell me the dress code, please?",
+      "bengali": "দয়া করে ড্রেস কোডটা বলবেন?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226438"
+    },
+    {
+      "english": "Should I call first, or just show up?",
+      "bengali": "প্রথমে কল করব, নাকি শুধু চলে যাব?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226441"
+    },
+    {
+      "english": "Where do I park, is it easy here?",
+      "bengali": "আমি কোথায় পার্ক করব, এখানে সহজ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226444"
+    },
+    {
+      "english": "What games are planned, and who starts?",
+      "bengali": "কোন গেমগুলো হবে, আর কে শুরু করবে?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226446"
+    },
+    {
+      "english": "Do we have vegetarian options, just asking?",
+      "bengali": "ভেজিটেরিয়ান অপশন আছে তো, শুধু জানতে চাচ্ছি?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226449"
+    },
+    {
+      "english": "How long will the event go on, roughly?",
+      "bengali": "মোটামুটি কতক্ষণ ধরে চলবে?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226452"
+    },
+    {
+      "english": "Is there a seating arrangement, or free seating?",
+      "bengali": "সিটিং ব্যবস্থা আছে, নাকি ফ্রি সিট?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226455"
+    },
+    {
+      "english": "Can I bring a friend, with you permission?",
+      "bengali": "আমি কি একজন বন্ধুকে আনতে পারি, অনুমতি আছে?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226458"
+    },
+    {
+      "english": "What’s the plan for the cake and candles?",
+      "bengali": "কেক আর মোমবাতির প্ল্যানটা কী?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226461"
+    },
+    {
+      "english": "Who do I ask if I’m lost inside?",
+      "bengali": "ভেতরে হারিয়ে গেলে কাকে জিজ্ঞেস করব?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226464"
+    },
+    {
+      "english": "Is it okay if I arrive a bit early?",
+      "bengali": "আমি একটু আগে এলে সমস্যা নেই তো?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226468"
+    },
+    {
+      "english": "What time does the program officially start?",
+      "bengali": "অনুষ্ঠানটা অফিসিয়ালি কখন শুরু হবে?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226471"
+    },
+    {
+      "english": "Any tips to make the party more fun?",
+      "bengali": "পার্টিটা আরও মজার করতে কোনো টিপস আছে?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226473"
+    },
+    {
+      "english": "Should I take photos, or keep it private?",
+      "bengali": "আমি কি ছবি তুলব, নাকি ব্যক্তিগত রাখব?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226475"
+    },
+    {
+      "english": "Do you want quiet music, or something lively?",
+      "bengali": "আপনি কি শান্ত মিউজিক চান, নাকি জমজমাট?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226478"
+    },
+    {
+      "english": "Can you help me with the RSVP?",
+      "bengali": "আরএসভিপি করতে আমাকে সাহায্য করবেন?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226481"
+    },
+    {
+      "english": "What should I say when I arrive?",
+      "bengali": "আমি ঢুকলে কী বলে শুভেচ্ছা জানাব?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226483"
+    },
+    {
+      "english": "Whose turn is it for the next game?",
+      "bengali": "পরের গেমটা কার পালা?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226486"
+    },
+    {
+      "english": "Can we do a group photo first, please?",
+      "bengali": "আগে কি আমরা গ্রুপ ছবি তুলব, প্লিজ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226488"
+    },
+    {
+      "english": "Do you prefer gifts wrapped nicely?",
+      "bengali": "উপহারটা সুন্দর করে মোড়ানো পছন্দ করেন?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226491"
+    },
+    {
+      "english": "What do you suggest for a hostess gift?",
+      "bengali": "হোস্টেসের জন্য কী সাজেস্ট করবেন?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226493"
+    },
+    {
+      "english": "Is there a budget for presents, or free choice?",
+      "bengali": "উপহারের বাজেট আছে, নাকি ইচ্ছেমতো?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226496"
+    },
+    {
+      "english": "How can I help, what do you need?",
+      "bengali": "আমি কীভাবে সাহায্য করতে পারি, আপনার কী দরকার?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226499"
+    },
+    {
+      "english": "Are we doing a speech, or just smiles?",
+      "bengali": "বক্তৃতা হবে, নাকি শুধু হাসি আর কথা?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226503"
+    },
+    {
+      "english": "Who’s in charge of the timeline?",
+      "bengali": "টাইমলাইন কে দেখাশোনা করে?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226506"
+    },
+    {
+      "english": "What time should we leave to avoid traffic?",
+      "bengali": "ট্রাফিক এড়াতে কখন বের হব?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226508"
+    },
+    {
+      "english": "After the party, where should we meet?",
+      "bengali": "পার্টির পরে আমরা কোথায় দেখা করব?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226511"
+    },
+    {
+      "english": "Let the celebration begin, একদম!",
+      "bengali": "আরে, চল শুরু করি উদযাপনটা, একদম!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226515"
+    },
+    {
+      "english": "Everything’s set, শুধু ব্যাগ আনো.",
+      "bengali": "সব ঠিক আছে, শুধু ব্যাগটা আনো।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226519"
+    },
+    {
+      "english": "Make it simple, তবু জমে উঠবে.",
+      "bengali": "সরল রাখো, তবু জমে উঠবে।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226523"
+    },
+    {
+      "english": "Don’t overthink, মজা হবেই তো!",
+      "bengali": "বেশি ভাববে না, মজা হবেই তো!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226527"
+    },
+    {
+      "english": "We’ll sing and clap, মন ভরবে!",
+      "bengali": "গান গাইবো, হাততালি দেবো, মন ভরবে!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226531"
+    },
+    {
+      "english": "Food first, তারপর কথা, তারপর হইহই.",
+      "bengali": "আগে খাবার, পরে কথা, তারপর হইহই।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226535"
+    },
+    {
+      "english": "This night will be full-on madness!",
+      "bengali": "আজ রাতটা হবে একদম মস্ত উন্মাদনা!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226538"
+    },
+    {
+      "english": "Bring your smile, বাকিটা আমি সামলাই!",
+      "bengali": "তোমার হাসিটা আনো, বাকিটা আমি সামলাই!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226543"
+    },
+    {
+      "english": "Cheers, today we’re on top of the world!",
+      "bengali": "চিয়ার্স, আজকে আমরা দুনিয়ার ওপরে!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226546"
+    },
+    {
+      "english": "No drama, শুধু আনন্দে থাকো!",
+      "bengali": "ড্রামা না, শুধু আনন্দে থাকো!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226550"
+    },
+    {
+      "english": "Let’s eat first, সবাই আগে খাই!",
+      "bengali": "আগে খাই, সবাই আগে খাই!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226554"
+    },
+    {
+      "english": "Oops, cake উঁচুতে উঠাও তো!",
+      "bengali": "ওহো, কেকটা একটু উঁচুতে তোলো!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226558"
+    },
+    {
+      "english": "Tension বাদ, আজ আমরা ফ্রি!",
+      "bengali": "টেনশন বাদ, আজকে আমরা ফ্রি!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226576"
+    },
+    {
+      "english": "Keep the lights warm, মনে ভালো লাগবে.",
+      "bengali": "লাইটগুলো নরম রাখো, মনে ভালো লাগবে।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226581"
+    },
+    {
+      "english": "We’ll toast, আনন্দটা গিলে ফেলো না!",
+      "bengali": "চিয়ারে চিয়ারে, আনন্দটা গিলে ফেলো না!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226588"
+    },
+    {
+      "english": "This is our chance, হাতছাড়া কোরো না.",
+      "bengali": "এটাই আমাদের সুযোগ, হাতছাড়া কোরো না।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226593"
+    },
+    {
+      "english": "No need for excuses, আজ তুমি আসছো!",
+      "bengali": "বাহানা লাগবে না, আজ তুমি আসছো!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226596"
+    },
+    {
+      "english": "Let’s make noise, চুপচাপ কেন?",
+      "bengali": "শব্দ করি, চুপচাপ কেন?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226600"
+    },
+    {
+      "english": "Someone start the music, তাড়াতাড়ি!",
+      "bengali": "কেউ মিউজিকটা চালাও, তাড়াতাড়ি!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226604"
+    },
+    {
+      "english": "Balloons up, আজকে মুড সেট!",
+      "bengali": "বেলুন উড়াও, আজকে মুড সেট!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226608"
+    },
+    {
+      "english": "Wrap it up nicely, সাবধানে উপহার দাও.",
+      "bengali": "ভালো করে গুছিয়ে দাও, সাবধানে উপহার দাও।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226612"
+    },
+    {
+      "english": "We’ll laugh a lot, মনটা খুলে যাবে!",
+      "bengali": "অনেক হাসবো, মনটা খুলে যাবে!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226616"
+    },
+    {
+      "english": "Save some snacks, পরে আবার দরকার হবে।",
+      "bengali": "কিছু স্ন্যাকস রেখে দাও, পরে আবার দরকার হবে।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226620"
+    },
+    {
+      "english": "Let’s dance slowly, তবু মজা থাকবে.",
+      "bengali": "আস্তে আস্তে নাচো, তবু মজা থাকবে।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226624"
+    },
+    {
+      "english": "House full, সবাই মিলে হইহই করবে!",
+      "bengali": "বাড়ি ভর্তি, সবাই মিলে হইহই করবে!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226628"
+    },
+    {
+      "english": "No empty plates, নতুন করে নাও!",
+      "bengali": "প্লেট ফাঁকা রেখো না, নতুন করে নাও!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226632"
+    },
+    {
+      "english": "Tonight feels special, আজ সত্যি আলাদা!",
+      "bengali": "আজ রাতটা বিশেষ লাগছে, আজ সত্যি আলাদা!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226636"
+    },
+    {
+      "english": "Make a wish, মন থেকে চাইবে!",
+      "bengali": "ইচ্ছেটা করো, মন থেকে চাইবে!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226639"
+    },
+    {
+      "english": "Honestly, I’m really happy you’re here.",
+      "bengali": "সত্যি বলতে, তুমি এখানে আছো বলে আমি খুব খুশি।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226643"
+    },
+    {
+      "english": "I kept it small, but my heart’s big.",
+      "bengali": "আমি ছোট করে রেখেছি, কিন্তু আমার মন বড়।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226646"
+    },
+    {
+      "english": "Thanks for being patient, I appreciate you.",
+      "bengali": "ধৈর্য ধরার জন্য ধন্যবাদ, আমি কৃতজ্ঞ।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226649"
+    },
+    {
+      "english": "Let’s be real, tonight feels different.",
+      "bengali": "চলো সত্যি বলি, আজ রাতটা আলাদা লাগে।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226652"
+    },
+    {
+      "english": "I’m a little emotional, but in a good way.",
+      "bengali": "আমি একটু আবেগে ভাসছি, তবে ভালোভাবে।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226655"
+    },
+    {
+      "english": "Take a breath, we’ll settle into it.",
+      "bengali": "একটু নিঃশ্বাস নাও, আমরা ঠিকঠাক হয়ে যাব।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226659"
+    },
+    {
+      "english": "I don’t need perfection, just sincerity.",
+      "bengali": "পারফেক্ট চাই না, শুধু আন্তরিকতা চাই।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226662"
+    },
+    {
+      "english": "I’m grateful, even the small moments.",
+      "bengali": "আমি কৃতজ্ঞ, ছোট ছোট মুহূর্তগুলোর জন্যও।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226667"
+    },
+    {
+      "english": "No pressure, I’m just enjoying this.",
+      "bengali": "কোনো চাপ নেই, আমি শুধু উপভোগ করছি।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226670"
+    },
+    {
+      "english": "If I’m quiet, it’s just my heart talking.",
+      "bengali": "আমি যদি চুপ থাকি, সেটা আমার মন বলছে।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226674"
+    },
+    {
+      "english": "Tonight, I want to forgive and move on.",
+      "bengali": "আজ রাতে আমি ক্ষমা করতে চাই, এগিয়ে যেতে চাই।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226676"
+    },
+    {
+      "english": "We’ll laugh, but I’ll mean it.",
+      "bengali": "আমরা হাসব, তবে আমি আন্তরিক থাকব।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226680"
+    },
+    {
+      "english": "I’m proud of how far we’ve come.",
+      "bengali": "আমরা যতোদূর এসেছি, সে জন্য আমি গর্বিত।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226683"
+    },
+    {
+      "english": "Let’s slow down, feel the moment.",
+      "bengali": "চলো একটু ধীরে, মুহূর্তটা অনুভব করি।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226686"
+    },
+    {
+      "english": "I needed this reset, seriously.",
+      "bengali": "আমার সত্যিই এই রিসেট দরকার ছিল।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226689"
+    },
+    {
+      "english": "I hope you feel seen, not just invited.",
+      "bengali": "আমি চাই তুমি যেন শুধু ডাকা না, দেখা পাও।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226692"
+    },
+    {
+      "english": "We’ll keep it kind, always.",
+      "bengali": "আমরা সবসময় ভদ্র আর দয়ালু থাকব।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226695"
+    },
+    {
+      "english": "Even celebrations, we can be gentle.",
+      "bengali": "উৎসব হলেও, আমরা কোমল হতে পারি।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226699"
+    },
+    {
+      "english": "I’m trying my best, please understand.",
+      "bengali": "আমি সর্বোচ্চ চেষ্টা করছি, একটু বুঝো।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226704"
+    },
+    {
+      "english": "Let’s honor the person we’re celebrating.",
+      "bengali": "যাকে উদযাপন করছি, তাকে সম্মান দিই।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226707"
+    },
+    {
+      "english": "My feelings are simple, I care.",
+      "bengali": "আমার অনুভূতি সহজ, আমি যত্ন করি।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226710"
+    },
+    {
+      "english": "I’m not rushing, this night matters.",
+      "bengali": "আমি তাড়াহুড়ো করছি না, আজ রাতটা গুরুত্বপূর্ণ।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226713"
+    },
+    {
+      "english": "If something hurts, let’s talk softly.",
+      "bengali": "কিছু কষ্ট হলে, চল নরম করে কথা বলি।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226716"
+    },
+    {
+      "english": "We’re here to reconnect, not to compete.",
+      "bengali": "আমরা এখানে আবার কাছাকাছি হতে, তুলনা করতে না।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226719"
+    },
+    {
+      "english": "I’ll take my time, thank you for waiting.",
+      "bengali": "আমি একটু সময় নেব, অপেক্ষা করার জন্য ধন্যবাদ।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226722"
+    },
+    {
+      "english": "Tonight I’m grateful, not just excited.",
+      "bengali": "আজ রাতে আমি শুধু উত্তেজিত না, কৃতজ্ঞও।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226725"
+    },
+    {
+      "english": "Even if it’s messy, we’ll make it warm.",
+      "bengali": "কিছুটা এলোমেলো হলেও, আমরা এটাকে গরম রাখব।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226728"
+    },
+    {
+      "english": "I’ll be honest, I miss you guys.",
+      "bengali": "সত্যি বলি, আমি তোমাদের মিস করি।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226731"
+    },
+    {
+      "english": "Let’s celebrate with respect, that’s the vibe.",
+      "bengali": "চলো সম্মান রেখে উদযাপন করি, এটাই মনোভাব।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226735"
+    },
+    {
+      "english": "This moment is mine, I’ll hold it gently.",
+      "bengali": "এই মুহূর্তটা আমার, আমি আস্তে করে ধরে রাখব।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226738"
+    },
+    {
+      "english": "Keep it casual, greet everyone first.",
+      "bengali": "ক্যাজুয়াল রাখো, আগে সবার সাথে শুভেচ্ছা জানাও।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226741"
+    },
+    {
+      "english": "Bring one extra plate, just in case.",
+      "bengali": "একটা অতিরিক্ত প্লেট আনো, দরকার হলে কাজে লাগবে।",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-07T09:39:47.226744"
     }
   ],
-  "last_updated": "2026-11-06T10:26:20.421013"
+  "last_updated": "2026-11-07T09:39:47.226746"
 }
