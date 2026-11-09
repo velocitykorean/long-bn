@@ -15839,7 +15839,727 @@
       "bengali": "আজ তোমার সৎ মতামত আমার খুব দরকার ছিল।",
       "category": "Gratitude",
       "generated_at": "2026-11-08T09:54:06.253472"
+    },
+    {
+      "english": "Hey, can I check in now, please?",
+      "bengali": "এই, আমি কি এখন চেক ইন করতে পারি?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864416"
+    },
+    {
+      "english": "Where’s the reception desk, excuse me?",
+      "bengali": "রিসেপশন ডেস্কটা কোথায়, মাফ করবেন?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864433"
+    },
+    {
+      "english": "My room key isn't working, sorry!",
+      "bengali": "আমার রুমের চাবি কাজ করছে না, দুঃখিত!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864436"
+    },
+    {
+      "english": "Do you have my booking, please check?",
+      "bengali": "আপনারা কি আমার বুকিংটা খুঁজে দেখবেন?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864439"
+    },
+    {
+      "english": "I need an extra blanket, right now.",
+      "bengali": "আমার এখনই একটা অতিরিক্ত কম্বল দরকার।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864441"
+    },
+    {
+      "english": "How’s the Wi‑Fi here, is it fast?",
+      "bengali": "এখানে ওয়াই-ফাই কেমন, দ্রুত হয়?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864444"
+    },
+    {
+      "english": "Can I get towels, like, today?",
+      "bengali": "আজকে কি আমি তোয়ালে পেতে পারি?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864446"
+    },
+    {
+      "english": "Is breakfast included, or extra charge?",
+      "bengali": "নাস্তা কি সাথে আছে, নাকি আলাদা চার্জ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864451"
+    },
+    {
+      "english": "What time is checkout, please?",
+      "bengali": "চেকআউট কখন, বলবেন?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864454"
+    },
+    {
+      "english": "Late checkout possible, just one more hour?",
+      "bengali": "বিলম্বে চেকআউট করা যাবে, আরেক ঘণ্টা?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864456"
+    },
+    {
+      "english": "No worries, I’ll wait right here.",
+      "bengali": "কোনো চিন্তা নেই, আমি এখানে অপেক্ষা করব।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864459"
+    },
+    {
+      "english": "Oh, the elevator is that way!",
+      "bengali": "ওহ, লিফট ওদিকেই!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864462"
+    },
+    {
+      "english": "It’s too noisy, can you quiet it?",
+      "bengali": "অনেক শব্দ হচ্ছে, আপনি একটু কমাবেন?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864464"
+    },
+    {
+      "english": "My AC is not working, any help?",
+      "bengali": "আমার এয়ারকন্ডিশন কাজ করছে না, সাহায্য করবেন?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864466"
+    },
+    {
+      "english": "The shower water is cold, seriously.",
+      "bengali": "শাওয়ারের পানি ঠান্ডা, সত্যি বলছি।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864468"
+    },
+    {
+      "english": "Where can I buy water, nearby?",
+      "bengali": "কাছাকাছি কোথায় পানি কিনতে পারি?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864472"
+    },
+    {
+      "english": "Do you have a late-night restaurant?",
+      "bengali": "এখানে কি রাতের খাবার পাওয়া যায়?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864474"
+    },
+    {
+      "english": "I’d like room service, please, quick.",
+      "bengali": "আমি রুম সার্ভিস চাই, দয়া করে, তাড়াতাড়ি।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864477"
+    },
+    {
+      "english": "Can I change rooms, if possible?",
+      "bengali": "সম্ভব হলে আমি কি রুম বদলাতে পারি?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864481"
+    },
+    {
+      "english": "Great, thanks! I’ll be right up.",
+      "bengali": "দারুণ, ধন্যবাদ! আমি ততক্ষণে চলে আসছি।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864484"
+    },
+    {
+      "english": "Oh wow, this room smells fresh!",
+      "bengali": "ওহ বাহ, এই রুমটা দারুণ তাজা গন্ধ!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864486"
+    },
+    {
+      "english": "Is there a lift, or only stairs?",
+      "bengali": "লিফট আছে, নাকি শুধু সিঁড়ি?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864488"
+    },
+    {
+      "english": "Please send someone, it’s urgent.",
+      "bengali": "দয়া করে একজন পাঠান, এটা জরুরি।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864491"
+    },
+    {
+      "english": "My phone charger’s not working, ugh.",
+      "bengali": "আমার ফোন চার্জার কাজ করছে না, আরে!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864493"
+    },
+    {
+      "english": "Do you accept cash, or card only?",
+      "bengali": "আপনারা কি নগদ নেন, নাকি শুধু কার্ড?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864495"
+    },
+    {
+      "english": "Can I store my luggage for a bit?",
+      "bengali": "আমি একটু সময়ের জন্য লাগেজ রাখতে পারি?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864497"
+    },
+    {
+      "english": "Where’s the nearest ATM, please tell me.",
+      "bengali": "সবচেয়ে কাছে এটিএম কোথায়, বলবেন?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864500"
+    },
+    {
+      "english": "I’m lost, can someone help me?",
+      "bengali": "আমি হারিয়ে গেছি, কেউ কি সাহায্য করবেন?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864502"
+    },
+    {
+      "english": "Thanks, that solved it, finally!",
+      "bengali": "ধন্যবাদ, এতে ঠিক হয়ে গেল, অবশেষে!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864504"
+    },
+    {
+      "english": "I need a bill, please, for my company.",
+      "bengali": "আমার কোম্পানির জন্য বিল লাগবে, দয়া করে।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864506"
+    },
+    {
+      "english": "Hi, do you have any rooms available today?",
+      "bengali": "হাই, আজ কি কোনো ঘর ফাঁকা আছে?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864509"
+    },
+    {
+      "english": "Which floor is quieter, do you know?",
+      "bengali": "কোন তলা বেশি শান্ত, আপনি জানেন?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864511"
+    },
+    {
+      "english": "Can I ask about parking, is it free?",
+      "bengali": "পার্কিং সম্পর্কে জানতে পারি, এটা কি ফ্রি?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864513"
+    },
+    {
+      "english": "Is there a desk, where I can work?",
+      "bengali": "এখানে কি ডেস্ক আছে, কাজ করতে পারব?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864515"
+    },
+    {
+      "english": "Do you offer airport pickup, how much?",
+      "bengali": "আপনারা কি এয়ারপোর্ট পিকআপ দেন, কত টাকা?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864517"
+    },
+    {
+      "english": "What’s the Wi‑Fi password, please?",
+      "bengali": "ওয়াই-ফাই পাসওয়ার্ডটা কী, প্লিজ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864522"
+    },
+    {
+      "english": "Do rooms have a kettle, for tea?",
+      "bengali": "ঘরে কি কেটল থাকে, চায়ের জন্য?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864524"
+    },
+    {
+      "english": "Is there a pharmacy nearby, just in case?",
+      "bengali": "কাছাকাছি কি কোনো ফার্মেসি আছে, দরকার হলে?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864526"
+    },
+    {
+      "english": "I have a question, about check-in time.",
+      "bengali": "আমার একটা প্রশ্ন আছে, চেক-ইন সময় নিয়ে।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864528"
+    },
+    {
+      "english": "Can I request a room with window?",
+      "bengali": "জানালা আছে এমন ঘর চাইতে পারি?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864530"
+    },
+    {
+      "english": "What time does breakfast start, exactly?",
+      "bengali": "নাস্তা ঠিক কতটায় শুরু হয়?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864532"
+    },
+    {
+      "english": "Are there any local tours, you recommend?",
+      "bengali": "স্থানীয় ট্যুর আছে কি, আপনি কী সাজেস্ট করবেন?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864534"
+    },
+    {
+      "english": "How do I call reception, from my room?",
+      "bengali": "রিসেপশনে ফোন করব, কীভাবে রুম থেকে?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864537"
+    },
+    {
+      "english": "Do you have a luggage cart, please?",
+      "bengali": "লাগেজ কার্ট আছে, প্লিজ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864539"
+    },
+    {
+      "english": "Is laundry service available, and how fast?",
+      "bengali": "লন্ড্রি সার্ভিস আছে, কত দ্রুত হয়?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864541"
+    },
+    {
+      "english": "Can I get an early breakfast tomorrow?",
+      "bengali": "আগামীকাল সকালে তাড়াতাড়ি নাস্তা পাব?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864543"
+    },
+    {
+      "english": "What’s the best way to get downtown?",
+      "bengali": "ডাউনটাউনে যাওয়ার সবচেয়ে ভালো উপায় কী?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864547"
+    },
+    {
+      "english": "Do you have a meeting room, for two hours?",
+      "bengali": "দুই ঘণ্টার জন্য মিটিং রুম আছে?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864550"
+    },
+    {
+      "english": "Can I keep my passport at the front desk?",
+      "bengali": "পাসপোর্টটা কি সামনে ডেস্কে রাখতে পারি?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864552"
+    },
+    {
+      "english": "Is there a quiet rule in the building?",
+      "bengali": "এই বাড়িতে কি রাতে শান্ত থাকার নিয়ম আছে?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864554"
+    },
+    {
+      "english": "Can I store my bags after check-out?",
+      "bengali": "চেক-আউটের পরে ব্যাগ রাখতে পারব?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864556"
+    },
+    {
+      "english": "Which room type has the most space?",
+      "bengali": "কোন রুম টাইপে সবচেয়ে বেশি জায়গা থাকে?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864558"
+    },
+    {
+      "english": "Do you have rooms with an extra bed?",
+      "bengali": "অতিরিক্ত বেডসহ ঘর আছে?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864560"
+    },
+    {
+      "english": "Is late check-out possible, for free today?",
+      "bengali": "আজ কি ফ্রি দেরিতে চেক-আউট সম্ভব?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864564"
+    },
+    {
+      "english": "Can I pay in installments, if needed?",
+      "bengali": "প্রয়োজনে কি কিস্তিতে পেমেন্ট করা যায়?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864566"
+    },
+    {
+      "english": "What’s the deposit policy for new guests?",
+      "bengali": "নতুন অতিথিদের জন্য ডিপোজিট নিয়ম কী?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864568"
+    },
+    {
+      "english": "How do I book a taxi from here?",
+      "bengali": "এখান থেকে কীভাবে ট্যাক্সি বুক করব?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864570"
+    },
+    {
+      "english": "Is there a rooftop, or a nice view?",
+      "bengali": "ছাদে কিছু আছে, সুন্দর ভিউ পাওয়া যায়?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864572"
+    },
+    {
+      "english": "Thanks, I’ll check, then come back.",
+      "bengali": "ধন্যবাদ, আমি দেখে নিই, তারপর ফিরে আসব।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864575"
+    },
+    {
+      "english": "You’re doing great, settle in and relax.",
+      "bengali": "তুমি দারুণ করছো, এবার গুছিয়ে আরাম করো।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864578"
+    },
+    {
+      "english": "Today is yours, check in with confidence.",
+      "bengali": "আজটা তোমার, আত্মবিশ্বাস নিয়ে চেক-ইন করো।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864580"
+    },
+    {
+      "english": "Take a breath, the staff will help.",
+      "bengali": "একবার শ্বাস নাও, স্টাফ সাহায্য করবে।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864582"
+    },
+    {
+      "english": "Quick start, enjoy the room you chose.",
+      "bengali": "দ্রুত শুরু, তুমি যে রুম বেছেছো সেটাই উপভোগ করো।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864585"
+    },
+    {
+      "english": "Small comfort, big peace, you’ll feel it.",
+      "bengali": "ছোট আরাম, বড় শান্তি, টের পাবে।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864587"
+    },
+    {
+      "english": "Trust your plan, ask what you need.",
+      "bengali": "নিজের পরিকল্পনায় ভরসা রাখো, যা দরকার জিজ্ঞেস করো।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864590"
+    },
+    {
+      "english": "Stay positive, tomorrow will be smoother.",
+      "bengali": "ইতিবাচক থাকো, কাল আরও সহজ হবে।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864592"
+    },
+    {
+      "english": "You’ve got this, your stay starts now.",
+      "bengali": "তোমার পারবে, তোমার থাকা এখনই শুরু।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864595"
+    },
+    {
+      "english": "One question, one solution, keep going.",
+      "bengali": "একটা প্রশ্ন, একটা সমাধান, এগিয়ে চল।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864597"
+    },
+    {
+      "english": "It’s okay to ask, you deserve clarity.",
+      "bengali": "জিজ্ঞেস করতে সমস্যা নেই, তুমি পরিষ্কারটা পাওয়ার যোগ্য।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864600"
+    },
+    {
+      "english": "Welcome in, you’re safe here tonight.",
+      "bengali": "স্বাগতম, আজ রাত তুমি এখানে নিরাপদ।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864603"
+    },
+    {
+      "english": "Let the day rest, you’re off duty now.",
+      "bengali": "দিনটা একটু থামাও, এখন তোমার কাজ শেষ।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864605"
+    },
+    {
+      "english": "Good choices bring good stays, keep it up.",
+      "bengali": "ভালো সিদ্ধান্তে ভালো থাকা, এমনই চালিয়ে যাও।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864608"
+    },
+    {
+      "english": "You’re not alone, reception is listening.",
+      "bengali": "তুমি একা নও, রিসেপশন শুনছে।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864611"
+    },
+    {
+      "english": "Be kind to yourself, enjoy the quiet.",
+      "bengali": "নিজের প্রতি সদয় হও, শান্তিটা উপভোগ করো।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864614"
+    },
+    {
+      "english": "Ask calmly, they’ll guide you step by step.",
+      "bengali": "শান্তভাবে জিজ্ঞেস করো, তারা ধাপে ধাপে দেখাবে।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864617"
+    },
+    {
+      "english": "This is your base, move with confidence.",
+      "bengali": "এটাই তোমার বেস, আত্মবিশ্বাস নিয়ে এগোও।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864620"
+    },
+    {
+      "english": "Small issues happen, you’ll fix them fast.",
+      "bengali": "ছোট সমস্যা হতে পারে, তাড়াতাড়ি ঠিক হয়ে যাবে।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864622"
+    },
+    {
+      "english": "Relax now, tomorrow’s worries can wait.",
+      "bengali": "এখন আরাম করো, আগামীকালের টেনশন পরে।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864625"
+    },
+    {
+      "english": "You chose this place, enjoy it fully.",
+      "bengali": "তুমি এই জায়গা বেছেছো, পুরোটা উপভোগ করো।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864629"
+    },
+    {
+      "english": "Stay focused, check-in details matter.",
+      "bengali": "মনোযোগ দাও, চেক-ইন ডিটেইলস গুরুত্বপূর্ণ।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864631"
+    },
+    {
+      "english": "Be brave, speak up politely at the desk.",
+      "bengali": "সাহস রাখো, ফ্রন্ট ডেস্কে ভদ্রভাবে বলো।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864634"
+    },
+    {
+      "english": "You’re safe, keep your room number handy.",
+      "bengali": "তুমি নিরাপদ, রুম নম্বরটা কাছে রাখো।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864636"
+    },
+    {
+      "english": "No rush, take your time settling in.",
+      "bengali": "তাড়াহুড়া নেই, ধীরে ধীরে গুছিয়ে নাও।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864640"
+    },
+    {
+      "english": "Good vibes only, you’ll love this stay.",
+      "bengali": "শুধু ভালো অনুভূতি, তুমি এই থাকা ভালোবাসবে।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864642"
+    },
+    {
+      "english": "Perfect, you found the right place.",
+      "bengali": "দারুণ, তুমি ঠিক জায়গাটাই পেয়েছো।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864645"
+    },
+    {
+      "english": "Be patient, housekeeping will sort it out.",
+      "bengali": "ধৈর্য ধরো, হাউসকিপিং ঠিক করে দেবে।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864647"
+    },
+    {
+      "english": "Keep your smile, service will improve quickly.",
+      "bengali": "হাসিটা ধরে রাখো, সার্ভিস দ্রুত ভালো হবে।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864649"
+    },
+    {
+      "english": "You’re on track, enjoy every little comfort.",
+      "bengali": "তুমি ঠিক পথে আছো, প্রতিটা ছোট আরাম উপভোগ করো।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864652"
+    },
+    {
+      "english": "Make it easy, ask once, then relax.",
+      "bengali": "সহজ করে নাও, একবার জিজ্ঞেস করো, তারপর আরাম।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864654"
+    },
+    {
+      "english": "I feel calmer once I check in, honestly.",
+      "bengali": "সত্যি বলছি, চেক ইন করলেই আমি শান্ত হই।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864656"
+    },
+    {
+      "english": "This hallway feels quiet, like a deep breath.",
+      "bengali": "এই করিডরটা নীরব লাগে, যেন একটা গভীর শ্বাস।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864659"
+    },
+    {
+      "english": "I’m trying to be patient, the rest will follow.",
+      "bengali": "আমি ধৈর্য ধরছি, বাকি সব ঠিক হবে।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864662"
+    },
+    {
+      "english": "Tonight, I just want comfort, no drama.",
+      "bengali": "আজ রাতে আমি শুধু আরাম চাই, ঝামেলা নয়।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864664"
+    },
+    {
+      "english": "Your place feels safe, and that matters to me.",
+      "bengali": "আপনার জায়গাটা নিরাপদ লাগে, এটা আমার জন্য গুরুত্বপূর্ণ।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864666"
+    },
+    {
+      "english": "I’ve had a long day, please be gentle with me.",
+      "bengali": "আমার আজ অনেক ক্লান্তি, দয়া করে একটু নরম হোন।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864669"
+    },
+    {
+      "english": "I’m not rushing, I want things to feel right.",
+      "bengali": "আমি তাড়াহুড়ো করছি না, সবকিছু ঠিকভাবে চাই।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864672"
+    },
+    {
+      "english": "I’m okay waiting, just tell me what to do.",
+      "bengali": "আমি অপেক্ষা করতে পারি, শুধু বলুন কী করব।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864675"
+    },
+    {
+      "english": "I want my room to match my mood, please.",
+      "bengali": "আমার রুমটা আমার মনের মতো হোক, প্লিজ।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864677"
+    },
+    {
+      "english": "If something’s off, I’ll speak up politely.",
+      "bengali": "কিছু ঠিক না হলে, আমি ভদ্রভাবে বলব।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864680"
+    },
+    {
+      "english": "I needed rest, and this feels like it.",
+      "bengali": "আমার বিশ্রাম দরকার ছিল, আর এটা তেমনই লাগছে।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864682"
+    },
+    {
+      "english": "I’m learning to slow down, even on trips.",
+      "bengali": "আমি শিখছি ধীরে চলতে, ট্রিপেও।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864685"
+    },
+    {
+      "english": "Please take your time, my stress can wait.",
+      "bengali": "আপনারা সময় নিন, আমার টেনশন অপেক্ষা করতে পারে।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864687"
+    },
+    {
+      "english": "I trust you, so just guide me gently.",
+      "bengali": "আমি আপনাদের ওপর বিশ্বাস করি, শুধু একটু গাইড করুন।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864690"
+    },
+    {
+      "english": "I’m feeling homesick, a little quiet helps.",
+      "bengali": "আমার একটু মন খারাপ লাগছে, একটু নীরবতা সাহায্য করে।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864692"
+    },
+    {
+      "english": "Can we make this stay feel more personal?",
+      "bengali": "এই থাকার অভিজ্ঞতাটা কি একটু ব্যক্তিগত করা যায়?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864695"
+    },
+    {
+      "english": "I don’t mind small delays, just communicate.",
+      "bengali": "ছোট দেরি হলে সমস্যা নেই, শুধু জানান।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864697"
+    },
+    {
+      "english": "I’m grateful, even for the simple touches.",
+      "bengali": "সাধারণ ছোট যত্নেও আমি কৃতজ্ঞ।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864700"
+    },
+    {
+      "english": "I’ll settle in slowly, then I’ll be okay.",
+      "bengali": "আমি ধীরে ধীরে বসব, তারপর ঠিক হয়ে যাব।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864702"
+    },
+    {
+      "english": "Some nights need patience, and I have it.",
+      "bengali": "কিছু রাতে ধৈর্য লাগে, আমার সেটা আছে।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864704"
+    },
+    {
+      "english": "I want honest help, no guessing.",
+      "bengali": "আমি সৎ সাহায্য চাই, আন্দাজ নয়।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864707"
+    },
+    {
+      "english": "You can tell me straight, I won’t overthink.",
+      "bengali": "আপনি সোজা বলুন, আমি অতিরিক্ত ভাবব না।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864711"
+    },
+    {
+      "english": "I’m not asking for luxury, just peace.",
+      "bengali": "আমি বিলাসিতা চাই না, শান্তিটা চাই।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864714"
+    },
+    {
+      "english": "Today was heavy, so I’m choosing comfort.",
+      "bengali": "আজ দিনটা ভারী ছিল, তাই আমি আরাম বেছে নিচ্ছি।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864716"
+    },
+    {
+      "english": "If you can, make it quieter for me.",
+      "bengali": "পারলে আমার জন্য একটু আরও নীরব করবেন।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864718"
+    },
+    {
+      "english": "I feel better when things run smoothly.",
+      "bengali": "সবকিছু সহজে চললে আমার মন ভালো হয়।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864720"
+    },
+    {
+      "english": "I’m here to recharge, not to stress.",
+      "bengali": "আমি চার্জ নিতে এসেছি, টেনশনে থাকতে না।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864724"
+    },
+    {
+      "english": "Thanks for listening, that really helps me.",
+      "bengali": "শুনে নেওয়ার জন্য ধন্যবাদ, এটা সত্যিই সাহায্য করে।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864726"
+    },
+    {
+      "english": "I’ll handle the rest, just keep me informed.",
+      "bengali": "আমি বাকি সব সামলাব, শুধু আপডেট দিন।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864733"
+    },
+    {
+      "english": "Before check-in, confirm your ID and booking name.",
+      "bengali": "চেক-ইনের আগে, আপনার আইডি আর বুকিং নাম মিলিয়ে নিন।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864736"
+    },
+    {
+      "english": "Can I get a late checkout, please?",
+      "bengali": "আমি কি একটু লেট চেকআউট পেতে পারি, প্লিজ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T10:59:00.864738"
     }
   ],
-  "last_updated": "2026-11-08T09:54:06.253478"
+  "last_updated": "2026-11-09T10:59:00.864740"
 }
