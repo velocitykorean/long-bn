@@ -16559,7 +16559,727 @@
       "bengali": "আমি কি একটু লেট চেকআউট পেতে পারি, প্লিজ?",
       "category": "Hotel & Accommodation",
       "generated_at": "2026-11-09T10:59:00.864738"
+    },
+    {
+      "english": "Where is the pharmacy, please?",
+      "bengali": "ফার্মেসি কোথায়, প্লিজ?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516239"
+    },
+    {
+      "english": "I have a headache, since morning.",
+      "bengali": "সকালের পর থেকে মাথা ব্যথা হচ্ছে।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516256"
+    },
+    {
+      "english": "It hurts here, can you check?",
+      "bengali": "এখানে ব্যথা করছে, আপনি দেখবেন?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516258"
+    },
+    {
+      "english": "Please prescribe something for me.",
+      "bengali": "আমার জন্য কিছু লিখে দিন, প্লিজ।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516260"
+    },
+    {
+      "english": "Do I need medicine, or just rest?",
+      "bengali": "আমার ওষুধ লাগবে, নাকি শুধু বিশ্রাম?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516262"
+    },
+    {
+      "english": "Is it safe for everyday use?",
+      "bengali": "এটা কি প্রতিদিন খাওয়া নিরাপদ?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516266"
+    },
+    {
+      "english": "I feel dizzy, what should I do?",
+      "bengali": "আমার মাথা ঘুরছে, আমি কী করব?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516268"
+    },
+    {
+      "english": "I’m allergic to this, please stop.",
+      "bengali": "এটার প্রতি আমার অ্যালার্জি আছে, বন্ধ করুন।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516272"
+    },
+    {
+      "english": "Give me the same medicine again.",
+      "bengali": "আগের মতোই একই ওষুধ দিন।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516275"
+    },
+    {
+      "english": "Do you have this medicine in stock?",
+      "bengali": "আপনার কাছে এটা স্টকে আছে?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516277"
+    },
+    {
+      "english": "How often should I take it?",
+      "bengali": "আমি কতবার খাবো?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516279"
+    },
+    {
+      "english": "After food, right? Tell me clearly.",
+      "bengali": "খাবারের পরে, তাই তো? পরিষ্কার বলুন।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516281"
+    },
+    {
+      "english": "I forgot, what’s the dosage again?",
+      "bengali": "আমি ভুলে গেছি, ডোজটা আবার কী?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516283"
+    },
+    {
+      "english": "This pill is too small, is it okay?",
+      "bengali": "এই ট্যাবলেটটা খুব ছোট, এটা কি ঠিক?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516285"
+    },
+    {
+      "english": "I need a quick checkup, today.",
+      "bengali": "আজকে দ্রুত দেখানো দরকার।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516287"
+    },
+    {
+      "english": "Wait, my symptoms are getting worse.",
+      "bengali": "থামুন, আমার উপসর্গ বাড়ছে।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516289"
+    },
+    {
+      "english": "Can you write a prescription for me?",
+      "bengali": "আপনি আমার জন্য প্রেসক্রিপশন লিখবেন?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516290"
+    },
+    {
+      "english": "I brought my old prescription, here.",
+      "bengali": "আমি আমার পুরোনো প্রেসক্রিপশন এনেছি, দেখুন।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516292"
+    },
+    {
+      "english": "Is there any side effect, tell me?",
+      "bengali": "কোনও পার্শ্বপ্রতিক্রিয়া আছে, বলবেন?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516294"
+    },
+    {
+      "english": "Drink water, okay? Don’t panic.",
+      "bengali": "পানি পান করুন, ঠিক আছে? আতঙ্ক করবেন না।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516297"
+    },
+    {
+      "english": "It’s not serious, but I’m worried.",
+      "bengali": "খুব গুরুতর নয়, কিন্তু আমি চিন্তিত।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516299"
+    },
+    {
+      "english": "Give me something for cold and cough.",
+      "bengali": "জ্বর-সর্দি আর কাশির জন্য কিছু দিন।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516300"
+    },
+    {
+      "english": "Is this medicine for fever, right?",
+      "bengali": "এটা কি জ্বরের ওষুধ, তাই তো?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516302"
+    },
+    {
+      "english": "I’m in pain, please help me now.",
+      "bengali": "আমার খুব ব্যথা লাগছে, এখনই সাহায্য করুন।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516304"
+    },
+    {
+      "english": "How long will it take to work?",
+      "bengali": "কাজ করতে কতক্ষণ লাগবে?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516306"
+    },
+    {
+      "english": "Do I need a test, doctor?",
+      "bengali": "ডাক্তার, আমার কি পরীক্ষা লাগবে?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516309"
+    },
+    {
+      "english": "Thanks, I’ll come back if needed.",
+      "bengali": "ধন্যবাদ, দরকার হলে আবার আসব।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516311"
+    },
+    {
+      "english": "No worries, rest and monitor yourself.",
+      "bengali": "চিন্তা নেই, বিশ্রাম নিন, নিজের খেয়াল রাখুন।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516313"
+    },
+    {
+      "english": "Can you ask, what’s your main symptom?",
+      "bengali": "আপনি কি বলবেন, আপনার প্রধান লক্ষণটা কী?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516315"
+    },
+    {
+      "english": "Which medicine is best for my problem?",
+      "bengali": "আমার সমস্যার জন্য কোন ওষুধটা ভালো?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516317"
+    },
+    {
+      "english": "Do I need a doctor’s advice first?",
+      "bengali": "ডাক্তারের পরামর্শ আগে লাগবে কি?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516319"
+    },
+    {
+      "english": "Is this prescription for adults only?",
+      "bengali": "এই প্রেসক্রিপশন কি শুধু বড়দের জন্য?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516321"
+    },
+    {
+      "english": "What should I do if it doesn’t work?",
+      "bengali": "এটা কাজ না করলে আমি কী করব?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516323"
+    },
+    {
+      "english": "Can you tell the brand name, please?",
+      "bengali": "আপনি কি ব্র্যান্ডের নামটা বলবেন?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516339"
+    },
+    {
+      "english": "Do you have a cheaper alternative here?",
+      "bengali": "এখানে কি সস্তা বিকল্প আছে?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516341"
+    },
+    {
+      "english": "Should I take it with milk or water?",
+      "bengali": "দুধ দিয়ে খাব, নাকি পানি দিয়ে?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516342"
+    },
+    {
+      "english": "Can I start today, or wait?",
+      "bengali": "আজই শুরু করব, নাকি অপেক্ষা করব?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516404"
+    },
+    {
+      "english": "How long should I keep using it?",
+      "bengali": "এটা কতদিন ব্যবহার করব?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516406"
+    },
+    {
+      "english": "What tests are usually recommended for this?",
+      "bengali": "এই জন্য সাধারণত কী কী টেস্ট লাগে?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516407"
+    },
+    {
+      "english": "Is it okay to drive after taking medicine?",
+      "bengali": "ওষুধ খাওয়ার পর গাড়ি চালানো ঠিক আছে?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516409"
+    },
+    {
+      "english": "Can you explain how to store it?",
+      "bengali": "এটা কীভাবে সংরক্ষণ করতে হবে, বলবেন?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516411"
+    },
+    {
+      "english": "Are there any foods I should avoid?",
+      "bengali": "কোন খাবার এড়িয়ে চলা উচিত?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516414"
+    },
+    {
+      "english": "What time is best for taking it?",
+      "bengali": "এটা খাওয়ার জন্য কোন সময়টা ভালো?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516415"
+    },
+    {
+      "english": "If I miss a dose, what then?",
+      "bengali": "ডোজ মিস করলে, তখন কী করব?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516417"
+    },
+    {
+      "english": "Do I need to shake the syrup?",
+      "bengali": "সিরাপটা কি ঝাঁকাতে হবে?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516419"
+    },
+    {
+      "english": "Can you check my current medicines?",
+      "bengali": "আমার চলতি ওষুধগুলো কি দেখে দেবেন?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516422"
+    },
+    {
+      "english": "Is it safe with my existing conditions?",
+      "bengali": "আমার আগের রোগের সাথে এটা নিরাপদ?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516424"
+    },
+    {
+      "english": "What’s the warning sign I should watch?",
+      "bengali": "কোন সতর্ক লক্ষণ দেখলে আমাকে ডাকবেন?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516426"
+    },
+    {
+      "english": "Can I get a brief summary, please?",
+      "bengali": "আপনি কি একটু সংক্ষেপে বলবেন?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516428"
+    },
+    {
+      "english": "Do I need to wear a mask at clinic?",
+      "bengali": "ক্লিনিকে গেলে কি মাস্ক পরতে হবে?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516430"
+    },
+    {
+      "english": "Which pharmacy items do you recommend here?",
+      "bengali": "এখানে কোন জিনিসগুলো নেওয়া ভালো বলবেন?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516431"
+    },
+    {
+      "english": "Is there any interaction with vitamins?",
+      "bengali": "ভিটামিনের সাথে কি কোনো মিথস্ক্রিয়া আছে?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516433"
+    },
+    {
+      "english": "Can I ask about the side effects briefly?",
+      "bengali": "পাশ্বপ্রতিক্রিয়া সম্পর্কে একটু বলবেন?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516435"
+    },
+    {
+      "english": "How soon should I see improvement?",
+      "bengali": "কত তাড়াতাড়ি উন্নতি আশা করতে পারি?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516436"
+    },
+    {
+      "english": "Do you have generic versions available?",
+      "bengali": "জেনেরিক ভার্সন কি আছে?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516438"
+    },
+    {
+      "english": "Should I take it before bedtime?",
+      "bengali": "ঘুমানোর আগে খাওয়া উচিত কি?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516440"
+    },
+    {
+      "english": "Can you note my contact number, please?",
+      "bengali": "আপনি কি আমার ফোন নম্বরটা লিখে দেবেন?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516441"
+    },
+    {
+      "english": "When is my next follow-up appointment?",
+      "bengali": "আমার পরের ফলোআপ কখন হবে?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516444"
+    },
+    {
+      "english": "Breathe, you’ve got this, stay calm today.",
+      "bengali": "শ্বাস নাও, পারবে, আজ শান্ত থাকো।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516447"
+    },
+    {
+      "english": "Small changes, big healing, trust the process.",
+      "bengali": "ছোট পরিবর্তন, বড় সুস্থতা, প্রক্রিয়ায় বিশ্বাস করো।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516449"
+    },
+    {
+      "english": "Take it easy, your body will adjust.",
+      "bengali": "সহজে নাও, শরীর মানিয়ে নেবে।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516452"
+    },
+    {
+      "english": "Good job, follow instructions, you’ll recover faster.",
+      "bengali": "দারুণ, নির্দেশ মেনে চলো, দ্রুত সুস্থ হবে।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516454"
+    },
+    {
+      "english": "You’re not alone, we’ll guide you.",
+      "bengali": "তুমি একা নও, আমরা গাইড করব।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516457"
+    },
+    {
+      "english": "Every day counts, rest and be kind.",
+      "bengali": "প্রতিদিন গুরুত্বপূর্ণ, বিশ্রাম নাও, নিজের যত্ন নাও।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516459"
+    },
+    {
+      "english": "Be patient, healing usually takes time.",
+      "bengali": "ধৈর্য ধরো, সুস্থ হতে সময় লাগে।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516461"
+    },
+    {
+      "english": "Let’s keep it simple, do what’s scheduled.",
+      "bengali": "চলো সহজ করি, যা ঠিক আছে তাই করো।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516463"
+    },
+    {
+      "english": "You’ve got this, one dose at a time.",
+      "bengali": "পারবে, একবারে এক ডোজ করো।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516465"
+    },
+    {
+      "english": "Your effort matters, take your medicines on time.",
+      "bengali": "তোমার চেষ্টা কাজে দেবে, সময়মতো ওষুধ খাও।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516467"
+    },
+    {
+      "english": "Stay positive, even small progress is progress.",
+      "bengali": "ইতিবাচক থাকো, ছোট উন্নতিও উন্নতি।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516468"
+    },
+    {
+      "english": "Nice job, don’t stop just because it feels better.",
+      "bengali": "দারুণ করেছ, ভালো লাগলেই থেমো না।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516473"
+    },
+    {
+      "english": "You’re strong, listen to your body.",
+      "bengali": "তুমি শক্তিশালী, নিজের শরীরের কথা শুনো।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516475"
+    },
+    {
+      "english": "Try not to stress, focus on the routine.",
+      "bengali": "টেনশন কমাও, রুটিনে ফোকাস করো।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516477"
+    },
+    {
+      "english": "You’re improving, keep doing the basics.",
+      "bengali": "তুমি উন্নতি করছ, বেসিকগুলো চালিয়ে যাও।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516479"
+    },
+    {
+      "english": "Hydrate well, your mood will thank you.",
+      "bengali": "ভালো করে পানি খাও, মনও খুশি হবে।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516480"
+    },
+    {
+      "english": "Confidence first, then the medicine works better.",
+      "bengali": "আগে আত্মবিশ্বাস, তারপর ওষুধ আরও ভালো কাজ করে।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516482"
+    },
+    {
+      "english": "You can do this, just follow the directions.",
+      "bengali": "পারবে, শুধু নির্দেশগুলো মেনে চলো।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516484"
+    },
+    {
+      "english": "Great choice, this plan will support you.",
+      "bengali": "বুদ্ধিমান সিদ্ধান্ত, এই পরিকল্পনা তোমাকে সাহায্য করবে।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516486"
+    },
+    {
+      "english": "Small wins today, stronger tomorrow, promise.",
+      "bengali": "আজ ছোট জয়, কাল আরও শক্তি, কথা দিলাম।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516488"
+    },
+    {
+      "english": "Don’t blame yourself, recovery is a journey.",
+      "bengali": "নিজেকে দোষ দিও না, সুস্থতা একটা যাত্রা।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516490"
+    },
+    {
+      "english": "Let’s solve it calmly, one step now.",
+      "bengali": "চলো শান্তভাবে সামলাই, এখন এক ধাপ।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516492"
+    },
+    {
+      "english": "You’re doing everything right, trust that.",
+      "bengali": "তুমি ঠিকই সব করছ, ওটাই বিশ্বাস করো।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516494"
+    },
+    {
+      "english": "When in doubt, ask, you’re allowed to.",
+      "bengali": "বুঝতে না পারলে জিজ্ঞেস করো, করতে পারো।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516496"
+    },
+    {
+      "english": "Keep your schedule tight, your body likes that.",
+      "bengali": "রুটিনটা ঠিক রাখো, শরীর এটা পছন্দ করে।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516498"
+    },
+    {
+      "english": "Good attitude heals, so keep smiling inside.",
+      "bengali": "ভালো মনই সারায়, তাই ভেতরে হাসো।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516500"
+    },
+    {
+      "english": "You’re learning fast, keep checking and improving.",
+      "bengali": "তুমি দ্রুত শিখছ, দেখে দেখে আরও ভালো করো।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516502"
+    },
+    {
+      "english": "Rest now, you’ll handle tomorrow better.",
+      "bengali": "এখন বিশ্রাম নাও, কাল আরও ভালো সামলাতে পারবে।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516505"
+    },
+    {
+      "english": "Pharmacy wins are small, but they add up.",
+      "bengali": "ফার্মেসির ছোট ছোট জয়, কিন্তু যোগ হয়।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516507"
+    },
+    {
+      "english": "I’m worried, but I’ll stay patient, okay?",
+      "bengali": "আমি চিন্তিত, তবে আমি ধৈর্য ধরব, ঠিক আছে?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516509"
+    },
+    {
+      "english": "Honestly, this feels heavy, can we talk?",
+      "bengali": "সত্যি বলতে, এটা খুব ভারী লাগছে, কথা বলবো?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516518"
+    },
+    {
+      "english": "I need reassurance, not just a prescription.",
+      "bengali": "আমার শুধু প্রেসক্রিপশন নয়, একটু আশ্বাস দরকার।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516521"
+    },
+    {
+      "english": "I’m trying my best, please be gentle.",
+      "bengali": "আমি যথাসাধ্য করছি, দয়া করে একটু কোমল হোন।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516523"
+    },
+    {
+      "english": "Sometimes I overthink, so guide me.",
+      "bengali": "কখনো আমি বেশি ভাবি, তাই আমাকে গাইড করুন।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516526"
+    },
+    {
+      "english": "I’m not trying to rush healing, I promise.",
+      "bengali": "আমি আরোগ্যকে তাড়াহুড়া করছি না, কথা দিচ্ছি।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516529"
+    },
+    {
+      "english": "Doctor, I want clear answers, slowly.",
+      "bengali": "ডাক্তার, আমি পরিষ্কার উত্তর চাই, ধীরে।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516531"
+    },
+    {
+      "english": "Can you explain this like I’m new?",
+      "bengali": "আপনি কি এটা সহজভাবে বুঝিয়ে দেবেন, আমি নতুন হলে?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516533"
+    },
+    {
+      "english": "I feel nervous, but I’m here for help.",
+      "bengali": "আমি নার্ভাস লাগছে, কিন্তু আমি সাহায্যের জন্য এসেছি।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516536"
+    },
+    {
+      "english": "Please don’t judge me, I forget sometimes.",
+      "bengali": "দয়া করে আমাকে বিচার করবেন না, আমি কখনো ভুলে যাই।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516538"
+    },
+    {
+      "english": "I’m listening carefully, tell me what’s next.",
+      "bengali": "আমি মনোযোগ দিয়ে শুনছি, এরপর কী হবে বলুন।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516541"
+    },
+    {
+      "english": "I need a realistic timeline, not false hope.",
+      "bengali": "আমার বাস্তব টাইমলাইন দরকার, মিথ্যে আশা না।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516543"
+    },
+    {
+      "english": "I’m proud I came back, please keep going.",
+      "bengali": "আমি ফিরে এসেছি বলে আমি গর্বিত, চলুন এগোই।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516545"
+    },
+    {
+      "english": "I’m scared of side effects, help me be prepared.",
+      "bengali": "আমি পার্শ্বপ্রতিক্রিয়াকে ভয় পাই, আমাকে প্রস্তুত করুন।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516547"
+    },
+    {
+      "english": "If I miss a dose, what should I do?",
+      "bengali": "যদি আমি একটা ডোজ মিস করি, আমি কী করব?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516549"
+    },
+    {
+      "english": "I don’t want to stop early, explain why.",
+      "bengali": "আমি আগে থামতে চাই না, কেন বলুন।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516552"
+    },
+    {
+      "english": "Right now, I just want to feel safe.",
+      "bengali": "এখনই আমি শুধু নিরাপদ অনুভব করতে চাই।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516553"
+    },
+    {
+      "english": "Pharmacist, thank you for being patient with me.",
+      "bengali": "ফার্মাসিস্ট, আমার সাথে ধৈর্য ধরার জন্য ধন্যবাদ।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516555"
+    },
+    {
+      "english": "I’m trying to stay positive, but it’s hard.",
+      "bengali": "আমি ইতিবাচক থাকতে চাই, কিন্তু এটা কঠিন।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516557"
+    },
+    {
+      "english": "I’ll write it down, so I don’t forget.",
+      "bengali": "আমি লিখে রাখব, যাতে ভুলে না যাই।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516560"
+    },
+    {
+      "english": "It’s okay if I don’t understand fully.",
+      "bengali": "পুরোটা না বুঝলেও সমস্যা নেই।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516562"
+    },
+    {
+      "english": "I want the simplest routine I can follow.",
+      "bengali": "আমি সবচেয়ে সহজ রুটিন চাই, যেটা মেনে চলতে পারি।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516564"
+    },
+    {
+      "english": "Today I’m overwhelmed, can we slow down?",
+      "bengali": "আজ আমি খুব চাপের মধ্যে, আমরা কি ধীরে কথা বলব?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516566"
+    },
+    {
+      "english": "Doctor, I trust you, but explain carefully.",
+      "bengali": "ডাক্তার, আমি আপনাকে বিশ্বাস করি, কিন্তু সাবধানে বুঝিয়ে দিন।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516568"
+    },
+    {
+      "english": "I’m feeling better, so I’m still careful.",
+      "bengali": "আমার ভাল লাগছে, তাই আমি এখনো সাবধান থাকছি।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516570"
+    },
+    {
+      "english": "Please remind me, even small steps matter.",
+      "bengali": "অনুগ্রহ করে মনে করিয়ে দিন, ছোট ধাপও গুরুত্বপূর্ণ।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516572"
+    },
+    {
+      "english": "I’m thankful, and I’ll keep showing up.",
+      "bengali": "আমি কৃতজ্ঞ, আর আমি আসতেই থাকব।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516574"
+    },
+    {
+      "english": "I don’t want surprises, tell me what to watch.",
+      "bengali": "আমি অপ্রত্যাশিত কিছু চাই না, কী দেখতে হবে বলুন।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516576"
+    },
+    {
+      "english": "I’ll take it step by step, no panic.",
+      "bengali": "আমি ধাপে ধাপে নেব, আতঙ্ক নয়।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516578"
+    },
+    {
+      "english": "I’m learning, so correct me if I’m wrong.",
+      "bengali": "আমি শিখছি, তাই আমি ভুল করলে ঠিক করে দিন।",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516580"
+    },
+    {
+      "english": "Can you check my symptoms, please?",
+      "bengali": "আপনি কি আমার উপসর্গগুলো দেখে দেবেন, প্লিজ?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516582"
+    },
+    {
+      "english": "Where do I pick up my medicine?",
+      "bengali": "আমার ওষুধটা কোথায় নিয়ে নেব?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516583"
+    },
+    {
+      "english": "Is this tablet okay with food?",
+      "bengali": "খাবারের সাথে এই ট্যাবলেট খাওয়া যাবে?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T10:48:10.516585"
     }
   ],
-  "last_updated": "2026-11-09T10:59:00.864740"
+  "last_updated": "2026-11-10T10:48:10.516587"
 }
