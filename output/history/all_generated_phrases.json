@@ -17279,7 +17279,727 @@
       "bengali": "খাবারের সাথে এই ট্যাবলেট খাওয়া যাবে?",
       "category": "Doctor & Pharmacy",
       "generated_at": "2026-11-10T10:48:10.516585"
+    },
+    {
+      "english": "Okay, I can try again, calmly.",
+      "bengali": "ঠিক আছে, আমি আবার চেষ্টা করতে পারি, শান্তভাবে।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822068"
+    },
+    {
+      "english": "It’s fine, I’ll handle this right now.",
+      "bengali": "কোনো সমস্যা নেই, আমি এখনই সামলে নেব।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822082"
+    },
+    {
+      "english": "I’m nervous, but I’ll speak anyway.",
+      "bengali": "আমি নার্ভাস, তবু আমি কথা বলব।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822087"
+    },
+    {
+      "english": "No worries, I’ve got your back.",
+      "bengali": "ভয় নেই, আমি তোমার পাশে আছি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822090"
+    },
+    {
+      "english": "Just breathe, and start from here.",
+      "bengali": "শুধু শ্বাস নাও, এখান থেকেই শুরু করো।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822095"
+    },
+    {
+      "english": "I’ll do it, even if it’s hard.",
+      "bengali": "কঠিন হলেও আমি করে ফেলব।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822099"
+    },
+    {
+      "english": "Wait, I’ll figure it out quickly.",
+      "bengali": "থামো, আমি দ্রুত বুঝে নেব।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822103"
+    },
+    {
+      "english": "Let it go, I’ll move forward.",
+      "bengali": "ছেড়ে দাও, আমি এগিয়ে যাব।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822108"
+    },
+    {
+      "english": "I’m scared, but I’m still going.",
+      "bengali": "আমি ভয় পাচ্ছি, তবু যাচ্ছি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822113"
+    },
+    {
+      "english": "Give me a second, I’ll answer.",
+      "bengali": "একটু সময় দাও, আমি উত্তর দিচ্ছি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822116"
+    },
+    {
+      "english": "I can’t now, but later I will.",
+      "bengali": "এখন পারছি না, কিন্তু পরে করব।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822119"
+    },
+    {
+      "english": "I won’t quit, not today, either.",
+      "bengali": "আমি ছাড়ব না, আজও না।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822123"
+    },
+    {
+      "english": "Okay, I’m ready, let’s go.",
+      "bengali": "আচ্ছা, আমি প্রস্তুত, চল যাই।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822126"
+    },
+    {
+      "english": "Try your best, even one step.",
+      "bengali": "তুমি সর্বোচ্চ চেষ্টা করো, এক ধাপ হলেও।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822129"
+    },
+    {
+      "english": "Sorry, I’m late, I’ll catch up.",
+      "bengali": "দুঃখিত, দেরি হলো, আমি ধরে ফেলব।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822132"
+    },
+    {
+      "english": "I’ll be brave, just for today.",
+      "bengali": "আজকের জন্য হলেও সাহসী থাকব।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822135"
+    },
+    {
+      "english": "If it hurts, I’ll still try.",
+      "bengali": "ব্যথা হলেও আমি চেষ্টা করব।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822138"
+    },
+    {
+      "english": "I got this, don’t panic.",
+      "bengali": "আমি পারব, আতঙ্ক কোরো না।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822142"
+    },
+    {
+      "english": "Say it now, don’t overthink.",
+      "bengali": "এখন বলো, বেশি ভাবো না।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822145"
+    },
+    {
+      "english": "I’ll ask first, then decide.",
+      "bengali": "আমি আগে জিজ্ঞেস করব, তারপর সিদ্ধান্ত নেব।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822148"
+    },
+    {
+      "english": "It’s okay, I’ll learn from it.",
+      "bengali": "কোনো সমস্যা নেই, আমি এটা থেকে শিখব।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822151"
+    },
+    {
+      "english": "I’m not perfect, but I try.",
+      "bengali": "আমি নিখুঁত না, তবু চেষ্টা করি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822154"
+    },
+    {
+      "english": "Hold on, I’m coming right now.",
+      "bengali": "থামো, আমি এখনই আসছি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822157"
+    },
+    {
+      "english": "Let’s do it, no more waiting.",
+      "bengali": "চলো করি, আর অপেক্ষা নয়।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822160"
+    },
+    {
+      "english": "I’ll protect my peace, every day.",
+      "bengali": "প্রতিদিন আমি নিজের শান্তি রক্ষা করব।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822163"
+    },
+    {
+      "english": "I’ll speak up, even if awkward.",
+      "bengali": "অস্বস্তি হলেও আমি কথা বলব।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822166"
+    },
+    {
+      "english": "That’s it, I choose courage.",
+      "bengali": "এটাই, আমি সাহস বেছে নিচ্ছি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822169"
+    },
+    {
+      "english": "Keep going, you’re closer than you think.",
+      "bengali": "চলতে থাকো, তুমি ভাবো তার চেয়ে কাছে।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822174"
+    },
+    {
+      "english": "I can’t control everything, but I can.",
+      "bengali": "সবকিছু নিয়ন্ত্রণ করতে পারি না, কিন্তু পারি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822177"
+    },
+    {
+      "english": "I’ll take the risk, step by step.",
+      "bengali": "আমি ঝুঁকি নেব, ধাপে ধাপে।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822180"
+    },
+    {
+      "english": "What’s the next brave step, for me?",
+      "bengali": "আমার জন্য পরের সাহসী পদক্ষেপ কী?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822184"
+    },
+    {
+      "english": "How do I ask for help politely?",
+      "bengali": "আমি কীভাবে ভদ্রভাবে সাহায্য চাইব?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822188"
+    },
+    {
+      "english": "Can you guide me, step by step?",
+      "bengali": "তুমি আমাকে দিকনির্দেশনা দেবে, ধাপে ধাপে?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822191"
+    },
+    {
+      "english": "Where should I start, when I freeze?",
+      "bengali": "আমি যখন জমে যাই, কোথা থেকে শুরু করব?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822194"
+    },
+    {
+      "english": "What should I say, in this situation?",
+      "bengali": "এই পরিস্থিতিতে আমাকে কী বলা উচিত?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822197"
+    },
+    {
+      "english": "Is it okay, to ask this question?",
+      "bengali": "এই প্রশ্ন করা ঠিক আছে?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822200"
+    },
+    {
+      "english": "Could you repeat that, a bit slower?",
+      "bengali": "তুমি কি একটু ধীরে আবার বলবে?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822202"
+    },
+    {
+      "english": "What do you recommend, for my confidence?",
+      "bengali": "আমার আত্মবিশ্বাসের জন্য তুমি কী সাজেস্ট করো?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822205"
+    },
+    {
+      "english": "How can I stay calm, and ask?",
+      "bengali": "আমি কীভাবে শান্ত থাকব, আর জিজ্ঞেস করব?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822208"
+    },
+    {
+      "english": "May I get your advice, please?",
+      "bengali": "আমি কি আপনার পরামর্শ পেতে পারি?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822210"
+    },
+    {
+      "english": "Do you think I should speak first?",
+      "bengali": "তুমি কি মনে করো, আমার আগে বলা উচিত?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822213"
+    },
+    {
+      "english": "What’s a simple question I can ask?",
+      "bengali": "আমি কোন সহজ প্রশ্নটা করতে পারি?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822216"
+    },
+    {
+      "english": "Can I trust my timing, right now?",
+      "bengali": "এই মুহূর্তে কি আমি সময়টা বিশ্বাস করতে পারি?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822218"
+    },
+    {
+      "english": "How would you handle this challenge?",
+      "bengali": "তুমি কীভাবে এই চ্যালেঞ্জ সামলাতে?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822221"
+    },
+    {
+      "english": "Can we talk about what scares me?",
+      "bengali": "আমরা কি এমনটা নিয়ে কথা বলব, যা ভয় লাগে?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822223"
+    },
+    {
+      "english": "What’s the safest brave move here?",
+      "bengali": "এখানে সবচেয়ে নিরাপদ সাহসী পদক্ষেপ কোনটা?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822226"
+    },
+    {
+      "english": "When should I stop doubting myself?",
+      "bengali": "আমি কখন নিজের সন্দেহ থামাব?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822229"
+    },
+    {
+      "english": "What’s one thing I can ask today?",
+      "bengali": "আজ আমি একটা কী প্রশ্ন করতে পারি?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822231"
+    },
+    {
+      "english": "How do I ask without sounding harsh?",
+      "bengali": "আমি কীভাবে কঠিন শোনানো ছাড়াই জিজ্ঞেস করব?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822234"
+    },
+    {
+      "english": "Would you share your courage tip with me?",
+      "bengali": "তুমি কি তোমার সাহসের টিপস আমার সাথে ভাগ করবে?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822236"
+    },
+    {
+      "english": "Is there a better way to ask this?",
+      "bengali": "এটা জিজ্ঞেস করার আরেকটা ভালো উপায় আছে?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822239"
+    },
+    {
+      "english": "What if my answer isn’t perfect?",
+      "bengali": "যদি আমার উত্তরটা একদম পারফেক্ট না হয়?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822242"
+    },
+    {
+      "english": "Can you help me practice this sentence?",
+      "bengali": "তুমি কি আমাকে এই বাক্যটা অনুশীলনে সাহায্য করবে?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822244"
+    },
+    {
+      "english": "What outcome should I aim for?",
+      "bengali": "আমি কোন ফলাফলের দিকে লক্ষ্য করব?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822246"
+    },
+    {
+      "english": "How can I be respectful and bold?",
+      "bengali": "আমি কীভাবে সম্মান রেখে সাহসী হব?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822249"
+    },
+    {
+      "english": "Do you want the short version, or full?",
+      "bengali": "তুমি ছোটটা চাও, নাকি পুরোটা?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822251"
+    },
+    {
+      "english": "What should I ask, before I decide?",
+      "bengali": "সিদ্ধান্ত নেওয়ার আগে আমাকে কী জিজ্ঞেস করা উচিত?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822254"
+    },
+    {
+      "english": "Can I get feedback, once I try?",
+      "bengali": "আমি চেষ্টা করার পর কি তুমি ফিডব্যাক দেবে?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822256"
+    },
+    {
+      "english": "Who can I ask, when I’m stuck?",
+      "bengali": "আমি আটকে গেলে কাকে জিজ্ঞেস করব?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822261"
+    },
+    {
+      "english": "Breathe, then move one step.",
+      "bengali": "শ্বাস নাও, তারপর এক ধাপ এগোও।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822266"
+    },
+    {
+      "english": "My fear talks, I still act.",
+      "bengali": "আমার ভয় কথা বলে, আমি তবু করি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822269"
+    },
+    {
+      "english": "Slow is fine, brave is better.",
+      "bengali": "ধীরে হলেও ঠিক, সাহস বড় কথা।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822271"
+    },
+    {
+      "english": "I’ll try again, calmly, today.",
+      "bengali": "আজ শান্তভাবে আবার চেষ্টা করব।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822275"
+    },
+    {
+      "english": "You did it, be proud of yourself.",
+      "bengali": "তুমি করে ফেলেছ, নিজের গর্ব করো।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822277"
+    },
+    {
+      "english": "Say it once, that’s your power.",
+      "bengali": "একবার বলো, ওটাই তোমার শক্তি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822280"
+    },
+    {
+      "english": "Keep your head up, even shaking.",
+      "bengali": "কাঁপলেও মাথা উঁচু রাখো।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822283"
+    },
+    {
+      "english": "Courage starts with a small yes.",
+      "bengali": "সাহস শুরু হয় ছোট ‘হ্যাঁ’ দিয়ে।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822288"
+    },
+    {
+      "english": "I trust myself, more than yesterday.",
+      "bengali": "আমি নিজের ওপর বিশ্বাস রাখি, গতকালের চেয়ে বেশি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822290"
+    },
+    {
+      "english": "Good job, you’re building strength.",
+      "bengali": "দারুণ, তুমি শক্তি তৈরি করছ।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822294"
+    },
+    {
+      "english": "Not perfect, but moving forward.",
+      "bengali": "পারফেক্ট না, তবু এগোচ্ছি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822296"
+    },
+    {
+      "english": "I can handle this moment, one breath.",
+      "bengali": "এই মুহূর্তটা আমি সামলাতে পারি, এক শ্বাসে।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822299"
+    },
+    {
+      "english": "Today, I choose courage over comfort.",
+      "bengali": "আজ আরাম নয়, সাহস বেছে নিলাম।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822302"
+    },
+    {
+      "english": "Let it be messy, just start.",
+      "bengali": "গোছালো না হলেও, শুরু করো।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822304"
+    },
+    {
+      "english": "I’m learning fast, keep going.",
+      "bengali": "আমি দ্রুত শিখছি, এগিয়ে যাও।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822307"
+    },
+    {
+      "english": "When I doubt, I return to effort.",
+      "bengali": "সন্দেহ এলে, আমি আবার চেষ্টা-তেই ফিরি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822310"
+    },
+    {
+      "english": "Praise your progress, not only results.",
+      "bengali": "শুধু ফল নয়, অগ্রগতির প্রশংসা করো।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822313"
+    },
+    {
+      "english": "I deserve rest, and I’ll rest.",
+      "bengali": "আমি বিশ্রাম পাওয়ার যোগ্য, আমি বিশ্রাম নেব।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822316"
+    },
+    {
+      "english": "Small wins count, celebrate them.",
+      "bengali": "ছোট জয়ও গণ্য, সেগুলো উদযাপন করো।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822319"
+    },
+    {
+      "english": "My voice matters, I will use it.",
+      "bengali": "আমার কথা গুরুত্বপূর্ণ, আমি ব্যবহার করব।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822321"
+    },
+    {
+      "english": "Don’t run from discomfort, adapt.",
+      "bengali": "অস্বস্তি থেকে পালাও না, মানিয়ে নাও।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822324"
+    },
+    {
+      "english": "One kind thought, then another.",
+      "bengali": "একটা ভালো ভাবনা, তারপর আরেকটা।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822327"
+    },
+    {
+      "english": "Courage is practice, not a mood.",
+      "bengali": "সাহস হলো অভ্যাস, মুড না।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822329"
+    },
+    {
+      "english": "I can start even with shaky legs.",
+      "bengali": "কাঁপা পা নিয়েও আমি শুরু করতে পারি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822337"
+    },
+    {
+      "english": "Thank yourself, for showing up.",
+      "bengali": "দেখাতে পারার জন্য নিজেকে ধন্যবাদ দাও।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822340"
+    },
+    {
+      "english": "I’ll stand tall, even quietly.",
+      "bengali": "আমি চুপচাপ হলেও সোজা দাঁড়াব।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822343"
+    },
+    {
+      "english": "Say, “I’ve got this,” and go.",
+      "bengali": "বল, “আমি পারব,” তারপর এগোও।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822346"
+    },
+    {
+      "english": "This is my comeback moment.",
+      "bengali": "এটাই আমার ফিরে আসার মুহূর্ত।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822349"
+    },
+    {
+      "english": "I feel scared, and I don’t quit.",
+      "bengali": "আমার ভয় লাগে, তবু আমি থামি না।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822352"
+    },
+    {
+      "english": "My heart trembles, my choices stay honest.",
+      "bengali": "আমার বুক কাঁপে, তবু সিদ্ধান্ত সত্য থাকে।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822355"
+    },
+    {
+      "english": "I’m naming the fear, it loses grip.",
+      "bengali": "আমি ভয়টা নাম দিচ্ছি, সেটা ধর ছাড়ে।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822358"
+    },
+    {
+      "english": "I pause to listen, not to run.",
+      "bengali": "আমি দম নিই শোনার জন্য, পালানোর জন্য না।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822360"
+    },
+    {
+      "english": "Some days, courage is just staying put.",
+      "bengali": "কিছু দিনে সাহস মানে, এখানেই থাকা।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822365"
+    },
+    {
+      "english": "I can be real, even if I’m nervous.",
+      "bengali": "আমি সত্যি হতে পারি, আমি নার্ভাস হলেও।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822368"
+    },
+    {
+      "english": "I don’t need confidence first, I act first.",
+      "bengali": "আগে আত্মবিশ্বাস লাগে না, আগে আমি কাজ করি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822372"
+    },
+    {
+      "english": "I’m allowed to feel, then choose better.",
+      "bengali": "আমি অনুভব করতে পারি, তারপর ভালোটা বাছি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822375"
+    },
+    {
+      "english": "Quiet courage still counts, it’s not small.",
+      "bengali": "নীরব সাহসও গণ্য হয়, এটা ছোট না।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822378"
+    },
+    {
+      "english": "I admit, I’m unsure, and I keep going.",
+      "bengali": "আমি স্বীকার করি, আমি নিশ্চিত নই, তবু চলি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822381"
+    },
+    {
+      "english": "My feelings are signals, not commands.",
+      "bengali": "আমার অনুভূতি ইশারা, আদেশ নয়।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822384"
+    },
+    {
+      "english": "I trust small steps, they add up.",
+      "bengali": "আমি ছোট পদক্ষেপে ভরসা করি, এগুলো জমে।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822388"
+    },
+    {
+      "english": "I can ask for space, and be kind.",
+      "bengali": "আমি একটু জায়গা চাইতে পারি, তাও ভদ্রভাবে।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822391"
+    },
+    {
+      "english": "I’m learning to stay steady inside.",
+      "bengali": "আমি শিখছি ভেতরে ভেতরে স্থির থাকতে।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822394"
+    },
+    {
+      "english": "When my mind spirals, I return to now.",
+      "bengali": "মন ঘুরপাক খেলে, আমি এখনেই ফিরি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822397"
+    },
+    {
+      "english": "I share the truth slowly, with care.",
+      "bengali": "আমি ধীরে ধীরে সত্যটা বলি, যত্ন নিয়ে।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822399"
+    },
+    {
+      "english": "I don’t bury worries, I work with them.",
+      "bengali": "আমি চিন্তা লুকাই না, ওগুলোর সঙ্গে কাজ করি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822402"
+    },
+    {
+      "english": "I’m proud of my honesty, even today.",
+      "bengali": "আজও আমি আমার সততা নিয়ে গর্ব করি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822405"
+    },
+    {
+      "english": "I can be tender, and still brave.",
+      "bengali": "আমি নরম হতে পারি, তবু সাহসী।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822408"
+    },
+    {
+      "english": "I forgive myself, then try again.",
+      "bengali": "আমি নিজেকে ক্ষমা করি, তারপর আবার চেষ্টা করি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822410"
+    },
+    {
+      "english": "Today, my courage is honest patience.",
+      "bengali": "আজ আমার সাহস হলো সৎ ধৈর্য।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822413"
+    },
+    {
+      "english": "I’m not behind, I’m building slowly.",
+      "bengali": "আমি পিছিয়ে নেই, আমি ধীরে ধীরে গড়ছি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822416"
+    },
+    {
+      "english": "I can admit, I need time.",
+      "bengali": "আমি বলতে পারি, আমার সময় দরকার।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822418"
+    },
+    {
+      "english": "Fear will show up, but so will me.",
+      "bengali": "ভয় আসবে, কিন্তু আমি-ও থাকব।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822421"
+    },
+    {
+      "english": "I choose clarity over panic, again.",
+      "bengali": "আবারও আমি আতঙ্কের বদলে পরিষ্কার ভাব বাছি।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822424"
+    },
+    {
+      "english": "My boundary is kindness, not rejection.",
+      "bengali": "আমার সীমা মানে যত্ন, তা প্রত্যাখ্যান নয়।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822426"
+    },
+    {
+      "english": "I journal the feelings, then breathe.",
+      "bengali": "আমি অনুভূতি লিখি, তারপর শ্বাস নিই।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822429"
+    },
+    {
+      "english": "I can be brave, without being loud.",
+      "bengali": "আমি সাহসী হতে পারি, জোরে না হয়েও।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822431"
+    },
+    {
+      "english": "I’m allowed to start small, and still matter.",
+      "bengali": "আমি ছোট করে শুরু করতে পারি, তবুও আমার মূল্য আছে।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822434"
+    },
+    {
+      "english": "I reflect, then act, with a calmer mind.",
+      "bengali": "আমি ভাবি, তারপর কাজ করি, শান্ত মন নিয়ে।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822437"
+    },
+    {
+      "english": "Before you speak, breathe, then answer.",
+      "bengali": "বলবার আগে, শ্বাস নাও, তারপর উত্তর দাও।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822440"
+    },
+    {
+      "english": "If you mess up, own it, apologize.",
+      "bengali": "ভুল হলে, সেটা ধরো, ক্ষমা চাও।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822443"
+    },
+    {
+      "english": "Say no kindly, don’t over-explain.",
+      "bengali": "নরমভাবে না বলো, বেশি ব্যাখ্যা দিও না।",
+      "category": "Courage",
+      "generated_at": "2026-11-11T10:23:25.822448"
     }
   ],
-  "last_updated": "2026-11-10T10:48:10.516587"
+  "last_updated": "2026-11-11T10:23:25.822450"
 }
