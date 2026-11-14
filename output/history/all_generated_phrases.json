@@ -18391,7 +18391,399 @@
       "transliteration": "Kaaj Sesh e ami BONke fon debo",
       "category": "Family & Home",
       "generated_at": "2026-11-13T07:38:40.345542"
+    },
+    {
+      "english": "I love you more every day",
+      "bengali": "আমি প্রতিদিন আরও বেশি তোমাকে ভালোবাসি",
+      "transliteration": "ami PRO-ti-din A-RO beshi TOM-ke bhalobasi",
+      "category": "Love",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Your laugh makes my heart feel safe",
+      "bengali": "তোমার হাসি আমার হৃদয়কে নিরাপদ লাগে",
+      "transliteration": "tomar HAS-i amar HRID-oy-ke ni-ROP-dO lage",
+      "category": "Love",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "I miss you, it’s not easy",
+      "bengali": "তোমাকে মিস করছি, এটা সহজ না",
+      "transliteration": "tomake MIS-chi-yo, e-TA SHO-jo na",
+      "category": "Love",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "I choose you, again and again",
+      "bengali": "আমি আবারও তোমাকেই বেছে নিই",
+      "transliteration": "ami A-gA-ro tomAkei BE-she ni",
+      "category": "Love",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Let’s not rush, just love",
+      "bengali": "চলো তাড়াহুড়া না করি, শুধু ভালোবাসি",
+      "transliteration": "cholo TA-ড়া-hu-Ra na kO-ri, shudhu bhalobasi",
+      "category": "Love",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Say you’ll stay a little longer",
+      "bengali": "বল তো তুমি একটু আর থেকে যাবে",
+      "transliteration": "bol to tumi EK-tu AR thE-ke JABE",
+      "category": "Love",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "My world feels brighter with you",
+      "bengali": "তোমার সঙ্গে আমার পৃথিবীটা উজ্জ্বল লাগে",
+      "transliteration": "tomar SHONG-ge amar prith-i-dI-TA uj-jwal lage",
+      "category": "Love",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "I wake up at six sharp.",
+      "bengali": "আমি ঠিক ছটা বাজে ঘুম থেকে উঠি।",
+      "transliteration": "Ami TIK chhôṭa BAJE ghum thêke UTHI.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "I make my bed right away.",
+      "bengali": "আমি সাথে সাথে বিছানা গোছাই।",
+      "transliteration": "Ami SAATHE saathe bichhana GOCHAI.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "I wash my face and brush teeth.",
+      "bengali": "আমি মুখ ধুই, আর দাঁত মাজি।",
+      "transliteration": "Ami MUKH dhui, aar DAANT MAJI.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "I grab chai before leaving home.",
+      "bengali": "বের হওয়ার আগে আমি এক কাপ চা খাই।",
+      "transliteration": "Ber hōyar age ami ek kap CHAA KHAI.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "I pack my bag for work.",
+      "bengali": "আমি কাজের জন্য ব্যাগ গুছিয়ে নেই।",
+      "transliteration": "Ami KAJ-er jônno baag GUchhiye NEI.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "I commute by bus, usually.",
+      "bengali": "আমি সাধারণত বাসে যাতায়াত করি।",
+      "transliteration": "Ami SAAMAANYO bhaṣe YAATAYAT kori.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "I check messages on the way.",
+      "bengali": "যাওয়ার পথে আমি মেসেজ দেখে নিই।",
+      "transliteration": "Jaowar PATHE ami MESHAJ DEKHE NEI.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "I like how you laugh, seriously.",
+      "bengali": "তোমার হাসিটা খুব ভালো লাগে, সত্যি বলছি।",
+      "transliteration": "tOmar haasitA khUb bhalo lAge, SOT-ti bolchi.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Can we grab coffee this weekend?",
+      "bengali": "এই সপ্তাহান্তে আমরা কফি খেতে চলবে?",
+      "transliteration": "e-i saptAhante amrA kofi khete cholbe?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Text me when you’re free tonight.",
+      "bengali": "আজ রাতে ফ্রি হলে আমাকে মেসেজ দিও।",
+      "transliteration": "aj ra-te fri hole amake me-she-j di-o.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Hold my hand, just for a minute.",
+      "bengali": "এক মিনিটের জন্য হাতটা ধরো।",
+      "transliteration": "ek mi-ni-ter jonne hat-tA dhoro.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "I feel safe talking to you.",
+      "bengali": "তোমার সাথে কথা বললে আমার খুব নিরাপদ লাগে।",
+      "transliteration": "tOmar sathe kotha bol-le amar khub ni-rA-pod lAge.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "What’s your love story so far?",
+      "bengali": "এখন পর্যন্ত তোমার প্রেমের গল্প কী?",
+      "transliteration": "e-khon totok tOmar pre-mer gol-po ki?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Let’s plan something small and sweet.",
+      "bengali": "চলো, কিছু ছোট আর মিষ্টি প্ল্যান করি।",
+      "transliteration": "cholo, kichu chOt-tO ar misti plAn kori.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Small steps beat waiting for motivation",
+      "bengali": "ছোট ছোট পদক্ষেপই অনুপ্রেরণা জোগায়, অপেক্ষা কমাও",
+      "transliteration": "chhoTo chhoTo podokhep-i onupreRona jogay, opekkha komao",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "I borrow courage from my routines",
+      "bengali": "আমি নিজের রুটিন থেকে সাহস ধার করি",
+      "transliteration": "ami nijer rutIn theke saahs dhar kori",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Today, I do one brave thing",
+      "bengali": "আজ, আমি একটা সাহসী কাজ করি",
+      "transliteration": "aaj, ami ekTa sahasI kaj kori",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Your future starts in the next hour",
+      "bengali": "তোমার ভবিষ্যৎ শুরু হয় পরের এক ঘন্টায়",
+      "transliteration": "tomar bhobishyot shuru hoy porer ek ghonta-y",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "When I feel stuck, I change pace",
+      "bengali": "আমি আটকে গেলে, গতি বদলাই",
+      "transliteration": "ami atke gele, gati bodlai",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Music turns my doubts into action",
+      "bengali": "গান আমার সন্দেহকে কাজে বদলে দেয়",
+      "transliteration": "gaan amar shondhey-ke kaaje bodle dey",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "One kind message can lift your day",
+      "bengali": "একটা ভালো বার্তা দিনটা উঁচু করে দেয়",
+      "transliteration": "ekTa bhalo barTa dinTa unchu kore dey",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "I brew tea, slowly, for calm.",
+      "bengali": "আমি চা বানাই, ধীরে ধীরে, শান্তির জন্য।",
+      "transliteration": "Ami CHA BA-nai, DHE-re DHE-re, SA-ntir JON-NE.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Sunday mornings, I go cycling.",
+      "bengali": "রবিবার সকাল বেলা আমি সাইকেল চালাই।",
+      "transliteration": "R-bo-BAR SA-kaL BE-la ami SI-kel CHA-lai.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "I love sketching little city scenes.",
+      "bengali": "আমি ছোট ছোট শহরের দৃশ্য আঁকতে ভালোবাসি।",
+      "transliteration": "Ami CHO-tto CHO-tto SHO- ro-er DRISSHYO AANK-te BHA-LOBA-Shi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "My favorite hobby is cooking new meals.",
+      "bengali": "আমার প্রিয় শখ হলো নতুন খাবার রান্না করা।",
+      "transliteration": "A-mar PRI-y CHOK-ho-le NO-tun KHA-baR RA-NNA KĀ-ra.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "I read before bed, every night.",
+      "bengali": "আমি প্রতিদিন রাতে ঘুমানোর আগে পড়ি।",
+      "transliteration": "Ami PRO-ti-DIN RA-te GHU-ma-noR AGE po-ri.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "I play badminton after work.",
+      "bengali": "কাজ শেষে আমি ব্যাডমিন্টন খেলি।",
+      "transliteration": "KAJ SHE-shE ami BYAAd-min-TON KHE-li.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "I journal my thoughts, no pressure.",
+      "bengali": "আমি চাপ ছাড়াই, নিজের ভাবনা লিখে রাখি।",
+      "transliteration": "Ami CHAP chhaa-rai, NI-jer bhaV-na LI-khe Ra-akhi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "I’ll have the chicken biryani, please.",
+      "bengali": "আমি চিকেন বিরিয়ানি নেব, দয়া করে।",
+      "transliteration": "Ami CHiKEN biRiYAAni NIB, DAYA kore",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Can I get it without onions?",
+      "bengali": "পেঁয়াজ ছাড়া এটা কি পাওয়া যাবে?",
+      "transliteration": "PEN yaaj CHAAŊaa EITA ki PAA yaabe",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Do you have a spicy option?",
+      "bengali": "আপনারা কি ঝাল অপশন দেন?",
+      "transliteration": "ApNAra ki ZHAAL AP shon den",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "I want mild spice, please.",
+      "bengali": "আমি একটু কম ঝাল চাই, দয়া করে।",
+      "transliteration": "Ami Ektu kom ZHAAL CHAAI, DAYA kore",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "What’s the cost of this combo?",
+      "bengali": "এই কম্বোর দাম কত?",
+      "transliteration": "Ei kom bOR DAAM kOT",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Please add extra rice.",
+      "bengali": "দয়া করে আরও ভাত দিন।",
+      "transliteration": "DAYA kore AARO bhaat DIN",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Is the water free here?",
+      "bengali": "এখানে কি পানি ফ্রি?",
+      "transliteration": "EkhAAne ki PAni FRii",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Success feels better than perfection",
+      "bengali": "সাফল্য পরিপূর্ণতার চেয়ে ভালো লাগে",
+      "transliteration": "saphallya poripurnotar cheye bhalo laage",
+      "category": "Success",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "I win by trying again",
+      "bengali": "আমি আবার চেষ্টা করে জিতি",
+      "transliteration": "ami abar cheshta kore jiti",
+      "category": "Success",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Small steps, big success",
+      "bengali": "ছোট পদক্ষেপ, বড় সাফল্য",
+      "transliteration": "chhot podokkhep, boro saphallya",
+      "category": "Success",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Today I focus, success follows",
+      "bengali": "আজ আমি মনোযোগ দিই, সাফল্য আসে",
+      "transliteration": "aaj ami monoyog dii, saphallya ashe",
+      "category": "Success",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Hard work pays off, honestly",
+      "bengali": "পরিশ্রমের ফল মিলবে, সত্যি",
+      "transliteration": "porishromer fol milbe, suttyi",
+      "category": "Success",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "I keep my promise to myself",
+      "bengali": "আমি নিজের প্রতিশ্রুতি রাখি",
+      "transliteration": "ami nijer prtishruti raakhi",
+      "category": "Success",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "My goals get clearer every week",
+      "bengali": "প্রতি সপ্তাহে আমার লক্ষ্য আরও স্পষ্ট হয়",
+      "transliteration": "proti shoptaho amar lojjo aro sposhto hoy",
+      "category": "Success",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Keep learning even on busy days",
+      "bengali": "ব্যস্ত দিনেও শিখতে থাকুন, থামবেন না",
+      "transliteration": "ByastO dInEO SHIkhte thAkun, thAmবেন nA",
+      "category": "Wisdom",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Ask questions, that’s real knowledge",
+      "bengali": "প্রশ্ন করুন, সেখানেই আসল জ্ঞান",
+      "transliteration": "PROSHNO kun, SEKhAnei AASOl JNAn",
+      "category": "Wisdom",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Read one honest source daily",
+      "bengali": "প্রতিদিন একটাই সত্যি উৎস থেকে পড়ুন",
+      "transliteration": "ProtIDIn eKitA SHUTTi OTsor thEKE paRUn",
+      "category": "Wisdom",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Trust evidence, not loud opinions",
+      "bengali": "জোরালো মত নয়, প্রমাণের ওপর ভরসা করুন",
+      "transliteration": "JORALO moT noy, PROMAner OPor bhorosA kun",
+      "category": "Wisdom",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Learn a skill, not just facts",
+      "bengali": "শুধু তথ্য নয়, একটি দক্ষতা শিখুন",
+      "transliteration": "Shudhu tTHOkhO noy, eKiTi DIKShOta SHIkhun",
+      "category": "Wisdom",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Knowledge grows when you practice",
+      "bengali": "অনুশীলনে জ্ঞান বাড়ে, মনে রাখুন",
+      "transliteration": "ONushILeNE JNAn bARe, mONE rAkhun",
+      "category": "Wisdom",
+      "generated_at": "2026-11-14T07:22:10.573506"
+    },
+    {
+      "english": "Take notes, your future self thanks",
+      "bengali": "নোট নিন, পরে আপনার নিজেরই কাজে লাগে",
+      "transliteration": "NoT nin, pore AponAr nijE rKaje lAge",
+      "category": "Wisdom",
+      "generated_at": "2026-11-14T07:22:10.573506"
     }
   ],
-  "last_updated": "2026-11-13T07:38:40.345542"
+  "last_updated": "2026-11-14T07:22:10.573506"
 }
