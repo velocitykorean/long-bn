@@ -19959,7 +19959,399 @@
       "transliteration": "AMRA pICHIE porchhi, DAYA kore TAARATOARI korun.",
       "category": "Work & Office",
       "generated_at": "2026-11-17T08:50:56.373904"
+    },
+    {
+      "english": "What do you want to be for?",
+      "bengali": "তুমি কিসের জন্য থাকতে চাও?",
+      "transliteration": "tumi kiser jonno thakte chao,",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "I’m choosing this with purpose.",
+      "bengali": "আমি এইটা উদ্দেশ্য দিয়েই বেছে নিচ্ছি।",
+      "transliteration": "ami eita uddeSshy diyei beche nicchi,",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "My goal is kindness, first.",
+      "bengali": "আমার লক্ষ্য আগে দয়া।",
+      "transliteration": "amar lojjo aage daa,",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Let’s align actions with values.",
+      "bengali": "চলো কাজকে মানগুলোর সাথে মেলাই।",
+      "transliteration": "cholo kaajke maan-der shathe melai,",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "I want my time to matter.",
+      "bengali": "আমি চাই আমার সময়টা অর্থপূর্ণ হোক।",
+      "transliteration": "ami chai amar shomoy-ta orthopurno hok,",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Tell me the real reason, please.",
+      "bengali": "দয়া করে আমাকে আসল কারণটা বলো।",
+      "transliteration": "daya kore amake ashol kaaron-ta bolo,",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "This helps, and I mean it.",
+      "bengali": "এটা কাজে দেয়, আমি সিরিয়াস।",
+      "transliteration": "eita kaaje dey, ami sierius,",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Call emergency services now, please.",
+      "bengali": "এখনই জরুরি সাহায্য নম্বরে কল করুন, প্লিজ।",
+      "transliteration": "Ekhon-i joruri shahayy nombore kol korun, pliz.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Are you having trouble breathing?",
+      "bengali": "আপনার কি শ্বাস নিতে কষ্ট হচ্ছে?",
+      "transliteration": "Apnar ki shash nite koshto hochhe?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Sit upright, keep your airway open.",
+      "bengali": "সোজা বসুন, শ্বাসনালী খোলা রাখুন।",
+      "transliteration": "Soja bosun, shashnali khola rakhun.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Use the inhaler if you have one.",
+      "bengali": "আপনার কাছে ইনহেলার থাকলে ব্যবহার করুন।",
+      "transliteration": "Apnar kache inhaler thakle byabohar korun.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Loosen tight clothing around your neck.",
+      "bengali": "গলার আশেপাশের টাইট কাপড় ঢিলা করুন।",
+      "transliteration": "Golar ashepasher tait kapor dhila korun.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Take slow sips of water, not big gulps.",
+      "bengali": "একটু একটু করে পানি খান, একসাথে বেশি না।",
+      "transliteration": "Ektu ektu kore pani khaan, ekshathe beshi na.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "If you vomit, turn them onto side.",
+      "bengali": "বমি হলে পাশ ফিরে দিন।",
+      "transliteration": "Bomi hole pas phire din.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Breathe in, soften my shoulders.",
+      "bengali": "শ্বাস নাও, আমার কাঁধটা নরম করি।",
+      "transliteration": "SHWAS NAO, amar kandh-ta NOROM kori.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "I can notice fear without obeying.",
+      "bengali": "আমি ভয়টাকে খেয়াল করতে পারি, মানতে বাধ্য নই।",
+      "transliteration": "AMi bhoy-ta-ke KHEyal korte pari, MANte baDdhyo noi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Let attention return to the present.",
+      "bengali": "মনোযোগটা ফিরিয়ে আনো এই মুহূর্তে।",
+      "transliteration": "MONoJOG-ta phiriye ANO eI muhurte.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "My body knows, I listen gently.",
+      "bengali": "আমার শরীর জানে, আমি আস্তে শুনি।",
+      "transliteration": "amar SHORIr jAne, ami ASTe shUNI.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "I don’t have to react right now.",
+      "bengali": "এখনই প্রতিক্রিয়া দেওয়ার দরকার নেই।",
+      "transliteration": "EKhon-i protikriya DEoar dorkar NEI.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Slow eyes, slow thoughts, calm returns.",
+      "bengali": "চোখ ধীরে, ভাবনা ধীরে, শান্তি ফিরে আসে।",
+      "transliteration": "CHOkh Dhire, bhAAvna Dhire, SHANti phire AShe.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "I choose curiosity over judgment.",
+      "bengali": "আমি বিচার নয়, কৌতূহল বেছে নিই।",
+      "transliteration": "AMi JUj-er na, KOUTuHOal bEshe ni.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "I take one step, then another.",
+      "bengali": "আমি এক ধাপ নিই, তারপর আরেকটা।",
+      "transliteration": "Ami ek dhap NEi, tarpor arokkhata.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Small wins, big staying power.",
+      "bengali": "ছোট জয়, বড় টিকে থাকার শক্তি।",
+      "transliteration": "Choto joy, boro Tike thakar shokti.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "I pause, then keep working.",
+      "bengali": "আমি থামি, তারপর কাজ চালাই।",
+      "transliteration": "Ami THAMI, tarpor kaj chaliye Jai.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "I miss days, then restart gently.",
+      "bengali": "আমি কয়েক দিন মিস করি, তারপর আস্তে করে আবার শুরু করি।",
+      "transliteration": "Ami koyek din mis kori, tarpor aste kore abar shuru kori.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Even setbacks teach me the way.",
+      "bengali": "হোঁচট খেলেও সেটা আমাকে পথ দেখায়।",
+      "transliteration": "Hochot kheleo sheta amake poth dekhay.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "I set a timer, I begin now.",
+      "bengali": "আমি টাইমার সেট করি, এখনই শুরু করি।",
+      "transliteration": "Ami TAimar set kori, ekhon-i shuru kori.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "My effort counts more than mood.",
+      "bengali": "আমার চেষ্টা মনের চেয়ে বেশি গণ্য।",
+      "transliteration": "Amar cheshta moner cheye beshi gonyo.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "What does this cost include?",
+      "bengali": "এটার দামে কী কী অন্তর্ভুক্ত আছে?",
+      "transliteration": "Etar dame ki ki ONTORBHU KTO ache?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Is there any ongoing discount?",
+      "bengali": "এখন কি কোনো ছাড় চলছে?",
+      "transliteration": "Ekhon ki kono SHAR chOLCHE?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Can you do a small bundle deal?",
+      "bengali": "দুইটা নিলে কি কিছুটা প্যাকেজ রেট হবে?",
+      "transliteration": "Duita nile ki kichuta PACKET rate hobe?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "What’s the price per unit?",
+      "bengali": "প্রতি ইউনিটে দাম কত?",
+      "transliteration": "Proti UNIT e dam koto?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Can I pay by card or cash?",
+      "bengali": "কার্ডে বা ক্যাশে পেমেন্ট করা যাবে?",
+      "transliteration": "Card-e ba CASH-e pEment kora jabe?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Do you offer installation or setup?",
+      "bengali": "ইনস্টলেশন বা সেটআপ কি করে দেন?",
+      "transliteration": "Installation ba SETUP ki kore den?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Is the warranty included in price?",
+      "bengali": "ওয়ারেন্টি কি দামের মধ্যে আছে?",
+      "transliteration": "Warranty ki DAM er moddhe ache?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Pass the snacks, please, I’m hungry.",
+      "bengali": "চল, একটু স্ন্যাকস দাও, প্লিজ, আমার খুব ক্ষুধা লাগছে।",
+      "transliteration": "Chol, ektu snacks dao, pliz, amar khub KHUdha lagchhe.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Cheers to good company, tonight!",
+      "bengali": "আজ রাতের ভালো সঙ্গের জন্য চিয়ার্স!",
+      "transliteration": "Aaj rater bhalo SONG-er jonno CHEERs!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Let’s dance for one song, just one.",
+      "bengali": "চলো, একটাই গান নাচি, শুধু একটাই।",
+      "transliteration": "Cholo, ektaI GAAN nachi, shudhu ektaI.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Who made this playlist, it’s perfect.",
+      "bengali": "এই প্লেলিস্ট কে বানিয়েছে, একদম পারফেক্ট।",
+      "transliteration": "Ei playlist ke banaIyechhe, ekdom PERFECT.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "I’ll grab the cake, don’t worry.",
+      "bengali": "আমি কেকটা নিয়ে আসছি, চিন্তা কোরো না।",
+      "transliteration": "Ami kektA niye aschhi, chinta KORo na.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Happy birthday, and make it a great one.",
+      "bengali": "শুভ জন্মদিন, আর এটাকে দারুণ করে দাও।",
+      "transliteration": "Shubho jonmodin, aar etake darun kore dao.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "We deserve this break, so enjoy.",
+      "bengali": "আমরা এই বিরামটা পাওয়ার যোগ্য, তাই উপভোগ করো।",
+      "transliteration": "Amra eI biraM-ta pawar joggyo, tai upbhog KORo.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Thank you for showing up for me.",
+      "bengali": "আমার পাশে থাকার জন্য ধন্যবাদ।",
+      "transliteration": "Thank YOU for SHOW-ing up FOR me.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "I really appreciate your steady kindness.",
+      "bengali": "আপনার স্থির দয়াটা আমি সত্যিই কৃতজ্ঞ।",
+      "transliteration": "I re-AL-ly ap-PRE-ciate your STEA-dy KINd-ness.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "That call calmed me down, thanks.",
+      "bengali": "ওই ফোনটা আমাকে শান্ত করল, ধন্যবাদ।",
+      "transliteration": "That CALL calmed me DOWN, THANKS.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Thanks for listening without fixing.",
+      "bengali": "ঠিক করার চেষ্টা না করে শুনবার জন্য ধন্যবাদ।",
+      "transliteration": "THANKS for LIS-ten-ing with-OUT FIX-ing.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Your support made things feel possible.",
+      "bengali": "আপনার সহায়তায় সবকিছু সম্ভব মনে হলো।",
+      "transliteration": "Your sup-PORT made THINGS feel POS-si-ble.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "I feel grateful for your gentle honesty.",
+      "bengali": "আপনার মোলায়েম সততার জন্য আমি কৃতজ্ঞ।",
+      "transliteration": "I FEEL grate-FUL for your GEN-tle ON-ess-ty.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "You helped me breathe again.",
+      "bengali": "আপনি আমাকে আবার নিঃশ্বাস নিতে সাহায্য করেছেন।",
+      "transliteration": "You HELPED me BREATHE a-GAIN.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "How do I reach the elevator?",
+      "bengali": "লিফটটা কোথায়, বলবেন?",
+      "transliteration": "Lift-ta kothay, bolben?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Can I have extra towels, please?",
+      "bengali": "আরও তোয়ালে দিতে পারবেন, প্লিজ?",
+      "transliteration": "Aro toyalé dite parben, plIZ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Is breakfast included in my rate?",
+      "bengali": "আমার রেটে নাস্তা কি অন্তর্ভুক্ত?",
+      "transliteration": "Amar rate-e nashta ki ontorbhukto?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "What time is check-out tomorrow?",
+      "bengali": "কাল চেক আউট কতটায় হবে?",
+      "transliteration": "Kal check-out kottay hobe?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Could I get a quieter room?",
+      "bengali": "একটা আরও শান্ত ঘর পাওয়া যাবে কি?",
+      "transliteration": "Ektu aro shanto ghor pawa jabe ki?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Do you have laundry service here?",
+      "bengali": "এখানে কি লন্ড্রি সার্ভিস আছে?",
+      "transliteration": "Ekhane ki laundri servis ache?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "I need an extra key, please.",
+      "bengali": "আরেকটা চাবি দিতে পারবেন, প্লিজ।",
+      "transliteration": "Aarekta chabi dite parben, plIZ.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T08:16:01.061384"
     }
   ],
-  "last_updated": "2026-11-17T08:50:56.373904"
+  "last_updated": "2026-11-18T08:16:01.061384"
 }
