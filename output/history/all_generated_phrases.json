@@ -20351,7 +20351,399 @@
       "transliteration": "Aarekta chabi dite parben, plIZ.",
       "category": "Hotel & Accommodation",
       "generated_at": "2026-11-18T08:16:01.061384"
+    },
+    {
+      "english": "Doctor, can you review my test results?",
+      "bengali": "ডাক্তার, আমার টেস্টের ফলটা কি দেখে বলবেন?",
+      "transliteration": "DokTOR, amar TEST-er folTa ki dekhe bolবেন?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "What symptoms should trigger urgent care?",
+      "bengali": "কোন লক্ষণ দেখলে জরুরি চিকিৎসা দরকার?",
+      "transliteration": "Kon lokkhon dekHle JORUri tchikitsa dorkar?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "Does this medicine interact with my others?",
+      "bengali": "এই ওষুধটা কি আমার অন্য ওষুধের সাথে মিশে সমস্যা করবে?",
+      "transliteration": "Ei OShudhTa ki amar ONno OShuDer sathe mishe SHomossa korbe?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "I need the dose timing, exactly please.",
+      "bengali": "ডোজের সময়টা ঠিক করে বলুন, দয়া করে।",
+      "transliteration": "DOZ-er somoyTa ekdom kore bolun, daYA kore.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "Can you explain the side effects calmly?",
+      "bengali": "আপনি কি শান্তভাবে সম্ভাব্য পার্শ্বপ্রতিক্রিয়াগুলো বুঝিয়ে বলবেন?",
+      "transliteration": "Aapni ki SHONTho vabe somvabyo PARShvoprotiKriya-gulo bujhiye bolবেন?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "Is it okay to take this at night?",
+      "bengali": "রাতে এটা খাওয়া কি ঠিক আছে?",
+      "transliteration": "RAate eTA khaWAa ki thik ache?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "How long will I need this medication?",
+      "bengali": "এই ওষুধ খেতে আমাকে আর কতদিন লাগবে?",
+      "transliteration": "Ei OShudh khaite amake ar kotoDIN lagbe?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "I show up even shaking.",
+      "bengali": "আমি কাঁপলেও উপস্থিত থাকি।",
+      "transliteration": "Ami KA-পি-le-o upo-STHI-tha-ki.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "Courage is making the call.",
+      "bengali": "সাহস মানে কলটা করা।",
+      "transliteration": "SHAHS maane KOL-taa ke-raa.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "I can be nervous and ready.",
+      "bengali": "আমি নার্ভাস হলেও প্রস্তুত থাকতে পারি।",
+      "transliteration": "Ami NAR-VAS-e-o pre-STUT tha-k-te pa-ri.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "I breathe, then step forward.",
+      "bengali": "আমি শ্বাস নিই, তারপর এক ধাপ এগোই।",
+      "transliteration": "Ami SHAA-s ni, tar-POR ek dhaap e-GOI.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "I do the next right thing.",
+      "bengali": "আমি পরের সঠিক কাজটা করি।",
+      "transliteration": "Ami por-er SHI-kh kaaj-taa ke-ri.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "My fear rides shotgun, not driver.",
+      "bengali": "আমার ভয় সাইডে বসে, চালায় না।",
+      "transliteration": "A-mAR bhoy saai-de-bo-se, cha-a-ye naa.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "I stay kind when I’m under pressure.",
+      "bengali": "চাপের মধ্যে থাকলেও আমি নরম থাকি।",
+      "transliteration": "CHAP-er mod-dhe thaak-le-o a-mi NORM thaaki.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "How’s the sky today, really?",
+      "bengali": "আজ আকাশ কেমন দেখাচ্ছে, সত্যি করে বলো তো?",
+      "transliteration": "Aaj akaash kemon dekhaachhe, TRY-ei bole to?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "The clouds look heavy, huh?",
+      "bengali": "মেঘগুলো ভারী লাগছে, তাই না?",
+      "transliteration": "MeghGULO bhaari laagchhe, TAi na?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "Sun’s out, finally, feels nice.",
+      "bengali": "অবশেষে রোদ বেরিয়েছে, সত্যিই ভালো লাগছে।",
+      "transliteration": "ObosheSH-e rod beriyechhe, sotti-i bhaalo laagchhe.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "I’m bringing a light jacket.",
+      "bengali": "আমি একটা হালকা জ্যাকেট আনছি।",
+      "transliteration": "Ami ekta haalkaa jaket aanchhi.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "It’s cool in the shade today.",
+      "bengali": "আজ ছায়ায় বেশ ঠান্ডা লাগছে।",
+      "transliteration": "Aaj chhaay-e besh thanda laagchhe.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "Is the air getting drier?",
+      "bengali": "হাওয়া কি আরও শুষ্ক হচ্ছে?",
+      "transliteration": "Haoa ki aro SHUSHK hocche?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "That breeze feels refreshing, doesn’t it?",
+      "bengali": "ওই হাওয়াটা বেশ সতেজ লাগছে, তাই না?",
+      "transliteration": "Oi haoaTaa besh SHOTEJ laagchhe, TAi na?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "Hope keeps knocking, I answer.",
+      "bengali": "আশা কড়া নাড়ে, আমি দরজা খুলে দিই।",
+      "transliteration": "ASHA KORA NADE, ami DORJA KHULE DII",
+      "category": "Hope",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "I breathe, and hope comes back.",
+      "bengali": "আমি শ্বাস নেই, আর আশা ফিরে আসে।",
+      "transliteration": "ami SHASH NEI, aar ASHA FIRE AASE",
+      "category": "Hope",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "Today, I choose hope over fear.",
+      "bengali": "আজ আমি ভয়ের উপর আশা বেছে নিই।",
+      "transliteration": "AAJ ami VOYER OUPOR ASHA BECHE NII",
+      "category": "Hope",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "I’m not giving up on tomorrow.",
+      "bengali": "আমি কালকের আশা ছেড়ে দিচ্ছি না।",
+      "transliteration": "ami KALKER ASHA CHERE DICCHI NA",
+      "category": "Hope",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "Hope turns my mind toward solutions.",
+      "bengali": "আশা আমার মাথা সমাধানের দিকে ঘুরিয়ে দেয়।",
+      "transliteration": "ASHa amar MATHA SOMADANER DIKE GHURIE DEY",
+      "category": "Hope",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "Even quiet hope helps me sleep.",
+      "bengali": "নীরব আশা আমাকে ঘুমাতে সাহায্য করে।",
+      "transliteration": "NIROB ASHA AMAKE GHUMATE SAHAYYA KORE",
+      "category": "Hope",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "I hold hope in my pocket.",
+      "bengali": "আমি আশাকে পকেটে ধরে রাখি।",
+      "transliteration": "ami ASHAKE POKETE DHORE RAKHI",
+      "category": "Hope",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "Can I borrow your broom for today?",
+      "bengali": "আজ কি আমি আপনার ঝাড়ুটা ধার নিতে পারি?",
+      "transliteration": "Aaj ki ami APnAR JHAARUtaa dhaar nite parI?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "The kids are asleep, be quiet.",
+      "bengali": "বাচ্চারা ঘুমিয়ে গেছে, চুপ করে থাকো।",
+      "transliteration": "BACCHARa GHUmiye GEche, chUp kore THAKO.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "I’m buying curtains for the living room.",
+      "bengali": "আমি বসার ঘরের জন্য পর্দা কিনছি।",
+      "transliteration": "Ami BOSAAR GHRer JONno PORDaa kinchhi.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "We need more shelf space for books.",
+      "bengali": "বই রাখার জন্য আমাদের আরও তাক দরকার।",
+      "transliteration": "BOI raakhar JONno aamader aARO tak dorkar.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "My dad is fixing the leaking tap.",
+      "bengali": "আমার বাবা লিক করা কলটা ঠিক করছেন।",
+      "transliteration": "aamar BAABA lik karaa KOLtaa thik korchhen.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "Who’s coming over this Sunday?",
+      "bengali": "এই রবিবার কে কে আসছে?",
+      "transliteration": "Ei ROBIBAR KE ke aschhe?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "Please put the laundry in the dryer.",
+      "bengali": "দয়া করে ধোয়া কাপড়টা ড্রায়ারে দিন।",
+      "transliteration": "Doyaa kore DHOyaa kapRaaTaa drYAare din.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "Can I deposit cash here?",
+      "bengali": "আমি কি এখানে নগদ জমা দিতে পারি?",
+      "transliteration": "Ami ki ekhane নগদ joma dite PARI?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "Where do I get a bank statement?",
+      "bengali": "আমি ব্যাংকের স্টেটমেন্ট কোথা থেকে পাব?",
+      "transliteration": "Ami bank er statement KOTHAY theke PAB?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "Do you charge for international transfers?",
+      "bengali": "আন্তর্জাতিক ট্রান্সফারে কি চার্জ আছে?",
+      "transliteration": "Antorjatik transfer e ki CHARDJ ache?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "What is the exchange rate today?",
+      "bengali": "আজকের বিনিময় হার কত?",
+      "transliteration": "A jker BINIMOY HAR koto?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "Can I add money to my card?",
+      "bengali": "আমি কি কার্ডে টাকা যোগ করতে পারি?",
+      "transliteration": "Ami ki card e TAKA JOG korte PARI?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "My transfer says pending, why?",
+      "bengali": "আমার ট্রান্সফার pending দেখাচ্ছে, কেন?",
+      "transliteration": "Amar transfer PENding dekha cche, KENO?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "How long will this transaction take?",
+      "bengali": "এই লেনদেনটা হতে কতক্ষণ লাগবে?",
+      "transliteration": "Ei LENDEN ta hote kOTOKKHON lagbe?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "I belong here, I really do.",
+      "bengali": "আমি এখানে মানাই, সত্যি বলছি।",
+      "transliteration": "Ami ekhane manai, SATTI bolchi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "I pause, then I choose my words.",
+      "bengali": "আমি থামি, তারপর নিজের কথা বেছে নিই।",
+      "transliteration": "Ami THAMI, tarpor nijer katha bEche ni.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "Small mistakes won’t stop my progress.",
+      "bengali": "ছোট ভুল আমাকে থামাবে না।",
+      "transliteration": "Choto bhul amake THAMABE na.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "My effort counts, even today.",
+      "bengali": "আমার চেষ্টা আজও মূল্যবান।",
+      "transliteration": "Amar CHESHTA aaj-o MULLOBAN.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "I deserve calm, not constant worry.",
+      "bengali": "আমার শান্তি পাওয়ার অধিকার আছে, দুশ্চিন্তা নয়।",
+      "transliteration": "Amar shanti paoar ADHIKAR ache, dushchinta noy.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "I ask for help without shame.",
+      "bengali": "লজ্জা ছাড়াই আমি সাহায্য চাই।",
+      "transliteration": "LJJA chharaai ami SHOHAYO chai.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "I speak with warmth and clarity.",
+      "bengali": "আমি উষ্ণভাবে আর স্পষ্টভাবে বলি।",
+      "transliteration": "Ami UShNO bhabe ar SPASHTO bhabe boli.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "Good to meet you in person",
+      "bengali": "আপনার সাথে সরাসরি দেখা করে ভালো লাগল",
+      "transliteration": "Apnar sathe SHORASORI dekha kore bhalo laglo",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "Hi, thanks for taking the time",
+      "bengali": "হাই, সময় দেওয়ার জন্য ধন্যবাদ",
+      "transliteration": "Hai, SOMOY DIYE-r jonno DHONNOBAD",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "May I introduce myself, please",
+      "bengali": "আমি কি নিজেকে পরিচয় করাতে পারি",
+      "transliteration": "Ami ki nije-ke PORICHOY KORATE PARI",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "What a pleasure to meet you",
+      "bengali": "আপনার সাথে দেখা করাটা সত্যি আনন্দের",
+      "transliteration": "Apnar sathe dekha KORATA SHOTTI aNONDER",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "Are you joining us today",
+      "bengali": "আপনি কি আজ আমাদের সাথে যোগ দেবেন",
+      "transliteration": "Apni ki Aaj amader sathe JOG DIBEN",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "I’m really happy to see you",
+      "bengali": "আমি সত্যি সত্যি আপনাকে দেখে খুশি",
+      "transliteration": "Ami SHOTTI SHOTTI apnake dekhe khushi",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-19T08:26:28.675370"
+    },
+    {
+      "english": "How was your journey here",
+      "bengali": "এখানে আসতে আপনার যাত্রা কেমন ছিল",
+      "transliteration": "EkHANE ashte apnar JOTRA kemon chhilo",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-19T08:26:28.675370"
     }
   ],
-  "last_updated": "2026-11-18T08:16:01.061384"
+  "last_updated": "2026-11-19T08:26:28.675370"
 }
