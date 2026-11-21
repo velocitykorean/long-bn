@@ -21135,7 +21135,399 @@
       "transliteration": "ami EKTU CHOTO LUNCH brek ni",
       "category": "Daily Routine",
       "generated_at": "2026-11-20T08:06:33.176449"
+    },
+    {
+      "english": "Are you free after work today?",
+      "bengali": "তুমি কি আজ কাজের পরে ফ্রি আছো?",
+      "transliteration": "TUMI KI aJ kaaj-er PORE FRI aCHO?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "I love spending time with you.",
+      "bengali": "তোমার সাথে সময় কাটাতে আমার খুব ভালো লাগে।",
+      "transliteration": "tOMAR SATHE SHOMOY KAATAte amar KHUB bHALO LAAGE.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "What kind of music do you like?",
+      "bengali": "তোমার পছন্দের মিউজিক কী ধরনের?",
+      "transliteration": "TOMAR poCHONDer MYUZI KEE dhORONer?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Can we take a slow walk?",
+      "bengali": "চলো ধীরে ধীরে হাঁটি।",
+      "transliteration": "chLO dhIre dhIre HAAŤI.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "You make ordinary days feel special.",
+      "bengali": "তুমি সাধারণ দিনকেও বিশেষ করে দাও।",
+      "transliteration": "tUMI saMAANYO dIN-keo SHESHAL kore DAO.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Are we still on for dinner?",
+      "bengali": "ডিনারের জন্য আমরা এখনো ঠিক আছি তো?",
+      "transliteration": "DI-nar-er JONNO aMRA ekhono TIK aCHI TO?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "I want to kiss you, gently.",
+      "bengali": "আমি তোমাকে একটু আলতো করে চুমু দিতে চাই।",
+      "transliteration": "aMI tOMAKE aNTO kore chUMU dite CHAI.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "I fall for you, quietly, daily",
+      "bengali": "আমি তোমার জন্য নীরবে প্রতিদিনই মন দিই",
+      "transliteration": "ami TOMAR jonno NIROBE protiDINI man DIE",
+      "category": "Love",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "You feel like home to me",
+      "bengali": "তুমি আমার কাছে ঘরের মতো",
+      "transliteration": "tumi amar KACHE ghorer moto",
+      "category": "Love",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Let me hold your hand tonight",
+      "bengali": "আজ রাতে তোমার হাতটা ধরতে দাও",
+      "transliteration": "aj RAATE TOMAR haat-টা dhORTE dao",
+      "category": "Love",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "My heart listens when you speak",
+      "bengali": "তুমি কথা বললে আমার হৃদয় শোনে",
+      "transliteration": "tumi KOTHA bolLE amar HRIDOY SHONE",
+      "category": "Love",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "I want our mornings to last",
+      "bengali": "আমি চাই আমাদের সকালগুলো যেন আরও দীর্ঘ হয়",
+      "transliteration": "ami CHAI amader SOKAL-GULO jeno aro DIRGHO hoy",
+      "category": "Love",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "I’m proud to love you out loud",
+      "bengali": "খোলাখুলি তোমাকে ভালোবাসতে আমি গর্বিত",
+      "transliteration": "kholAKHuli TOMAKE BHALOBASHte ami GORbito",
+      "category": "Love",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "When you smile, I breathe easier",
+      "bengali": "তুমি হাসলে আমি সহজে নিশ্বাস নিতে পারি",
+      "transliteration": "tumi HASLE ami SOBIje nisBASH NITE PARI",
+      "category": "Love",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Joy feels like warm sun on my face",
+      "bengali": "আনন্দ যেন আমার মুখে গরম রোদের মতো লাগে",
+      "transliteration": "AnONdo jen amar mukhe gORom roder mato laage",
+      "category": "Joy",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "I laugh, and my whole body relaxes",
+      "bengali": "আমি হাসি, আর আমার পুরো শরীরটা আরাম পায়",
+      "transliteration": "Ami hASEe, ar amar poRoo shorIr ta arAm pAy",
+      "category": "Joy",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Even small kindness makes me glow",
+      "bengali": "ছোট একটা দয়াও আমাকে উজ্জ্বল করে",
+      "transliteration": "ChoTo ekTa dayAo amake ujjwal kore",
+      "category": "Joy",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "I find joy in fresh air walks",
+      "bengali": "আমি খোলা বাতাসে হাঁটায় আনন্দ খুঁজে পাই",
+      "transliteration": "Ami khola bAatAse hATAy AanONdo khoNje pAi",
+      "category": "Joy",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Your laugh is a light in me",
+      "bengali": "তোমার হাসি আমার ভেতরে আলো হয়ে থাকে",
+      "transliteration": "TomAr hAsi amar bhEtere Alo hoye thAke",
+      "category": "Joy",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Today I notice good things without rushing",
+      "bengali": "আজ আমি তাড়াহুড়ো না করে ভালো জিনিসগুলো লক্ষ্য করি",
+      "transliteration": "Aaj ami tArahUro na kore bHalo jinisoGlo lojJyo kori",
+      "category": "Joy",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Joy comes when I stop and breathe",
+      "bengali": "আমি থামি, তারপর একটু শ্বাস নিই, তখনই আনন্দ আসে",
+      "transliteration": "Ami thAmi, tarpor ekTu shAas nei, tokHon-i anONdo aASE",
+      "category": "Joy",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Absolutely, I’m on board",
+      "bengali": "একদম ঠিক, আমি পুরোপুরি রাজি",
+      "transliteration": "Ekdom thik, ami PURO puri RAZI",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Yes, I agree, completely",
+      "bengali": "হ্যাঁ, আমি একদমই একমত",
+      "transliteration": "Hyã, ami EKDOMEI EKmot",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "I think you're right on this",
+      "bengali": "আমার মনে হয়, এই ব্যাপারে তুমি ঠিকই বলেছ",
+      "transliteration": "Amar mone hoy, ei Byapar E Tumi THIK-i bolechho",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Fair point, let’s proceed",
+      "bengali": "ভালো কথা, চল এগিয়ে যাই",
+      "transliteration": "Bhalo kotha, chol EGiye jaai",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "That’s a solid idea, yes",
+      "bengali": "ওটা বেশ ভালো ভাবনা, হ্যাঁ",
+      "transliteration": "Ota besh bhalo vabna, hyã",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "I agree, but with one condition",
+      "bengali": "আমি রাজি, তবে একটা শর্ত আছে",
+      "transliteration": "Ami RAZI, tobe eKta SHORTho ache",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Let’s do it your way",
+      "bengali": "তোমার মতো করলেই ভালো হয়",
+      "transliteration": "Tomar moto korlei Bhalo hoy",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "I’m planning a quick team sync.",
+      "bengali": "আমি একটা দ্রুত টিম মিটিং পরিকল্পনা করছি।",
+      "transliteration": "Ami ekta druṭto tim míting porikolpona korchi.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Let’s plan the trip step by step.",
+      "bengali": "চলো, ভ্রমণটা ধাপে ধাপে পরিকল্পনা করি।",
+      "transliteration": "Cholo, bhramaṇta dhape dhape porikolpona kori.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "I need to book tickets today.",
+      "bengali": "আমাকে আজই টিকিট বুক করতে হবে।",
+      "transliteration": "Amake aaj'i tikit buk korte hobe.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Can we set a deadline for this?",
+      "bengali": "এটার জন্য আমরা একটা ডেডলাইন ঠিক করতে পারি?",
+      "transliteration": "Eter jonne amra ekta deadline tik korte pari?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "I’m drafting an agenda for tomorrow.",
+      "bengali": "আমি কালকের জন্য একটা এজেন্ডা খসড়া করছি।",
+      "transliteration": "Ami kaḷker jonne ekta ejenda khosḥra korchi.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "What’s the first task we tackle?",
+      "bengali": "প্রথম কাজটা কী হবে, আমরা সেটা কোনটা নেব?",
+      "transliteration": "Proṭhom kajta ki hobe, amra seta koṇta neb?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "I’ll reserve a table for two.",
+      "bengali": "আমি দুজনের জন্য একটা টেবিল বুক করে রাখব।",
+      "transliteration": "Ami dujoner jonne ekta tebil buk kore rakhbo.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "You make hard days softer",
+      "bengali": "তুমি কঠিন দিনগুলো নরম করে দাও",
+      "transliteration": "TUMI KHOTIN DIN GULO NORMO KORE DAO",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "I trust you with my worries",
+      "bengali": "তোমার কাছে আমার চিন্তা রাখতে পারি",
+      "transliteration": "TOMAR KHAJE AMAR CHINTA RAKHTE PARI",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "We laugh, even when things hurt",
+      "bengali": "জিনিস খারাপ হলেও আমরা হাসি",
+      "transliteration": "JINIS KHARAP HOLEO AMRA HASI",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Call me when you need company",
+      "bengali": "তোমার সাথে কেউ দরকার হলে আমাকে ডাকো",
+      "transliteration": "TOMAR SATHE KEU DOROKAR HOLE AMAKE DAKO",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "I’m here, no questions asked",
+      "bengali": "আমি আছি, কোনো প্রশ্ন ছাড়াই",
+      "transliteration": "AMI ACHI, KONO PROSHNO CHARAI",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Your friendship feels like home",
+      "bengali": "তোমার বন্ধুত্ব আমার জন্য ঘরের মতো",
+      "transliteration": "TOMAR BONDHUTTO AMAR JONNO GORER MOTO",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Let’s celebrate every small win",
+      "bengali": "চলো, প্রতিটা ছোট জয়ও উদযাপন করি",
+      "transliteration": "CHOL0, PROTITa CHOTO JOYO UDJOAPON KORI",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Is there a late-night bus?",
+      "bengali": "দেরি রাতের বাস আছে কি?",
+      "transliteration": "DER-i RAAT-er BAAS AChE ki?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Where can I buy a ticket?",
+      "bengali": "আমি কোথায় টিকিট কিনতে পারি?",
+      "transliteration": "AMI KOTHAY TIKIT KIN-te PARi?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Do I need to pay on board?",
+      "bengali": "বোর্ডে উঠেই কি টাকা দিতে হবে?",
+      "transliteration": "BORDe UTHEi ki TAAKA DITE hOBE?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Is this bus air-conditioned?",
+      "bengali": "এই বাসে কি এসি আছে?",
+      "transliteration": "Ei BASe ki E-si AChE?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Does this route go to the station?",
+      "bengali": "এই রুট কি স্টেশনে যায়?",
+      "transliteration": "Ei RUT ki STESH-NE YAy?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "How long is the ride to there?",
+      "bengali": "সেখানে পৌঁছাতে কতক্ষণ লাগে?",
+      "transliteration": "SHA-noNe PURChA-te KOT-kHON LA-ge?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Which side do the doors open?",
+      "bengali": "দরজা কোন দিকে খোলে?",
+      "transliteration": "DOR-জা kon DIkE KHO-le?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "How do I get to that street?",
+      "bengali": "ওই রাস্তায় যেতে হলে কীভাবে যাব?",
+      "transliteration": "OI RAStAi JETE HLe KI BHABE JAB?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "I’m lost, can you help me?",
+      "bengali": "আমি হারিয়ে ফেলেছি, আপনি সাহায্য করবেন?",
+      "transliteration": "AMi HARiYE FELESHi, APNi SADHABEN?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Which way is downtown from here?",
+      "bengali": "এখান থেকে ডাউনটাউনে কোন দিকে যাব?",
+      "transliteration": "EKHON THEKE DAUNTAUNE KON DIKE JAB?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Is there a shortcut nearby?",
+      "bengali": "এখানে কাছাকাছি কোনো শর্টকাট আছে?",
+      "transliteration": "EKHANE KACHAKACHi KONo SHORTKAT ACHHE?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "How long does it take walking?",
+      "bengali": "হেঁটে গেলে কত সময় লাগে?",
+      "transliteration": "HENTo GELe KOT SOMOY LAGE?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Can I cross the street here?",
+      "bengali": "এখানে কি রাস্তা পার হওয়া যায়?",
+      "transliteration": "EKHANE KI RASTA PAR HOYA YAY?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T07:59:45.161524"
+    },
+    {
+      "english": "Where can I find a taxi stand?",
+      "bengali": "ট্যাক্সি স্ট্যান্ড কোথায় পাওয়া যাবে?",
+      "transliteration": "TACKSi STAND KOTHAY PAbA JABE?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T07:59:45.161524"
     }
   ],
-  "last_updated": "2026-11-20T08:06:33.176449"
+  "last_updated": "2026-11-21T07:59:45.161524"
 }
