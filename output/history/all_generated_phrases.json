@@ -21919,7 +21919,399 @@
       "transliteration": "Apni ki amake BOARDING paas PRINT korte shahay korben?",
       "category": "Travel & Airport",
       "generated_at": "2026-11-22T07:47:43.029176"
+    },
+    {
+      "english": "That bus is totally packed today.",
+      "bengali": "আজ বাসটা একদম গাদাগাদি।",
+      "transliteration": "Aaj BUs-ta ekdom gaDAgaDI.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "I’ll grab chai from the corner stall.",
+      "bengali": "কোণের চায়ের দোকান থেকে চা নিয়ে আসব।",
+      "transliteration": "KOn-er CHaA-er doSHOAn theke CHaa niye AS-bO.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Don’t make a scene, please.",
+      "bengali": "দয়া করে নাটক করবেন না।",
+      "transliteration": "Daya kore NAAtok korben na.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "He’s always late, same old story.",
+      "bengali": "ও সবসময় দেরি করে, পুরোনো গল্প।",
+      "transliteration": "O sobshomay deri kore, puROno golpo.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "We should head there now, before rush.",
+      "bengali": "ভিড়ের আগে এখনই ওখানে চল।",
+      "transliteration": "BHIR-er aAAge eKhoniye OKHane chol.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Bro, just chill, it’s fine.",
+      "bengali": "ভাই, চিল করো, সব ঠিক আছে।",
+      "transliteration": "BHai, CHil kOro, sob tik achhe.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "That’s my bad, I misheard you.",
+      "bengali": "আমার দোষ, আমি ভুল শুনেছি।",
+      "transliteration": "AmaAr dosh, ami bhul shuno-yEchi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "I forgive you, and I mean it.",
+      "bengali": "আমি আপনাকে ক্ষমা করি, সত্যিই করি।",
+      "transliteration": "ami apnake khoma kori, SHOTtOyi kori",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Let s repair what we broke.",
+      "bengali": "যা ভেঙেছি, সেটা আমরা ঠিক করি।",
+      "transliteration": "ja bheNgEchi, seta amra ThIk kori",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "I won t keep score anymore.",
+      "bengali": "আর আমি হিসাব কষতে থাকব না।",
+      "transliteration": "aar ami hisab kshotE thakbo na",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "You can try again with me.",
+      "bengali": "তুমি আমার সঙ্গে আবার চেষ্টা করতে পারো।",
+      "transliteration": "tumi amar shonge abar cheshta korte paro",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "I m choosing peace over pride.",
+      "bengali": "আমি অহংকারের বদলে শান্তি বেছে নিচ্ছি।",
+      "transliteration": "ami ohongkArer bodole shaNti bEshE nichchi",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "I trust you to do better.",
+      "bengali": "আমি বিশ্বাস করি তুমি আরও ভালো করবে।",
+      "transliteration": "ami bishwas kori tumi aro bhalo korbe",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Thanks for owning it, truly.",
+      "bengali": "এটা স্বীকার করার জন্য সত্যি ধন্যবাদ।",
+      "transliteration": "eta shokkar korar jonno SHOTti dhonnobad",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Share tea, hear family stories",
+      "bengali": "চা খেতে খেতে পরিবারের গল্প শোনো",
+      "transliteration": "cha KHEte KHEte paribarer golpo SHONO",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Let rhythm guide your dance",
+      "bengali": "তালের সুরে নাচতে থাকো",
+      "transliteration": "taler SHURe NAachte THAKO",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Offer a polite greeting to elders",
+      "bengali": "বয়োজ্যেষ্ঠদের প্রতি শ্রদ্ধাসহ নমস্কার করো",
+      "transliteration": "boyojyeshthDer proti SHRADDhaSOh noskar KORO",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Listen closely to folk song meanings",
+      "bengali": "লোকগানের মনের কথা মন দিয়ে শোনো",
+      "transliteration": "lokGAnER moner kotha mon diye SHONO",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Dress with respect for ceremonies",
+      "bengali": "অনুষ্ঠানে যত্ন করে পরো, সম্মান রেখে",
+      "transliteration": "onustHANE JOTno kore PORO, SOMMAN rekhe",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Join a hand-in-hand community ritual",
+      "bengali": "হাত ধরাধরি করে কমিউনিটির আচার পালন করো",
+      "transliteration": "haat dhora dhori kore komyunITir aachar palon KORO",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Bring a small gift for the host",
+      "bengali": "মেজবানের জন্য ছোট একটা উপহার নিয়ে এসো",
+      "transliteration": "MEjboner jonno choto ekta upohar niye ESho",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "I m sweating already, let s go!",
+      "bengali": "আমি তো এখনই ঘামছি, চল!",
+      "transliteration": "ami to ekhuni ghamchhi, chol!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Great form, keep your core tight.",
+      "bengali": "দারুণ ভঙ্গি, কোমর শক্ত করে রাখো।",
+      "transliteration": "darun bonghi, kamar shokto kore rakho.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "How many reps did you do?",
+      "bengali": "তুমি কতগুলো রেপ করেছো?",
+      "transliteration": "tumi koto gulo rep korecho?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Let s practice the sprint start.",
+      "bengali": "চলো স্প্রিন্টের স্টার্টটা প্র্যাকটিস করি।",
+      "transliteration": "cholo sprinter start-ta practice kori.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Your breathing is on point today.",
+      "bengali": "আজ তোমার শ্বাসটা একদম ঠিকঠাক।",
+      "transliteration": "aj tomar shash-ta ekdom tik-tak.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "I can feel my legs getting stronger.",
+      "bengali": "আমি টের পাচ্ছি, আমার পা শক্ত হচ্ছে।",
+      "transliteration": "ami ter pachchhi, amar pa shokto hochchhe.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Grab the ball, then pass fast.",
+      "bengali": "বলটা নাও, তারপর দ্রুত পাস দাও।",
+      "transliteration": "bol-ta nao, tarpor druto pas dao.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Begin where you are, today",
+      "bengali": "যেখানে আছো, সেখান থেকেই শুরু করো আজ",
+      "transliteration": "Jekhane acho, sekhan theke SHURU KORO aaj",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Choose courage over comfort, quietly",
+      "bengali": "নীরবে আরাম ছেড়ে সাহস বেছে নাও",
+      "transliteration": "NIIRBE AARAM chhere SAHS BOCHHE nao",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Make one small promise, keep it",
+      "bengali": "একটা ছোট প্রতিশ্রুতি দাও, রাখো",
+      "transliteration": "EKKHOTA chhoto PROTISHHRUTI dao, raakho",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Repair one relationship with care",
+      "bengali": "যত্ন নিয়ে একটা সম্পর্ক ঠিক করো",
+      "transliteration": "JOTNO niye eKKHOTa SOMPORKHO TIK koro",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Turn stress into one clear action",
+      "bengali": "চাপকে একটা স্পষ্ট কাজে বদলে দাও",
+      "transliteration": "CHAP-ke eKTa SPShT kaaj-e bodle dao",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Name your boundaries, then enforce them",
+      "bengali": "সীমা ঠিক করো, তারপর মানতে বাধ্য করো",
+      "transliteration": "SIMA Thik koro, tarpor MAN-te badhdho koro",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Practice gratitude daily, without forcing it",
+      "bengali": "প্রতিদিন কৃতজ্ঞতা খুঁজে নাও, চাপ দিও না",
+      "transliteration": "Protidin KRITGJOTA khuje nao, CHAP diyo na",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Let’s clear today’s backlog first.",
+      "bengali": "চল আজকের জমে থাকা কাজগুলো আগে পরিষ্কার করি।",
+      "transliteration": "chol aajker jome thaka kaajgulo agei posha saari kori",
+      "category": "Work & Office",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Please tag me on that email.",
+      "bengali": "ওই ইমেইলে আমাকে সিসি করে দাও, প্লিজ।",
+      "transliteration": "oi imeile amake sisi kore dao, pliz",
+      "category": "Work & Office",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Can we go over this agenda?",
+      "bengali": "আমরা কি এই এজেন্ডাটা দেখে নিতে পারি?",
+      "transliteration": "amra ki ei ejendata dekhe nite pari",
+      "category": "Work & Office",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "I’ll update the tracker in an hour.",
+      "bengali": "আমি এক ঘণ্টার মধ্যে ট্র্যাকারটা আপডেট করে দেব।",
+      "transliteration": "ami ek ghontar modhye tryaakar ta apডেট kore dibo",
+      "category": "Work & Office",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Let’s align on priorities by noon.",
+      "bengali": "দুপুরের মধ্যে অগ্রাধিকারগুলোতে আমরা যেন একমত হই।",
+      "transliteration": "dupurer modhye agradhikar gulo te amra jeno ekmot hoi",
+      "category": "Work & Office",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Send the draft, I’ll review quickly.",
+      "bengali": "ড্রাফটটা পাঠাও, আমি দ্রুত দেখে নেব।",
+      "transliteration": "draaft ta pathao, ami drut dekhe nebo",
+      "category": "Work & Office",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Who owns this project, exactly?",
+      "bengali": "এই প্রজেক্টটা ঠিক কার দায়িত্বে?",
+      "transliteration": "ei project ta thik kar boddhiotto te",
+      "category": "Work & Office",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Make room for joy, every day",
+      "bengali": "প্রতিদিন আনন্দের জায়গা করে নিন",
+      "transliteration": "PROtিদিন A_NNAN_der জায়গা KORE nin",
+      "category": "Positive Life",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Speak hope, even when it's hard",
+      "bengali": "কঠিন হলেও আশা দিয়ে কথা বলুন",
+      "transliteration": "KOTHিন হলেও ASHA diye KOTHA bolun",
+      "category": "Positive Life",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Let your wins fuel tomorrow",
+      "bengali": "আগের সাফল্যই কাজে লাগান আগামীকাল",
+      "transliteration": "OGর_sAFFA_llei kaje LA_gaan OGGAImal",
+      "category": "Positive Life",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Trust your pace, not perfection",
+      "bengali": "পারফেকশন নয়, নিজের গতিকে বিশ্বাস করুন",
+      "transliteration": "পারফেকশন নয়, SHORER GO_tike BI_shwas KORun",
+      "category": "Positive Life",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Keep promises to yourself",
+      "bengali": "নিজের কাছে নিজেই প্রতিশ্রুতি রাখুন",
+      "transliteration": "NI_jer kaache NI_jei PRO_tishRU_ti raakুন",
+      "category": "Positive Life",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Repair what you can, quickly",
+      "bengali": "যেটা ঠিক করা যায়, তাড়াতাড়ি ঠিক করুন",
+      "transliteration": "যে_TA thিক kora YAy, TA_raataar_i thিক KORun",
+      "category": "Positive Life",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Turn your routines into comfort",
+      "bengali": "আপনার রুটিনকে আরামদায়ক করুন",
+      "transliteration": "APনার ROUTin_ke ARam_dayak KORun",
+      "category": "Positive Life",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Can I call you in an hour?",
+      "bengali": "আমি কি এক ঘণ্টা পরে তোমাকে কল করতে পারি?",
+      "transliteration": "Ami ki ek gONTa porE tomAkE call korte parI?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "I tried calling, but you were busy.",
+      "bengali": "আমি কল করতে চেয়েছিলাম, কিন্তু তুমি ব্যস্ত ছিলে।",
+      "transliteration": "Ami call korte cheyEchhilAm, kintu tumi byast chhile.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Please text when you see this.",
+      "bengali": "এটা দেখলে একটু মেসেজ দিও, প্লিজ।",
+      "transliteration": "Eka dekHle ektu mEsage diyo, plij.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "I just sent you an update.",
+      "bengali": "আমি তো তোমাকে এখনই একটা আপডেট পাঠালাম।",
+      "transliteration": "Ami to tomAkE ekhuni ekTA apDeta pAthalAm.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Call me when it’s convenient.",
+      "bengali": "সুবিধা হলে আমাকে কল করো।",
+      "transliteration": "SuvidhA hole amakE call koro.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "I’ll be brief, I promise.",
+      "bengali": "আমি সংক্ষেপে বলব, কথা দিচ্ছি।",
+      "transliteration": "Ami sOnkHepE bolb, kothA dichchi.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "Thanks for calling back so fast.",
+      "bengali": "এত দ্রুত কল ব্যাক করার জন্য ধন্যবাদ।",
+      "transliteration": "Eto drUtto call bYak korAr jonno dhonnobAd.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-23T08:37:12.684175"
     }
   ],
-  "last_updated": "2026-11-22T07:47:43.029176"
+  "last_updated": "2026-11-23T08:37:12.684175"
 }
