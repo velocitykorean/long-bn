@@ -22311,7 +22311,399 @@
       "transliteration": "Eto drUtto call bYak korAr jonno dhonnobAd.",
       "category": "Phone Calls & Messages",
       "generated_at": "2026-11-23T08:37:12.684175"
+    },
+    {
+      "english": "I let thoughts pass, softly.",
+      "bengali": "আমি ভাবনাগুলোকে আসতে দেই, নরমভাবে চলে যেতে দেই।",
+      "transliteration": "Ami bhabnagulo-ke ashte dei, ROMO-bhabe chole jete dei.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "My shoulders drop, I breathe space.",
+      "bengali": "আমার কাঁধ নেমে আসে, আমি শ্বাসে জায়গা দিই।",
+      "transliteration": "Amar kandh neme ashe, Ami shashe jaiga dei.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "I pause before reacting.",
+      "bengali": "প্রতিক্রিয়া দেওয়ার আগে আমি থামি।",
+      "transliteration": "Pratikriya dewa-r age ami THAMI.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Even my worries can rest.",
+      "bengali": "আমার দুশ্চিন্তাগুলোরও বিশ্রাম হোক।",
+      "transliteration": "Amar dushchintagulor-o bishram hok.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "I choose one kind step now.",
+      "bengali": "এখন আমি একটি দয়ালু পদক্ষেপ বেছে নিই।",
+      "transliteration": "Ekhon ami ekti doyalu podokkhep beche ni.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "I speak to myself like a friend.",
+      "bengali": "আমি নিজের সাথে বন্ধুর মতো কথা বলি।",
+      "transliteration": "Ami nijer sathe bondhur moto kotha boli.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Let the noise fade behind me.",
+      "bengali": "সব শব্দ দূরে মিলিয়ে যাক।",
+      "transliteration": "Sob shobdo dure miliye jak.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Can I see the pastry display?",
+      "bengali": "আপনি কি প্যাস্ট্রির ডিসপ্লে দেখাবেন?",
+      "transliteration": "Apni ki paastrir ডিসপ্লে dekhaben?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "What kind of beans do you use?",
+      "bengali": "আপনারা কী ধরনের বিন ব্যবহার করেন?",
+      "transliteration": "Apnara ki dhoroner bin byavahar koren?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Make it less sweet, please.",
+      "bengali": "অনুগ্রহ করে কম মিষ্টি করে দিন।",
+      "transliteration": "Onugroho kore kom mishti kore din.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "I’ll take a cinnamon roll, please.",
+      "bengali": "আমি একটা দারুচিনি রোল নেব, প্লিজ।",
+      "transliteration": "Ami ekta daarochini roll nibo, PLIZ.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Can I get it black, no sugar?",
+      "bengali": "চিনি ছাড়া, ব্ল্যাক করে দেবেন?",
+      "transliteration": "Chini chhara, black kore daben?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "What’s the best-selling latte here?",
+      "bengali": "এখানে কোন লাট্টি সবচেয়ে বেশি বিক্রি হয়?",
+      "transliteration": "Ekhane kon LATTI sobcheye beshi bikri hoy?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Is there a seasonal fruit tart?",
+      "bengali": "কোনো মৌসুমি ফলের টার্ট আছে?",
+      "transliteration": "Kono mousumi foler tart ache?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "What’s the final price, all in?",
+      "bengali": "শেষ দামটা কত, সব মিলিয়ে?",
+      "transliteration": "ShesH dam-ta koto, shob miliye?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Any hidden fees I should know?",
+      "bengali": "কোনো লুকানো ফি আছে কি যা জানবেন?",
+      "transliteration": "Kono lukano fi ache ki jaaNবেন?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Is this price for today only?",
+      "bengali": "এই দামটা কি শুধু আজকের জন্য?",
+      "transliteration": "Ei dam-ta ki shudhu aaj-er jonno?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Do you have student or membership rates?",
+      "bengali": "ছাত্রছাত্রী বা মেম্বারশিপ ডিসকাউন্ট আছে?",
+      "transliteration": "Chaatro-shhotri ba memberShip discount ache?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "What’s the cheapest option with quality?",
+      "bengali": "মান ভালো রেখে সবচেয়ে সস্তা অপশন কোনটা?",
+      "transliteration": "Man bhalo rekhe shobCheye sostaa option konta?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Can we negotiate a better deal?",
+      "bengali": "আরও ভালো দামের জন্য একটু আলোচনা করা যাবে?",
+      "transliteration": "Aaro bhalo damer jonno ekTu alochona karaa jabe?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "If I buy now, do I save?",
+      "bengali": "এখন কিনলে কি কিছু সেভ হবে?",
+      "transliteration": "Ekhon kinle ki kichu save hobe?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Do you have chest pain right now?",
+      "bengali": "আপনার কি এখন বুক ধড়ফড় বা ব্যথা হচ্ছে?",
+      "transliteration": "Apnar ki ekhon buk dhor dhor ba betha hocche?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Check your breathing, in and out.",
+      "bengali": "শ্বাস ভেতরে নিচ্ছেন, তারপর বাইরে ছাড়ছেন, ঠিক আছে তো?",
+      "transliteration": "Shash bhitore nich্ছেন, tarpor baire charছেন, thik ache to?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Are you coughing up blood?",
+      "bengali": "আপনি কি রক্তের মতো কাশি দিচ্ছেন?",
+      "transliteration": "Apনি ki rakkher moto kashi dichchen?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Have you fainted or nearly fainted?",
+      "bengali": "আপনি কি অজ্ঞান হয়ে গেছেন বা প্রায় হয়ে যাচ্ছেন?",
+      "transliteration": "Apনি ki ojjon hoye ghuche nobo proyo hoye jacchen?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Is there a severe allergic reaction?",
+      "bengali": "আপনার কি গুরুতর অ্যালার্জির প্রতিক্রিয়া হচ্ছে?",
+      "transliteration": "Apnar ki gurutor alerjir protikriya hocche?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Do you have swelling of face or lips?",
+      "bengali": "আপনার মুখ বা ঠোঁটে ফুলে যাচ্ছে কি?",
+      "transliteration": "Apnar mukh ba thote phule jacche ki?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Any hives or widespread itching?",
+      "bengali": "চাকা দানা ওঠা বা সারা গায়ে চুলকানি হচ্ছে?",
+      "transliteration": "Chaka dana othа ba sara gae chulkani hocche?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Is Wi-Fi strong in this room?",
+      "bengali": "এই রুমে ওয়াই-ফাই কি শক্তিশালী?",
+      "transliteration": "Ei ru-me WIFI ki SHAK-ti-sha-li?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Could I check in a bit early?",
+      "bengali": "আমি কি একটু আগে চেক ইন করতে পারি?",
+      "transliteration": "Ami ki Ektu a-ge CHECK in KOR-te PA-ri?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "What’s the fastest way to reach my room?",
+      "bengali": "আমার রুমে দ্রুত কীভাবে যাব?",
+      "transliteration": "A-mar ROOM-e DROT-to ke-ba-lo VAB?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Do you have an airport pickup option?",
+      "bengali": "এয়ারপোর্টে নেওয়ার ব্যবস্থা কি আছে?",
+      "transliteration": "AIR-port-e NE-O-ar BYA-STa ki a-che?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Where can I store my luggage safely?",
+      "bengali": "আমি কোথায় নিরাপদে লাগেজ রাখতে পারি?",
+      "transliteration": "Ami KOTHA-y NI-RAP-de LA-Gেজ rakh-te PARI?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Is there a quiet reading corner here?",
+      "bengali": "এখানে কি পড়ার মতো শান্ত জায়গা আছে?",
+      "transliteration": "E-kha-ne ki por-ar MTO shanto JA-GA a-che?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Please tell me the Wi-Fi password.",
+      "bengali": "দয়া করে ওয়াই-ফাই পাসওয়ার্ডটা বলবেন?",
+      "transliteration": "Doya kore WIFI paSS-worD-ta bol-beN?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Happy birthday, let the joy spread",
+      "bengali": "শুভ জন্মদিন, আনন্দটা ছড়িয়ে পড়ুক",
+      "transliteration": "ShuBHO JONNOBAR-DIN, aanondo ta chhoriye poruk",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Where should I sit, I’m ready",
+      "bengali": "আমি বসবো কোথায়, আমি প্রস্তুত",
+      "transliteration": "Ami bosbo kothay, ami PROSTO-TO",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "You look amazing tonight, seriously",
+      "bengali": "তুমি আজকে দারুণ লাগছ, সত্যি বলছি",
+      "transliteration": "Tumi ajke DARUN lagchho, SOTT-i bolchi",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "I brought a dessert, hope you like it",
+      "bengali": "আমি একটা মিষ্টি এনেছি, আশা করি তোমার পছন্দ হবে",
+      "transliteration": "Ami ekta MISHTI enechi, asha kori tomAr pochondo hobe",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Let’s toast, one glass for everyone",
+      "bengali": "চলো গ্লাস তোলে ধরি, সবার জন্য একটা করে",
+      "transliteration": "Cholo glaas tole dhori, sobar jonno ekta kore",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Music up, let’s celebrate properly",
+      "bengali": "গানটা একটু বাড়াও, ঠিকঠাকভাবে উদযাপন করি",
+      "transliteration": "Gaan ta ekto baaDAO, thik-thaak bhabe UDO- JAPON kori",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Thanks for inviting me, I feel lucky",
+      "bengali": "আমাকে ডাকার জন্য ধন্যবাদ, আমি ভাগ্যবান মনে করছি",
+      "transliteration": "Amake daakar jonno DHONNOBAD, ami VAGGO-ban mone korchi",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "I ask, what do I want to build?",
+      "bengali": "আমি জিজ্ঞেস করি, আমি কী গড়ে তুলতে চাই?",
+      "transliteration": "Ami JIGGESH KORI, ami ki GORE TULTE CHAI?",
+      "category": "Purpose",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Purpose for me is service, daily.",
+      "bengali": "আমার উদ্দেশ্য হলো প্রতিদিন সেবা করা।",
+      "transliteration": "Amar UDDEshyo holo PROTIDIN SEBA KORA.",
+      "category": "Purpose",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "I choose goals that feel true.",
+      "bengali": "আমি এমন লক্ষ্য বেছে নিই, যা সত্য মনে হয়।",
+      "transliteration": "Ami emon LOKKHyo BECHE N I, ja SOTTHO mone HOY.",
+      "category": "Purpose",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Help me see the real reason.",
+      "bengali": "আমাকে দেখিয়ে দিন, আসল কারণটা কী।",
+      "transliteration": "Amake DHIkiye DIN, ASOL KARON TA ki.",
+      "category": "Purpose",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "I want my actions to match intent.",
+      "bengali": "আমি চাই আমার কাজ যেন আমার অভিপ্রায়ের সাথে মেলে।",
+      "transliteration": "Ami CHAI amar KAJ JENO amar ABHIPRAYER sathe MELE.",
+      "category": "Purpose",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Today, I act for something bigger.",
+      "bengali": "আজ, আমি বড় কিছুর জন্য কাজ করি।",
+      "transliteration": "Aj, ami BOR KICHUr jonno KAJ kori.",
+      "category": "Purpose",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "I’m done drifting, I want direction.",
+      "bengali": "আমি আর ভেসে বেড়াব না, আমি দিক চাই।",
+      "transliteration": "Ami ar VESHE BErAB na, ami DIK CHAI.",
+      "category": "Purpose",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "I name it, it gets smaller.",
+      "bengali": "আমি এটাকে নাম দিই, তখন এটা ছোট লাগে।",
+      "transliteration": "Ami etake naam di, tokhon eta choto lage.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "I let my jaw unclench now.",
+      "bengali": "আমি এখন আমার চোয়াল ঢিলা করি।",
+      "transliteration": "Ami ekhon amar choya dhila kori.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "Attention can be a choice today.",
+      "bengali": "আজ মনোযোগটা একটা পছন্দও হতে পারে।",
+      "transliteration": "Aj monojogta ekta pashe-o hote pare.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "I soften my focus, not my standards.",
+      "bengali": "আমি আমার ফোকাস নরম করি, মানদণ্ড নরম করি না।",
+      "transliteration": "Ami amar focus norom kori, manodondo norom kori na.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "I check in with my body first.",
+      "bengali": "আমি আগে আমার শরীরের সাথে যোগাযোগ করি।",
+      "transliteration": "Ami age amar shorir-er sathe jogajog kori.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "I can observe without fixing anything.",
+      "bengali": "আমি কোনো কিছু ঠিক না করেও শুধু লক্ষ্য করতে পারি।",
+      "transliteration": "Ami kono kichu thik na koreo shudhu lakkhoto korte pari.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-24T10:42:25.093204"
+    },
+    {
+      "english": "What I feel is allowed to exist.",
+      "bengali": "আমি যা অনুভব করি, সেটার অস্তিত্ব থাকা অনুমোদিত।",
+      "transliteration": "Ami ja anubhob kori, setar oshtitto thaka anumodito.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-24T10:42:25.093204"
     }
   ],
-  "last_updated": "2026-11-23T08:37:12.684175"
+  "last_updated": "2026-11-24T10:42:25.093204"
 }
