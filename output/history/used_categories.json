@@ -483,7 +483,39 @@
     {
       "category": "Mindfulness",
       "date": "2026-11-24"
+    },
+    {
+      "category": "Gratitude",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Perseverance",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Banking & Money",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Hope",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Meeting People & Greetings",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Confidence",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Weather & Small Talk",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Courage",
+      "date": "2026-11-25"
     }
   ],
-  "last_updated": "2026-11-24T10:42:25.112079"
+  "last_updated": "2026-11-25T09:33:54.210404"
 }
