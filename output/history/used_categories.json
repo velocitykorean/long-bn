@@ -515,7 +515,39 @@
     {
       "category": "Courage",
       "date": "2026-11-25"
+    },
+    {
+      "category": "Doctor & Pharmacy",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Family & Home",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Success",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Wisdom",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Kindness",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Hobbies & Free Time",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Inspiration",
+      "date": "2026-11-26"
     }
   ],
-  "last_updated": "2026-11-25T09:33:54.210404"
+  "last_updated": "2026-11-26T09:11:23.285872"
 }
