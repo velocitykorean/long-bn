@@ -23879,7 +23879,399 @@
       "transliteration": "Amar-o TAi mone hocche, SHOTTI bolchi.",
       "category": "Agreeing & Disagreeing",
       "generated_at": "2026-11-27T09:27:38.743752"
+    },
+    {
+      "english": "Which bus takes me downtown?",
+      "bengali": "কোন বাস আমাকে ডাউনটাউনে নিয়ে যায়?",
+      "transliteration": "KON bus AMAKE daunṭaune niye JAY?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Can I pay with cash here?",
+      "bengali": "আমি কি এখানে নগদে দিতে পারব?",
+      "transliteration": "AMI ki ekhANE nA-gade DETE parbo?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Does this bus accept contactless?",
+      "bengali": "এই বাস কি কন্ট্যাক্টলেস কার্ড নেয়?",
+      "transliteration": "EI bus ki KON-tak-less KARD NEY?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "How do I request a stop?",
+      "bengali": "আমি কীভাবে স্টপ চাইতে পারি?",
+      "transliteration": "AMI ki bhAbe STOP CHAI-te parI?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Is there a seat available?",
+      "bengali": "এখানে কি বসার জায়গা আছে?",
+      "transliteration": "EKhane ki BO-sar JAY-ga ache?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Where can I find the timetable?",
+      "bengali": "কোথায় টাইমটেবল পাব?",
+      "transliteration": "KOthay TAIM-tableb PAB?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Is the platform this way?",
+      "bengali": "প্ল্যাটফর্ম কি এই দিকেই?",
+      "transliteration": "PYA-laṭ-phORM ki ei DI-kei?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Let’s decide priorities for today.",
+      "bengali": "চলো আজকের জন্য অগ্রাধিকার ঠিক করি।",
+      "transliteration": "CHolo AJker JONno ogrAHiKAr TIK korI",
+      "category": "Making Plans",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "I’m sketching a simple timeline.",
+      "bengali": "আমি একটা সহজ টাইমলাইন করে নিচ্ছি।",
+      "transliteration": "ami EKTU SHojJO TimelaIn kore NICHchi",
+      "category": "Making Plans",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "What’s the smartest next step?",
+      "bengali": "সবচেয়ে বুদ্ধিমান পরের পদক্ষেপটা কী?",
+      "transliteration": "sobCHEye BUdDHiman poreR PodOKepTa ki",
+      "category": "Making Plans",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "I want to plan around traffic.",
+      "bengali": "আমি ট্রাফিক মাথায় রেখে পরিকল্পনা করতে চাই।",
+      "transliteration": "ami TRafik MAthay REkhe poriKLPonaA korte CHai",
+      "category": "Making Plans",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Can we break this into stages?",
+      "bengali": "এটা কি ধাপে ধাপে ভাগ করে নেওয়া যাবে?",
+      "transliteration": "eta ki DHope DHope vag kore NEowa jabe",
+      "category": "Making Plans",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "I’ll confirm details by tomorrow morning.",
+      "bengali": "আমি আগামীকাল সকালেই সব বিস্তারিত নিশ্চিত করব।",
+      "transliteration": "ami agAmiKAL sOkaLe shob biSHesh til e NIRmit korb",
+      "category": "Making Plans",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Let’s plan a backup option too.",
+      "bengali": "চলো একটা বিকল্প পরিকল্পনাও রাখি।",
+      "transliteration": "CHolo eKTa biKLPo ponA-o rakhi",
+      "category": "Making Plans",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "A kind word finds me smiling",
+      "bengali": "একটা মধুর কথা আমাকে হাসায়",
+      "transliteration": "EKTaa MODHUR KATHA AMake HAAsay",
+      "category": "Happiness",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "I celebrate small moments, not perfection",
+      "bengali": "আমি পরিপূর্ণতা নয়, ছোট মুহূর্তগুলো উদযাপন করি",
+      "transliteration": "AMI PORIPUNNoTA NOI, CHOTTO MUHURTUGLO UDOJAPON KORI",
+      "category": "Happiness",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "My heart warms when I cook",
+      "bengali": "আমি রান্না করলে আমার মনটা গরম হয়ে ওঠে",
+      "transliteration": "AMI RAANNaa KORLE, AMAR MONTaa GOROM Hoye OTHE",
+      "category": "Happiness",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "I walk out, worries trail behind",
+      "bengali": "আমি হাঁটতে বের হলে দুশ্চিন্তা পিছনে পড়ে",
+      "transliteration": "AMI HAanTte BERELE DUShCHINTA PIChone Pore",
+      "category": "Happiness",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Good news makes my breath lighter",
+      "bengali": "ভালো খবর পেলেই আমার শ্বাসটা হালকা হয়",
+      "transliteration": "BALO KHOBORELey AMAR SHaaSHTaa HALkaa HOY",
+      "category": "Happiness",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "I choose one deep breath, then go",
+      "bengali": "আমি একটা গভীর শ্বাস নেই, তারপর এগোই",
+      "transliteration": "AMI EKTaa GEBHIR SHaaS NEi, TARpor EGoI",
+      "category": "Happiness",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "My playlist lifts my mood fast",
+      "bengali": "আমার প্লেলিস্ট দ্রুত মনটা উঁচু করে",
+      "transliteration": "AMAR PLELIST DHUKro MANtA UCHU KORE",
+      "category": "Happiness",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "I’ll wait, we’re not late.",
+      "bengali": "আমি অপেক্ষা করব, আমরা দেরি করছি না।",
+      "transliteration": "ami OPekkha korbo, amra DERi korchi na.",
+      "category": "Patience",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Hold on, let me finish this.",
+      "bengali": "একটু ধরুন, আমি শেষ করি।",
+      "transliteration": "ektu DHORUn, ami SHESH kori.",
+      "category": "Patience",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Just breathe, I’ve got this.",
+      "bengali": "শুধু শ্বাস নিন, আমি সামলে নিচ্ছি।",
+      "transliteration": "shudhu SHASH nin, ami SAMLe nitschhi.",
+      "category": "Patience",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "We can pause, then continue.",
+      "bengali": "আমরা থামতে পারি, তারপর চালিয়ে যাই।",
+      "transliteration": "amra THAMte pari, tarpor CHALIye jai.",
+      "category": "Patience",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Wait, I’m looking it up slowly.",
+      "bengali": "একটু অপেক্ষা করুন, আমি ধীরে ধীরে দেখে নিচ্ছি।",
+      "transliteration": "ektu OPekkha korUn, ami DHiRE DHiRE dekhe ninchhi.",
+      "category": "Patience",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Stay with me, don’t rush.",
+      "bengali": "আমার সাথে থাকুন, তাড়াহুড়ো করবেন না।",
+      "transliteration": "amar SAThe thakUn, TARAHUDRO korben na.",
+      "category": "Patience",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Give it a moment, please.",
+      "bengali": "একটু সময় দিন, অনুগ্রহ করে।",
+      "transliteration": "ektu SHOMoy din, ONUgroho kore.",
+      "category": "Patience",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "I keep a maker’s mindset.",
+      "bengali": "আমি মেকারের মানসিকতা ধরে রাখি।",
+      "transliteration": "Ami MEE-ker er MANo-ki-TA dhore RAA-khi.",
+      "category": "Creativity",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "I draw with words, not just pens.",
+      "bengali": "আমি শুধু কলমে না, কথাতেও আঁকি।",
+      "transliteration": "Ami SHO-ju KOL-me na, KOTHaa-te-o AAK-i.",
+      "category": "Creativity",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "I test ideas with tiny real tasks.",
+      "bengali": "আমি ছোট ছোট কাজ দিয়ে আইডিয়া পরীক্ষা করি।",
+      "transliteration": "Ami SHOT-o SHO-to KAaj diye AI-di-aa PARI-kHaa ka-ri.",
+      "category": "Creativity",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "I borrow inspiration from strangers’ stories.",
+      "bengali": "আমি অপরিচিত মানুষের গল্প থেকে অনুপ্রেরণা নিই।",
+      "transliteration": "Ami OPOR-i-CHI-to MAN-u-sheR Golpo theke ONu-prE-ro-na NI.",
+      "category": "Creativity",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "My best ideas arrive while walking.",
+      "bengali": "আমার সেরা আইডিয়া হাঁটতে হাঁটতেই আসে।",
+      "transliteration": "Aamar SHO-ra AI-di-aa Haan-T-te Haan-T-te AAS-e.",
+      "category": "Creativity",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "I say yes to wild first drafts.",
+      "bengali": "আমি প্রথম খসড়া বেপরোয়া হলেও হ্যাঁ বলি।",
+      "transliteration": "Ami PRIM-e KHO-shaa BE-po-RA-yo hOL-eo HYAa BOL-i.",
+      "category": "Creativity",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "I switch formats when I get stuck.",
+      "bengali": "আটকে গেলে আমি ফরম্যাট বদলাই।",
+      "transliteration": "At-ke gele ami FOR-maat BOO-dla-i.",
+      "category": "Creativity",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "I’m heading to Gate B now.",
+      "bengali": "আমি এখন গেট বি-তে যাচ্ছি।",
+      "transliteration": "Ami EKHON GATE BI-te JACHCHI.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "My flight was just delayed, huh.",
+      "bengali": "আমার ফ্লাইটটা এখনই ডিলে হয়েছে, তাই তো।",
+      "transliteration": "Amar FLIGHT-ta EKHONI DEILA hoyeche, TAi to.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Do you have free water, please?",
+      "bengali": "আপনারা কি ফ্রি পানি দেন, প্লিজ?",
+      "transliteration": "ApNARa ki FREE PANI den, PLIZ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "I need to refill my bottle.",
+      "bengali": "আমাকে আমার বোতলটা আবার ভরতে হবে।",
+      "transliteration": "AMake amar BOTL-ta abar BHORte hobe.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "I’ll grab coffee before boarding.",
+      "bengali": "বোর্ডিংয়ের আগে আমি এক কাপ কফি খেয়ে নিই।",
+      "transliteration": "BOARDING-er AAGE ami EK KAP COFFEE kheye NII.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Can I use the self check in?",
+      "bengali": "আমি কি সেলফ চেক ইন করতে পারি?",
+      "transliteration": "Ami ki SELF CHECK IN korte PARI?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Do you know the luggage limit?",
+      "bengali": "আপনি কি লাগেজের ওজন সীমা জানেন?",
+      "transliteration": "Apni ki LAGEJ-er OJON SIMA JAnen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "I feel lighter, finally letting go.",
+      "bengali": "আমি অবশেষে ছেড়ে দিচ্ছি, মনেটা হালকা লাগছে।",
+      "transliteration": "Ami oboshshoi chhiড়ে dichchi, mone-ta halka lagchhe.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "That made me feel valued.",
+      "bengali": "ওটা আমাকে মূল্যবান মনে করিয়েছে।",
+      "transliteration": "Ota amake mulyoban mone koriechhe.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "I m angry, but I won t lash out.",
+      "bengali": "আমি রাগ করছি, কিন্তু আমি চেঁচিয়ে উঠব না।",
+      "transliteration": "Ami raag korchhi, kintu ami chenchhiye uthbo na.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Right now, I feel emotionally numb.",
+      "bengali": "এখন আমার আবেগ যেন নিস্তেজ হয়ে আছে।",
+      "transliteration": "Ekhon amar aabeg jeno nishchij hoye achhe.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "I miss you, and it hurts.",
+      "bengali": "আমি তোমাকে মিস করছি, আর সেটা কষ্ট দিচ্ছে।",
+      "transliteration": "Ami tomake mis korchhi, aar seta kosh to dicchhe.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "I m proud of how I handled it.",
+      "bengali": "আমি যেভাবে সামলেছি, সেটার জন্য আমি গর্বিত।",
+      "transliteration": "Ami jevabe somolachhi, setar jonno ami gorbito.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "I feel embarrassed, honestly.",
+      "bengali": "সত্যি বলতে, আমি লজ্জিত।",
+      "transliteration": "Sottyi bolte, ami lajjito.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "You’re building confidence, one practice at a time.",
+      "bengali": "তুমি এক এক করে অনুশীলনে আত্মবিশ্বাস গড়ছো,",
+      "transliteration": "tumi ek ek kore onushilone aatmobishwash gorchho,",
+      "category": "Motivation",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Keep going, even if it’s imperfect.",
+      "bengali": "চালিয়ে যাও, যদিও এটা একদম পারফেক্ট না হয়,",
+      "transliteration": "chalie jao, jodi eta ekdom perfeckt na hoy,",
+      "category": "Motivation",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Aim for progress, not perfection today.",
+      "bengali": "আজ পারফেকশনের নয়, অগ্রগতির দিকে তাকাও,",
+      "transliteration": "aaj perfection-er noy, agrogatir dike takao,",
+      "category": "Motivation",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Celebrate finishing the hard thing first.",
+      "bengali": "সবচেয়ে কঠিন কাজটা আগে শেষ করো, আর নিজেকে বাহবা দাও,",
+      "transliteration": "sobcheye kothin kaaj-ta age shesh koro, aar nijeke bahoba dao,",
+      "category": "Motivation",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Make it fun, then study feels easier.",
+      "bengali": "এটাকে আনন্দময় করো, পড়াশোনা সহজ লাগে,",
+      "transliteration": "etake anondomoy koro, porashona shojjo lage,",
+      "category": "Motivation",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "When stuck, switch tactics and continue.",
+      "bengali": "আটকে গেলে কৌশল বদলাও, তবু এগিয়ে যাও,",
+      "transliteration": "atke gele koushol bodlao, tَوbu egie jao,",
+      "category": "Motivation",
+      "generated_at": "2026-11-28T08:42:23.762110"
+    },
+    {
+      "english": "Your effort is louder than doubts.",
+      "bengali": "তোমার চেষ্টা সন্দেহের চেয়ে বেশি জোরালো,",
+      "transliteration": "tomar chesta shondeher cheye beshi joralo,",
+      "category": "Motivation",
+      "generated_at": "2026-11-28T08:42:23.762110"
     }
   ],
-  "last_updated": "2026-11-27T09:27:38.743752"
+  "last_updated": "2026-11-28T08:42:23.762110"
 }
